@@ -1,18 +1,20 @@
 {
+  "title": "Dimanche du Pardon",
+  "subtitle": "L'Expulsion d'Adam du Paradis - Adieu au fromage",
   "gospel": {
-    "title": "",
-    "pdf_link": "",
-    "interlinear": "",
-    "greek_only": "",
-    "french_only": "",
-    "personal_analysis": ""
+    "reference": "Matthieu 6, 14-21",
+    "title": "Le pardon et le trésor du cœur",
+    "interlinear": "14 Ἐὰν (Si) γὰρ (en effet) ἀφῆτε (vous pardonnez) τοῖς (aux) ἀνθρώποις (hommes) τὰ (les) παραπτώματα (fautes) αὐτῶν (leurs)...",
+    "greek_only": "Ἐὰν γὰρ ἀφῆτε τοῖς ἀνθρώποις τὰ παραπτώματα αὐτῶν, ἀφήσει καὶ ὑμῖν ὁ Πατὴρ ὑμῶν ὁ οὐράνιος· ἐὰν δὲ μὴ ἀφῆτε τοῖς ἀνθρώποις τὰ παραπτώματα αὐτῶν, οὐδὲ ὁ Πατὴρ ὑμῶν ἀφήσει τὰ παραπτώματα ὑμῶν...",
+    "french_only": "Si vous pardonnez aux hommes leurs offenses, votre Père céleste vous pardonnera aussi ; mais si vous ne pardonnez pas aux hommes, votre Père ne vous pardonnera pas non plus vos offenses...",
+    "personal_analysis": "Le jeûne commence par le pardon ('Aphesis' : le lâcher-prise). Sans pardon, le jeûne n'est qu'une performance physique. Le Christ nous appelle à ne pas être 'Skuthrōpoi' (tristes/sombres) comme les hypocrites, mais à oindre notre tête de l'huile de la joie."
   },
   "apostle": {
-    "title": "",
-    "pdf_link": "",
-    "interlinear": "",
-    "greek_only": "",
-    "french_only": "",
-    "personal_analysis": ""
+    "reference": "Romains 13, 11 - 14, 4",
+    "title": "Le réveil du sommeil et la charité",
+    "interlinear": "11 Καὶ (Et) τοῦτο (cela), εἰδότες (sachant) τὸν (le) καιρόν (temps), ὅτι (que) ὥρα (l'heure) ἤδη (déjà) ὑμᾶς (pour vous) ἐξ (du) ὕπνου (sommeil) ἐγερθῆναι (de se réveiller)...",
+    "greek_only": "Καὶ τοῦτο, εἰδότες τὸν καιρόν, ὅτι ὥρα ἤδη ὑμᾶς ἐξ ὕπνου ἐγερθῆναι· νῦν γὰρ ἐγγύτερον ἡμῶν ἡ σωτηρία ἢ ὅτε ἐπιστεύσαμεν. ἡ νὺξ προέκοψεν, ἡ δὲ ἡμέρα ἤγγικεν...",
+    "french_only": "Cela importe d'autant plus que vous savez en quel temps nous sommes : c'est l'heure de vous réveiller enfin du sommeil, car maintenant le salut est plus près de nous que lorsque nous avons cru...",
+    "personal_analysis": "L'Apôtre nous donne le 'Kairos' (le temps opportun) du carême. Le jeûne n'est pas une fin en soi, mais une arme de lumière. Paul insiste sur le non-jugement : celui qui mange ne doit pas mépriser celui qui ne mange pas, car Dieu l'a accueilli."
   }
 }
