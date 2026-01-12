@@ -1,18 +1,20 @@
 {
+  "title": "Dimanche du Jugement Dernier",
+  "subtitle": "Le Dimanche de Carnaval (Apokréo)",
   "gospel": {
-    "title": "",
-    "pdf_link": "",
-    "interlinear": "",
-    "greek_only": "",
-    "french_only": "",
-    "personal_analysis": ""
+    "reference": "Matthieu 25, 31-46",
+    "title": "Le Jugement des nations",
+    "interlinear": "31 Ὅταν (Quand) δὲ (or) ἔλθῃ (viendra) ὁ (le) Υἱὸς (Fils) τοῦ (de l') ἀνθρώπου (homme) ἐν (dans) τῇ (la) δόξῃ (gloire) αὐτοῦ (sienne)...",
+    "greek_only": "Ὅταν δὲ ἔλθῃ ὁ Υἱὸς τοῦ ἀνθρώπου ἐν τῇ δόξῃ αὐτοῦ καὶ πάντες οἱ ἄγγελοι μετ’ αὐτοῦ, τότε καθίσει ἐπὶ θρόνου δόξης αὐτοῦ· καὶ συναχθήσονται ἔμπροσθεν αὐτοῦ πάντα τὰ ἔθνη...",
+    "french_only": "Lorsque le Fils de l'homme viendra dans sa gloire, avec tous les anges, il s'assiéra sur le trône de sa gloire. Toutes les nations seront assemblées devant lui...",
+    "personal_analysis": "Le jugement ne porte pas sur des concepts abstraits, mais sur la 'Phantasia' (l'imagination) de la charité : voir le Christ dans le plus petit. Le mot 'Kolasin' (châtiment) utilisé à la fin signifie originellement l'émondage d'un arbre, suggérant une correction pour porter du fruit."
   },
   "apostle": {
-    "title": "",
-    "pdf_link": "",
-    "interlinear": "",
-    "greek_only": "",
-    "french_only": "",
-    "personal_analysis": ""
+    "reference": "1 Corinthiens 8, 8 - 9, 2",
+    "title": "La liberté et le respect du frère",
+    "interlinear": "8 βρῶμα (un aliment) δὲ (or) ἡμᾶς (nous) οὐ (ne pas) παρίστησιν (recommande) τῷ (à) Θεῷ (Dieu)...",
+    "greek_only": "βρῶμα δὲ ἡμᾶς οὐ παρίστησιν τῷ Θεῷ· οὔτε ἐὰν μὴ φάγωμεν ὑστερούμεθα, οὔτε ἐὰν φάγωμεν περισσεύομεν. βλέπετε δὲ μή πως ἡ ἐξουσία ὑμῶν αὕτη πρόσκομμα γένηται τοῖς ἀσθενέσιν...",
+    "french_only": "Ce n'est pas un aliment qui nous rapproche de Dieu : si nous n'en mangeons pas, nous n'avons rien de moins ; si nous en mangeons, nous n'avons rien de plus. Prenez garde, toutefois, que votre liberté ne devienne une pierre d'achoppement pour les faibles...",
+    "personal_analysis": "Paul lie la consommation de viande (Carnaval vient de 'carnelevare', enlever la viande) à la charité. La 'Gnosis' (connaissance) enfle, mais l' 'Agapé' (amour) édifie. C'est l'introduction parfaite au jeûne : l'ascèse n'est rien sans l'attention à l'autre."
   }
 }
