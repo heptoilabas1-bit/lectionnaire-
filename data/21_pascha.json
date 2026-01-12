@@ -1,0 +1,20 @@
+{
+  "gospel": {
+    "title": "Évangile (Jean 1:1-17) - Pâques",
+    "contribution_id": "jean_1_1",
+    "pdf_link": "pdfs/evangile_paques_calé.pdf",
+    "interlinear": "<div class='interlinear-verse'><p><span class='greek-word'>Ἐν</span><span class='greek-word'>ἀρχῇ</span><span class='greek-word'>ἦν</span><span class='greek-word'>ὁ</span><span class='greek-word'>Λόγος</span></p><p><span class='french-word'>En</span><span class='french-word'>commencement</span><span class='french-word'>était</span><span class='french-word'>la</span><span class='french-word'>Parole</span></p></div>",
+    "greek_only": "Ἐν ἀρχῇ ἦν ὁ Λόγος, καὶ ὁ Λόγος ἦν πρὸς τὸν Θεόν, καὶ Θεὸς ἦν ὁ Λόγος.",
+    "french_only": "Au commencement était la Parole, et la Parole était avec Dieu, et la Parole était Dieu.",
+    "personal_analysis": "C'est ici que vous écrivez votre exégèse ou les notes du Père Pascal. Vous pouvez écrire autant que vous voulez, le texte s'adaptera."
+  },
+  "apostle": {
+    "title": "Apôtre (Actes 1:1-8)",
+    "contribution_id": "actes_1_1",
+    "pdf_link": "",
+    "interlinear": "<div class='interlinear-verse'><p><span class='greek-word'>Τὸν</span><span class='greek-word'>μὲν</span><span class='greek-word'>πρῶτον</span><span class='greek-word'>λόγον</span></p><p><span class='french-word'>Le</span><span class='french-word'>donc</span><span class='french-word'>premier</span><span class='french-word'>livre/parole</span></p></div>",
+    "greek_only": "Τὸν μὲν πρῶτον λόγον ἐποιησάμην περὶ πάντων, ὦ Θεόφιλε...",
+    "french_only": "J'ai parlé, dans le premier livre, ô Théophile, de tout ce que Jésus a commencé de faire...",
+    "personal_analysis": "Analyse sur les Actes des apôtres..."
+  }
+}
