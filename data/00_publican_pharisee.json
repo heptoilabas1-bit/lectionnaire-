@@ -1,18 +1,18 @@
 {
   "gospel": {
-    "title": "",
+    "title": "Le Publicain et le Pharisien (Luc 18, 10-14)",
     "pdf_link": "",
-    "interlinear": "",
-    "greek_only": "",
-    "french_only": "",
-    "personal_analysis": ""
+    "interlinear": "<div class='interlinear-verse'><p><span class='greek-word'>Ἄνθρωποι</span><span class='greek-word'>δύο</span><span class='greek-word'>ἀνέβησαν</span><span class='greek-word'>εἰς</span><span class='greek-word'>τὸ</span><span class='greek-word'>ἱερὸν</span><span class='greek-word'>προσεύξασθαι</span></p><p><span class='french-word'>Hommes</span><span class='french-word'>deux</span><span class='french-word'>montèrent</span><span class='french-word'>vers</span><span class='french-word'>le</span><span class='french-word'>temple</span><span class='french-word'>prier</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὁ</span><span class='greek-word'>εἷς</span><span class='greek-word'>Φαρισαῖος</span><span class='greek-word'>καὶ</span><span class='greek-word'>ὁ</span><span class='greek-word'>ἕτερος</span><span class='greek-word'>τελώνης.</span></p><p><span class='french-word'>l'</span><span class='french-word'>un</span><span class='french-word'>Pharisien</span><span class='french-word'>et</span><span class='french-word'>l'</span><span class='french-word'>autre</span><span class='french-word'>publicain.</span></p></div>",
+    "greek_only": "Ἄνθρωποι δύο ἀνέβησαν εἰς τὸ ἱερὸν προσεύξασθαι, ὁ εἷς Φαρισαῖος καὶ ὁ ἕτερος τελώνης.",
+    "french_only": "Deux hommes montèrent au temple pour prier ; l'un était Pharisien, et l'autre publicain.",
+    "personal_analysis": "Le Pharisien se tient droit, mais son cœur est fermé. Le Publicain baisse les yeux, mais son cœur est ouvert à la grâce. Cette parabole ouvre la période du Triode en nous rappelant que l'humilité est la porte du repentir."
   },
   "apostle": {
-    "title": "",
+    "title": "Épître (2 Timothée 3, 10-15)",
     "pdf_link": "",
-    "interlinear": "",
-    "greek_only": "",
-    "french_only": "",
-    "personal_analysis": ""
+    "interlinear": "<div class='interlinear-verse'><p><span class='greek-word'>Σὺ</span><span class='greek-word'>δὲ</span><span class='greek-word'>παρηκολούθησάς</span><span class='greek-word'>μου</span><span class='greek-word'>τῇ</span><span class='greek-word'>διδασκαλίᾳ</span></p><p><span class='french-word'>Toi</span><span class='french-word'>mais</span><span class='french-word'>tu as suivi</span><span class='french-word'>mon</span><span class='french-word'>-</span><span class='french-word'>enseignement</span></p></div>",
+    "greek_only": "Σὺ δὲ παρηκολούθησάς μου τῇ διδασκαλίᾳ, τῇ ἀγωγῇ, τῇ προθέσει...",
+    "french_only": "Pour toi, tu as suivi de près mon enseignement, ma conduite, mes projets...",
+    "personal_analysis": "Saint Paul encourage Timothée à rester ferme dans la foi apprise dès l'enfance."
   }
 }
