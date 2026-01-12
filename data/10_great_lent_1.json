@@ -1,18 +1,20 @@
 {
+  "title": "Dimanche de l'Orthodoxie",
+  "subtitle": "Premier Dimanche du Grand Carême - Le Triomphe des Icônes",
   "gospel": {
-    "title": "",
-    "pdf_link": "",
-    "interlinear": "",
-    "greek_only": "",
-    "french_only": "",
-    "personal_analysis": ""
+    "reference": "Jean 1, 43-51",
+    "title": "L'appel de Philippe et Nathanaël",
+    "interlinear": "43 Τῇ (Le) ἐπαύριον (lendemain) ἠθέλησεν (il voulut) ἐξελθεῖν (partir) εἰς (vers) τὴν (la) Γαλιλαίαν (Galilée), καὶ (et) εὑρίσκει (il trouve) Φίλιππον (Philippe)...",
+    "greek_only": "Τῇ ἐπαύριον ἠθέλησεν ἐξελθεῖν εἰς τὴν Γαλιλαίαν, καὶ εὑρίσκει Φίλιππον. καὶ λέγει αὐτῷ ὁ Ἰησοῦς· Ἀκολούθει μοι. ἦν δὲ ὁ Φίλιππος ἀπὸ Βηθσαϊδά, ἐκ τῆς πόλεως Ἀνδρέου καὶ Πέτρου. εὑρίσκει Φίλιππος τὸν Ναθαναὴλ...",
+    "french_only": "Le lendemain, Jésus voulut se rendre en Galilée, et il trouva Philippe. Il lui dit : Suis-moi. Philippe était de Bethsaïda, la ville d'André et de Pierre. Philippe trouva Nathanaël...",
+    "personal_analysis": "Ce dimanche célèbre l'icône comme affirmation de l'Incarnation. Philippe dit : 'Viens et vois' ('Erkhou kai ide'). Nathanaël, l'Israélite 'en qui il n'y a point de fraude' (Adolos), représente l'homme capable de voir au-delà des apparences pour reconnaître le Fils de Dieu sous les traits d'un homme."
   },
   "apostle": {
-    "title": "",
-    "pdf_link": "",
-    "interlinear": "",
-    "greek_only": "",
-    "french_only": "",
-    "personal_analysis": ""
+    "reference": "Hébreux 11, 24-26 ; 32-40",
+    "title": "La foi des ancêtres",
+    "interlinear": "24 Πίστει (Par la foi) Μωϋσῆς (Moïse) μέγας (devenu grand) γενόμενος (étant) ἠρνήσατο (refusa) λέγεσθαι (d'être appelé) υἱὸς (fils) θυγατρὸς (de la fille) Φαραώ (de Pharaon)...",
+    "greek_only": "Πίστει Μωϋσῆς μέγας γενόμενος ἠρνήσατο λέγεσθαι υἱὸς θυγατρὸς Φαραώ, μᾶλλον ἑλόμενος συγκακουχεῖσθαι τῷ λαῷ τοῦ Θεοῦ ἢ πρόσκαιρον ἔχειν ἁμαρτίας ἀπόλαυσιν... Καὶ τί ἔτι λέγω; ἐπιλείψει γάρ με διηγούμενον ὁ χρόνος περὶ Γεδεών, Βαράκ, Σαμψών, Ἰεφθάε, Δαυίδ τε καὶ Σαμουὴλ καὶ τῶν προφητῶν...",
+    "french_only": "Par la foi, Moïse, devenu grand, refusa d'être appelé fils de la fille de Pharaon, aimant mieux être maltraité avec le peuple de Dieu que d'avoir pour un temps la jouissance du péché... Et que dirai-je encore ? Car le temps me manquerait pour parler de Gédéon, de Barak, de Samson, de Jephté, de David, de Samuel, et des prophètes...",
+    "personal_analysis": "L'Orthodoxie n'est pas une abstraction, mais une lignée de témoins. L'Apôtre énumère ceux qui ont vécu 'par la foi' (Pistei), montrant que la vision de Dieu (l'icône) est le fruit d'un engagement historique et personnel qui va jusqu'au martyre."
   }
 }
