@@ -1,18 +1,20 @@
 {
+  "title": "Dimanche de Saint Grégoire Palamas",
+  "subtitle": "Deuxième Dimanche du Grand Carême - La Lumière Incréée",
   "gospel": {
-    "title": "",
-    "pdf_link": "",
-    "interlinear": "",
-    "greek_only": "",
-    "french_only": "",
-    "personal_analysis": ""
+    "reference": "Marc 2, 1-12",
+    "title": "La guérison du paralytique",
+    "interlinear": "1 Καὶ (Et) εἰσελθὼν (étant entré) πάλιν (de nouveau) εἰς (à) Καφαρναοὺμ (Capharnaüm) δι’ (après) ἡμερῶν (quelques jours), ἠκούσθη (on apprit) ὅτι (qu') ἐν (dans) οἴκῳ (la maison) ἐστίν (il est)...",
+    "greek_only": "Καὶ εἰσελθὼν πάλιν εἰς Καφαρναοὺμ δι’ ἡμερῶν, ἠκούσθη ὅτι ἐν οἴκῳ ἐστίν. καὶ εὐθέως συνήχθησαν πολλοί, ὥστε μηκέτι χωρεῖν μηδὲ τὰ πρὸς τὴν θύραν... καὶ ἔρχονται πρὸς αὐτὸν παραλυτικὸν φέροντες, αἰρόμενον ὑπὸ τεσσάρων...",
+    "french_only": "Quelques jours après, il revint à Capharnaüm. On apprit qu'il était à la maison, et il s'assembla un si grand nombre de personnes que l'espace devant la porte ne pouvait plus les contenir... On vint lui amener un paralytique porté par quatre hommes...",
+    "personal_analysis": "La guérison du corps suit celle de l'âme ('Tes péchés te sont pardonnés'). Les quatre porteurs représentent l'Église qui porte le fidèle vers le Christ. Saint Grégoire Palamas nous enseigne que, comme ce paralytique qui se lève, l'homme peut être redressé et transfiguré par la grâce pour participer à la lumière divine."
   },
   "apostle": {
-    "title": "",
-    "pdf_link": "",
-    "interlinear": "",
-    "greek_only": "",
-    "french_only": "",
-    "personal_analysis": ""
+    "reference": "Hébreux 1, 10 - 2, 3",
+    "title": "La supériorité du Fils et du Salut",
+    "interlinear": "10 Καί (Et)· Σὺ (Toi) κατ’ (au) ἀρχάς (commencement), Κύριε (Seigneur), τὴν (la) γῆν (terre) ἐθεμελίωσας (tu as fondé)...",
+    "greek_only": "Καί· Σὺ κατ’ ἀρχάς, Κύριε, τὴν γῆν ἐθεμελίωσας, καὶ ἔργα τῶν χειρῶν σού εἰσιν οἱ οὐρανοί· αὐτοὶ ἀπολοῦνται, σὺ δὲ διαμένεις... πῶς ἡμεῖς ἐκφευξόμεθα τηλικαύτης ἀμελήσαντες σωτηρίας;",
+    "french_only": "Et encore : Toi, Seigneur, tu as au commencement fondé la terre, et les cieux sont l'ouvrage de tes mains ; ils périront, mais tu demeures... comment échapperons-nous en négligeant un si grand salut ?",
+    "personal_analysis": "L'Apôtre souligne l'immuabilité du Christ. Saint Grégoire Palamas a défendu que ce 'Salut' n'est pas une simple idée, mais une participation réelle à la vie de Dieu. Si les cieux périssent, la Lumière de Dieu, elle, est éternelle et accessible à ceux qui ne 'négligent' pas leur vie spirituelle."
   }
 }
