@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lectionnaire Interlinéaire Orthodoxe</title>
+    <link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+
+    <header>
+        <h1 id="app-title">✝ Lectionnaire Interlinéaire Orthodoxe</h1>
+        <div id="controls">
+            <label for="sunday-select">Choisir le Dimanche :</label>
+            <select id="sunday-select"></select>
+        </div>
+    </header>
+
+    <main>
+        
+        <div id="main-content">
+            
+            <div id="panel-toggles" class="text-tools">
+                <button id="toggle-greek" class="tool-btn">Grec Intégral</button>
+                <button id="toggle-french" class="tool-btn">Français Intégral</button>
+                
+                <a id="pdf-button-container" href="#" target="_blank" class="pdf-btn" style="display: none;">
+                    📄 Voir le PDF
+                </a>
+            </div>
+            
+            <div id="text-selector">
+                <button id="select-gospel" class="active">Évangile</button>
+                <button id="select-apostle">Apôtre</button>
+            </div>
+
+            <h2 id="verse-title">Chargement...</h2>
+            
+            <div id="gospel-text" class="interlinear-container">
+                </div>
+            
+            <section id="notes-view" class="analysis-panel">
+                <h3>Notes / Analyse (**P. Scordino**)</h3>
+                <p id="my-notes">Chargement de l'analyse...</p>
+
+                <h4>Contributions Communautaires</h4>
+                <div id="shared-contributions"><p>Espace de discussion...</p></div>
+                <textarea id="contribution-input" placeholder="Saisir votre commentaire ici..."></textarea>
+                <button id="submit-contribution">Soumettre la Contribution</button>
+            </section>
+        </div>
+
+
+        <div id="side-panels">
+            <section id="greek-view" class="side-panel hidden">
+                <button class="close-btn">X</button> 
+                <h3>Texte Grec Intégral</h3>
+                <pre id="greek-full-text"></pre>
+            </section>
+            <section id="french-view" class="side-panel hidden">
+                <button class="close-btn">X</button>
+                <h3>Traduction Française (Intégrale)</h3>
+                <pre id="french-full-text"></pre>
+            </section>
+        </div>
+        
+    </main>
+    
+    <footer id="footer-info">
+        <p>Inspiration du projet : **Père Pascal Scordino**</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,252 @@
+/* ======================================= */
+/* 1. STYLES GÉNÉRAUX & MISE EN PAGE */
+/* ======================================= */
+
+:root {
+    --primary-color: #4a6fa5;
+    --secondary-color: #92b8d0;
+    --accent-color: #d9534f; /* Rouge pour le PDF */
+    --background-color: #f4f4f4;
+    --text-color: #333;
+    --font-serif: 'Times New Roman', Times, serif;
+    --font-sans: Arial, sans-serif;
+}
+
+body {
+    font-family: var(--font-sans);
+    color: var(--text-color);
+    background-color: var(--background-color);
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    min-height: 100vh;
+}
+
+header {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 15px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#app-title {
+    font-family: var(--font-serif);
+    margin: 0;
+    font-size: 1.8em;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+#main-content {
+    max-width: 100%; 
+    width: 100%;
+    margin-right: 0; 
+}
+
+/* ------------------- */
+/* Barre d'Outils (Grec, Français, PDF) */
+/* ------------------- */
+
+.text-tools {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+}
+
+.tool-btn {
+    padding: 8px 15px;
+    border: 1px solid var(--secondary-color);
+    border-radius: 5px;
+    background-color: white;
+    color: var(--primary-color);
+    cursor: pointer;
+    font-size: 0.9em;
+}
+
+.tool-btn:hover {
+    background-color: var(--secondary-color);
+    color: white;
+}
+
+/* Style spécifique pour le bouton PDF */
+.pdf-btn {
+    padding: 8px 15px;
+    border: 1px solid #c9302c;
+    border-radius: 5px;
+    background-color: var(--accent-color);
+    color: white;
+    text-decoration: none; /* Enlève le soulignement du lien */
+    font-weight: bold;
+    font-size: 0.9em;
+    align-items: center;
+    display: inline-flex;
+    transition: background-color 0.2s;
+}
+
+.pdf-btn:hover {
+    background-color: #c9302c;
+}
+
+/* ------------------- */
+/* Sélecteur Évangile/Apôtre */
+/* ------------------- */
+
+#text-selector {
+    display: flex;
+    gap: 0;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #ccc;
+}
+
+#text-selector button {
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    border-bottom: none;
+    border-radius: 5px 5px 0 0;
+    background-color: #e9e9e9;
+    cursor: pointer;
+    font-size: 1em;
+    margin-right: 5px;
+}
+
+#text-selector button.active {
+    background-color: var(--primary-color);
+    color: white;
+    font-weight: bold;
+    border-color: var(--primary-color);
+}
+
+/* ------------------- */
+/* INTERLINÉAIRE MOT À MOT */
+/* ------------------- */
+
+.interlinear-verse {
+    font-size: 1.15em;
+    font-family: var(--font-serif);
+    line-height: 1.5;
+    margin-bottom: 25px;
+    padding-bottom: 15px;
+    border-bottom: 1px dashed #ddd;
+    overflow-x: auto; /* Scroll horizontal si besoin */
+    white-space: nowrap; /* Empêche le retour à la ligne sauvage */
+}
+
+/* Réinitialisation */
+.interlinear-verse p {
+    margin: 5px 0;
+}
+
+/* Colonne mot à mot */
+.interlinear-verse span {
+    display: inline-block;
+    min-width: 70px; /* Largeur minimum d'un mot */
+    text-align: center;
+    padding: 0 4px;
+    vertical-align: top;
+}
+
+.greek-word {
+    color: var(--primary-color);
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+.french-word {
+    color: #444;
+    font-style: italic;
+    font-size: 0.9em;
+}
+
+/* ------------------- */
+/* Analyse & Notes */
+/* ------------------- */
+
+.analysis-panel {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+    margin-top: 40px;
+    border-top: 4px solid var(--primary-color);
+}
+
+#my-notes {
+    font-family: var(--font-serif);
+    line-height: 1.6;
+    color: #222;
+}
+
+#contribution-input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    min-height: 80px;
+}
+
+#submit-contribution {
+    margin-top: 10px;
+    padding: 8px 16px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* ------------------- */
+/* Panneaux Latéraux */
+/* ------------------- */
+
+#side-panels {
+    position: fixed; top: 0; left: 0; width: 0; height: 0; z-index: 100;
+}
+
+.side-panel {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 450px;
+    max-width: 90%;
+    height: 100%;
+    background: white;
+    box-shadow: -5px 0 15px rgba(0,0,0,0.2);
+    padding: 25px;
+    overflow-y: auto;
+    z-index: 110;
+    transition: transform 0.3s ease-in-out;
+    transform: translateX(0);
+}
+
+.side-panel.hidden {
+    transform: translateX(100%);
+}
+
+.side-panel pre {
+    white-space: pre-wrap;
+    font-family: var(--font-serif);
+    line-height: 1.8;
+}
+
+.close-btn {
+    position: absolute;
+    top: 15px; right: 15px;
+    background: none; border: none;
+    font-size: 1.5em; cursor: pointer; color: #888;
+}
+
+/* Responsive Mobile */
+@media (max-width: 768px) {
+    header { flex-direction: column; text-align: center; }
+    #controls { margin-top: 10px; }
+    .side-panel { width: 100%; }
+}
