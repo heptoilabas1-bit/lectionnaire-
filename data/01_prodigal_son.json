@@ -1,18 +1,20 @@
 {
+  "title": "Dimanche du Fils Prodigue",
+  "subtitle": "Le retour à la maison du Père",
   "gospel": {
-    "title": "",
-    "pdf_link": "",
-    "interlinear": "",
-    "greek_only": "",
-    "french_only": "",
-    "personal_analysis": ""
+    "reference": "Luc 15, 11-32",
+    "title": "La parabole du fils prodigue",
+    "interlinear": "11 Ἄνθρωπός (Un homme) τις (certain) εἶχεν (avait) δύο (deux) υἱούς (fils). 12 καὶ (Et) εἶπεν (dit) ὁ (le) νεώτερος (plus jeune) αὐτῶν (d'entre eux) τῷ (au) πατρί (père)... [Analyse mot à mot en cours de rédaction]",
+    "greek_only": "Εἶπεν δὲ· Ἄνθρωπός τις εἶχεν δύο υἱούς. καὶ εἶπεν ὁ νεώτερος αὐτῶν τῷ πατρί· Πάτερ, δός μοι τὸ ἐπιβάλλον μέρος τῆς οὐσίας. ὁ δὲ διεῖλεν αὐτοῖς τὸν βίον...",
+    "french_only": "Il dit encore : Un homme avait deux fils. Le plus jeune dit à son père : Mon père, donne-moi la part de bien qui doit me revenir. Et le père leur partagea son bien...",
+    "personal_analysis": "Cette péricope souligne le mouvement de l'éloignement (exil) et du retour (repentir). Le terme grec 'Ousia' (substance/bien) utilisé ici a une double connotation : le patrimoine matériel et l'essence même de la vie que le fils gaspille loin de sa source."
   },
   "apostle": {
-    "title": "",
-    "pdf_link": "",
-    "interlinear": "",
-    "greek_only": "",
-    "french_only": "",
-    "personal_analysis": ""
+    "reference": "1 Corinthiens 6, 12-20",
+    "title": "Le corps, temple de l'Esprit",
+    "interlinear": "12 Πάντα (Toutes choses) μοι (pour moi) ἔξεστιν (sont permises), ἀλλ’ (mais) οὐ (pas) πάντα (toutes) συμφέρει (sont utiles)...",
+    "greek_only": "Πάντα μοι ἔξεστιν ἀλλ’ οὐ πάντα συμφέρει· πάντα μοι ἔξεστιν ἀλλ’ οὐκ ἐγὼ ἐξουσιασθήσομαι ὑπό τινος. τὰ βρώματα τῇ κοιλίᾳ, καὶ ἡ κοιλία τοῖς βρώμασιν...",
+    "french_only": "Tout m'est permis, mais tout n'est pas utile ; tout m'est permis, mais je ne me laisserai asservir par quoi que ce soit. Les aliments sont pour le ventre, et le ventre pour les aliments...",
+    "personal_analysis": "L'Apôtre nous rappelle que la liberté n'est pas le libertinage. Comme le fils prodigue qui a asservi son corps à la faim et à la déchéance, Paul nous rappelle que notre corps est le temple de l'Esprit Saint et qu'il a été racheté à un grand prix."
   }
 }
