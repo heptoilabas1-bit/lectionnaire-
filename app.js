@@ -36,13 +36,13 @@ document.addEventListener('DOMContentLoaded', () => {
         '305_after_pentecost_5': '19. 5e Dimanche après Pentecôte',
         '306_after_pentecost_6': '20. 6e Dimanche après Pentecôte',
         '307_after_pentecost_7': '21. 7e Dimanche après Pentecôte',
-        '308_after_pentecost_8': '22. 8e Dimanche après Pentecôte',
-        '309_after_pentecost_9': '23. 9e Dimanche après Pentecôte',
-        '310_after_pentecost_10': '24. 10e Dimanche après Pentecôte',
+        '308_after_pentecost_8': '22. 8e Dimanche après Pentecôte (du bon samaritain)',
+        '309_after_pentecost_9': '23. 9e Dimanche après Pentecôte (l'homme riche)',
+        '310_after_pentecost_10': '24. 10e Dimanche après Pentecôte (les invités au banquet)',
         '311_after_pentecost_11': '25. 11e Dimanche après Pentecôte',
         '312_after_pentecost_12': '26. 12e Dimanche après Pentecôte',
         '313_after_pentecost_13': '27. 13e Dimanche après Pentecôte',
-        '314_after_pentecost_14': '28. 14e Dimanche après Pentecôte',
+        '314_after_pentecost_14': '28. 14e Dimanche après Pentecôte (l'aveugle de jericho)',
         '315_after_pentecost_15': '29. 15e Dimanche après Pentecôte',
         '316_after_pentecost_16': '30. 16e Dimanche après Pentecôte',
         '317_after_pentecost_17': '31. 17e Dimanche après Pentecôte',
@@ -171,3 +171,4 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 });
+
