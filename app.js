@@ -1,15 +1,16 @@
-// Fichier: app.js (VERSION FINALE - ANNÉE LITURGIQUE COMPLÈTE)
+// Fichier: app.js (VERSION CORRIGÉE - AFFICHAGE DES RÉFÉRENCES)
 
 document.addEventListener('DOMContentLoaded', () => {
 
     // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES (Index Complet) ---
-    // Les clés correspondent aux noms des fichiers .json dans le dossier /data/
     const liturgicalList = {
-        // --- Période du Triode (Préparation et Carême) ---
+        // --- Période du Triode ---
         '00_publican_pharisee': 'A. Dimanche du Publicain et du Pharisien',
         '01_prodigal_son': 'B. Dimanche du Fils Prodigue',
-        '02_meatfare': 'C. Dimanche du Jugement Dernier (Viande)',
-        '03_cheese_fare': 'D. Dimanche du Pardon (Fromages)',
+        '02_meatfare': 'C. Dimanche du Jugement Dernier (Carnaval)',
+        '03_cheese_fare': 'D. Dimanche du Pardon (Tyrophagie)',
+        
+        // --- Grand Carême ---
         '10_great_lent_1': '1. 1er Dim. du Carême (Orthodoxie)',
         '11_great_lent_2': '2. 2e Dim. du Carême (St Grégoire Palamas)',
         '12_great_lent_3': '3. 3e Dim. du Carême (Vénération de la Croix)',
@@ -17,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
         '14_great_lent_5': '5. 5e Dim. du Carême (Ste Marie l\'Égyptienne)',
         '15_palm_sunday': '6. Dimanche des Rameaux',
 
-        // --- Période du Pentecostaire (de Pâques à la Pentecôte) ---
+        // --- Période du Pentecostaire ---
         '21_pascha': '7. Pâques - Sainte Résurrection',
         '22_thomas_sunday': '8. 2e Dim. de Pâques (Thomas)',
         '23_myrrhbearers': '9. 3e Dim. de Pâques (Myrrhophores)',
@@ -28,7 +29,7 @@ document.addEventListener('DOMContentLoaded', () => {
         '28_pentecost': '14. Dimanche de la Pentecôte',
         '29_all_saints': '15. 1er Dim. après Pentecôte (Tous les Saints)',
 
-        // --- Période de l'Octoèque (Après la Pentecôte) ---
+        // --- Période de l'Octoèque ---
         '302_after_pentecost_2': '16. 2e Dimanche après Pentecôte',
         '303_after_pentecost_3': '17. 3e Dimanche après Pentecôte',
         '304_after_pentecost_4': '18. 4e Dimanche après Pentecôte',
@@ -61,7 +62,7 @@ document.addEventListener('DOMContentLoaded', () => {
         '331_after_pentecost_31': '45. 31e Dimanche après Pentecôte',
         '332_after_pentecost_32': '46. 32e Dimanche après Pentecôte',
 
-        // --- Cycle de la Nativité et Théophanie ---
+        // --- Cycle de la Nativité ---
         '90_advent_2': '47. 2e Dim. avant la Nativité (Sts Ancêtres)',
         '91_advent_1': '48. Dim. avant la Nativité (Sts Pères)',
         '92_nativity_after': '49. Dimanche après la Nativité',
@@ -70,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
         '95_canaanite': '52. Dimanche de la Cananéenne'
     };
 
-    let currentSundayKey = '21_pascha'; 
+    let currentSundayKey = '01_prodigal_son'; // Par défaut sur le Fils Prodigue
     let currentReadingType = 'gospel';
 
     // --- 2. FONCTION DE CHARGEMENT DES DONNÉES (FETCH) ---
@@ -94,7 +95,15 @@ document.addEventListener('DOMContentLoaded', () => {
             const data = await response.json();
             const reading = data[readingType];
 
-            verseTitle.textContent = reading.title;
+            // --- MODIFICATION ICI : Affichage de la Référence + Titre ---
+            // On vérifie si la référence existe, sinon on met juste le titre
+            const referenceHtml = reading.reference 
+                ? `<span style="display:block; font-size: 0.7em; color: #d9534f; margin-bottom: 5px;">${reading.reference}</span>` 
+                : '';
+            
+            verseTitle.innerHTML = referenceHtml + reading.title;
+            // ------------------------------------------------------------
+
             mainText.innerHTML = reading.interlinear;
             greekFull.innerText = reading.greek_only;
             frenchFull.innerText = reading.french_only;
@@ -114,6 +123,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         } catch (error) {
             mainText.innerHTML = `<p style="color:red; text-align:center;">Erreur : ${error.message}<br><small>(Vérifiez que le fichier data/${sundayKey}.json existe)</small></p>`;
+            verseTitle.textContent = "Erreur de chargement";
             pdfButtonContainer.style.display = "none";
         }
     };
@@ -121,7 +131,6 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- 3. INITIALISATION ---
     const populateSundaySelect = () => {
         const select = document.getElementById('sunday-select');
-        // Les clés sont déjà préfixées (00, 10, 20...) pour un tri naturel correct
         const sortedKeys = Object.keys(liturgicalList).sort();
         
         sortedKeys.forEach(key => {
