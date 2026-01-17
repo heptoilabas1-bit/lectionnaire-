@@ -1,8 +1,8 @@
-// Fichier: app.js (VERSION CORRIGÉE - AFFICHAGE DES RÉFÉRENCES)
+// Fichier: app.js (VERSION CORRIGÉE AVEC VOS TITRES PERSONNALISÉS)
 
 document.addEventListener('DOMContentLoaded', () => {
 
-    // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES (Index Complet) ---
+    // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---
     const liturgicalList = {
         // --- Période du Triode ---
         '00_publican_pharisee': 'A. Dimanche du Publicain et du Pharisien',
@@ -29,20 +29,25 @@ document.addEventListener('DOMContentLoaded', () => {
         '28_pentecost': '14. Dimanche de la Pentecôte',
         '29_all_saints': '15. 1er Dim. après Pentecôte (Tous les Saints)',
 
-        // --- Période de l'Octoèque ---
+        // --- Période de l'Octoèque (Avec vos ajouts corrigés) ---
         '302_after_pentecost_2': '16. 2e Dimanche après Pentecôte',
         '303_after_pentecost_3': '17. 3e Dimanche après Pentecôte',
         '304_after_pentecost_4': '18. 4e Dimanche après Pentecôte',
         '305_after_pentecost_5': '19. 5e Dimanche après Pentecôte',
         '306_after_pentecost_6': '20. 6e Dimanche après Pentecôte',
         '307_after_pentecost_7': '21. 7e Dimanche après Pentecôte',
-        '308_after_pentecost_8': '22. 8e Dimanche après Pentecôte (du bon samaritain)',
-        '309_after_pentecost_9': '23. 9e Dimanche après Pentecôte (l'homme riche)',
-        '310_after_pentecost_10': '24. 10e Dimanche après Pentecôte (les invités au banquet)',
+        
+        // --- VOS TITRES SPÉCIAUX (Corrigés avec \') ---
+        '308_after_pentecost_8': '22. 8e Dim. après Pentecôte (Bon Samaritain)',
+        '309_after_pentecost_9': '23. 9e Dim. après Pentecôte (L\'Homme riche)',
+        '310_after_pentecost_10': '24. 10e Dim. après Pentecôte (Invités au banquet)',
+        
         '311_after_pentecost_11': '25. 11e Dimanche après Pentecôte',
         '312_after_pentecost_12': '26. 12e Dimanche après Pentecôte',
         '313_after_pentecost_13': '27. 13e Dimanche après Pentecôte',
-        '314_after_pentecost_14': '28. 14e Dimanche après Pentecôte (l'aveugle de jericho)',
+        
+        '314_after_pentecost_14': '28. 14e Dim. après Pentecôte (L\'Aveugle de Jéricho)',
+        
         '315_after_pentecost_15': '29. 15e Dimanche après Pentecôte',
         '316_after_pentecost_16': '30. 16e Dimanche après Pentecôte',
         '317_after_pentecost_17': '31. 17e Dimanche après Pentecôte',
@@ -71,7 +76,8 @@ document.addEventListener('DOMContentLoaded', () => {
         '95_canaanite': '52. Dimanche de la Cananéenne'
     };
 
-    let currentSundayKey = '01_prodigal_son'; // Par défaut sur le Fils Prodigue
+    // --- SÉCURITÉ : CHOIX PAR DÉFAUT ---
+    let currentSundayKey = '01_prodigal_son'; 
     let currentReadingType = 'gospel';
 
     // --- 2. FONCTION DE CHARGEMENT DES DONNÉES (FETCH) ---
@@ -86,7 +92,8 @@ document.addEventListener('DOMContentLoaded', () => {
         const myNotes = document.getElementById('my-notes');
         const pdfButtonContainer = document.getElementById('pdf-button-container');
         
-        mainText.innerHTML = '<p style="text-align:center;"><em>Chargement...</em></p>';
+        // Indicateur de chargement
+        if(mainText) mainText.innerHTML = '<p style="text-align:center;"><em>Chargement...</em></p>';
 
         try {
             const response = await fetch(`data/${sundayKey}.json`);
@@ -95,44 +102,53 @@ document.addEventListener('DOMContentLoaded', () => {
             const data = await response.json();
             const reading = data[readingType];
 
-            // --- MODIFICATION ICI : Affichage de la Référence + Titre ---
-            // On vérifie si la référence existe, sinon on met juste le titre
+            // --- Affichage de la Référence + Titre ---
+            if (!reading) throw new Error(`Section "${readingType}" manquante dans le fichier JSON.`);
+
             const referenceHtml = reading.reference 
                 ? `<span style="display:block; font-size: 0.7em; color: #d9534f; margin-bottom: 5px;">${reading.reference}</span>` 
                 : '';
             
-            verseTitle.innerHTML = referenceHtml + reading.title;
-            // ------------------------------------------------------------
+            if(verseTitle) verseTitle.innerHTML = referenceHtml + (reading.title || "Titre inconnu");
 
-            mainText.innerHTML = reading.interlinear;
-            greekFull.innerText = reading.greek_only;
-            frenchFull.innerText = reading.french_only;
-            myNotes.innerText = reading.personal_analysis;
+            if(mainText) mainText.innerHTML = reading.interlinear || "";
+            if(greekFull) greekFull.innerText = reading.greek_only || "";
+            if(frenchFull) frenchFull.innerText = reading.french_only || "";
+            if(myNotes) myNotes.innerText = reading.personal_analysis || "Pas d'analyse disponible.";
 
             // Gestion PDF
-            if (reading.pdf_link && reading.pdf_link !== "") {
-                pdfButtonContainer.href = reading.pdf_link;
-                pdfButtonContainer.style.display = "inline-flex";
-            } else {
-                pdfButtonContainer.style.display = "none";
+            if (pdfButtonContainer) {
+                if (reading.pdf_link && reading.pdf_link !== "") {
+                    pdfButtonContainer.href = reading.pdf_link;
+                    pdfButtonContainer.style.display = "inline-flex";
+                } else {
+                    pdfButtonContainer.style.display = "none";
+                }
             }
 
             // Mise à jour visuelle des boutons Évangile/Apôtre
             document.querySelectorAll('#text-selector button').forEach(btn => btn.classList.remove('active'));
-            document.getElementById(`select-${readingType}`).classList.add('active');
+            const activeBtn = document.getElementById(`select-${readingType}`);
+            if(activeBtn) activeBtn.classList.add('active');
 
         } catch (error) {
-            mainText.innerHTML = `<p style="color:red; text-align:center;">Erreur : ${error.message}<br><small>(Vérifiez que le fichier data/${sundayKey}.json existe)</small></p>`;
-            verseTitle.textContent = "Erreur de chargement";
-            pdfButtonContainer.style.display = "none";
+            console.error(error);
+            if(mainText) mainText.innerHTML = `<p style="color:red; text-align:center;">Erreur : ${error.message}<br><small>(Vérifiez que le fichier data/${sundayKey}.json existe et est valide)</small></p>`;
+            if(verseTitle) verseTitle.textContent = "Erreur de chargement";
+            if(pdfButtonContainer) pdfButtonContainer.style.display = "none";
         }
     };
 
     // --- 3. INITIALISATION ---
     const populateSundaySelect = () => {
         const select = document.getElementById('sunday-select');
+        if (!select) return;
+
         const sortedKeys = Object.keys(liturgicalList).sort();
         
+        // Vider le menu
+        select.innerHTML = '';
+
         sortedKeys.forEach(key => {
             const option = document.createElement('option');
             option.value = key;
@@ -146,29 +162,45 @@ document.addEventListener('DOMContentLoaded', () => {
     loadTextContext(currentSundayKey, currentReadingType);
 
     // --- 4. ÉCOUTEURS D'ÉVÉNEMENTS ---
-    document.getElementById('sunday-select').addEventListener('change', (e) => loadTextContext(e.target.value, currentReadingType));
-    document.getElementById('select-gospel').addEventListener('click', () => loadTextContext(currentSundayKey, 'gospel'));
-    document.getElementById('select-apostle').addEventListener('click', () => loadTextContext(currentSundayKey, 'apostle'));
+    const selectElement = document.getElementById('sunday-select');
+    if (selectElement) {
+        selectElement.addEventListener('change', (e) => loadTextContext(e.target.value, currentReadingType));
+    }
+
+    const btnGospel = document.getElementById('select-gospel');
+    if (btnGospel) {
+        btnGospel.addEventListener('click', () => loadTextContext(currentSundayKey, 'gospel'));
+    }
+
+    const btnApostle = document.getElementById('select-apostle');
+    if (btnApostle) {
+        btnApostle.addEventListener('click', () => loadTextContext(currentSundayKey, 'apostle'));
+    }
 
     // Panneaux latéraux
     const greekView = document.getElementById('greek-view');
     const frenchView = document.getElementById('french-view');
+    const toggleGreek = document.getElementById('toggle-greek');
+    const toggleFrench = document.getElementById('toggle-french');
     
-    document.getElementById('toggle-greek').addEventListener('click', () => {
-        frenchView.classList.add('hidden');
-        greekView.classList.toggle('hidden');
-    });
+    if (toggleGreek && greekView && frenchView) {
+        toggleGreek.addEventListener('click', () => {
+            frenchView.classList.add('hidden');
+            greekView.classList.toggle('hidden');
+        });
+    }
 
-    document.getElementById('toggle-french').addEventListener('click', () => {
-        greekView.classList.add('hidden');
-        frenchView.classList.toggle('hidden');
-    });
+    if (toggleFrench && greekView && frenchView) {
+        toggleFrench.addEventListener('click', () => {
+            greekView.classList.add('hidden');
+            frenchView.classList.toggle('hidden');
+        });
+    }
 
     document.querySelectorAll('.close-btn').forEach(btn => {
         btn.addEventListener('click', () => {
-            greekView.classList.add('hidden');
-            frenchView.classList.add('hidden');
+            if (greekView) greekView.classList.add('hidden');
+            if (frenchView) frenchView.classList.add('hidden');
         });
     });
 });
-
