@@ -90,7 +90,36 @@
     </footer>
 
     <script src="app.js"></script>
+<div id="bulle-info"></div>
+
+<script>
+    // On écoute tous les clics sur la page
+    document.addEventListener('click', function(e) {
+        var bulle = document.getElementById('bulle-info');
+
+        // SI on clique sur un mot interactif (classe 'mot-info')
+        if (e.target.classList.contains('mot-info')) {
+            e.preventDefault(); // Empêche de suivre un lien si c'en était un
+            
+            // On récupère le texte caché dans 'data-analyse'
+            var contenu = e.target.getAttribute('data-analyse');
+            
+            // S'il y a du texte, on l'affiche
+            if (contenu) {
+                bulle.innerHTML = contenu;
+                bulle.style.display = 'block';
+            }
+        }
+        
+        // SINON, si on clique ailleurs, on cache la bulle
+        else if (e.target.id !== 'bulle-info') {
+            bulle.style.display = 'none';
+        }
+    });
+</script>
+
 </body>
 
 </html>
+
 
