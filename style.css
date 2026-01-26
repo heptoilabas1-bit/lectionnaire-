@@ -249,4 +249,51 @@ main {
     header { flex-direction: column; text-align: center; }
     #controls { margin-top: 10px; }
     .side-panel { width: 100%; }
+
 }
+
+/* =========================================
+   STYLE POUR LES MOTS INTERACTIFS (INFO-BULLES)
+   ========================================= */
+
+/* Le mot grec cliquable */
+.mot-info {
+    border-bottom: 2px dotted #e67e22; /* Souligné pointillé orange */
+    color: #d35400; /* Texte un peu plus foncé */
+    cursor: help; /* Curseur ? au survol */
+    transition: all 0.2s ease;
+}
+
+.mot-info:hover {
+    background-color: #ffeaa7; /* Fond jaune pâle au survol */
+    color: #000;
+}
+
+/* La bulle d'information (Popup) */
+#bulle-info {
+    display: none; /* Caché par défaut */
+    position: fixed;
+    bottom: 30px; /* Un peu au-dessus du bas */
+    left: 50%;
+    transform: translateX(-50%); /* Centré horizontalement */
+    width: 90%; 
+    max-width: 500px;
+    
+    background-color: rgba(44, 62, 80, 0.98); /* Fond bleu nuit */
+    color: #ecf0f1; /* Texte blanc */
+    
+    padding: 15px 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.4);
+    border: 1px solid #34495e;
+    
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    z-index: 9999; /* Toujours au premier plan */
+}
+
+/* Mise en forme à l'intérieur de la bulle */
+#bulle-info strong { color: #f1c40f; } /* Mots importants en jaune */
+#bulle-info em { font-style: italic; color: #bdc3c7; }
