@@ -297,3 +297,31 @@ main {
 /* Mise en forme à l'intérieur de la bulle */
 #bulle-info strong { color: #f1c40f; } /* Mots importants en jaune */
 #bulle-info em { font-style: italic; color: #bdc3c7; }
+/* =========================================
+   VARIANTES DE COULEURS (Pour les mots cliquables)
+   ========================================= */
+
+/* Usage : class="mot-info mot-bleu" */
+.mot-bleu {
+    color: #3498db !important; /* Bleu clair */
+    border-bottom-color: #3498db !important;
+}
+
+/* Usage : class="mot-info mot-vert" */
+.mot-vert {
+    color: #2ecc71 !important; /* Vert émeraude */
+    border-bottom-color: #2ecc71 !important;
+}
+
+/* Usage : class="mot-info mot-rouge" */
+.mot-rouge {
+    color: #e74c3c !important; /* Rouge vif */
+    border-bottom-color: #e74c3c !important;
+}
+
+/* Usage : class="mot-info mot-violet" */
+.mot-violet {
+    color: #9b59b6 !important; /* Violet améthyste */
+    border-bottom-color: #9b59b6 !important;
+}
+
