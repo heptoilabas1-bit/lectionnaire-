@@ -130,29 +130,33 @@
         return 1; // Sécurité si on ne trouve pas
     }
 
-    // Fonction d'affichage
+  // Fonction d'affichage BLINDÉE
     function displaySection(data, containerId, titleId, refId, notesId) {
         if (!data) return;
 
-        // Remplissage textes de base
+        // 1. Remplir les textes
         document.getElementById(titleId).textContent = data.title;
         document.getElementById(refId).textContent = data.reference;
         document.getElementById(notesId).innerHTML = data.personal_analysis || "Pas d'analyse disponible.";
 
-        // Remplissage Interlinéaire
+        // 2. Injecter le HTML de l'interlinéaire
         var container = document.getElementById(containerId);
         container.innerHTML = data.interlinear;
 
-        // --- NUMÉROTATION AUTOMATIQUE ---
+        // 3. --- NUMÉROTATION (Version "Force Brute") ---
         var startNum = getStartVerse(data.reference);
-        // On récupère toutes les lignes de versets
-        var verses = container.getElementsByClassName('interlinear-verse');
+        
+        // Au lieu de chercher une classe précise, on prend TOUS les enfants directs (les blocs de versets)
+        var verses = container.children; 
         
         for (var i = 0; i < verses.length; i++) {
-            // On ajoute l'attribut qui sera affiché par le CSS
+            // A. On force l'ajout de la classe pour que le CSS fonctionne
+            verses[i].classList.add('interlinear-verse');
+            
+            // B. On ajoute le numéro
             verses[i].setAttribute('data-num', startNum + i);
         }
-    }
+    }  
 
     // Chargement du fichier JSON
     async function loadSunday(fileName) {
@@ -196,6 +200,7 @@
 </body>
 
 </html>
+
 
 
 
