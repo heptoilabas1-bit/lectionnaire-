@@ -324,4 +324,24 @@ main {
     color: #9b59b6 !important; /* Violet améthyste */
     border-bottom-color: #9b59b6 !important;
 }
+/* =========================================
+   NUMÉROTATION AUTOMATIQUE DES VERSETS
+   ========================================= */
+
+.interlinear-verse {
+    position: relative; /* Nécessaire pour positionner le numéro */
+    margin-left: 1.5em; /* On décale un peu le texte pour laisser place au numéro */
+}
+
+/* Le petit numéro qui s'affiche devant */
+.interlinear-verse::before {
+    content: attr(data-num); /* Affiche la valeur calculée par le script */
+    position: absolute;
+    left: -1.5em; /* On le place dans la marge gauche */
+    top: 0;
+    font-size: 0.75em; /* Un peu plus petit */
+    color: #7f8c8d; /* Gris discret */
+    font-weight: bold;
+    font-family: sans-serif;
+}
 
