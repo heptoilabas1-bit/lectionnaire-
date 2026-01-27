@@ -131,32 +131,29 @@
     }
 
   // Fonction d'affichage BLINDÉE
-    function displaySection(data, containerId, titleId, refId, notesId) {
+   function displaySection(data, containerId, titleId, refId, notesId) {
         if (!data) return;
 
-        // 1. Remplir les textes
+        // 1. Textes
         document.getElementById(titleId).textContent = data.title;
         document.getElementById(refId).textContent = data.reference;
-        document.getElementById(notesId).innerHTML = data.personal_analysis || "Pas d'analyse disponible.";
+        document.getElementById(notesId).innerHTML = data.personal_analysis || "";
 
-        // 2. Injecter le HTML de l'interlinéaire
+        // 2. Injection du HTML
         var container = document.getElementById(containerId);
         container.innerHTML = data.interlinear;
 
-        // 3. --- NUMÉROTATION (Version "Force Brute") ---
-        var startNum = getStartVerse(data.reference);
+        // 3. Numérotation
+        var startNum = getStartVerse(data.reference); // Calcule le 1er chiffre (ex: 10)
         
-        // Au lieu de chercher une classe précise, on prend TOUS les enfants directs (les blocs de versets)
-        var verses = container.children; 
+        // On cible précisément la classe que vous m'avez montrée
+        var verses = container.getElementsByClassName('interlinear-verse');
         
         for (var i = 0; i < verses.length; i++) {
-            // A. On force l'ajout de la classe pour que le CSS fonctionne
-            verses[i].classList.add('interlinear-verse');
-            
-            // B. On ajoute le numéro
-            verses[i].setAttribute('data-num', startNum + i);
+            // On attribue le numéro (10, 11, 12...)
+            verses[i].setAttribute('data-num', (startNum + i));
         }
-    }  
+    }
 
     // Chargement du fichier JSON
     async function loadSunday(fileName) {
@@ -200,6 +197,7 @@
 </body>
 
 </html>
+
 
 
 
