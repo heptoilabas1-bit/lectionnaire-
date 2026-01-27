@@ -93,109 +93,118 @@
 <div id="bulle-info"></div>
 
 <script>
-    // ============================================================
-    // 1. GESTION DES INFO-BULLES (Le Clic)
-    // ============================================================
+    // --- 1. GESTION DES BULLES (CLIC) ---
     document.addEventListener('click', function(e) {
         var bulle = document.getElementById('bulle-info');
-
-        // Si on clique sur un mot interactif
         if (e.target.classList.contains('mot-info')) {
             e.preventDefault();
             var contenu = e.target.getAttribute('data-analyse');
-            if (contenu) {
+            if (contenu && bulle) {
                 bulle.innerHTML = contenu;
                 bulle.style.display = 'block';
             }
-        }
-        // Si on clique ailleurs, on ferme
-        else if (bulle && e.target.id !== 'bulle-info') {
+        } else if (bulle && e.target.id !== 'bulle-info') {
             bulle.style.display = 'none';
         }
     });
 
-    // ============================================================
-    // 2. GESTION DU LECTIONNAIRE (Chargement & Numérotation)
-    // ============================================================
-
-    // Fonction pour trouver le premier numéro de verset dans la référence
-    // Ex: "Luc 18, 10-14" -> renvoie 10
+    // --- 2. OUTIL : Trouver le numéro du verset ---
     function getStartVerse(reference) {
         if (!reference) return 1;
-        // Cherche un chiffre après une virgule ou deux-points (ex: "18,10" ou "18:10")
         var match = reference.match(/[,:]\s*(\d+)/);
         if (match && match[1]) {
             return parseInt(match[1], 10);
         }
-        return 1; // Sécurité si on ne trouve pas
+        return 1;
     }
 
-  // Fonction d'affichage BLINDÉE
-  function displaySection(data, containerId, titleId, refId, notesId) {
+    // --- 3. FONCTION D'AFFICHAGE SÉCURISÉE ---
+    function displaySection(data, containerId, titleId, refId, notesId) {
         if (!data) return;
 
-        // 1. Remplir les textes (Titre, Référence, Notes)
-        document.getElementById(titleId).textContent = data.title;
-        document.getElementById(refId).textContent = data.reference;
-        document.getElementById(notesId).innerHTML = data.personal_analysis || "";
+        // On vérifie que chaque élément existe avant de toucher
+        var titleEl = document.getElementById(titleId);
+        if (titleEl) titleEl.textContent = data.title;
 
-        // 2. Injecter le texte Interlinéaire
+        var refEl = document.getElementById(refId);
+        if (refEl) refEl.textContent = data.reference;
+
+        var notesEl = document.getElementById(notesId);
+        if (notesEl) notesEl.innerHTML = data.personal_analysis || "";
+
         var container = document.getElementById(containerId);
-        container.innerHTML = data.interlinear;
+        if (container) {
+            container.innerHTML = data.interlinear;
 
-        // 3. CALCULER LA NUMÉROTATION
-        var startNum = getStartVerse(data.reference); // Trouve le 1er chiffre (ex: 10)
-        
-        // Récupère tous les blocs de versets
-        var verses = container.getElementsByClassName('interlinear-verse');
-        
-        // Ajoute le numéro à chacun
-        for (var i = 0; i < verses.length; i++) {
-            verses[i].setAttribute('data-num', startNum + i);
+            // --- NUMÉROTATION ---
+            var startNum = getStartVerse(data.reference);
+            var verses = container.getElementsByClassName('interlinear-verse');
+            
+            // Si on ne trouve pas la classe spécifique, on cherche les <p>
+            if (verses.length === 0) {
+                 verses = container.getElementsByTagName('p'); // Plan B
+            }
+
+            for (var i = 0; i < verses.length; i++) {
+                // On s'assure que c'est bien un bloc principal et pas un petit morceau
+                verses[i].classList.add('interlinear-verse'); // On force la classe pour le CSS
+                verses[i].setAttribute('data-num', startNum + i);
+            }
+        } else {
+            console.warn("Attention : Impossible de trouver le conteneur " + containerId);
         }
     }
-    // Chargement du fichier JSON
+
+    // --- 4. CHARGEMENT ---
     async function loadSunday(fileName) {
-        document.getElementById('gospel-interlinear').innerHTML = '<p style="text-align:center; color:#999;">Chargement...</p>';
+        // Petit message de chargement si la boite existe
+        var loader = document.getElementById('gospel-interlinear');
+        if (loader) loader.innerHTML = '<p style="text-align:center; color:#999;">Chargement...</p>';
         
         try {
             const response = await fetch('data/' + fileName);
-            if (!response.ok) throw new Error("Fichier non trouvé");
+            if (!response.ok) throw new Error("Fichier introuvable : " + fileName);
             
             const data = await response.json();
 
-            // Afficher Évangile
-            displaySection(data.gospel, 'gospel-interlinear', 'gospel-title', 'gospel-ref', 'gospel-notes');
-            
-            // Afficher Apôtre
-            displaySection(data.apostle, 'apostle-interlinear', 'apostle-title', 'apostle-ref', 'apostle-notes');
+            // Affichage Évangile
+            if (data.gospel) {
+                displaySection(data.gospel, 'gospel-interlinear', 'gospel-title', 'gospel-ref', 'gospel-notes');
+            }
 
-            // Mettre à jour les Modales
+            // Affichage Apôtre (Souvent c'est ici que ça plante si l'Apôtre manque dans le HTML)
+            if (data.apostle) {
+                displaySection(data.apostle, 'apostle-interlinear', 'apostle-title', 'apostle-ref', 'apostle-notes');
+            }
+            
+            // Modales (Grec/Français) - avec vérification
             var greekModal = document.getElementById('modal-greek-content');
-            if(greekModal) greekModal.innerText = data.gospel.greek_only;
+            if(greekModal && data.gospel) greekModal.innerText = data.gospel.greek_only;
             
             var frenchModal = document.getElementById('modal-french-content');
-            if(frenchModal) frenchModal.innerText = data.gospel.french_only;
+            if(frenchModal && data.gospel) frenchModal.innerText = data.gospel.french_only;
 
         } catch (error) {
-            console.error(error);
-            document.getElementById('gospel-title').textContent = "Erreur";
+            console.error("Erreur de chargement :", error);
         }
     }
 
-    // Démarrage : charger le premier fichier de la liste
-    // (Vérifiez bien que ce nom de fichier existe dans votre dossier data !)
+    // Démarrage
     loadSunday('triode_1_publican.json'); 
 
-    // Changement via le menu
-    document.getElementById('sunday-select').addEventListener('change', function() {
-        loadSunday(this.value);
-    });
+    // Menu déroulant
+    var selectMenu = document.getElementById('sunday-select');
+    if (selectMenu) {
+        selectMenu.addEventListener('change', function() {
+            loadSunday(this.value);
+        });
+    }
 </script>
 
 </body>
 
 </html>
+
 
 
 
