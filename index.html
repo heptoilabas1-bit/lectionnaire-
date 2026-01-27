@@ -131,30 +131,29 @@
     }
 
   // Fonction d'affichage BLINDÉE
-   function displaySection(data, containerId, titleId, refId, notesId) {
+  function displaySection(data, containerId, titleId, refId, notesId) {
         if (!data) return;
 
-        // 1. Textes
+        // 1. Remplir les textes (Titre, Référence, Notes)
         document.getElementById(titleId).textContent = data.title;
         document.getElementById(refId).textContent = data.reference;
         document.getElementById(notesId).innerHTML = data.personal_analysis || "";
 
-        // 2. Injection du HTML
+        // 2. Injecter le texte Interlinéaire
         var container = document.getElementById(containerId);
         container.innerHTML = data.interlinear;
 
-        // 3. Numérotation
-        var startNum = getStartVerse(data.reference); // Calcule le 1er chiffre (ex: 10)
+        // 3. CALCULER LA NUMÉROTATION
+        var startNum = getStartVerse(data.reference); // Trouve le 1er chiffre (ex: 10)
         
-        // On cible précisément la classe que vous m'avez montrée
+        // Récupère tous les blocs de versets
         var verses = container.getElementsByClassName('interlinear-verse');
         
+        // Ajoute le numéro à chacun
         for (var i = 0; i < verses.length; i++) {
-            // On attribue le numéro (10, 11, 12...)
-            verses[i].setAttribute('data-num', (startNum + i));
+            verses[i].setAttribute('data-num', startNum + i);
         }
     }
-
     // Chargement du fichier JSON
     async function loadSunday(fileName) {
         document.getElementById('gospel-interlinear').innerHTML = '<p style="text-align:center; color:#999;">Chargement...</p>';
@@ -197,6 +196,7 @@
 </body>
 
 </html>
+
 
 
 
