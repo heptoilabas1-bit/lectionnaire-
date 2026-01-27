@@ -93,33 +93,80 @@
 <div id="bulle-info"></div>
 
 <script>
-    // On écoute tous les clics sur la page
-    document.addEventListener('click', function(e) {
-        var bulle = document.getElementById('bulle-info');
+    // --- Fonction utilitaire pour extraire le 1er verset ---
+    function getStartVerse(reference) {
+        // Cherche un chiffre après une virgule (ex: "Luc 18, 10-14" -> capture 10)
+        var match = reference.match(/,\s*(\d+)/);
+        if (match && match[1]) {
+            return parseInt(match[1], 10);
+        }
+        return 1; // Par défaut, on commence à 1 si on ne trouve pas
+    }
 
-        // SI on clique sur un mot interactif (classe 'mot-info')
-        if (e.target.classList.contains('mot-info')) {
-            e.preventDefault(); // Empêche de suivre un lien si c'en était un
-            
-            // On récupère le texte caché dans 'data-analyse'
-            var contenu = e.target.getAttribute('data-analyse');
-            
-            // S'il y a du texte, on l'affiche
-            if (contenu) {
-                bulle.innerHTML = contenu;
-                bulle.style.display = 'block';
-            }
-        }
+    // --- Fonction pour afficher une section (Évangile ou Apôtre) ---
+    function displaySection(data, containerId, titleId, refId, notesId) {
+        if (!data) return;
+
+        // 1. Remplir les titres et références
+        document.getElementById(titleId).textContent = data.title;
+        document.getElementById(refId).textContent = data.reference;
+        document.getElementById(notesId).innerHTML = data.personal_analysis || "Pas d'analyse disponible.";
+
+        // 2. Remplir le contenu HTML (l'interlinéaire)
+        var container = document.getElementById(containerId);
+        container.innerHTML = data.interlinear;
+
+        // 3. --- MAGIE : Numérotation automatique ---
+        var startNum = getStartVerse(data.reference);
+        var verses = container.getElementsByClassName('interlinear-verse');
         
-        // SINON, si on clique ailleurs, on cache la bulle
-        else if (e.target.id !== 'bulle-info') {
-            bulle.style.display = 'none';
+        // On boucle sur chaque verset pour lui coller son numéro
+        for (var i = 0; i < verses.length; i++) {
+            verses[i].setAttribute('data-num', startNum + i);
         }
+    }
+
+    // --- Fonction principale de chargement ---
+    async function loadSunday(fileName) {
+        // Afficher un petit état de chargement (optionnel mais sympa)
+        document.getElementById('gospel-interlinear').innerHTML = '<p style="text-align:center; color:#999;">Chargement...</p>';
+        
+        try {
+            const response = await fetch('data/' + fileName);
+            if (!response.ok) throw new Error("Fichier non trouvé");
+            
+            const data = await response.json();
+
+            // Afficher l'Évangile
+            displaySection(data.gospel, 'gospel-interlinear', 'gospel-title', 'gospel-ref', 'gospel-notes');
+            
+            // Afficher l'Apôtre
+            displaySection(data.apostle, 'apostle-interlinear', 'apostle-title', 'apostle-ref', 'apostle-notes');
+
+            // Mettre à jour les modales (Grec/Français intégraux)
+            document.getElementById('modal-greek-content').innerText = data.gospel.greek_only;
+            document.getElementById('modal-french-content').innerText = data.gospel.french_only;
+
+        } catch (error) {
+            console.error(error);
+            document.getElementById('gospel-title').textContent = "Erreur de chargement";
+            document.getElementById('gospel-interlinear').textContent = "Impossible de lire le fichier " + fileName;
+        }
+    }
+
+    // Charger le premier fichier par défaut au démarrage
+    // (Assurez-vous que le nom correspond à votre premier fichier réel)
+    loadSunday('301_after_pentecost_1.json'); 
+
+    // Écouteur sur le menu déroulant
+    document.getElementById('sunday-select').addEventListener('change', function() {
+        loadSunday(this.value);
     });
 </script>
 
 </body>
 
 </html>
+
 
 
