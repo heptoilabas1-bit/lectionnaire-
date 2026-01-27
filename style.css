@@ -128,16 +128,32 @@ main {
 /* INTERLINÉAIRE MOT À MOT */
 /* ------------------- */
 
+/* --- Numérotation des versets --- */
+
+/* Le bloc du verset entier */
 .interlinear-verse {
-    font-size: 1.15em;
-    font-family: var(--font-serif);
-    line-height: 1.5;
-    margin-bottom: 25px;
-    padding-bottom: 15px;
-    border-bottom: 1px dashed #ddd;
-    overflow-x: auto; /* Scroll horizontal si besoin */
-    white-space: nowrap; /* Empêche le retour à la ligne sauvage */
+    position: relative; /* Point de repère pour le numéro */
+    margin-left: 35px;  /* IMPORTANT : On pousse le texte vers la droite pour laisser la place au numéro */
+    margin-bottom: 20px; /* Un peu d'air entre les versets */
 }
+
+/* Le numéro lui-même */
+.interlinear-verse::before {
+    content: attr(data-num); /* Affiche le numéro calculé */
+    
+    position: absolute;
+    left: -35px; /* On le colle dans la marge qu'on vient de créer */
+    top: 0;
+    
+    width: 30px; /* Largeur fixe pour aligner proprement */
+    text-align: right; /* Aligner le chiffre vers le texte */
+    
+    font-size: 0.8rem;
+    font-weight: bold;
+    color: #e67e22; /* Orange pour être bien visible (modifiable en gris #7f8c8d) */
+    font-family: sans-serif;
+}
+
 
 /* Réinitialisation */
 .interlinear-verse p {
@@ -344,4 +360,5 @@ main {
     font-weight: bold;
     font-family: sans-serif;
 }
+
 
