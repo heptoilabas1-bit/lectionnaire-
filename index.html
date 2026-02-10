@@ -122,37 +122,49 @@
     function displaySection(data, containerId, titleId, refId, notesId) {
         if (!data) return;
 
-        // On vérifie que chaque élément existe avant de toucher
-        var titleEl = document.getElementById(titleId);
-        if (titleEl) titleEl.textContent = data.title;
+        // 1. Textes de base (Titre, Référence...)
+        var t = document.getElementById(titleId); if(t) t.textContent = data.title;
+        var r = document.getElementById(refId); if(r) r.textContent = data.reference;
+        var n = document.getElementById(notesId); if(n) n.innerHTML = data.personal_analysis || "";
 
-        var refEl = document.getElementById(refId);
-        if (refEl) refEl.textContent = data.reference;
-
-        var notesEl = document.getElementById(notesId);
-        if (notesEl) notesEl.innerHTML = data.personal_analysis || "";
-
+        // 2. Injection du HTML
         var container = document.getElementById(containerId);
-        if (container) {
-            container.innerHTML = data.interlinear;
+        if (!container) return;
+        container.innerHTML = data.interlinear;
 
-            // --- NUMÉROTATION ---
-            var startNum = getStartVerse(data.reference);
-            var verses = container.getElementsByClassName('interlinear-verse');
-            
-            // Si on ne trouve pas la classe spécifique, on cherche les <p>
-            if (verses.length === 0) {
-                 verses = container.getElementsByTagName('p'); // Plan B
-            }
+        // 3. NUMÉROTATION INTELLIGENTE
+        // On récupère le chiffre de départ (ex: 11)
+        var startNum = getStartVerse(data.reference); 
+        
+        // On récupère tous les blocs de versets (les manuels ET les anciens)
+        // D'abord on cherche la classe officielle, sinon les paragraphes <p>
+        var verses = container.querySelectorAll('.interlinear-verse');
+        if (verses.length === 0) verses = container.querySelectorAll('p');
 
-            for (var i = 0; i < verses.length; i++) {
-                // On s'assure que c'est bien un bloc principal et pas un petit morceau
-                verses[i].classList.add('interlinear-verse'); // On force la classe pour le CSS
-                verses[i].setAttribute('data-num', startNum + i);
+        for (var i = 0; i < verses.length; i++) {
+            var v = verses[i];
+            var numeroCalcule = startNum + i; // Le numéro qu'on devrait avoir (11, 12... 21...)
+
+            // VÉRIFICATION : Le verset commence-t-il DÉJÀ par un chiffre ?
+            // On regarde le texte brut pour voir s'il y a déjà "11." ou "12."
+            var textClean = v.innerText.trim();
+            // Cette formule magique vérifie si ça commence par un nombre
+            var aDejaUnNumero = /^\d+/.test(textClean);
+
+            // Si PAS de chiffre au début (donc c'est un ancien verset), on l'ajoute !
+            if (!aDejaUnNumero) {
+                var spanNum = document.createElement("strong");
+                
+                // Style Orange
+                spanNum.style.color = "#e67e22"; 
+                spanNum.style.marginRight = "5px";
+                spanNum.innerText = numeroCalcule + ". ";
+                
+                // On insère au tout début du bloc
+                v.insertBefore(spanNum, v.firstChild);
             }
-        } else {
-            console.warn("Attention : Impossible de trouver le conteneur " + containerId);
         }
+    }
     }
 
     // --- 4. CHARGEMENT ---
@@ -204,6 +216,7 @@
 </body>
 
 </html>
+
 
 
 
