@@ -111,7 +111,29 @@ document.addEventListener('DOMContentLoaded', () => {
             
             if(verseTitle) verseTitle.innerHTML = referenceHtml + (reading.title || "Titre inconnu");
 
-            if(mainText) mainText.innerHTML = reading.interlinear || "";
+           // --- GESTION DE L'AFFICHAGE ET DE LA NUMÉROTATION ---
+            if (mainText) {
+                // 1. Si le format est le NOUVEAU (un tableau avec verse_number)
+                if (Array.isArray(reading.interlinear)) {
+                    let htmlFinal = "";
+                    
+                    reading.interlinear.forEach(verset => {
+                        // On cherche le premier <div class='interlinear-verse'> et on lui ajoute le data-num
+                        // Cela permet à ton CSS de faire la magie avec attr(data-num) !
+                        let contentWithNumber = verset.html_content.replace(
+                            /<div class=['"]interlinear-verse['"]>/, 
+                            `<div class="interlinear-verse" data-num="${verset.verse_number}.">`
+                        );
+                        htmlFinal += contentWithNumber;
+                    });
+                    
+                    mainText.innerHTML = htmlFinal;
+                } 
+                // 2. Si le format est l'ANCIEN (juste un long texte brut)
+                else {
+                    mainText.innerHTML = reading.interlinear || "";
+                }
+            }
             if(greekFull) greekFull.innerText = reading.greek_only || "";
             if(frenchFull) frenchFull.innerText = reading.french_only || "";
             if(myNotes) myNotes.innerText = reading.personal_analysis || "Pas d'analyse disponible.";
