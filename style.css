@@ -127,7 +127,12 @@ main {
 /* ------------------- */
 /* INTERLINÉAIRE MOT À MOT */
 /* ------------------- */
-
+.interlinear-container {
+    display: flex;
+    flex-wrap: wrap; 
+    align-items: flex-start;
+    gap: 15px 5px; 
+}
 /* --- Numérotation des versets --- */
 
 /* Le bloc du verset entier */
@@ -345,8 +350,12 @@ main {
    ========================================= */
 
 .interlinear-verse {
-    position: relative; /* Nécessaire pour positionner le numéro */
-    margin-left: 1.5em; /* On décale un peu le texte pour laisser place au numéro */
+    position: relative; 
+    /* J'ai effacé la marge ici ! */
+}
+
+.interlinear-verse[data-num] {
+    margin-left: 1.5em; 
 }
 
 /* Le petit numéro qui s'affiche devant */
