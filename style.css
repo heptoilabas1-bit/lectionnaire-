@@ -131,12 +131,18 @@ main {
     display: block; /* Force chaque verset à prendre sa propre ligne de départ */
 }
 /* --- Numérotation des versets --- */
-
+.verse-row {
+    display: flex;
+    flex-wrap: wrap; /* Permet aux mots de passer à la ligne si le verset est très long */
+    align-items: flex-start;
+    margin-bottom: 30px; /* Crée un bel espace vertical pour bien séparer le verset 11 du 12 */
+}
 /* Le bloc du verset entier */
 .interlinear-verse {
-    position: relative; /* Point de repère pour le numéro */
-    margin-left: 35px;  /* IMPORTANT : On pousse le texte vers la droite pour laisser la place au numéro */
-    margin-bottom: 20px; /* Un peu d'air entre les versets */
+    position: relative;
+    margin-right: 8px; /* L'espace entre chaque bloc de mots */
+    margin-bottom: 10px; /* L'espace si le verset passe à la ligne en dessous */
+}
 }
 
 /* Le numéro lui-même */
