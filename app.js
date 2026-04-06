@@ -117,15 +117,15 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (Array.isArray(reading.interlinear)) {
                     let htmlFinal = "";
                     
-                    reading.interlinear.forEach(verset => {
-                        // On cherche le premier <div class='interlinear-verse'> et on lui ajoute le data-num
-                        // Cela permet à ton CSS de faire la magie avec attr(data-num) !
+                 reading.interlinear.forEach(verset => {
                         let contentWithNumber = verset.html_content.replace(
                             /<div class=['"]interlinear-verse['"]>/, 
                             `<div class="interlinear-verse" data-num="${verset.verse_number}.">`
                         );
-                        htmlFinal += contentWithNumber;
-                    });
+                        
+                        // NOUVEAUTÉ : On englobe les fragments du verset dans une ligne (verse-row)
+                        htmlFinal += `<div class="verse-row">${contentWithNumber}</div>`;
+                    });  
                     
                     mainText.innerHTML = htmlFinal;
                 } 
