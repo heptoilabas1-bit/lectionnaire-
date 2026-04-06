@@ -128,10 +128,7 @@ main {
 /* INTERLINÉAIRE MOT À MOT */
 /* ------------------- */
 .interlinear-container {
-    display: flex;
-    flex-wrap: wrap; 
-    align-items: flex-start;
-    gap: 15px 5px; 
+    display: block; /* Force chaque verset à prendre sa propre ligne de départ */
 }
 /* --- Numérotation des versets --- */
 
