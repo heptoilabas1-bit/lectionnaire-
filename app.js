@@ -2,79 +2,75 @@
 
 document.addEventListener('DOMContentLoaded', () => {
 
-    // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---
-    const liturgicalList = {
-        // --- Période du Triode ---
-        '00_publican_pharisee': 'A. Dimanche du Publicain et du Pharisien',
-        '01_prodigal_son': 'B. Dimanche du Fils Prodigue',
-        '02_meatfare': 'C. Dimanche du Jugement Dernier (Carnaval)',
-        '03_cheese_fare': 'D. Dimanche du Pardon (Tyrophagie)',
-        
-        // --- Grand Carême ---
-        '10_great_lent_1': '1. 1er Dim. du Carême (Orthodoxie)',
-        '11_great_lent_2': '2. 2e Dim. du Carême (St Grégoire Palamas)',
-        '12_great_lent_3': '3. 3e Dim. du Carême (Vénération de la Croix)',
-        '13_great_lent_4': '4. 4e Dim. du Carême (St Jean Climaque)',
-        '14_great_lent_5': '5. 5e Dim. du Carême (Ste Marie l\'Égyptienne)',
-        '15_palm_sunday': '6. Dimanche des Rameaux',
+ // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES (VERSION CORRIGÉE) ---
+const liturgicalList = {
+    // --- Période du Triode ---
+    '00_publican_pharisee': 'A. Dimanche du Publicain et du Pharisien',
+    '01_prodigal_son': 'B. Dimanche du Fils Prodigue',
+    '02_meatfare': 'C. Dimanche du Jugement Dernier (Carnaval)',
+    '03_cheese_fare': 'D. Dimanche du Pardon (Tyrophagie)',
+    
+    // --- Grand Carême ---
+    '10_great_lent_1': '1. 1er Dim. du Carême (Orthodoxie)',
+    '11_great_lent_2': '2. 2e Dim. du Carême (St Grégoire Palamas)',
+    '12_great_lent_3': '3. 3e Dim. du Carême (Vénération de la Croix)',
+    '13_great_lent_4': '4. 4e Dim. du Carême (St Jean Climaque)',
+    '14_great_lent_5': '5. 5e Dim. du Carême (Ste Marie l\'Égyptienne)',
+    '15_palm_sunday': '6. Dimanche des Rameaux',
 
-        // --- Période du Pentecostaire ---
-        '21_pascha': '7. Pâques - Sainte Résurrection',
-        '22_thomas_sunday': '8. 2e Dim. de Pâques (Thomas)',
-        '23_myrrhbearers': '9. 3e Dim. de Pâques (Myrrhophores)',
-        '24_paralytic': '10. 4e Dim. de Pâques (Paralytique)',
-        '25_samaritan': '11. 5e Dim. de Pâques (Samaritaine)',
-        '26_blind_man': '12. 6e Dim. de Pâques (Aveugle-né)',
-        '27_holy_fathers_1': '13. 7e Dim. de Pâques (Pères de Nicée I)',
-        '28_pentecost': '14. Dimanche de la Pentecôte',
-        '29_all_saints': '15. 1er Dim. après Pentecôte (Tous les Saints)',
+    // --- Période du Pentecostaire ---
+    '21_pascha': '7. Pâques - Sainte Résurrection',
+    '22_thomas_sunday': '8. 2e Dim. de Pâques (Thomas)',
+    '23_myrrhbearers': '9. 3e Dim. de Pâques (Myrrhophores)',
+    '24_paralytic': '10. 4e Dim. de Pâques (Paralytique)',
+    '25_samaritan': '11. 5e Dim. de Pâques (Samaritaine)',
+    '26_blind_man': '12. 6e Dim. de Pâques (Aveugle-né)',
+    '27_holy_fathers_1': '13. 7e Dim. de Pâques (Pères de Nicée I)',
+    '28_pentecost': '14. Dimanche de la Pentecôte',
+    '29_all_saints': '15. 1er Dim. après Pentecôte (Tous les Saints)',
 
-        // --- Période de l'Octoèque (Avec vos ajouts corrigés) ---
-        '302_after_pentecost_2': '16. 2e Dimanche après Pentecôte',
-        '303_after_pentecost_3': '17. 3e Dimanche après Pentecôte',
-        '304_after_pentecost_4': '18. 4e Dimanche après Pentecôte',
-        '305_after_pentecost_5': '19. 5e Dimanche après Pentecôte',
-        '306_after_pentecost_6': '20. 6e Dimanche après Pentecôte',
-        '307_after_pentecost_7': '21. 7e Dimanche après Pentecôte',
-        
-        // --- VOS TITRES SPÉCIAUX (Corrigés avec \') ---
-        '308_after_pentecost_8': '22. 8e Dim. après Pentecôte (Bon Samaritain)',
-        '309_after_pentecost_9': '23. 9e Dim. après Pentecôte (L\'Homme riche)',
-        '310_after_pentecost_10': '24. 10e Dim. après Pentecôte (Invités au banquet)',
-        
-        '311_after_pentecost_11': '25. 11e Dimanche après Pentecôte',
-        '312_after_pentecost_12': '26. 12e Dimanche après Pentecôte',
-        '313_after_pentecost_13': '27. 13e Dimanche après Pentecôte',
-        
-        '314_after_pentecost_14': '28. 14e Dim. après Pentecôte (L\'Aveugle de Jéricho)',
-        
-        '315_after_pentecost_15': '29. 15e Dimanche après Pentecôte',
-        '316_after_pentecost_16': '30. 16e Dimanche après Pentecôte',
-        '317_after_pentecost_17': '31. 17e Dimanche après Pentecôte',
-        '318_after_pentecost_18': '32. 18e Dimanche après Pentecôte',
-        '319_after_pentecost_19': '33. 19e Dimanche après Pentecôte',
-        '320_after_pentecost_20': '34. 20e Dimanche après Pentecôte',
-        '321_after_pentecost_21': '35. 21e Dimanche après Pentecôte',
-        '322_after_pentecost_22': '36. 22e Dimanche après Pentecôte',
-        '323_after_pentecost_23': '37. 23e Dimanche après Pentecôte',
-        '324_after_pentecost_24': '38. 24e Dimanche après Pentecôte',
-        '325_after_pentecost_25': '39. 25e Dimanche après Pentecôte',
-        '326_after_pentecost_26': '40. 26e Dimanche après Pentecôte',
-        '327_after_pentecost_27': '41. 27e Dimanche après Pentecôte',
-        '328_after_pentecost_28': '42. 28e Dimanche après Pentecôte',
-        '329_after_pentecost_29': '43. 29e Dimanche après Pentecôte',
-        '330_after_pentecost_30': '44. 30e Dimanche après Pentecôte',
-        '331_after_pentecost_31': '45. 31e Dimanche après Pentecôte',
-        '332_after_pentecost_32': '46. 32e Dimanche après Pentecôte',
+    // --- Cycle de Matthieu (Été) ---
+    '302_after_pentecost_2': '16. 2e Dimanche (Saints de Russie/du Mont Athos)',
+    '303_after_pentecost_3': '17. 3e Dimanche (La Lumière du corps)',
+    '304_after_pentecost_4': '18. 4e Dimanche (Le Centurion)',
+    '305_after_pentecost_5': '19. 5e Dimanche (Les deux démoniaques)',
+    '306_after_pentecost_6': '20. 6e Dimanche (Le Paralytique)',
+    '307_after_pentecost_7': '21. 7e Dimanche (Les deux aveugles)',
+    '308_after_pentecost_8': '22. 8e Dimanche (Multiplication des pains)',
+    '309_after_pentecost_9': '23. 9e Dimanche (Marche sur les eaux)',
+    '310_after_pentecost_10': '24. 10e Dimanche (Le Lunatique)',
+    '311_after_pentecost_11': '25. 11e Dimanche (Le Débiteur impitoyable)',
+    '312_after_pentecost_12': '26. 12e Dimanche (Le Jeune homme riche)',
+    '313_after_pentecost_13': '27. 13e Dimanche (Les Vignerons homicides)',
+    '314_after_pentecost_14': '28. 14e Dimanche (Les Noces royales)',
+    '315_after_pentecost_15': '29. 15e Dimanche (Le Grand Commandement)',
+    '316_after_pentecost_16': '30. 16e Dimanche (Parabole des Talents)',
+    '317_after_pentecost_17': '31. 17e Dimanche (La Cananéenne)',
 
-        // --- Cycle de la Nativité ---
-        '90_advent_2': '47. 2e Dim. avant la Nativité (Sts Ancêtres)',
-        '91_advent_1': '48. Dim. avant la Nativité (Sts Pères)',
-        '92_nativity_after': '49. Dimanche après la Nativité',
-        '93_theophany_before': '50. Dimanche avant la Théophanie',
-        '94_theophany_after': '51. Dimanche après la Théophanie',
-        '95_canaanite': '52. Dimanche de la Cananéenne'
-    };
+    // --- Cycle de Luc (Automne - Octoèque suite) ---
+    '318_after_pentecost_18': '32. 18e Dimanche (La Pêche miraculeuse)',
+    '319_after_pentecost_19': '33. 19e Dimanche (L\'Amour des ennemis)',
+    '320_after_pentecost_20': '34. 20e Dimanche (Le Fils de la veuve de Naïn)',
+    '321_after_pentecost_21': '35. 21e Dimanche (Le Semeur)',
+    '322_after_pentecost_22': '36. 22e Dimanche (Le Riche et Lazare)',
+    '323_after_pentecost_23': '37. 23e Dimanche (Le Démoniaque de Gérasa)',
+    '324_after_pentecost_24': '38. 24e Dimanche (Fille de Jaïre)',
+    '325_after_pentecost_25': '39. 25e Dimanche (Le Bon Samaritain)',
+    '326_after_pentecost_26': '40. 26e Dimanche (Le Riche insensé)',
+    '327_after_pentecost_27': '41. 27e Dimanche (La femme courbée)',
+    '328_after_pentecost_28': '42. 28e Dimanche (Les Dix Lépreux)',
+    '329_after_pentecost_29': '43. 29e Dimanche (Les Saints Ancêtres)',
+    '330_after_pentecost_30': '44. 30e Dimanche (L\'Homme riche / Le Prince)',
+    '331_after_pentecost_31': '45. 31e Dimanche (L\'Aveugle de Jéricho)',
+    '332_after_pentecost_32': '46. 32e Dimanche (Zachée)',
+
+    // --- Cycle de la Nativité et Épiphanie ---
+    '91_advent_1': '48. Dim. avant la Nativité (Sts Pères)',
+    '92_nativity_after': '49. Dimanche après la Nativité',
+    '93_theophany_before': '50. Dimanche avant la Théophanie',
+    '94_theophany_after': '51. Dimanche après la Théophanie',
+    '95_canaanite': '52. Dimanche de la Cananéenne (Janvier)'
+};
 
     // --- SÉCURITÉ : CHOIX PAR DÉFAUT ---
     let currentSundayKey = '01_prodigal_son'; 
