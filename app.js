@@ -132,28 +132,24 @@ const liturgicalList = {
             if(verseTitle) verseTitle.innerHTML = referenceHtml + (reading.title || "Titre inconnu");
 
            // --- GESTION DE L'AFFICHAGE ET DE LA NUMÉROTATION ---
-            if (mainText) {
-                // 1. Si le format est le NOUVEAU (un tableau avec verse_number)
-                if (Array.isArray(reading.interlinear)) {
-                    let htmlFinal = "";
-                    
-                 reading.interlinear.forEach(verset => {
-                        let contentWithNumber = verset.html_content.replace(
-                            /<div class=['"]interlinear-verse['"]>/, 
-                            `<div class="interlinear-verse" data-num="${verset.verse_number}.">`
-                        );
-                        
-                        // NOUVEAUTÉ : On englobe les fragments du verset dans une ligne (verse-row)
-                        htmlFinal += `<div class="verse-row">${contentWithNumber}</div>`;
-                    });  
-                    
-                    mainText.innerHTML = htmlFinal;
-                } 
-                // 2. Si le format est l'ANCIEN (juste un long texte brut)
-                else {
-                    mainText.innerHTML = reading.interlinear || "";
-                }
-            }
+         if (mainText) {
+    // Cas 1 : Nouveau format (Tableau JSON)
+    if (Array.isArray(reading.interlinear)) {
+        let htmlFinal = "";
+        reading.interlinear.forEach(verset => {
+            // On s'assure que le data-num est bien sur le verse-row
+            htmlFinal += `<div class="verse-row" data-num="${verset.verse_number}.">
+                            ${verset.html_content}
+                          </div>`;
+        });
+        mainText.innerHTML = htmlFinal;
+    } 
+    // Cas 2 : Ancien format (Texte brut)
+    else {
+        // On entoure l'ancien texte d'un verse-row par défaut pour voir le numéro
+        mainText.innerHTML = `<div class="verse-row" data-num="1.">${reading.interlinear}</div>`;
+    }
+}
             if(greekFull) greekFull.innerText = reading.greek_only || "";
             // --- GESTION DU FRANÇAIS INTÉGRAL (DYNAMIQUE) ---
             if(frenchFull) {
