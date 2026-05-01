@@ -147,9 +147,8 @@ body.show-darby .inter-segond {
 body.show-darby .inter-darby {
     display: block;
 }
-
 /* ------------------------------------------- */
-/* 4. INTERLINÉAIRE ET NUMÉROTATION            */
+/* 4. INTERLINÉAIRE ET NUMÉROTATION (CORRIGÉ)  */
 /* ------------------------------------------- */
 
 #text-selector {
@@ -183,42 +182,42 @@ body.show-darby .inter-darby {
 }
 
 .verse-row {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: flex-start;
+    display: block; /* On repasse en block pour l'empilement des versets */
     margin-bottom: 35px;
-    padding-left: 35px; /* Espace pour le numéro */
+    padding-left: 40px;
     position: relative;
 }
 
-.interlinear-verse {
-    display: inline-block;
-    margin-right: 12px;
-    margin-bottom: 10px;
-    text-align: center;
-    position: relative;
-}
-
-/* Le numéro de verset orange automatique */
-.interlinear-verse::before {
+/* Le numéro de verset orange */
+.verse-row::before {
     content: attr(data-num);
     position: absolute;
-    left: -35px;
-    top: 0;
-    width: 30px;
-    text-align: right;
-    font-size: 0.85rem;
+    left: 0;
+    top: 5px;
+    font-size: 0.9rem;
     font-weight: bold;
     color: #e67e22;
     font-family: sans-serif;
 }
 
-.interlinear-verse p { margin: 2px 0; }
+.interlinear-verse {
+    display: block; /* Le bloc de verset prend toute la largeur */
+    margin-bottom: 15px;
+}
 
+.interlinear-verse p {
+    margin: 0;
+    display: flex; /* ALIGNE LES MOTS HORIZONTALEMENT */
+    flex-wrap: wrap; /* Permet de revenir à la ligne proprement */
+}
+
+/* Style des mots (Grec et Français) */
 .interlinear-verse span {
-    display: block;
-    min-width: 60px;
-    padding: 0 5px;
+    display: inline-block; /* Les mots se mettent les uns à côté des autres */
+    min-width: 80px;       /* Espace minimum pour chaque colonne de mot */
+    text-align: center;
+    padding: 5px 2px;
+    vertical-align: top;
 }
 
 .greek-word {
@@ -231,6 +230,9 @@ body.show-darby .inter-darby {
     color: #555;
     font-style: italic;
     font-size: 0.9em;
+    display: block; /* Force le français à être SOUS le grec */
+    margin-top: 2px;
+    border-top: 1px solid #f0f0f0; /* Petite séparation discrète */
 }
 
 /* ------------------------------------------- */
