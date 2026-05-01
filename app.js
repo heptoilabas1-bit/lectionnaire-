@@ -76,7 +76,30 @@ const liturgicalList = {
     // --- SÉCURITÉ : CHOIX PAR DÉFAUT ---
     let currentSundayKey = '01_prodigal_son'; 
     let currentReadingType = 'gospel';
+    let currentTranslation = 'segond';
+ // --- 2. FONCTION DE BASCULEMENT ---
+    const changeTranslation = (version) => {
+        currentTranslation = version;
 
+        // Mise à jour visuelle des boutons (S'assurer qu'ils ont ces ID dans le HTML)
+        const btnSegond = document.getElementById('btn-segond');
+        const btnDarby = document.getElementById('btn-darby');
+        
+        if (btnSegond && btnDarby) {
+            btnSegond.classList.toggle('active', version === 'segond');
+            btnDarby.classList.toggle('active', version === 'darby');
+        }
+
+        // Ajoute la classe au body pour l'interlinéaire (CSS)
+        if (version === 'darby') {
+            document.body.classList.add('show-darby');
+        } else {
+            document.body.classList.remove('show-darby');
+        }
+
+        // On rafraîchit l'affichage du texte intégral sans recharger le fichier
+        loadTextContext(currentSundayKey, currentReadingType);
+    };
     // --- 2. FONCTION DE CHARGEMENT DES DONNÉES (FETCH) ---
     const loadTextContext = async (sundayKey, readingType) => {
         currentSundayKey = sundayKey;
@@ -132,7 +155,13 @@ const liturgicalList = {
                 }
             }
             if(greekFull) greekFull.innerText = reading.greek_only || "";
-            if(frenchFull) frenchFull.innerText = reading.french_only || "";
+            // --- GESTION DU FRANÇAIS INTÉGRAL (DYNAMIQUE) ---
+            if(frenchFull) {
+                // On vérifie quelle clé prendre selon le bouton cliqué
+                const textKey = (currentTranslation === 'darby') ? 'french_darby' : 'french_only';
+                // Si la version Darby est absente du JSON, on remet Segond par sécurité
+                frenchFull.innerText = reading[textKey] || reading['french_only'] || "Traduction non disponible.";
+            }
             if(myNotes) myNotes.innerText = reading.personal_analysis || "Pas d'analyse disponible.";
 
             // Gestion PDF
@@ -222,4 +251,15 @@ const liturgicalList = {
             if (frenchView) frenchView.classList.add('hidden');
         });
     });
+const btnVersionSegond = document.getElementById('btn-segond');
+    const btnVersionDarby = document.getElementById('btn-darby');
+
+    if (btnVersionSegond) {
+        btnVersionSegond.addEventListener('click', () => changeTranslation('segond'));
+    }
+    if (btnVersionDarby) {
+        btnVersionDarby.addEventListener('click', () => changeTranslation('darby'));
+    }
+    // =========================================================
+
 });
