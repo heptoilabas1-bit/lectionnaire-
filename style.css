@@ -1,5 +1,5 @@
 /* ======================================= */
-/* 1. STYLES GÉNÉRAUX & MISE EN PAGE */
+/* 1. STYLES GÉNÉRAUX & MISE EN PAGE       */
 /* ======================================= */
 
 :root {
@@ -47,14 +47,12 @@ main {
 #main-content {
     max-width: 100%; 
     width: 100%;
-    margin-right: 0; 
 }
 
 /* ------------------------------------------- */
-/* 2. OUTILS, VERSIONS ET INTERLINÉAIRE        */
+/* 2. BARRE D'OUTILS ET VERSIONS               */
 /* ------------------------------------------- */
 
-/* Barre d'Outils (Grec, Français, PDF) */
 .text-tools {
     display: flex;
     gap: 10px;
@@ -79,7 +77,6 @@ main {
     color: white;
 }
 
-/* Style spécifique pour le bouton PDF */
 .pdf-btn {
     padding: 8px 18px;
     border: 1px solid #c9302c;
@@ -134,7 +131,10 @@ main {
     box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
 
-/* MOTEUR DE BASCULEMENT DARBY */
+/* ------------------------------------------- */
+/* 3. MOTEUR DE BASCULEMENT DYNAMIQUE          */
+/* ------------------------------------------- */
+
 .inter-darby {
     display: none;
     color: #2980b9 !important;
@@ -148,7 +148,10 @@ body.show-darby .inter-darby {
     display: block;
 }
 
-/* Sélecteur Évangile/Apôtre */
+/* ------------------------------------------- */
+/* 4. INTERLINÉAIRE ET NUMÉROTATION            */
+/* ------------------------------------------- */
+
 #text-selector {
     display: flex;
     margin-bottom: 20px;
@@ -172,13 +175,11 @@ body.show-darby .inter-darby {
     font-weight: bold;
 }
 
-/* INTERLINÉAIRE : Structure et Numérotation */
 .interlinear-container {
     display: block;
     background: white;
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
 }
 
 .verse-row {
@@ -190,7 +191,15 @@ body.show-darby .inter-darby {
     position: relative;
 }
 
-/* Le numéro de verset orange */
+.interlinear-verse {
+    display: inline-block;
+    margin-right: 12px;
+    margin-bottom: 10px;
+    text-align: center;
+    position: relative;
+}
+
+/* Le numéro de verset orange automatique */
 .interlinear-verse::before {
     content: attr(data-num);
     position: absolute;
@@ -204,21 +213,12 @@ body.show-darby .inter-darby {
     font-family: sans-serif;
 }
 
-.interlinear-verse {
-    display: inline-block;
-    margin-right: 12px;
-    margin-bottom: 10px;
-    text-align: center;
-    vertical-align: top;
-}
-
-.interlinear-verse p {
-    margin: 2px 0;
-}
+.interlinear-verse p { margin: 2px 0; }
 
 .interlinear-verse span {
-    display: block; /* Empile le grec sur le français */
+    display: block;
     min-width: 60px;
+    padding: 0 5px;
 }
 
 .greek-word {
@@ -233,9 +233,9 @@ body.show-darby .inter-darby {
     font-size: 0.9em;
 }
 
-/* ------------------- */
-/* Analyse & Notes */
-/* ------------------- */
+/* ------------------------------------------- */
+/* 5. ANALYSE, NOTES ET FORMULAIRE             */
+/* ------------------------------------------- */
 
 .analysis-panel {
     background-color: white;
@@ -246,175 +246,48 @@ body.show-darby .inter-darby {
     border-top: 4px solid var(--primary-color);
 }
 
-#my-notes {
-    font-family: var(--font-serif);
-    line-height: 1.6;
-    color: #222;
-}
+#my-notes { font-family: var(--font-serif); line-height: 1.6; }
 
-#contribution-input {
-    width: 100%;
-    padding: 10px;
-    margin-top: 10px;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    min-height: 80px;
-}
+/* ------------------------------------------- */
+/* 6. PANNEAUX LATÉRAUX                        */
+/* ------------------------------------------- */
 
-#submit-contribution {
-    margin-top: 10px;
-    padding: 8px 16px;
-    background-color: #28a745;
-    color: white;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-}
-
-/* ------------------- */
-/* Panneaux Latéraux */
-/* ------------------- */
-
-#side-panels {
-    position: fixed; top: 0; left: 0; width: 0; height: 0; z-index: 100;
-}
+#side-panels { position: fixed; top: 0; left: 0; width: 0; height: 0; z-index: 100; }
 
 .side-panel {
-    position: fixed;
-    top: 0;
-    right: 0;
-    width: 450px;
-    max-width: 90%;
-    height: 100%;
-    background: white;
-    box-shadow: -5px 0 15px rgba(0,0,0,0.2);
-    padding: 25px;
-    overflow-y: auto;
-    z-index: 110;
-    transition: transform 0.3s ease-in-out;
-    transform: translateX(0);
+    position: fixed; top: 0; right: 0; width: 450px; max-width: 90%; height: 100%;
+    background: white; box-shadow: -5px 0 15px rgba(0,0,0,0.2); padding: 25px;
+    overflow-y: auto; z-index: 110; transition: transform 0.3s ease-in-out;
 }
 
-.side-panel.hidden {
-    transform: translateX(100%);
-}
+.side-panel.hidden { transform: translateX(100%); }
 
-.side-panel pre {
-    white-space: pre-wrap;
-    font-family: var(--font-serif);
-    line-height: 1.8;
-}
+.side-panel pre { white-space: pre-wrap; font-family: var(--font-serif); line-height: 1.8; }
 
 .close-btn {
-    position: absolute;
-    top: 15px; right: 15px;
-    background: none; border: none;
+    position: absolute; top: 15px; right: 15px; background: none; border: none;
     font-size: 1.5em; cursor: pointer; color: #888;
 }
+
+/* ------------------------------------------- */
+/* 7. INFO-BULLES ET COULEURS                  */
+/* ------------------------------------------- */
+
+.mot-info { border-bottom: 2px dotted #e67e22; color: #d35400; cursor: help; }
+.mot-info:hover { background-color: #ffeaa7; color: #000; }
+
+#bulle-info {
+    display: none; position: fixed; bottom: 30px; left: 50%; transform: translateX(-50%);
+    width: 90%; max-width: 500px; background-color: rgba(44, 62, 80, 0.98); color: #ecf0f1;
+    padding: 15px 20px; border-radius: 8px; z-index: 9999; text-align: center;
+}
+
+.mot-bleu { color: #3498db !important; border-bottom-color: #3498db !important; }
+.mot-vert { color: #2ecc71 !important; border-bottom-color: #2ecc71 !important; }
+.mot-rouge { color: #e74c3c !important; border-bottom-color: #e74c3c !important; }
 
 /* Responsive Mobile */
 @media (max-width: 768px) {
     header { flex-direction: column; text-align: center; }
-    #controls { margin-top: 10px; }
     .side-panel { width: 100%; }
-
 }
-
-/* =========================================
-   STYLE POUR LES MOTS INTERACTIFS (INFO-BULLES)
-   ========================================= */
-
-/* Le mot grec cliquable */
-.mot-info {
-    border-bottom: 2px dotted #e67e22; /* Souligné pointillé orange */
-    color: #d35400; /* Texte un peu plus foncé */
-    cursor: help; /* Curseur ? au survol */
-    transition: all 0.2s ease;
-}
-
-.mot-info:hover {
-    background-color: #ffeaa7; /* Fond jaune pâle au survol */
-    color: #000;
-}
-
-/* La bulle d'information (Popup) */
-#bulle-info {
-    display: none; /* Caché par défaut */
-    position: fixed;
-    bottom: 30px; /* Un peu au-dessus du bas */
-    left: 50%;
-    transform: translateX(-50%); /* Centré horizontalement */
-    width: 90%; 
-    max-width: 500px;
-    
-    background-color: rgba(44, 62, 80, 0.98); /* Fond bleu nuit */
-    color: #ecf0f1; /* Texte blanc */
-    
-    padding: 15px 20px;
-    border-radius: 8px;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.4);
-    border: 1px solid #34495e;
-    
-    text-align: center;
-    font-family: sans-serif;
-    font-size: 16px;
-    line-height: 1.5;
-    z-index: 9999; /* Toujours au premier plan */
-}
-
-/* Mise en forme à l'intérieur de la bulle */
-#bulle-info strong { color: #f1c40f; } /* Mots importants en jaune */
-#bulle-info em { font-style: italic; color: #bdc3c7; }
-/* =========================================
-   VARIANTES DE COULEURS (Pour les mots cliquables)
-   ========================================= */
-
-/* Usage : class="mot-info mot-bleu" */
-.mot-bleu {
-    color: #3498db !important; /* Bleu clair */
-    border-bottom-color: #3498db !important;
-}
-
-/* Usage : class="mot-info mot-vert" */
-.mot-vert {
-    color: #2ecc71 !important; /* Vert émeraude */
-    border-bottom-color: #2ecc71 !important;
-}
-
-/* Usage : class="mot-info mot-rouge" */
-.mot-rouge {
-    color: #e74c3c !important; /* Rouge vif */
-    border-bottom-color: #e74c3c !important;
-}
-
-/* Usage : class="mot-info mot-violet" */
-.mot-violet {
-    color: #9b59b6 !important; /* Violet améthyste */
-    border-bottom-color: #9b59b6 !important;
-}
-/* =========================================
-   NUMÉROTATION AUTOMATIQUE DES VERSETS
-   ========================================= */
-
-.interlinear-verse {
-    position: relative; 
-    /* J'ai effacé la marge ici ! */
-}
-
-.interlinear-verse[data-num] {
-    margin-left: 1.5em; 
-}
-
-/* Le petit numéro qui s'affiche devant */
-.interlinear-verse::before {
-    content: attr(data-num); /* Affiche la valeur calculée par le script */
-    position: absolute;
-    left: -1.5em; /* On le place dans la marge gauche */
-    top: 0;
-    font-size: 0.75em; /* Un peu plus petit */
-    color: #7f8c8d; /* Gris discret */
-    font-weight: bold;
-    font-family: sans-serif;
-}
-
-
