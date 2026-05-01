@@ -71,9 +71,16 @@ main {
     font-size: 0.9em;
 }
 
-.tool-btn:hover {
-    background-color: var(--secondary-color);
-    color: white;
+.tool-btn {
+    padding: 8px 15px;
+    border: 1px solid var(--secondary-color);
+    border-radius: 20px; /* On harmonise avec les boutons de version */
+    background-color: white;
+    color: var(--primary-color);
+    cursor: pointer;
+    font-size: 0.9em;
+    font-weight: 500;
+    transition: 0.2s;
 }
 
 /* Style spécifique pour le bouton PDF */
@@ -105,7 +112,50 @@ main {
     margin-bottom: 20px;
     border-bottom: 2px solid #ccc;
 }
+/* ------------------- */
+/* Sélecteur de Version (Segond / Darby) */
+/* ------------------- */
 
+.version-tools {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    font-size: 0.9em;
+}
+
+.version-tools span {
+    font-weight: bold;
+    color: #666;
+}
+
+.version-btn {
+    padding: 6px 15px;
+    border: 1px solid #ccc;
+    border-radius: 20px; /* Forme pilule */
+    background-color: white;
+    color: #555;
+    cursor: pointer;
+    font-size: 0.85em;
+    transition: all 0.3s ease;
+}
+
+.version-btn:hover {
+    border-color: var(--primary-color);
+    color: var(--primary-color);
+}
+
+/* Style quand le bouton est sélectionné */
+.version-btn.active {
+    background-color: var(--primary-color);
+    color: white;
+    border-color: var(--primary-color);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
 #text-selector button {
     padding: 10px 20px;
     border: 1px solid #ccc;
@@ -143,7 +193,7 @@ main {
     margin-right: 8px; /* L'espace entre chaque bloc de mots */
     margin-bottom: 10px; /* L'espace si le verset passe à la ligne en dessous */
 }
-}
+
 
 /* Le numéro lui-même */
 .interlinear-verse::before {
