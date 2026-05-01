@@ -131,85 +131,92 @@ main {
     box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
 
-/* --- 1. MOTEUR DE BASCULEMENT (SÉCURISÉ) --- */
+/* --- 3. MOTEUR DE BASCULEMENT (SÉCURITÉ MAXIMUM) --- */
 
-/* Par défaut : ON CACHE DARBY PARTOUT */
+/* Par défaut : on cache TOUJOURS Darby */
 .inter-darby {
     display: none !important;
 }
 
-/* Par défaut : ON MONTRE SEGOND */
+/* Par défaut : on montre TOUJOURS Segond */
 .inter-segond {
-    display: block !important;
+    display: flex !important; /* On utilise flex pour aligner les mots à l'intérieur */
 }
 
-/* QUAND DARBY EST ACTIVÉ (Classe sur le body) */
+/* QUAND LE BOUTON DARBY EST ACTIF */
 body.show-darby .inter-segond {
-    display: none !important; /* On force la disparition de Segond */
+    display: none !important;
 }
 
 body.show-darby .inter-darby {
-    display: block !important; /* On force l'apparition de Darby */
+    display: flex !important; /* On montre Darby en flex */
 }
 
-/* --- 2. RETOUR DES NUMÉROS DE VERSETS (TOUT-TERRAIN) --- */
+/* --- 4. INTERLINÉAIRE ET ALIGNEMENT --- */
+
+.interlinear-container {
+    display: block;
+    background: white;
+    padding: 20px 20px 20px 50px;
+    border-radius: 8px;
+}
 
 .verse-row {
     position: relative;
-    margin-bottom: 30px;
-    padding-left: 45px; /* Marge pour le numéro orange */
-    display: block; 
+    margin-bottom: 40px;
+    display: block;
 }
 
-/* On remet le numéro orange sur la ligne de verset */
+/* Numéro orange à gauche */
 .verse-row::before {
     content: attr(data-num);
     position: absolute;
-    left: 0;
+    left: -45px;
     top: 0;
     width: 40px;
-    color: #e67e22; /* Orange */
+    color: #e67e22;
     font-weight: bold;
     font-size: 1rem;
     text-align: right;
 }
 
-/* --- 3. ALIGNEMENT DES MOTS --- */
-
 .interlinear-verse {
-    display: inline-block;
-    vertical-align: top;
-    margin-bottom: 10px;
+    display: block; /* Le bloc de verset prend la ligne */
+    margin-bottom: 5px;
 }
 
 .interlinear-verse p {
     margin: 0;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+    display: flex;      /* ALIGNE LES MOTS HORIZONTALEMENT */
+    flex-wrap: wrap;    /* Permet de passer à la ligne si la phrase est longue */
+    justify-content: flex-start;
 }
 
+/* Style de chaque "colonne" de mot */
 .interlinear-verse span {
-    display: block; 
-    min-width: 80px;
+    display: inline-block;
+    min-width: 85px;    /* Espace pour chaque mot */
     text-align: center;
-    padding: 0 5px;
+    margin-bottom: 10px;
+    vertical-align: top;
 }
 
 .greek-word {
     color: var(--primary-color);
     font-weight: bold;
-    font-size: 1.15em;
+    font-size: 1.1em;
+    display: block;      /* Le grec est au-dessus */
 }
 
 .french-word {
     color: #555;
     font-style: italic;
-    font-size: 0.9em;
+    font-size: 0.85em;
+    display: block;      /* Le français est en dessous */
     border-top: 1px solid #f0f0f0;
-    margin-top: 2px;
+    margin-top: 4px;
+    padding-top: 2px;
 }
-
 /* ------------------------------------------- */
 /* 5. ANALYSE, NOTES ET FORMULAIRE             */
 /* ------------------------------------------- */
