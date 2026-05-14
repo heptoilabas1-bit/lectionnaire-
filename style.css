@@ -133,25 +133,42 @@ main {
 
 /* --- 3. MOTEUR DE BASCULEMENT (SÉCURITÉ MAXIMUM) --- */
 
-/* Par défaut : on cache TOUJOURS Darby */
-.inter-darby {
+/* On cache Darby et Roumain par défaut */
+.inter-darby, .inter-romanian {
     display: none !important;
 }
 
-/* Par défaut : on montre TOUJOURS Segond */
+/* On montre Segond par défaut */
 .inter-segond {
-    display: flex !important; /* On utilise flex pour aligner les mots à l'intérieur */
+    display: flex !important;
 }
 
-/* QUAND LE BOUTON DARBY EST ACTIF */
-body.show-darby .inter-segond {
+/* ÉTAT : QUAND DARBY EST ACTIF */
+body.show-darby .inter-segond, body.show-darby .inter-romanian {
     display: none !important;
 }
-
 body.show-darby .inter-darby {
-    display: flex !important; /* On montre Darby en flex */
+    display: flex !important;
 }
 
+/* ÉTAT : QUAND ANANIA (RO) EST ACTIF */
+body.show-anania .inter-segond, body.show-anania .inter-darby {
+    display: none !important;
+}
+body.show-anania .inter-romanian {
+    display: flex !important;
+}
+
+/* Style spécifique pour le texte roumain (un bleu liturgique) */
+.romanian-word {
+    color: #0055a4; 
+    font-style: normal;
+    font-size: 0.85em;
+    display: block;
+    border-top: 1px solid #f0f0f0;
+    margin-top: 4px;
+    padding-top: 2px;
+}
 /* --- 4. INTERLINÉAIRE ET ALIGNEMENT --- */
 
 .interlinear-container {
