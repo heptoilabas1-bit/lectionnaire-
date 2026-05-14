@@ -77,29 +77,28 @@ const liturgicalList = {
     let currentSundayKey = '01_prodigal_son'; 
     let currentReadingType = 'gospel';
     let currentTranslation = 'segond';
- // --- 2. FONCTION DE BASCULEMENT ---
-    const changeTranslation = (version) => {
-        currentTranslation = version;
+// --- 2. FONCTION DE BASCULEMENT (VERSION TRI-LANGUE) ---
+const changeTranslation = (version) => {
+    currentTranslation = version;
 
-        // Mise à jour visuelle des boutons (S'assurer qu'ils ont ces ID dans le HTML)
-        const btnSegond = document.getElementById('btn-segond');
-        const btnDarby = document.getElementById('btn-darby');
-        
-        if (btnSegond && btnDarby) {
-            btnSegond.classList.toggle('active', version === 'segond');
-            btnDarby.classList.toggle('active', version === 'darby');
-        }
+    // 1. Gestion visuelle des boutons : On éteint tout, puis on allume le bon
+    document.querySelectorAll('.version-btn').forEach(btn => btn.classList.remove('active'));
+    const activeBtn = document.getElementById('btn-' + version);
+    if (activeBtn) activeBtn.classList.add('active');
 
-        // Ajoute la classe au body pour l'interlinéaire (CSS)
-        if (version === 'darby') {
-            document.body.classList.add('show-darby');
-        } else {
-            document.body.classList.remove('show-darby');
-        }
+    // 2. Gestion des classes sur le body : On retire les modes spécifiques
+    document.body.classList.remove('show-darby', 'show-anania');
 
-        // On rafraîchit l'affichage du texte intégral sans recharger le fichier
-        loadTextContext(currentSundayKey, currentReadingType);
-    };
+    // On active le mode correspondant (si c'est Segond, on ne rajoute rien car c'est le défaut)
+    if (version === 'darby') {
+        document.body.classList.add('show-darby');
+    } else if (version === 'anania') {
+        document.body.classList.add('show-anania');
+    }
+
+    // 3. On rafraîchit l'affichage du texte intégral et de l'interlinéaire
+    loadTextContext(currentSundayKey, currentReadingType);
+};
     // --- 2. FONCTION DE CHARGEMENT DES DONNÉES (FETCH) ---
     const loadTextContext = async (sundayKey, readingType) => {
         currentSundayKey = sundayKey;
@@ -151,15 +150,30 @@ const liturgicalList = {
     }
 }
             if(greekFull) greekFull.innerText = reading.greek_only || "";
-            // --- GESTION DU FRANÇAIS INTÉGRAL (DYNAMIQUE) ---
+          // --- GESTION DU TEXTE INTÉGRAL (DYNAMIQUE) ---
             if(frenchFull) {
-                // On vérifie quelle clé prendre selon le bouton cliqué
-                const textKey = (currentTranslation === 'darby') ? 'french_darby' : 'french_only';
-                // Si la version Darby est absente du JSON, on remet Segond par sécurité
+                let textKey;
+                if (currentTranslation === 'darby') {
+                    textKey = 'french_darby';
+                } else if (currentTranslation === 'anania') {
+                    textKey = 'romanian_anania';
+                } else {
+                    textKey = 'french_only';
+                }
+                
+                // Titre dynamique du panneau latéral pour s'adapter à la langue
+                const frenchTitle = document.querySelector('#french-view h3');
+                if (frenchTitle) {
+                    frenchTitle.innerText = (currentTranslation === 'anania') ? "Versiunea Anania (Integral)" : "Traduction Française (Intégrale)";
+                }
+
                 frenchFull.innerText = reading[textKey] || reading['french_only'] || "Traduction non disponible.";
             }
-            if(myNotes) myNotes.innerText = reading.personal_analysis || "Pas d'analyse disponible.";
 
+            // NE PAS OUBLIER CETTE LIGNE : Affichage de l'analyse du Père Pascal
+            if(myNotes) {
+                myNotes.innerText = reading.personal_analysis || "Pas d'analyse disponible.";
+            }
             // Gestion PDF
             if (pdfButtonContainer) {
                 if (reading.pdf_link && reading.pdf_link !== "") {
@@ -247,14 +261,20 @@ const liturgicalList = {
             if (frenchView) frenchView.classList.add('hidden');
         });
     });
-const btnVersionSegond = document.getElementById('btn-segond');
+// --- ÉCOUTEURS POUR LE CHANGEMENT DE VERSION ---
+    const btnVersionSegond = document.getElementById('btn-segond');
     const btnVersionDarby = document.getElementById('btn-darby');
+    const btnVersionAnania = document.getElementById('btn-anania'); // Ajoute cette ligne
 
     if (btnVersionSegond) {
         btnVersionSegond.addEventListener('click', () => changeTranslation('segond'));
     }
     if (btnVersionDarby) {
         btnVersionDarby.addEventListener('click', () => changeTranslation('darby'));
+    }
+    // AJOUTE CE BLOC ICI :
+    if (btnVersionAnania) {
+        btnVersionAnania.addEventListener('click', () => changeTranslation('anania'));
     }
     // =========================================================
 
