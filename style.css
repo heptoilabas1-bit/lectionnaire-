@@ -95,7 +95,7 @@ main {
     background-color: #c9302c;
 }
 
-/* Sélecteur de Version (Segond / Darby) */
+/* Sélecteur de Version (Segond / Darby / Anania) */
 .version-tools {
     display: flex;
     align-items: center;
@@ -131,9 +131,11 @@ main {
     box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
 
-/* --- 3. MOTEUR DE BASCULEMENT (SÉCURITÉ MAXIMUM) --- */
+/* ------------------------------------------- */
+/* 3. MOTEUR DE BASCULEMENT (SÉCURITÉ MAXIMUM) */
+/* ------------------------------------------- */
 
-/* On cache tout par défaut */
+/* On cache toutes les versions par défaut */
 .inter-darby, .inter-romanian, .inter-segond {
     display: none !important;
 }
@@ -143,43 +145,51 @@ body:not(.show-darby):not(.show-anania) .inter-segond {
     display: flex !important;
 }
 
-/* ÉTAT : Darby */
+/* ÉTAT : Darby actif */
 body.show-darby .inter-darby {
     display: flex !important;
 }
 
-/* ÉTAT : Anania (RO) */
+/* ÉTAT : Anania (RO) actif */
 body.show-anania .inter-romanian {
     display: flex !important;
 }
 
-/* --- STYLE ROUMAIN --- */
+/* Styles graphiques propres à chaque traduction */
+.inter-segond, .inter-darby {
+    color: #555;
+    font-style: italic;
+}
+
 .romanian-word {
-    color: #0055a4; /* Bleu liturgique */
+    color: #0055a4; /* Bleu liturgique roumain */
     font-style: normal;
     font-weight: 500;
-    font-size: 0.85em;
-    display: block;
-    border-top: 1px solid #e0e0e0;
-    margin-top: 4px;
-    padding-top: 2px;
 }
-/* --- 4. INTERLINÉAIRE ET ALIGNEMENT --- */
+
+/* ------------------------------------------- */
+/* 4. INTERLINÉAIRE ET ALIGNEMENT (WORD-UNIT)  */
+/* ------------------------------------------- */
 
 .interlinear-container {
     display: block;
     background: white;
-    padding: 20px 20px 20px 50px;
+    padding: 30px 40px; /* Plus d'espace interne */
     border-radius: 8px;
+    max-width: 1000px;  /* Largeur idéale de lecture sur grand écran */
+    margin: 0 auto;     /* Centre la zone de texte sur l'écran */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
 }
 
 .verse-row {
     position: relative;
     margin-bottom: 40px;
-    display: block;
+    display: flex;       /* Aligne les blocs de mots horizontalement */
+    flex-wrap: wrap;     /* Permet aux mots de sauter à la ligne proprement */
+    gap: 20px 25px;      /* Aère l'espace : 20px vertical, 25px horizontal */
 }
 
-/* Numéro orange à gauche */
+/* Numéro orange à gauche du verset */
 .verse-row::before {
     content: attr(data-num);
     position: absolute;
@@ -192,43 +202,32 @@ body.show-anania .inter-romanian {
     text-align: right;
 }
 
-.interlinear-verse {
-    display: block; /* Le bloc de verset prend la ligne */
-    margin-bottom: 5px;
-}
-
-.interlinear-verse p {
-    margin: 0;
-    display: flex;      /* ALIGNE LES MOTS HORIZONTALEMENT */
-    flex-wrap: wrap;    /* Permet de passer à la ligne si la phrase est longue */
-    justify-content: flex-start;
-}
-
-/* Style de chaque "colonne" de mot */
-.interlinear-verse span {
-    display: inline-block;
-    min-width: 85px;    /* Espace pour chaque mot */
+/* Chaque colonne soude verticalement le mot grec et sa traduction active */
+.word-unit {
+    display: flex;
+    flex-direction: column; /* Aligne le grec en haut et la traduction dessous */
+    align-items: center;    /* Centre horizontalement le texte */
     text-align: center;
-    margin-bottom: 10px;
-    vertical-align: top;
+    min-width: 105px;       /* Largeur confortable pour éviter les collisions de mots longs */
 }
 
 .greek-word {
     color: var(--primary-color);
     font-weight: bold;
     font-size: 1.1em;
-    display: block;      /* Le grec est au-dessus */
+    margin-bottom: 4px;
 }
 
-.french-word {
-    color: #555;
-    font-style: italic;
+/* Propriétés partagées pour toutes les lignes de traduction sous le grec */
+.inter-segond, .inter-darby, .inter-romanian {
     font-size: 0.85em;
-    display: block;      /* Le français est en dessous */
     border-top: 1px solid #f0f0f0;
     margin-top: 4px;
     padding-top: 2px;
+    width: 100%;
+    justify-content: center; /* Aligne parfaitement au centre en mode flex */
 }
+
 /* ------------------------------------------- */
 /* 5. ANALYSE, NOTES ET FORMULAIRE             */
 /* ------------------------------------------- */
