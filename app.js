@@ -1,105 +1,107 @@
-// Fichier: app.js (VERSION CORRIGÉE AVEC VOS TITRES PERSONNALISÉS)
+// Fichier: app.js (VERSION FINALE TRILINGUE COMPLÈTE)
 
 document.addEventListener('DOMContentLoaded', () => {
 
- // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES (VERSION CORRIGÉE) ---
-const liturgicalList = {
-    // --- Période du Triode ---
-    '00_publican_pharisee': 'A. Dimanche du Publicain et du Pharisien',
-    '01_prodigal_son': 'B. Dimanche du Fils Prodigue',
-    '02_meatfare': 'C. Dimanche du Jugement Dernier (Carnaval)',
-    '03_cheese_fare': 'D. Dimanche du Pardon (Tyrophagie)',
-    
-    // --- Grand Carême ---
-    '10_great_lent_1': '1. 1er Dim. du Carême (Orthodoxie)',
-    '11_great_lent_2': '2. 2e Dim. du Carême (St Grégoire Palamas)',
-    '12_great_lent_3': '3. 3e Dim. du Carême (Vénération de la Croix)',
-    '13_great_lent_4': '4. 4e Dim. du Carême (St Jean Climaque)',
-    '14_great_lent_5': '5. 5e Dim. du Carême (Ste Marie l\'Égyptienne)',
-    '15_palm_sunday': '6. Dimanche des Rameaux (entrée à Jérusalem)',
+    // --- 1. LISTE DE RÉFÉRENCE DES DIMANCHES ---
+    const liturgicalList = {
+        // --- Période du Triode ---
+        '00_publican_pharisee': 'A. Dimanche du Publicain et du Pharisien',
+        '01_prodigal_son': 'B. Dimanche du Fils Prodigue',
+        '02_meatfare': 'C. Dimanche du Jugement Dernier (Carnaval)',
+        '03_cheese_fare': 'D. Dimanche du Pardon (Tyrophagie)',
+        
+        // --- Grand Carême ---
+        '10_great_lent_1': '1. 1er Dim. du Carême (Orthodoxie)',
+        '11_great_lent_2': '2. 2e Dim. du Carême (St Grégoire Palamas)',
+        '12_great_lent_3': '3. 3e Dim. du Carême (Vénération de la Croix)',
+        '13_great_lent_4': '4. 4e Dim. du Carême (St Jean Climaque)',
+        '14_great_lent_5': '5. 5e Dim. du Carême (Ste Marie l\'Égyptienne)',
+        '15_palm_sunday': '6. Dimanche des Rameaux (entrée à Jérusalem)',
 
-    // --- Période du Pentecostaire ---
-   '21_pascha': 'PÂQUES - La Sainte Résurrection',
-'22_thomas_sunday': 'Dimanche de Saint Thomas (2e de Pâques)',
-'23_myrrhbearers': 'Dimanche des Myrophores (3e de Pâques)',
-'24_paralytic': 'Dimanche du Paralytique (4e de Pâques)',
-'25_samaritan': 'Dimanche de la Samaritaine (5e de Pâques)',
-'26_blind_man': 'Dimanche de l\'Aveugle-né (6e de Pâques)',
-'27_holy_fathers_1': 'Saints Pères du 1er Concile (7e de Pâques)',
-'28_pentecost': 'PENTECÔTE - La Descente du Saint-Esprit',
-'29_all_saints': 'Dimanche de Tous les Saints (1er ap. Pentecôte)',
+        // --- Période du Pentecostaire ---
+        '21_pascha': 'PÂQUES - La Sainte Résurrection',
+        '22_thomas_sunday': 'Dimanche de Saint Thomas (2e de Pâques)',
+        '23_myrrhbearers': 'Dimanche des Myrophores (3e de Pâques)',
+        '24_paralytic': 'Dimanche du Paralytique (4e de Pâques)',
+        '25_samaritan': 'Dimanche de la Samaritaine (5e de Pâques)',
+        '26_blind_man': 'Dimanche de l\'Aveugle-né (6e de Pâques)',
+        '27_holy_fathers_1': 'Saints Pères du 1er Concile (7e de Pâques)',
+        '28_pentecost': 'PENTECÔTE - La Descente du Saint-Esprit',
+        '29_all_saints': 'Dimanche de Tous les Saints (1er ap. Pentecôte)',
 
-    // --- Cycle de Matthieu (Été) ---
-    '302_after_pentecost_2': 'Tous les Saints de la Terre (2e de Matthieu)',
-'303_after_pentecost_3': 'La Lumière du corps (3e de Matthieu)',
-'304_after_pentecost_4': 'Le Centurion (4e de Matthieu)',
-'305_after_pentecost_5': 'Les deux démoniaques (5e de Matthieu)',
-'306_after_pentecost_6': 'La guérison du Paralytique (6e de Matthieu)',
-'307_after_pentecost_7': 'Les deux aveugles (7e de Matthieu)',
-'308_after_pentecost_8': 'Multiplication des pains (8e de Matthieu)',
-'309_after_pentecost_9': 'Marche sur les eaux (9e de Matthieu)',
-'310_after_pentecost_10': 'La guérison du lunatique (10e de Matthieu)',
-'311_after_pentecost_11': 'Le débiteur impitoyable (11e de Matthieu)',
-'312_after_pentecost_12': 'Le jeune homme riche (12e de Matthieu)',
-'313_after_pentecost_13': 'Les vignerons homicides (13e de Matthieu)',
-'314_after_pentecost_14': 'Les noces royales (14e de Matthieu)',
-'315_after_pentecost_15': 'Le plus grand commandement (15e de Matthieu)',
-'316_after_pentecost_16': 'La parabole des talents (16e de Matthieu)',
-'317_after_pentecost_17': 'La Cananéenne (17e de Matthieu)',
+        // --- Cycle de Matthieu (Été) ---
+        '302_after_pentecost_2': 'Tous les Saints de la Terre (2e de Matthieu)',
+        '303_after_pentecost_3': 'La Lumière du corps (3e de Matthieu)',
+        '304_after_pentecost_4': 'Le Centurion (4e de Matthieu)',
+        '305_after_pentecost_5': 'Les deux démoniaques (5e de Matthieu)',
+        '306_after_pentecost_6': 'La guérison du Paralytique (6e de Matthieu)',
+        '307_after_pentecost_7': 'Les deux aveugles (7e de Matthieu)',
+        '308_after_pentecost_8': 'Multiplication des pains (8e de Matthieu)',
+        '309_after_pentecost_9': 'Marche sur les eaux (9e de Matthieu)',
+        '310_after_pentecost_10': 'La guérison du lunatique (10e de Matthieu)',
+        '311_after_pentecost_11': 'Le débiteur impitoyable (11e de Matthieu)',
+        '312_after_pentecost_12': 'Le jeune homme riche (12e de Matthieu)',
+        '313_after_pentecost_13': 'Les vignerons homicides (13e de Matthieu)',
+        '314_after_pentecost_14': 'Les noces royales (14e de Matthieu)',
+        '315_after_pentecost_15': 'Le plus grand commandement (15e de Matthieu)',
+        '316_after_pentecost_16': 'La parabole des talents (16e de Matthieu)',
+        '317_after_pentecost_17': 'La Cananéenne (17e de Matthieu)',
 
-    // --- Cycle de Luc (Automne - Octoèque suite) ---
-   '318_after_pentecost_18': 'La Pêche miraculeuse (1er de Luc)',
-'319_after_pentecost_19': 'L\'Amour des ennemis (2e de Luc)',
-'320_after_pentecost_20': 'Le Fils de la veuve de Naïn (3e de Luc)',
-'321_after_pentecost_21': 'Le Semeur (4e de Luc)',
-'322_after_pentecost_22': 'Le Riche et Lazare (5e de Luc)',
-'323_after_pentecost_23': 'Le Démoniaque de Gérasa (6e de Luc)',
-'324_after_pentecost_24': 'La Fille de Jaïre (7e de Luc)',
-'325_after_pentecost_25': 'Le Bon Samaritain (8e de Luc)',
-'326_after_pentecost_26': 'Le Riche insensé (9e de Luc)',
-'327_after_pentecost_27': 'La Femme courbée (10e de Luc)',
-'328_after_pentecost_28': 'Les Dix Lépreux (12e de Luc)', // Note : le 11e est souvent sauté
-'329_after_pentecost_29': 'Les Saints Ancêtres (Grand Souper)',
-'330_after_pentecost_30': 'Le Jeune Homme Riche (13e de Luc)',
-'331_after_pentecost_31': 'L\'Aveugle de Jéricho (14e de Luc)',
-'332_after_pentecost_32': 'Zachée (15e de Luc)',
-    // --- Cycle de la Nativité et Épiphanie ---
-   // --- Cycle de la Nativité et de la Théophanie ---
-'90_advent_2': 'Les Saints Ancêtres (2e dimanche avant la Nativité)',
-'91_advent_1': 'Généalogie du Seigneur (Dimanche avant la Nativité)',
-'92_nativity_after': 'La Fuite en Égypte (Dimanche après la Nativité)',
-'93_theophany_before': 'Commencement de l’Évangile (Dimanche avant la Théophanie)',
-'94_theophany_after': 'Le début de la Prédication (Dimanche après la Théophanie)',
-'95_canaanite': 'La Cananéenne (Dimanche tampon de janvier)'
-};
+        // --- Cycle de Luc (Automne - Octoèque suite) ---
+        '318_after_pentecost_18': 'La Pêche miraculeuse (1er de Luc)',
+        '319_after_pentecost_19': 'L\'Amour des ennemis (2e de Luc)',
+        '320_after_pentecost_20': 'Le Fils de la veuve de Naïn (3e de Luc)',
+        '321_after_pentecost_21': 'Le Semeur (4e de Luc)',
+        '322_after_pentecost_22': 'Le Riche et Lazare (5e de Luc)',
+        '323_after_pentecost_23': 'Le Démoniaque de Gérasa (6e de Luc)',
+        '324_after_pentecost_24': 'La Fille de Jaïre (7e de Luc)',
+        '325_after_pentecost_25': 'Le Bon Samaritain (8e de Luc)',
+        '326_after_pentecost_26': 'Le Riche insensé (9e de Luc)',
+        '327_after_pentecost_27': 'La Femme courbée (10e de Luc)',
+        '328_after_pentecost_28': 'Les Dix Lépreux (12e de Luc)',
+        '329_after_pentecost_29': 'Les Saints Ancêtres (Grand Souper)',
+        '330_after_pentecost_30': 'Le Jeune Homme Riche (13e de Luc)',
+        '331_after_pentecost_31': 'L\'Aveugle de Jéricho (14e de Luc)',
+        '332_after_pentecost_32': 'Zachée (15e de Luc)',
+
+        // --- Cycle de la Nativité et de la Théophanie ---
+        '90_advent_2': 'Les Saints Ancêtres (2e dimanche avant la Nativité)',
+        '91_advent_1': 'Généalogie du Seigneur (Dimanche avant la Nativité)',
+        '92_nativity_after': 'La Fuite en Égypte (Dimanche après la Nativité)',
+        '93_theophany_before': 'Commencement de l’Évangile (Dimanche avant la Théophanie)',
+        '94_theophany_after': 'Le début de la Prédication (Dimanche après la Théophanie)',
+        '95_canaanite': 'La Cananéenne (Dimanche tampon de janvier)'
+    };
 
     // --- SÉCURITÉ : CHOIX PAR DÉFAUT ---
     let currentSundayKey = '01_prodigal_son'; 
     let currentReadingType = 'gospel';
     let currentTranslation = 'segond';
-// --- 2. FONCTION DE BASCULEMENT (VERSION TRI-LANGUE) ---
-const changeTranslation = (version) => {
-    currentTranslation = version;
 
-    // 1. Gestion visuelle des boutons : On éteint tout, puis on allume le bon
-    document.querySelectorAll('.version-btn').forEach(btn => btn.classList.remove('active'));
-    const activeBtn = document.getElementById('btn-' + version);
-    if (activeBtn) activeBtn.classList.add('active');
+    // --- 2. FONCTION DE BASCULEMENT (VERSION TRI-LANGUE) ---
+    const changeTranslation = (version) => {
+        currentTranslation = version;
 
-    // 2. Gestion des classes sur le body : On retire les modes spécifiques
-    document.body.classList.remove('show-darby', 'show-anania');
+        // 1. Gestion visuelle des boutons : On éteint tout, puis on allume le bon
+        document.querySelectorAll('.version-btn').forEach(btn => btn.classList.remove('active'));
+        const activeBtn = document.getElementById('btn-' + version);
+        if (activeBtn) activeBtn.classList.add('active');
 
-    // On active le mode correspondant (si c'est Segond, on ne rajoute rien car c'est le défaut)
-    if (version === 'darby') {
-        document.body.classList.add('show-darby');
-    } else if (version === 'anania') {
-        document.body.classList.add('show-anania');
-    }
+        // 2. Gestion des classes sur le body : On retire les modes spécifiques
+        document.body.classList.remove('show-darby', 'show-anania');
 
-    // 3. On rafraîchit l'affichage du texte intégral et de l'interlinéaire
-    loadTextContext(currentSundayKey, currentReadingType);
-};
-    // --- 2. FONCTION DE CHARGEMENT DES DONNÉES (FETCH) ---
+        // On active le mode correspondant
+        if (version === 'darby') {
+            document.body.classList.add('show-darby');
+        } else if (version === 'anania') {
+            document.body.classList.add('show-anania');
+        }
+
+        // 3. On rafraîchit l'affichage du texte intégral et de l'interlinéaire
+        loadTextContext(currentSundayKey, currentReadingType);
+    };
+
+    // --- 3. FONCTION DE CHARGEMENT DES DONNÉES (FETCH) ---
     const loadTextContext = async (sundayKey, readingType) => {
         currentSundayKey = sundayKey;
         currentReadingType = readingType;
@@ -108,6 +110,7 @@ const changeTranslation = (version) => {
         const mainText = document.getElementById('gospel-text');
         const greekFull = document.getElementById('greek-full-text');
         const frenchFull = document.getElementById('french-full-text');
+        const romanianFull = document.getElementById('romanian-full-text'); // MODIFICATION : Ajout du sélecteur roumain
         const myNotes = document.getElementById('my-notes');
         const pdfButtonContainer = document.getElementById('pdf-button-container');
         
@@ -130,50 +133,40 @@ const changeTranslation = (version) => {
             
             if(verseTitle) verseTitle.innerHTML = referenceHtml + (reading.title || "Titre inconnu");
 
-           // --- GESTION DE L'AFFICHAGE ET DE LA NUMÉROTATION ---
-         if (mainText) {
-    // Cas 1 : Nouveau format (Tableau JSON)
-    if (Array.isArray(reading.interlinear)) {
-        let htmlFinal = "";
-        reading.interlinear.forEach(verset => {
-            // On s'assure que le data-num est bien sur le verse-row
-            htmlFinal += `<div class="verse-row" data-num="${verset.verse_number}.">
-                            ${verset.html_content}
-                          </div>`;
-        });
-        mainText.innerHTML = htmlFinal;
-    } 
-    // Cas 2 : Ancien format (Texte brut)
-    else {
-        // On entoure l'ancien texte d'un verse-row par défaut pour voir le numéro
-        mainText.innerHTML = `<div class="verse-row" data-num="1.">${reading.interlinear}</div>`;
-    }
-}
-            if(greekFull) greekFull.innerText = reading.greek_only || "";
-          // --- GESTION DU TEXTE INTÉGRAL (DYNAMIQUE) ---
-            if(frenchFull) {
-                let textKey;
-                if (currentTranslation === 'darby') {
-                    textKey = 'french_darby';
-                } else if (currentTranslation === 'anania') {
-                    textKey = 'romanian_anania';
+            // --- GESTION DE L'AFFICHAGE ET DE LA NUMÉROTATION ---
+            if (mainText) {
+                if (Array.isArray(reading.interlinear)) {
+                    let htmlFinal = "";
+                    reading.interlinear.forEach(verset => {
+                        htmlFinal += `<div class="verse-row" data-num="${verset.verse_number}.">
+                                        ${verset.html_content}
+                                      </div>`;
+                    });
+                    mainText.innerHTML = htmlFinal;
                 } else {
-                    textKey = 'french_only';
+                    mainText.innerHTML = `<div class="verse-row" data-num="1.">${reading.interlinear}</div>`;
                 }
-                
-                // Titre dynamique du panneau latéral pour s'adapter à la langue
-                const frenchTitle = document.querySelector('#french-view h3');
-                if (frenchTitle) {
-                    frenchTitle.innerText = (currentTranslation === 'anania') ? "Versiunea Anania (Integral)" : "Traduction Française (Intégrale)";
-                }
-
-                frenchFull.innerText = reading[textKey] || reading['french_only'] || "Traduction non disponible.";
             }
 
-            // NE PAS OUBLIER CETTE LIGNE : Affichage de l'analyse du Père Pascal
+            // --- GESTION DES FLUX DE TEXTES INTÉGRAUX SÉPARÉS ---
+            if(greekFull) greekFull.innerText = reading.greek_only || "";
+            
+            // Panneau Français (Affiche Segond ou Darby selon la sélection active)
+            if(frenchFull) {
+                const frenchKey = (currentTranslation === 'darby') ? 'french_darby' : 'french_only';
+                frenchFull.innerText = reading[frenchKey] || reading['french_only'] || "Traduction non disponible.";
+            }
+
+            // Panneau Roumain (Affiche TOUJOURS la version intégrale Anania)
+            if(romanianFull) {
+                romanianFull.innerText = reading.romanian_anania || "Traducerea nu este disponibilă în acest fișier.";
+            }
+
+            // Affichage de l'analyse du Père Pascal
             if(myNotes) {
                 myNotes.innerText = reading.personal_analysis || "Pas d'analyse disponible.";
             }
+
             // Gestion PDF
             if (pdfButtonContainer) {
                 if (reading.pdf_link && reading.pdf_link !== "") {
@@ -197,14 +190,12 @@ const changeTranslation = (version) => {
         }
     };
 
-    // --- 3. INITIALISATION ---
+    // --- 4. INITIALISATION ---
     const populateSundaySelect = () => {
         const select = document.getElementById('sunday-select');
         if (!select) return;
 
         const sortedKeys = Object.keys(liturgicalList).sort();
-        
-        // Vider le menu
         select.innerHTML = '';
 
         sortedKeys.forEach(key => {
@@ -219,7 +210,7 @@ const changeTranslation = (version) => {
     populateSundaySelect();
     loadTextContext(currentSundayKey, currentReadingType);
 
-    // --- 4. ÉCOUTEURS D'ÉVÉNEMENTS ---
+    // --- 5. ÉCOUTEURS D'ÉVÉNEMENTS ---
     const selectElement = document.getElementById('sunday-select');
     if (selectElement) {
         selectElement.addEventListener('change', (e) => loadTextContext(e.target.value, currentReadingType));
@@ -235,36 +226,53 @@ const changeTranslation = (version) => {
         btnApostle.addEventListener('click', () => loadTextContext(currentSundayKey, 'apostle'));
     }
 
-    // Panneaux latéraux
+    // Gestion des Panneaux latéraux (Modales)
     const greekView = document.getElementById('greek-view');
     const frenchView = document.getElementById('french-view');
+    const romanianView = document.getElementById('romanian-view'); // MODIFICATION : Ajout du panneau roumain
+
     const toggleGreek = document.getElementById('toggle-greek');
     const toggleFrench = document.getElementById('toggle-french');
+    const toggleRomanian = document.getElementById('toggle-romanian'); // MODIFICATION : Ajout du bouton roumain
     
-    if (toggleGreek && greekView && frenchView) {
+    if (toggleGreek && greekView && frenchView && romanianView) {
         toggleGreek.addEventListener('click', () => {
             frenchView.classList.add('hidden');
+            romanianView.classList.add('hidden'); // Ferme le roumain
             greekView.classList.toggle('hidden');
         });
     }
 
-    if (toggleFrench && greekView && frenchView) {
+    if (toggleFrench && greekView && frenchView && romanianView) {
         toggleFrench.addEventListener('click', () => {
             greekView.classList.add('hidden');
+            romanianView.classList.add('hidden'); // Ferme le roumain
             frenchView.classList.toggle('hidden');
         });
     }
 
+    // MODIFICATION : Écouteur pour ouvrir/fermer le panneau Roumain Intégral
+    if (toggleRomanian && greekView && frenchView && romanianView) {
+        toggleRomanian.addEventListener('click', () => {
+            greekView.classList.add('hidden');
+            frenchView.classList.add('hidden'); // Ferme le français
+            romanianView.classList.toggle('hidden');
+        });
+    }
+
+    // Gestion de la fermeture globale via les boutons X
     document.querySelectorAll('.close-btn').forEach(btn => {
         btn.addEventListener('click', () => {
             if (greekView) greekView.classList.add('hidden');
             if (frenchView) frenchView.classList.add('hidden');
+            if (romanianView) romanianView.classList.add('hidden'); // MODIFICATION : Prise en compte du roumain
         });
     });
-// --- ÉCOUTEURS POUR LE CHANGEMENT DE VERSION ---
+
+    // Écouteurs pour le changement de version interlinéaire
     const btnVersionSegond = document.getElementById('btn-segond');
     const btnVersionDarby = document.getElementById('btn-darby');
-    const btnVersionAnania = document.getElementById('btn-anania'); // Ajoute cette ligne
+    const btnVersionAnania = document.getElementById('btn-anania');
 
     if (btnVersionSegond) {
         btnVersionSegond.addEventListener('click', () => changeTranslation('segond'));
@@ -272,10 +280,8 @@ const changeTranslation = (version) => {
     if (btnVersionDarby) {
         btnVersionDarby.addEventListener('click', () => changeTranslation('darby'));
     }
-    // AJOUTE CE BLOC ICI :
     if (btnVersionAnania) {
         btnVersionAnania.addEventListener('click', () => changeTranslation('anania'));
     }
-    // =========================================================
 
 });
