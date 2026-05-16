@@ -152,36 +152,158 @@
   "apostle": {
     "reference": "2 Timothée 3, 10-15",
     "title": "La Fidélité dans les Persécutions et l'Attachement aux Écritures",
-   "interlinear": [
+   "interlinear":[
   {
     "verse_number": 10,
-    "html_content": "<div class='word-unit'><span class='greek-word'>Σὺ</span><span class='inter-segond'>Toi,</span><span class='inter-darby'>Toi,</span></div><div class='word-unit'><span class='greek-word'>δὲ</span><span class='inter-segond'>mais</span><span class='inter-darby'>mais</span></div><div class='word-unit'><span class='greek-word'>παρηκολούθησάς</span><span class='inter-segond'>tu_as_suivi</span><span class='inter-darby'>tu_as_suivi</span></div><div class='word-unit'><span class='greek-word'>μου</span><span class='inter-segond'>ma</span><span class='inter-darby'>ma</span></div><div class='word-unit'><span class='greek-word'>τῇ</span><span class='inter-segond'>la</span><span class='inter-darby'>la</span></div><div class='word-unit'><span class='greek-word'>διδασκαλίᾳ,</span><span class='inter-segond'>doctrine,</span><span class='inter-darby'>doctrine,</span></div><div class='word-unit'><span class='greek-word'>τῇ</span><span class='inter-segond'>ma</span><span class='inter-darby'>ma</span></div><div class='word-unit'><span class='greek-word'>ἀγωγῇ,</span><span class='inter-segond'>conduite,</span><span class='inter-darby'>conduite,</span></div><div class='word-unit'><span class='greek-word'>τῇ</span><span class='inter-segond'>mes</span><span class='inter-darby'>mon</span></div><div class='word-unit'><span class='greek-word'>προθέσει,</span><span class='inter-segond'>projets,</span><span class='inter-darby'>but,</span></div><div class='word-unit'><span class='greek-word'>τῇ</span><span class='inter-segond'>ma</span><span class='inter-darby'>ma</span></div><div class='word-unit'><span class='greek-word'>πίστει,</span><span class='inter-segond'>foi,</span><span class='inter-darby'>foi,</span></div><div class='word-unit'><span class='greek-word'>τῇ</span><span class='inter-segond'>ma</span><span class='inter-darby'>ma</span></div><div class='word-unit'><span class='greek-word'>μακροθυμίᾳ,</span><span class='inter-segond'>douceur,</span><span class='inter-darby'>longanimité,</span></div><div class='word-unit'><span class='greek-word'>τῇ</span><span class='inter-segond'>ma</span><span class='inter-darby'>mon</span></div><div class='word-unit'><span class='greek-word'>ἀγάπῃ,</span><span class='inter-segond'>charité,</span><span class='inter-darby'>amour,</span></div><div class='word-unit'><span class='greek-word'>τῇ</span><span class='inter-segond'>ma</span><span class='inter-darby'>ma</span></div><div class='word-unit'><span class='greek-word'>ὑπομονῇ,</span><span class='inter-segond'>constance,</span><span class='inter-darby'>patience,</span></div>"
+    "translations": {
+      "segond": "Pour toi, tu as suivi de près mon enseignement, ma conduite, mes résolutions, ma foi, ma douceur, ma charité, ma constance,",
+      "darby": "Mais toi, tu as compris ma doctrine, ma conduite, mon but, ma foi, ma patience, mon amour, ma persévérance,"
+    },
+    "interlinear": [
+      { "greek": "Σὺ", "gloss": "Toi" },
+      { "greek": "δὲ", "gloss": "mais" },
+      { "greek": "παρηκολούθησάς", "gloss": "tu_as_suivi_de_près" },
+      { "greek": "μου", "gloss": "de_moi" },
+      { "greek": "τῇ", "gloss": "la" },
+      { "greek": "διδασκαλίᾳ,", "gloss": "doctrine/enseignement" },
+      { "greek": "τῇ", "gloss": "la" },
+      { "greek": "ἀγωγῇ,", "gloss": "conduite" },
+      { "greek": "τῇ", "gloss": "la" },
+      { "greek": "προθέσει,", "gloss": "résolution/but" },
+      { "greek": "τῇ", "gloss": "la" },
+      { "greek": "πίστει,", "gloss": "foi" },
+      { "greek": "τῇ", "gloss": "la" },
+      { "greek": "μακροθυμίᾳ,", "gloss": "patience" },
+      { "greek": "τῇ", "gloss": "la" },
+      { "greek": "ἀγάπῃ,", "gloss": "charité/amour" },
+      { "greek": "τῇ", "gloss": "la" },
+      { "greek": "ὑπομονῇ,", "gloss": "constance" }
+    ]
   },
   {
     "verse_number": 11,
-    "html_content": "<div class='word-unit'><span class='greek-word'>τοῖς</span><span class='inter-segond'>mes</span><span class='inter-darby'>mes</span></div><div class='word-unit'><span class='greek-word'>διωγμοῖς,</span><span class='inter-segond'>persécutions,</span><span class='inter-darby'>persécutions,</span></div><div class='word-unit'><span class='greek-word'>τοῖς</span><span class='inter-segond'>mes</span><span class='inter-darby'>mes</span></div><div class='word-unit'><span class='greek-word'>παθήμασιν,</span><span class='inter-segond'>souffrances,</span><span class='inter-darby'>souffrances,</span></div><div class='word-unit'><span class='greek-word'>οἷά</span><span class='inter-segond'>telles_que</span><span class='inter-darby'>telles_qu'</span></div><div class='word-unit'><span class='greek-word'>μοι</span><span class='inter-segond'>à_moi</span><span class='inter-darby'>elles_m'ont_été</span></div><div class='word-unit'><span class='greek-word'>ἐγένοντο</span><span class='inter-segond'>arrivèrent</span><span class='inter-darby'>infligées</span></div><div class='word-unit'><span class='greek-word'>ἐν</span><span class='inter-segond'>à</span><span class='inter-darby'>à</span></div><div class='word-unit'><span class='greek-word'>Ἀντιοχείᾳ,</span><span class='inter-segond'>Antioche,</span><span class='inter-darby'>Antioche,</span></div><div class='word-unit'><span class='greek-word'>ἐν</span><span class='inter-segond'>à</span><span class='inter-darby'>à</span></div><div class='word-unit'><span class='greek-word'>Ἰκονίῳ,</span><span class='inter-segond'>Icone,</span><span class='inter-darby'>Iconium,</span></div><div class='word-unit'><span class='greek-word'>ἐν</span><span class='inter-segond'>à</span><span class='inter-darby'>à</span></div><div class='word-unit'><span class='greek-word'>Λύστροις·</span><span class='inter-segond'>Lystre ;</span><span class='inter-darby'>Lystre ;</span></div><div class='word-unit'><span class='greek-word'>οἵους</span><span class='inter-segond'>quelles</span><span class='inter-darby'>quelles</span></div><div class='word-unit'><span class='greek-word'>διωγμοὺς</span><span class='inter-segond'>persécutions</span><span class='inter-darby'>persécutions</span></div><div class='word-unit'><span class='greek-word'>ὑπήνεγκα!</span><span class='inter-segond'>j'ai_supportées !</span><span class='inter-darby'>j'ai_endurées !</span></div><div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>ἐκ</span><span class='inter-segond'>de</span><span class='inter-darby'>de</span></div><div class='word-unit'><span class='greek-word'>πάντων</span><span class='inter-segond'>toutes</span><span class='inter-darby'>toutes</span></div><div class='word-unit'><span class='greek-word'>με</span><span class='inter-segond'>moi</span><span class='inter-darby'>moi</span></div><div class='word-unit'><span class='greek-word'>ἐρρύσατο</span><span class='inter-segond'>a_délivré</span><span class='inter-darby'>a_délivré</span></div><div class='word-unit'><span class='greek-word'>ὁ</span><span class='inter-segond'>le</span><span class='inter-darby'>le</span></div><div class='word-unit'><span class='greek-word'>Κύριος.</span><span class='inter-segond'>Seigneur.</span><span class='inter-darby'>Seigneur.</span></div>"
+    "translations": {
+      "segond": "mes persécutions, mes souffrances. A quelles souffrances n'ai-je pas été exposé à Antioche, à Icone, à Lystre? Quelles persécutions n'ai-je pas supportées? Et le Seigneur m'a délivré de toutes.",
+      "darby": "mes persécutions, mes souffrances, telles qu'elles me sont arrivées à Antioche, à Iconium, à Lystre ; quelles persécutions j'ai endurées ! — et le Seigneur m'a délivré de toutes."
+    },
+    "interlinear": [
+      { "greek": "τοῖς", "gloss": "les" },
+      { "greek": "διωγμοῖς,", "gloss": "persécutions" },
+      { "greek": "τοῖς", "gloss": "les" },
+      { "greek": "παθήμασιν,", "gloss": "souffrances" },
+      { "greek": "οἷά", "gloss": "telles_que" },
+      { "greek": "μοι", "gloss": "à_moi" },
+      { "greek": "ἐγένετο", "gloss": "sont_arrivées" },
+      { "greek": "ἐν", "gloss": "dans" },
+      { "greek": "Ἀντιοχείᾳ,", "gloss": "Antioche" },
+      { "greek": "ἐν", "gloss": "dans" },
+      { "greek": "Ἰκονίῳ,", "gloss": "Iconium" },
+      { "greek": "ἐν", "gloss": "dans" },
+      { "greek": "Λύστροις·", "gloss": "Lystre" },
+      { "greek": "οἵους", "gloss": "quelles" },
+      { "greek": "διωγμοὺς", "gloss": "persécutions" },
+      { "greek": "ὑπήνεγκα·", "gloss": "j'ai_supportées" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "ἐκ", "gloss": "hors_de" },
+      { "greek": "πάντων", "gloss": "toutes" },
+      { "greek": "με", "gloss": "moi" },
+      { "greek": "ἐρρύσατο", "gloss": "a_délivré" },
+      { "greek": "ὁ", "gloss": "le" },
+      { "greek": "κύριος.", "gloss": "Seigneur" }
+    ]
   },
   {
     "verse_number": 12,
-    "html_content": "<div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>Or,</span><span class='inter-darby'>Et</span></div><div class='word-unit'><span class='greek-word'>πάντες</span><span class='inter-segond'>tous</span><span class='inter-darby'>tous</span></div><div class='word-unit'><span class='greek-word'>δὲ</span><span class='inter-segond'>aussi</span><span class='inter-darby'>aussi</span></div><div class='word-unit'><span class='greek-word'>οἱ</span><span class='inter-segond'>ceux</span><span class='inter-darby'>ceux</span></div><div class='word-unit'><span class='greek-word'>θέλοντες</span><span class='inter-segond'>voulant</span><span class='inter-darby'>qui_veulent</span></div><div class='word-unit'><span class='greek-word'>εὐσεβῶς</span><span class='inter-segond'>pieusement</span><span class='inter-darby'>pieusement</span></div><div class='word-unit'><span class='greek-word'>ζῆν</span><span class='inter-segond'>vivre</span><span class='inter-darby'>vivre</span></div><div class='word-unit'><span class='greek-word'>ἐν</span><span class='inter-segond'>en</span><span class='inter-darby'>dans_le</span></div><div class='word-unit'><span class='greek-word'>Χριστῷ</span><span class='inter-segond'>Christ</span><span class='inter-darby'>Christ</span></div><div class='word-unit'><span class='greek-word'>Ἰησοῦ</span><span class='inter-segond'>Jésus</span><span class='inter-darby'>Jésus,</span></div><div class='word-unit'><span class='greek-word'>διωχθήσονται.</span><span class='inter-segond'>seront_persécutés.</span><span class='inter-darby'>seront_persécutés.</span></div>"
+    "translations": {
+      "segond": "Or, tous ceux qui veulent vivre pieusement en Jésus Christ seront persécutés.",
+      "darby": "Et tous ceux aussi qui veulent vivre pieusement dans le Christ Jésus, seront persécutés ;"
+    },
+    "interlinear": [
+      { "greek": "καὶ", "gloss": "Et" },
+      { "greek": "πάντες", "gloss": "tous" },
+      { "greek": "δὲ", "gloss": "aussi/or" },
+      { "greek": "οἱ", "gloss": "ceux" },
+      { "greek": "θέλοντες", "gloss": "voulant" },
+      { "greek": "ζῆν", "gloss": "vivre" },
+      { "greek": "εὐσεβῶς", "gloss": "pieusement" },
+      { "greek": "ἐν", "gloss": "dans" },
+      { "greek": "Χριστῷ", "gloss": "Christ" },
+      { "greek": "Ἰησοῦ", "gloss": "Jésus" },
+      { "greek": "διωχθήσονται·", "gloss": "seront_persécutés" }
+    ]
   },
   {
- "verse_number": 13,
-    "html_content": "<div class='word-unit'><span class='greek-word'>πονηροὶ</span><span class='inter-segond'>méchants</span><span class='inter-darby'>méchants</span></div><div class='word-unit'><span class='greek-word'>δὲ</span><span class='inter-segond'>Mais</span><span class='inter-darby'>Mais</span></div><div class='word-unit'><span class='greek-word'>ἄνθρωποι</span><span class='inter-segond'>les_hommes</span><span class='inter-darby'>les_hommes</span></div><div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>γόητες</span><span class='inter-segond'>imposteurs</span><span class='inter-darby'>les_imposteurs</span></div><div class='word-unit'><span class='greek-word'>προκόψουσιν</span><span class='inter-segond'>avanceront</span><span class='inter-darby'>iront</span></div><div class='word-unit'><span class='greek-word'>ἐπὶ</span><span class='inter-segond'>dans</span><span class='inter-darby'>de_mal</span></div><div class='word-unit'><span class='greek-word'>τὸ</span><span class='inter-segond'>le</span><span class='inter-darby'>en</span></div><div class='word-unit'><span class='greek-word'>χεῖρον,</span><span class='inter-segond'>mal,</span><span class='inter-darby'>pis,</span></div><div class='word-unit'><span class='greek-word'>πλανῶντες</span><span class='inter-segond'>égarant</span><span class='inter-darby'>séduisant</span></div><div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>les_autres_et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>πλανώμενοι.</span><span class='inter-segond'>égarés_eux-mêmes.</span><span class='inter-darby'>étant_séduits.</span></div>"
+    "verse_number": 13,
+    "translations": {
+      "segond": "Mais les hommes méchants et imposteurs avanceront toujours plus dans le mal, égarant les autres et égarés eux-mêmes.",
+      "darby": "mais les hommes méchants et les imposteurs iront en empirant, séduisant et étant séduits."
+    },
+    "interlinear": [
+      { "greek": "πονηροὶ", "gloss": "Méchants" },
+      { "greek": "δὲ", "gloss": "mais" },
+      { "greek": "ἄνθρωποι", "gloss": "hommes" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "γόητες", "gloss": "imposteurs" },
+      { "greek": "προκόψουσιν", "gloss": "avanceront" },
+      { "greek": "ἐπὶ", "gloss": "vers" },
+      { "greek": "τὸ", "gloss": "le" },
+      { "greek": "χεῖρον,", "gloss": "pire" },
+      { "greek": "πλανῶντες", "gloss": "égarant" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "πλανώμενοι.", "gloss": "étant_égarés" }
+    ]
   },
   {
     "verse_number": 14,
-    "html_content": "<div class='word-unit'><span class='greek-word'>σὺ</span><span class='inter-segond'>Toi,</span><span class='inter-darby'>toi,</span></div><div class='word-unit'><span class='greek-word'>δὲ</span><span class='inter-segond'>mais</span><span class='inter-darby'>Mais</span></div><div class='word-unit'><span class='greek-word'>μένε</span><span class='inter-segond'>demeure</span><span class='inter-darby'>demeure</span></div><div class='word-unit'><span class='greek-word'>ἐν</span><span class='inter-segond'>dans</span><span class='inter-darby'>dans</span></div><div class='word-unit'><span class='greek-word'>οἷς</span><span class='inter-segond'>les_choses_que</span><span class='inter-darby'>les_choses</span></div><div class='word-unit'><span class='greek-word'>ἔμαθες</span><span class='inter-segond'>tu_as_apprises</span><span class='inter-darby'>que_tu_as_apprises</span></div><div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>ἐπιστώθης,</span><span class='inter-segond'>reconnues_certaines,</span><span class='inter-darby'>pleinement_convaincu,</span></div><div class='word-unit'><span class='greek-word'>εἰδὼς</span><span class='inter-segond'>sachant</span><span class='inter-darby'>sachant</span></div><div class='word-unit'><span class='greek-word'>παρὰ</span><span class='inter-segond'>de</span><span class='inter-darby'>de</span></div><div class='word-unit'><span class='greek-word'>τίνων</span><span class='inter-segond'>qui</span><span class='inter-darby'>qui</span></div><div class='word-unit'><span class='greek-word'>ἔμαθες,</span><span class='inter-segond'>tu_les_as_apprises ;</span><span class='inter-darby'>tu_les_as_apprises,</span></div>"
+    "translations": {
+      "segond": "Toi, demeure dans les choses que tu as apprises, et reconnues certaines, sachant de qui tu les as apprises ;",
+      "darby": "Mais toi, demeure dans les choses que tu as apprises et dont tu as été pleinement convaincu, sachant de qui tu les as apprises,"
+    },
+    "interlinear": [
+      { "greek": "σὺ", "gloss": "Toi" },
+      { "greek": "δὲ", "gloss": "mais" },
+      { "greek": "μένε", "gloss": "demeure" },
+      { "greek": "ἐν", "gloss": "dans" },
+      { "greek": "οἷς", "gloss": "les_choses_que" },
+      { "greek": "ἔμαθες", "gloss": "tu_as_apprises" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "ἐπιστώθης,", "gloss": "as_été_convaincu" },
+      { "greek": "εἰδὼς", "gloss": "sachant" },
+      { "greek": "παρὰ", "gloss": "de_la_part_de" },
+      { "greek": "τίνος", "gloss": "qui" },
+      { "greek": "ἔμαθες,", "gloss": "tu_as_appris" }
+    ]
   },
- {
-  "verse_number": 15,
-  "html_content": "<div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>ὅτι</span><span class='inter-segond'>que</span><span class='inter-darby'>que,</span></div><div class='word-unit'><span class='greek-word'>ἀπὸ</span><span class='inter-segond'>dès</span><span class='inter-darby'>dès</span></div><div class='word-unit'><span class='greek-word'>βρέφους</span><span class='inter-segond'>ton_enfance</span><span class='inter-darby'>l'enfance,</span></div><div class='word-unit'><span class='greek-word'>τὰ</span><span class='inter-segond'>les</span><span class='inter-darby'>les</span></div><div class='word-unit'><span class='greek-word'>ἱερὰ</span><span class='inter-segond'>saintes</span><span class='inter-darby'>saintes</span></div><div class='word-unit'><span class='greek-word'>γράμματα</span><span class='inter-segond'>lettres</span><span class='inter-darby'>lettres,</span></div><div class='word-unit'><span class='greek-word'>οἶδας,</span><span class='inter-segond'>tu_connais,</span><span class='inter-darby'>tu_connais,</span></div><div class='word-unit'><span class='greek-word'>τὰ</span><span class='inter-segond'>lesquelles</span><span class='inter-darby'>qui</span></div><div class='word-unit'><span class='greek-word'>δυνάμενά</span><span class='inter-segond'>peuvent</span><span class='inter-darby'>peuvent</span></div><div class='word-unit'><span class='greek-word'>σε</span><span class='inter-segond'>toi</span><span class='inter-darby'>te</span></div><div class='word-unit'><span class='greek-word'>σοφίσαι</span><span class='inter-segond'>rendre_sage</span><span class='inter-darby'>rendre_sage</span></div><div class='word-unit'><span class='greek-word'>εἰς</span><span class='inter-segond'>à</span><span class='inter-darby'>à</span></div><div class='word-unit'><span class='greek-word'>σωτηρίαν</span><span class='inter-segond'>salut</span><span class='inter-darby'>salut</span></div><div class='word-unit'><span class='greek-word'>διὰ</span><span class='inter-segond'>par</span><span class='inter-darby'>par</span></div><div class='word-unit'><span class='greek-word'>πίστεως</span><span class='inter-segond'>foi</span><span class='inter-darby'>la_foi</span></div><div class='word-unit'><span class='greek-word'>τῆς</span><span class='inter-segond'>la</span><span class='inter-darby'>qui_est</span></div><div class='word-unit'><span class='greek-word'>ἐν</span><span class='inter-segond'>en</span><span class='inter-darby'>dans_le</span></div><div class='word-unit'><span class='greek-word'>Χριστῷ</span><span class='inter-segond'>Christ</span><span class='inter-darby'>Christ</span></div><div class='word-unit'><span class='greek-word'>Ἰησοῦ.</span><span class='inter-segond'>Jésus.</span><span class='inter-darby'>Jésus.</span></div>"
-}  
-],
-    "greek_only": "\n10 Σὺ δὲ παρηκολούθησάς μου τῇ διδασκαλίᾳ, τῇ ἀγωγῇ, τῇ προθέσει, τῇ πίστει, τῇ μακροθυμίᾳ, τῇ ἀγάπῃ, τῇ ὑπομονῇ, \n11 τοῖς διωγμοῖς, τοῖς παθήμασιν, οἷά μοι ἐγένοντο ἐν Ἀντιοχείᾳ, ἐν Ἰκονίῳ, ἐν Λύστροις· οἵους διωγμοὺς ὑπήνεγκα! καὶ ἐκ πάντων με ἐρρύσατο ὁ Κύριος. \n12 καὶ πάντες δὲ οἱ θέλοντες εὐσεβῶς ζῆν ἐν Χριστῷ Ἰησοῦ διωχθήσονται. \n13 πονηροὶ δὲ ἄνθρωποι καὶ γόητες προκόψουσιν ἐπὶ τὸ χεῖρον, πλανῶντες καὶ πλανώμενοι. \n14 σὺ δὲ μένε ἐν οἷς ἔμαθες καὶ ἐπιστώθης, εἰδὼς παρὰ τίνων ἔμαθες, \n15 καὶ ὅτι ἀπὸ βρέφους τὰ ἱερὰ γράμματα οἶδας, τὰ δυνάμενά σε σοφίσαι εἰς σωτηρίαν διὰ πίστεως τῆς ἐν Χριστῷ Ἰησοῦ.",
-    "french_only": "\n10 Pour toi, tu as suivi de près ma doctrine, ma conduite, mes projets, ma foi, ma douceur, ma charité, ma constance, \n11 mes persécutions, mes souffrances. À quelles souffrances n'ai-je pas été exposé à Antioche, à Icone, à Lystre ? Quelles persécutions n'ai-je pas supportées ? Et le Seigneur m'a délivré de toutes. \n12 Or, tous ceux qui veulent vivre pieusement en Jésus-Christ seront persécutés. \n13 Mais les hommes méchants et imposteurs avanceront toujours plus dans le mal, égarant les autres et égarés eux-mêmes. \n14 Toi, demeure dans les choses que tu as apprises, et reconnues pour certaines, sachant de qui tu les as apprises ; \n15 dès ton enfance, tu connais les saintes lettres, qui peuvent te rendre sage à salut par la foi en Jésus-Christ.",
-    "french_darby": "\n10 Mais toi, tu as pleinement suivi ma doctrine, ma conduite, mon but, ma foi, ma longanimité, mon amour, ma patience, \n11 mes persécutions, mes souffrances, telles qu'elles m'ont été infligées à Antioche, à Iconium, à Lystre ; quelles persécutions j'ai endurées ! et le Seigneur m'a délivré de toutes. \n12 Et tous ceux aussi qui veulent vivre pieusement dans le Christ Jésus, seront persécutés. \n13 Mais les hommes méchants et les imposteurs iront de mal en pis, séduisant et étant séduits. \n14 Mais toi, demeure dans les choses que tu as apprises et dont tu as été pleinement convaincu, sachant de qui tu les as apprises, \n15 et que, dès l'enfance, tu connais les saintes lettres, qui peuvent te rendre sage à salut par la foi qui est dans le Christ Jésus.",
-    "romanian_anania": "\n10 Tu însă mi-ai urmat învățătura, purtarea, rânduiala, credința, îndelunga-răbdare, dragostea, stăruința, \n11 prigonirile și suferințele, așa cum mi s’au întâmplat în Antiohia, în Iconiu, în Listra; ce fel de prigoniri am îndurat!, și din toate m’a izbăvit Domnul. \n12 Dar și toți cei ce vor să trăiască în cucernicie întru Hristos Iisus vor fi prigoniți. \n13 Iar oamenii răi și amăgitorii vor merge spre tot mai rău, rătăcind pe alții și rătăciți fiind ei înșiși. \n14 Tu însă rămâi întru cele pe care le-ai învățat și de care ești încredințat, știind de la cine le-ai învățat, \n15 și că de copil cunoști Sfintele Scripturi care pot să te înțelepțească spre mântuire prin credința cea întru Hristos Iisus.",
-    "personal_analysis": "Saint Paul exhorte Timothée à la persévérance en lui rappelant le modèle (typos) de vie qu'il a observé chez lui. La piété n'est pas une simple émotion, mais une conduite (purtare) qui s'inscrit dans une tradition reçue. Anania utilise le terme 'cucernicie' (v. 12) pour piété, un mot roumain très dense qui évoque une crainte révérencieuse et douce de Dieu."
+  {
+    "verse_number": 15,
+    "translations": {
+      "segond": "dès ton enfance, tu connais les saintes lettres, qui peuvent te rendre sage à salut par la foi en Jésus Christ.",
+      "darby": "et que, dès l'enfance, tu connais les saintes lettres, qui peuvent te rendre sage à salut par la foi qui est dans le Christ Jésus."
+    },
+    "interlinear": [
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "ὅτι", "gloss": "que" },
+      { "greek": "ἀπὸ", "gloss": "depuis" },
+      { "greek": "βρέφους", "gloss": "la_petite_enfance" },
+      { "greek": "τὰ", "gloss": "les" },
+      { "greek": "ἱερὰ", "gloss": "saintes" },
+      { "greek": "γράμματα", "gloss": "lettres" },
+      { "greek": "οἶδας,", "gloss": "tu_connais" },
+      { "greek": "τὰ", "gloss": "lesquelles" },
+      { "greek": "δυνάμενά", "gloss": "peuvent" },
+      { "greek": "σε", "gloss": "toi" },
+      { "greek": "σοφίσαι", "gloss": "rendre_sage" },
+      { "greek": "εἰς", "gloss": "pour" },
+      { "greek": "σωτηρίαν", "gloss": "le_salut" },
+      { "greek": "διὰ", "gloss": "par" },
+      { "greek": "πίστεως", "gloss": "la_foi" },
+      { "greek": "τῆς", "gloss": "celle" },
+      { "greek": "ἐν", "gloss": "dans" },
+      { "greek": "Χριστῷ", "gloss": "Christ" },
+      { "greek": "Ἰησοῦ.", "gloss": "Jésus" }
+    ]
   }
+],
+"personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 10 - τῇ / μου : Le grec répète l'article défini (τῇ - la) devant chaque vertu listée par Paul. Segond et Darby traduisent ces articles par des pronoms possessifs (ma / mon) rattachés au \"μου\" (de moi) initial pour alléger la phrase française.\n• Verset 11 - οἷά : Ce pronom relatif (\"lesquelles choses\") est traduit littéralement par Darby (\"telles qu'elles me sont arrivées\"), tandis que Segond modifie la ponctuation pour en faire une exclamation (\"A quelles souffrances n'ai-je pas été exposé\").\n• Verset 13 - ἐπὶ τὸ χεῖρον : Littéralement \"vers le pire\". Segond le rend par \"avanceront toujours plus dans le mal\" et Darby par \"iront en empirant\".\n• Verset 15 - βρέφους : Terme désignant spécifiquement le nourrisson ou le petit enfant (de la même racine qui a donné \"fœtus\" ou \"bébé\"). Les traducteurs utilisent le terme plus général d'\"enfance\".\n• Verset 15 - τῆς : L'article (féminin génitif) qui insiste sur la foi (\"la foi, CELLE qui est dans le Christ\") est traduit par la relative \"qui est\" chez Darby, et simplement absorbé chez Segond (\"par la foi en\").\n\nAnalyse spirituelle :\nAlors que l'Évangile met en garde contre la fausse piété orgueilleuse du Pharisien, l'Apôtre nous présente la véritable piété : elle se reconnaît non pas à l'étalage de ses vertus, mais à la constance dans la persécution (v.11-12) et à la fidélité à la Tradition reçue (v.14). Face aux \"imposteurs\" (γόητες, littéralement les charlatans ou les magiciens) qui enflent de vanité, la seule sauvegarde est de s'enraciner dans l'Écriture avec l'humilité de l'enfance, à l'image du Publicain."
+}
 }
