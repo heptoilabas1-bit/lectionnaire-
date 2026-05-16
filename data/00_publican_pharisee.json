@@ -2,33 +2,152 @@
   "gospel": {
     "reference": "Luc 18, 10-14",
     "title": "Le Publicain et le Pharisien : L'Humilité qui Justifie",
-    "interlinear": [
+    "interlinear":[
   {
-    "verse_number": 10,
-    "html_content": "<div class='word-unit'><span class='greek-word'>Ἄνθρωποι</span><span class='inter-segond'>Hommes</span><span class='inter-darby'>hommes</span></div><div class='word-unit'><span class='greek-word'>δύο</span><span class='inter-segond'>deux</span><span class='inter-darby'>Deux</span></div><div class='word-unit'><span class='greek-word'>ἀνέβησαν</span><span class='inter-segond'>montèrent</span><span class='inter-darby'>montèrent</span></div><div class='word-unit'><span class='greek-word'>εἰς</span><span class='inter-segond'>à</span><span class='inter-darby'>au</span></div><div class='word-unit'><span class='greek-word'>τὸ</span><span class='inter-segond'>le</span><span class='inter-darby'>le</span></div><div class='word-unit'><span class='greek-word'>ἱερὸν</span><span class='inter-segond'>temple</span><span class='inter-darby'>temple</span></div><div class='word-unit'><span class='greek-word'>προσεύξασθαι,</span><span class='inter-segond'>pour_prier,</span><span class='inter-darby'>pour_prier,</span></div><div class='word-unit'><span class='greek-word'>ὁ</span><span class='inter-segond'>le</span><span class='inter-darby'>l’</span></div><div class='word-unit'><span class='greek-word'>εἷς</span><span class='inter-segond'>un</span><span class='inter-darby'>un</span></div><div class='word-unit'><span class='greek-word'>Φαρισαῖος</span><span class='inter-segond'>pharisien</span><span class='inter-darby'>pharisien</span></div><div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>ὁ</span><span class='inter-segond'>le</span><span class='inter-darby'>l’</span></div><div class='word-unit'><span class='greek-word'>ἕτερος</span><span class='inter-segond'>autre</span><span class='inter-darby'>autre</span></div><div class='word-unit'><span class='greek-word'>τελώνης.</span><span class='inter-segond'>publicain.</span><span class='inter-darby'>publicain.</span></div>"
+     "verse_number": 10,
+    "translations": {
+      "segond": "Deux hommes montèrent au temple pour prier ; l'un était pharisien, et l'autre publicain.",
+      "darby": "Deux hommes montèrent au temple pour prier, l'un pharisien, et l'autre publicain."
+    },
+    "interlinear": [
+      { "greek": "Ἄνθρωποι", "gloss": "Hommes" },
+      { "greek": "δύο", "gloss": "deux" },
+      { "greek": "ἀνέβησαν", "gloss": "montèrent" },
+      { "greek": "εἰς", "gloss": "dans" },
+      { "greek": "τὸ", "gloss": "le" },
+      { "greek": "ἱερὸν", "gloss": "temple" },
+      { "greek": "προσεύξασθαι,", "gloss": "pour_prier" },
+      { "greek": "ὁ", "gloss": "l'" },
+      { "greek": "εἷς", "gloss": "un" },
+      { "greek": "Φαρισαῖος", "gloss": "Pharisien" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "ὁ", "gloss": "l'" },
+      { "greek": "ἕτερος", "gloss": "autre" },
+      { "greek": "τελώνης.", "gloss": "publicain" }
+    ]
   },
   {
     "verse_number": 11,
-    "html_content": "<div class='word-unit'><span class='greek-word'>ὁ</span><span class='inter-segond'>Le</span><span class='inter-darby'>Le</span></div><div class='word-unit'><span class='greek-word'>Φαρισαῖος</span><span class='inter-segond'>pharisien,</span><span class='inter-darby'>pharisien,</span></div><div class='word-unit'><span class='greek-word'>σταθεὶς</span><span class='inter-segond'>debout,</span><span class='inter-darby'>se_tenant</span></div><div class='word-unit'><span class='greek-word'>πρὸς</span><span class='inter-segond'>en</span><span class='inter-darby'>à_part,</span></div><div class='word-unit'><span class='greek-word'>ἑαυτὸν</span><span class='inter-segond'>lui-même,</span><span class='inter-darby'>en_lui-même</span></div><div class='word-unit'><span class='greek-word'>ταῦτα</span><span class='inter-segond'>ainsi</span><span class='inter-darby'>ces_choses</span></div><div class='word-unit'><span class='greek-word'>προσηύχετο·</span><span class='inter-segond'>priait :</span><span class='inter-darby'>priait :</span></div><div class='word-unit'><span class='greek-word'>Ὁ</span><span class='inter-segond'>O</span><span class='inter-darby'>Ô</span></div><div class='word-unit'><span class='greek-word'>Θεός,</span><span class='inter-segond'>Dieu,</span><span class='inter-darby'>Dieu,</span></div><div class='word-unit'><span class='greek-word'>εὐχαριστῶ</span><span class='inter-segond'>je_rends_grâces</span><span class='inter-darby'>je_rends_grâces</span></div><div class='word-unit'><span class='greek-word'>σοι</span><span class='inter-segond'>à_toi</span><span class='inter-darby'>à_toi</span></div><div class='word-unit'><span class='greek-word'>ὅτι</span><span class='inter-segond'>de_ce_que</span><span class='inter-darby'>de_ce_que</span></div><div class='word-unit'><span class='greek-word'>οὐκ</span><span class='inter-segond'>ne...pas</span><span class='inter-darby'>ne...pas</span></div><div class='word-unit'><span class='greek-word'>εἰμὶ</span><span class='inter-segond'>suis</span><span class='inter-darby'>suis</span></div><div class='word-unit'><span class='greek-word'>ὥσπερ</span><span class='inter-segond'>comme</span><span class='inter-darby'>comme</span></div><div class='word-unit'><span class='greek-word'>οἱ</span><span class='inter-segond'>le</span><span class='inter-darby'>le</span></div><div class='word-unit'><span class='greek-word'>λοιποὶ</span><span class='inter-segond'>reste</span><span class='inter-darby'>reste</span></div><div class='word-unit'><span class='greek-word'>τῶν</span><span class='inter-segond'>des</span><span class='inter-darby'>des</span></div><div class='word-unit'><span class='greek-word'>ἀνθρώπων,</span><span class='inter-segond'>hommes,</span><span class='inter-darby'>hommes,</span></div><div class='word-unit'><span class='greek-word'>ἅρπαγες,</span><span class='inter-segond'>ravisseurs,</span><span class='inter-darby'>ravisseurs,</span></div><div class='word-unit'><span class='greek-word'>ἄδικοι,</span><span class='inter-segond'>injustes,</span><span class='inter-darby'>injustes,</span></div><div class='word-unit'><span class='greek-word'>μοιχοί,</span><span class='inter-segond'>adultères,</span><span class='inter-darby'>adultères,</span></div><div class='word-unit'><span class='greek-word'>ἢ</span><span class='inter-segond'>ou</span><span class='inter-darby'>ou</span></div><div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>même</span><span class='inter-darby'>même</span></div><div class='word-unit'><span class='greek-word'>ὡς</span><span class='inter-segond'>comme</span><span class='inter-darby'>comme</span></div><div class='word-unit'><span class='greek-word'>οὗτος</span><span class='inter-segond'>ce</span><span class='inter-darby'>ce</span></div><div class='word-unit'><span class='greek-word'>ὁ</span><span class='inter-segond'>le</span><span class='inter-darby'>le</span></div><div class='word-unit'><span class='greek-word'>τελώνης·</span><span class='inter-segond'>publicain ;</span><span class='inter-darby'>publicain ;</span></div>"
+    "translations": {
+      "segond": "Le pharisien, debout, priait ainsi en lui-même : O Dieu, je te rends grâces de ce que je ne suis pas comme le reste des hommes, qui sont ravisseurs, injustes, adultères, ou même comme ce publicain ;",
+      "darby": "Le pharisien, se tenant debout, priait ainsi en lui-même : O Dieu, je te rends grâces de ce que je ne suis pas comme le reste des hommes, qui sont ravisseurs, injustes, adultères, ou même comme ce publicain ;"
+    },
+    "interlinear": [
+      { "greek": "ὁ", "gloss": "Le" },
+      { "greek": "Φαρισαῖος", "gloss": "Pharisien" },
+      { "greek": "σταθεὶς", "gloss": "se_tenant_debout" },
+      { "greek": "πρὸς", "gloss": "en" },
+      { "greek": "ἑαυτὸν", "gloss": "lui-même" },
+      { "greek": "ταῦτα", "gloss": "ces_choses" },
+      { "greek": "προσηύχετο·", "gloss": "priait" },
+      { "greek": "Ὁ", "gloss": "—" },
+      { "greek": "θεός,", "gloss": "Dieu" },
+      { "greek": "εὐχαριστῶ", "gloss": "je_rends_grâces" },
+      { "greek": "σοι", "gloss": "à_toi" },
+      { "greek": "ὅτι", "gloss": "que" },
+      { "greek": "οὐκ", "gloss": "ne_pas" },
+      { "greek": "εἰμὶ", "gloss": "je_suis" },
+      { "greek": "ὥσπερ", "gloss": "comme" },
+      { "greek": "οἱ", "gloss": "les" },
+      { "greek": "λοιποὶ", "gloss": "restes" },
+      { "greek": "τῶν", "gloss": "de_les" },
+      { "greek": "ἀνθρώπων,", "gloss": "hommes" },
+      { "greek": "ἅρπαγες,", "gloss": "ravisseurs" },
+      { "greek": "ἄδικοι,", "gloss": "injustes" },
+      { "greek": "μοιχοί,", "gloss": "adultères" },
+      { "greek": "ἢ", "gloss": "ou" },
+      { "greek": "καὶ", "gloss": "aussi" },
+      { "greek": "ὡς", "gloss": "comme" },
+      { "greek": "οὗτος", "gloss": "ce" },
+      { "greek": "ὁ", "gloss": "—" },
+      { "greek": "τελώνης·", "gloss": "publicain" }
+    ]
   },
   {
     "verse_number": 12,
-    "html_content": "<div class='word-unit'><span class='greek-word'>νηστεύω</span><span class='inter-segond'>je_jeûne</span><span class='inter-darby'>je_jeûne</span></div><div class='word-unit'><span class='greek-word'>δὶς</span><span class='inter-segond'>deux_fois</span><span class='inter-darby'>deux_fois</span></div><div class='word-unit'><span class='greek-word'>τοῦ</span><span class='inter-segond'>la</span><span class='inter-darby'>la</span></div><div class='word-unit'><span class='greek-word'>σαββάτου,</span><span class='inter-segond'>semaine,</span><span class='inter-darby'>semaine,</span></div><div class='word-unit'><span class='greek-word'>ἀποδεκατῶ</span><span class='inter-segond'>je_donne_la_dîme</span><span class='inter-darby'>je_donne_la_dîme</span></div><div class='word-unit'><span class='greek-word'>πάντα</span><span class='inter-segond'>de_tout</span><span class='inter-darby'>de_tout</span></div><div class='word-unit'><span class='greek-word'>ὅσα</span><span class='inter-segond'>ce_que</span><span class='inter-darby'>ce_que</span></div><div class='word-unit'><span class='greek-word'>κτῶμαι.</span><span class='inter-segond'>je_possède.</span><span class='inter-darby'>j'acquiers.</span></div>"
+    "translations": {
+      "segond": "je jeûne deux fois la semaine, je donne la dîme de tous mes revenus.",
+      "darby": "je jeûne deux fois la semaine, je donne la dîme de tout ce que je possède."
+    },
+    "interlinear": [
+      { "greek": "νηστεύω", "gloss": "je_jeûne" },
+      { "greek": "δὶς", "gloss": "deux_fois" },
+      { "greek": "τοῦ", "gloss": "de_la" },
+      { "greek": "σαββάτου,", "gloss": "semaine" },
+      { "greek": "ἀποδεκατῶ", "gloss": "je_donne_la_dîme" },
+      { "greek": "πάντα", "gloss": "de_tout" },
+      { "greek": "ὅσα", "gloss": "ce_que" },
+      { "greek": "κτῶμαι.", "gloss": "j'acquiers" }
+    ]
   },
   {
     "verse_number": 13,
-    "html_content": "<div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>Et</span><span class='inter-darby'>Et</span></div><div class='word-unit'><span class='greek-word'>ὁ</span><span class='inter-segond'>le</span><span class='inter-darby'>le</span></div><div class='word-unit'><span class='greek-word'>τελώνης</span><span class='inter-segond'>publicain,</span><span class='inter-darby'>publicain,</span></div><div class='word-unit'><span class='greek-word'>μακρόθεν</span><span class='inter-segond'>à_distance,</span><span class='inter-darby'>se_tenant_loin,</span></div><div class='word-unit'><span class='greek-word'>ἑστὼς</span><span class='inter-segond'>se_tenant</span><span class='inter-darby'>se_tenant</span></div><div class='word-unit'><span class='greek-word'>οὐκ</span><span class='inter-segond'>ne</span><span class='inter-darby'>ne</span></div><div class='word-unit'><span class='greek-word'>ἤθελεν</span><span class='inter-segond'>osait</span><span class='inter-darby'>voulait</span></div><div class='word-unit'><span class='greek-word'>οὐδὲ</span><span class='inter-segond'>pas_même</span><span class='inter-darby'>pas_même</span></div><div class='word-unit'><span class='greek-word'>τοὺς</span><span class='inter-segond'>les</span><span class='inter-darby'>les</span></div><div class='word-unit'><span class='greek-word'>ὀφθαλμοὺς</span><span class='inter-segond'>yeux</span><span class='inter-darby'>ses_yeux</span></div><div class='word-unit'><span class='greek-word'>εἰς</span><span class='inter-segond'>au</span><span class='inter-darby'>vers</span></div><div class='word-unit'><span class='greek-word'>τὸν</span><span class='inter-segond'>le</span><span class='inter-darby'>le</span></div><div class='word-unit'><span class='greek-word'>οὐρανὸν</span><span class='inter-segond'>ciel</span><span class='inter-darby'>ciel,</span></div><div class='word-unit'><span class='greek-word'>ἐπᾶραι,</span><span class='inter-segond'>lever,</span><span class='inter-darby'>lever,</span></div><div class='word-unit'><span class='greek-word'>ἀλλ’</span><span class='inter-segond'>mais</span><span class='inter-darby'>mais</span></div><div class='word-unit'><span class='greek-word'>ἔτυπτε</span><span class='inter-segond'>se_frappait</span><span class='inter-darby'>se_frappait</span></div><div class='word-unit'><span class='greek-word'>τὸ</span><span class='inter-segond'>la</span><span class='inter-darby'>la</span></div><div class='word-unit'><span class='greek-word'>στῆθος</span><span class='inter-segond'>poitrine,</span><span class='inter-darby'>poitrine,</span></div><div class='word-unit'><span class='greek-word'>αὐτοῦ</span><span class='inter-segond'>sa</span><span class='inter-darby'>sa</span></div><div class='word-unit'><span class='greek-word'>λέγων·</span><span class='inter-segond'>disant :</span><span class='inter-darby'>disant :</span></div><div class='word-unit'><span class='greek-word'>Ὁ</span><span class='inter-segond'>O</span><span class='inter-darby'>Ô</span></div><div class='word-unit'><span class='greek-word'>Θεός,</span><span class='inter-segond'>Dieu,</span><span class='inter-darby'>Dieu,</span></div><div class='word-unit'><span class='greek-word'>ἱλάσθητί</span><span class='inter-segond'>sois_apaisé</span><span class='inter-darby'>sois_apaisé</span></div><div class='word-unit'><span class='greek-word'>μοι</span><span class='inter-segond'>envers_moi,</span><span class='inter-darby'>envers_moi,</span></div><div class='word-unit'><span class='greek-word'>τῷ</span><span class='inter-segond'>le</span><span class='inter-darby'>le</span></div><div class='word-unit'><span class='greek-word'>ἁμαρτωλῷ.</span><span class='inter-segond'>pécheur.</span><span class='inter-darby'>pécheur !</span></div>"
+    "translations": {
+      "segond": "Le publicain, se tenant à distance, n'osait même pas lever les yeux au ciel ; mais il se frappait la poitrine, en disant : O Dieu, sois apaisé envers moi, qui suis un pécheur.",
+      "darby": "Et le publicain, se tenant loin, ne voulait pas même lever les yeux vers le ciel, mais se frappait la poitrine, disant : O Dieu, sois apaisé envers moi, pécheur !"
+    },
+    "interlinear": [
+      { "greek": "καὶ", "gloss": "Et" },
+      { "greek": "ὁ", "gloss": "le" },
+      { "greek": "τελώνης", "gloss": "publicain" },
+      { "greek": "μακρόθεν", "gloss": "de_loin" },
+      { "greek": "ἑστὼς", "gloss": "se_tenant" },
+      { "greek": "οὐκ", "gloss": "ne_pas" },
+      { "greek": "ἤθελεν", "gloss": "voulait" },
+      { "greek": "οὐδὲ", "gloss": "même_pas" },
+      { "greek": "τοὺς", "gloss": "les" },
+      { "greek": "ὀφθαλμοὺς", "gloss": "yeux" },
+      { "greek": "εἰς", "gloss": "vers" },
+      { "greek": "τὸν", "gloss": "le" },
+      { "greek": "οὐρανὸν", "gloss": "ciel" },
+      { "greek": "ἐπᾶραι,", "gloss": "lever" },
+      { "greek": "ἀλλ’", "gloss": "mais" },
+      { "greek": "ἔτυπτεν", "gloss": "il_frappait" },
+      { "greek": "τὸ", "gloss": "le" },
+      { "greek": "στῆθος", "gloss": "sinus/poitrine" },
+      { "greek": "αὐτοῦ", "gloss": "de_lui" },
+      { "greek": "λέγων·", "gloss": "en_disant" },
+      { "greek": "Ὁ", "gloss": "—" },
+      { "greek": "θεός,", "gloss": "Dieu" },
+      { "greek": "ἱλάσθητί", "gloss": "sois_apaisé" },
+      { "greek": "μοι", "gloss": "envers_moi" },
+      { "greek": "τῷ", "gloss": "le" },
+      { "greek": "ἁμαρτωλῷ.", "gloss": "pécheur" }
+    ]
   },
   {
     "verse_number": 14,
-    "html_content": "<div class='word-unit'><span class='greek-word'>λέγω</span><span class='inter-segond'>Je_dis</span><span class='inter-darby'>Je_dis</span></div><div class='word-unit'><span class='greek-word'>ὑμῖν,</span><span class='inter-segond'>à_vous,</span><span class='inter-darby'>à_vous,</span></div><div class='word-unit'><span class='greek-word'>κατέβη</span><span class='inter-segond'>descendit</span><span class='inter-darby'>descendit</span></div><div class='word-unit'><span class='greek-word'>οὗτος</span><span class='inter-segond'>celui-ci</span><span class='inter-darby'>celui-ci</span></div><div class='word-unit'><span class='greek-word'>δεδικαιωμένος</span><span class='inter-segond'>justifié</span><span class='inter-darby'>justifié</span></div><div class='word-unit'><span class='greek-word'>εἰς</span><span class='inter-segond'>dans</span><span class='inter-darby'>en</span></div><div class='word-unit'><span class='greek-word'>τὸν</span><span class='inter-segond'>sa</span><span class='inter-darby'>sa</span></div><div class='word-unit'><span class='greek-word'>οἶκον</span><span class='inter-segond'>maison,</span><span class='inter-darby'>maison,</span></div><div class='word-unit'><span class='greek-word'>αὐτοῦ</span><span class='inter-segond'>sa</span><span class='inter-darby'>sa</span></div><div class='word-unit'><span class='greek-word'>παρ’</span><span class='inter-segond'>plutôt_que</span><span class='inter-darby'>plutôt_que</span></div><div class='word-unit'><span class='greek-word'>ἐκεῖνον·</span><span class='inter-segond'>celui-là.</span><span class='inter-darby'>l’autre ;</span></div><div class='word-unit'><span class='greek-word'>ὅτι</span><span class='inter-segond'>car</span><span class='inter-darby'>car</span></div><div class='word-unit'><span class='greek-word'>πᾶς</span><span class='inter-segond'>quiconque</span><span class='inter-darby'>quiconque</span></div><div class='word-unit'><span class='greek-word'>ὁ</span><span class='inter-segond'>le</span><span class='inter-darby'>le</span></div><div class='word-unit'><span class='greek-word'>ὑψῶν</span><span class='inter-segond'>s’élève</span><span class='inter-darby'>s’élève</span></div><div class='word-unit'><span class='greek-word'>ἑαυτὸν</span><span class='inter-segond'>soi-même</span><span class='inter-darby'>soi-même</span></div><div class='word-unit'><span class='greek-word'>ταπεινωθήσεται,</span><span class='inter-segond'>sera_abaissé,</span><span class='inter-darby'>sera_abaissé ;</span></div><div class='word-unit'><span class='greek-word'>ὁ</span><span class='inter-segond'>et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>δὲ</span><span class='inter-segond'>celui</span><span class='inter-darby'>celui</span></div><div class='word-unit'><span class='greek-word'>ταπεινῶν</span><span class='inter-segond'>abaissant</span><span class='inter-darby'>qui_s'abaisse</span></div><div class='word-unit'><span class='greek-word'>ἑαυτὸν</span><span class='inter-segond'>soi-même</span><span class='inter-darby'>soi-même</span></div><div class='word-unit'><span class='greek-word'>ὑψωθήσεται.</span><span class='inter-segond'>sera_élevé.</span><span class='inter-darby'>sera_élevé.</span></div>"
+    "translations": {
+      "segond": "Je vous le dis, celui-ci descendit dans sa maison justifié, plutôt que l'autre. Car quiconque s'élève sera abaissé, et celui qui s'abaisse sera élevé.",
+      "darby": "Je vous le dis : celui-ci descendit en sa maison justifié, plutôt que l'autre ; car quiconque s'élève soi-même sera abaissé ; et celui qui s'abaisse soi-même sera élevé."
+    },
+    "interlinear": [
+      { "greek": "λέγω", "gloss": "Je_dis" },
+      { "greek": "ὑμῖν,", "gloss": "à_vous" },
+      { "greek": "κατέβη", "gloss": "descendit" },
+      { "greek": "οὗτος", "gloss": "celui-ci" },
+      { "greek": "δεδικαιωμένος", "gloss": "justifié" },
+      { "greek": "εἰς", "gloss": "dans" },
+      { "greek": "τὸν", "gloss": "le" },
+      { "greek": "οἶκον", "gloss": "maison" },
+      { "greek": "αὐτοῦ", "gloss": "de_lui" },
+      { "greek": "παρ’", "gloss": "plutôt_que" },
+      { "greek": "ἐκεῖνον·", "gloss": "celui-là" },
+      { "greek": "ὅτι", "gloss": "car" },
+      { "greek": "πᾶς", "gloss": "quiconque" },
+      { "greek": "ὁ", "gloss": "celui_qui" },
+      { "greek": "ὑψῶν", "gloss": "s'élève" },
+      { "greek": "ἑαυτὸν", "gloss": "lui-même" },
+      { "greek": "ταπεινωθήσεται,", "gloss": "sera_abaissé" },
+      { "greek": "ὁ", "gloss": "celui_qui" },
+      { "greek": "δὲ", "gloss": "mais" },
+      { "greek": "ταπεινῶν", "gloss": "s'abaisse" },
+      { "greek": "ἑαυτὸν", "gloss": "lui-même" },
+      { "greek": "ὑψωθήσεται.", "gloss": "sera_élevé" }
+    ]
   }
-],
-    "greek_only": "\n10 Ἄνθρωποι δύο ἀνέβησαν εἰς τὸ ἱερὸν προσεύξασθαι, ὁ εἷς Φαρισαῖος καὶ ὁ ἕτερος τελώνης. \n11 ὁ Φαρισαῖος σταθεὶς πρὸς ἑαυτὸν ταῦτα προσηύχετο· Ὁ Θεός, εὐχαριστῶ σοι ὅτι οὐκ εἰμὶ ὥσπερ οἱ λοιποὶ τῶν ἀνθρώπων, ἅρπαγες, ἄδικοι, μοιχοί, ἢ καὶ ὡς οὗτος ὁ τελώνης· \n12 νηστεύω δὶς τοῦ σαββάτου, ἀποδεκατῶ πάντα ὅσα κτῶμαι. \n13 καὶ ὁ τελώνης μακρόθεν ἑστὼς οὐκ ἤθελεν οὐδὲ τοὺς ὀφθαλμὺς εἰς τὸν οὐρανὸν ἐπᾶραι, ἀλλ’ ἔτυπτε τὸ στῆθος αὐτοῦ λέγων· Ὁ Θεός, ἱλάσθητί μοι τῷ ἁμαρτωλῷ. \n14 λέγω ὑμῖν, κατέβη οὗτος δεδικαιωμένος εἰς τὸν οἶκον αὐτοῦ παρ’ ἐκεῖνον· ὅτι πᾶς ὁ ὑψῶν ἑαυτὸν ταπεινωθήσεται, ὁ δὲ ταπεινῶν ἑαυτὸν ὑψωθήσεται.",
-    "french_only": "\n10 Deux hommes montèrent au temple pour prier ; l'un était pharisien, et l'autre publicain. \n11 Le pharisien, debout, priait ainsi en lui-même : O Dieu, je te rends grâces de ce que je ne suis pas comme le reste des hommes, qui sont ravisseurs, injustes, adultères, ou même comme ce publicain ; \n12 je jeûne deux fois la semaine, je donne la dîme de tous mes revenus. \n13 Le publicain, se tenant à distance, n'osait même pas lever les yeux au ciel ; mais il se frappait la poitrine, en disant : O Dieu, sois apaisé envers moi, qui suis un pécheur. \n14 Je vous le dis, celui-ci descendit dans sa maison justifié, plutôt que l'autre. Car quiconque s'élève sera abaissé, et celui qui s'abaisse sera élevé.",
-    "french_darby": "\n10 Deux hommes montèrent au temple pour prier, l'un pharisien et l'autre publicain. \n11 Le pharisien, se tenant à part, priait en lui-même ces choses : « Ô Dieu, je te rends grâces de ce que je ne suis pas comme le reste des hommes, qui sont ravisseurs, injustes, adultères, ou même comme ce publicain ; \n12 je jeûne deux fois la semaine, je donne la dîme de tout ce que je acquiers ». \n13 Et le publicain, se tenant loin, ne voulait pas même lever ses yeux vers le ciel, mais se frappait la poitrine, disant : « Ô Dieu, sois apaisé envers moi, pécheur ! » \n14 Je vous dis : Celui-ci descendit en sa maison, justifié plutôt que l'autre ; car quiconque s'élève sera abaissé, et celui qui s'abaisse sera élevé ».",
-    "romanian_anania": "\n10 Doi oameni s’au suit la templu să se roage: unul era fariseu, iar celălalt vameș. \n11 Fariseul, stând drept, așa se ruga întru sine: „Dumnezeule, Îți mulțumesc că nu sunt ca ceilalți oameni: răpitori, nedrepți, adulteri, sau ca și acest vameș; \n12 postesc de două ori pe săptămână, dau zeciuială din toate câte câștig”. \n13 Iar vameșul, departe stând, nu voia nici ochii să-și ridice spre cer, ci își bătea pieptul, zicând: „Dumnezeule, fii milostiv mie, păcătosului!” \n14 Zic vouă: Acesta s’a coborât la casa sa mai îndreptățit decât acela; că tot cel ce se înalță pe sine se va smeri, iar cel ce se smerește pe sine se va înălța.",
-    "personal_analysis": "Cette péricope inaugure le Triode en posant le fondement de toute vie spirituelle : l'humilité. Le pharisien ne prie pas Dieu, il se contemple lui-même. Le publicain, au contraire, ne présente que son péché. Le verbe grec hilastheti (v. 13), rendu par 'fii milostiv' par Anania, contient l'idée du propitiatoire (le lieu du pardon). L'homme qui se 'smerește' (s'abaisse) vide son cœur de lui-même pour laisser la place à la grâce de Dieu, seule capable de justifier véritablement."
+]
+  "personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 11 - Ὁ / ὁ : L'article devant le vocatif \"Dieu\" (Ὁ θεός) ainsi que l'article de reprise devant \"publicain\" ne sont pas traduits en français car la langue moderne refuse le redoublement de l'article dans ces structures.\n• Verset 11 - τῶν : L'article génitif pluriel fléchi (\"de les hommes\") est contracté naturellement par Segond et Darby en \"des hommes\".\n• Verset 12 - τοῦ : L'article génitif singulier marquant le temps (\"de la semaine\") est omis ou traduit directement par le syntagme \"la semaine\" sans préposition explicite.\n• Verset 13 - Ὁ : L'article de l'invocation vocative (\"O Dieu\") est absent ou remplacé par l'interjection vocative traditionnelle.\n• Verset 13 - τῷ : Le démonstratif/article d'insistance qui précède le qualificatif (\"le pécheur\") est traduit par une proposition relative chez Segond (\"qui suis un pécheur\") ou condensé en apposition absolue par Darby (\"pécheur !\").\n\nAnalyse spirituelle :\nCette parabole ouvre le temps du Triode et pose les fondations de l'ascèse orthodoxe. Le Pharisien commet l'erreur d'objectiver sa piété et de se comparer, transformant ses vertus en barrières. Le Publicain, par sa posture physique (de loin, les yeux baissés) et sa supplique liturgique pure (\"Dieu, sois apaisé envers moi\"), entre dans le mouvement de la théophorie par l'humilité. La justification n'est pas une comptabilité éthique, mais une transformation intérieure née de la conscience de sa propre pauvreté."  
   },
   "apostle": {
     "reference": "2 Timothée 3, 10-15",
