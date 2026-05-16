@@ -5,7 +5,7 @@
 :root {
     --primary-color: #4a6fa5;
     --secondary-color: #92b8d0;
-    --accent-color: #d9534f; /* Rouge pour le PDF */
+    --accent-color: #d9534f;
     --background-color: #f4f4f4;
     --text-color: #333;
     --font-serif: 'Times New Roman', Times, serif;
@@ -95,7 +95,7 @@ main {
     background-color: #c9302c;
 }
 
-/* Sélecteur de Version (Segond / Darby / Anania) */
+/* Sélecteur de Version (Segond / Darby) pour le panneau latéral */
 .version-tools {
     display: flex;
     align-items: center;
@@ -132,61 +132,25 @@ main {
 }
 
 /* ------------------------------------------- */
-/* 3. MOTEUR DE BASCULEMENT (SÉCURITÉ MAXIMUM) */
-/* ------------------------------------------- */
-
-/* On cache toutes les versions par défaut */
-.inter-darby, .inter-romanian, .inter-segond {
-    display: none !important;
-}
-
-/* ÉTAT PAR DÉFAUT : Louis Segond */
-body:not(.show-darby):not(.show-anania) .inter-segond {
-    display: flex !important;
-}
-
-/* ÉTAT : Darby actif */
-body.show-darby .inter-darby {
-    display: flex !important;
-}
-
-/* ÉTAT : Anania (RO) actif */
-body.show-anania .inter-romanian {
-    display: flex !important;
-}
-
-/* Styles graphiques propres à chaque traduction */
-.inter-segond, .inter-darby {
-    color: #555;
-    font-style: italic;
-}
-
-.romanian-word {
-    color: #0055a4; /* Bleu liturgique roumain */
-    font-style: normal;
-    font-weight: 500;
-}
-
-/* ------------------------------------------- */
-/* 4. INTERLINÉAIRE ET ALIGNEMENT (WORD-UNIT)  */
+/* 3. INTERLINÉAIRE ET ALIGNEMENT (WORD-UNIT)  */
 /* ------------------------------------------- */
 
 .interlinear-container {
     display: block;
     background: white;
-    padding: 30px 40px; /* Plus d'espace interne */
+    padding: 30px 40px;
     border-radius: 8px;
-    max-width: 1000px;  /* Largeur idéale de lecture sur grand écran */
-    margin: 0 auto;     /* Centre la zone de texte sur l'écran */
+    max-width: 1000px;
+    margin: 0 auto;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
 }
 
 .verse-row {
     position: relative;
     margin-bottom: 40px;
-    display: flex;       /* Aligne les blocs de mots horizontalement */
-    flex-wrap: wrap;     /* Permet aux mots de sauter à la ligne proprement */
-    gap: 20px 25px;      /* Aère l'espace : 20px vertical, 25px horizontal */
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px 25px;
 }
 
 /* Numéro orange à gauche du verset */
@@ -202,13 +166,13 @@ body.show-anania .inter-romanian {
     text-align: right;
 }
 
-/* Chaque colonne soude verticalement le mot grec et sa traduction active */
+/* Bloc contenant le mot grec et sa glose */
 .word-unit {
     display: flex;
-    flex-direction: column; /* Aligne le grec en haut et la traduction dessous */
-    align-items: center;    /* Centre horizontalement le texte */
+    flex-direction: column;
+    align-items: center;
     text-align: center;
-    min-width: 105px;       /* Largeur confortable pour éviter les collisions de mots longs */
+    min-width: 80px; /* Légèrement réduit pour être plus compact, ajuste si besoin */
 }
 
 .greek-word {
@@ -218,18 +182,21 @@ body.show-anania .inter-romanian {
     margin-bottom: 4px;
 }
 
-/* Propriétés partagées pour toutes les lignes de traduction sous le grec */
-.inter-segond, .inter-darby, .inter-romanian {
+/* Glose mot-à-mot (remplace inter-segond et inter-darby) */
+.inter-gloss {
+    color: #555;
+    font-style: italic;
     font-size: 0.85em;
-    border-top: 1px solid #f0f0f0;
+    border-top: 1px solid #e0e0e0; /* Ligne de séparation subtile */
     margin-top: 4px;
-    padding-top: 2px;
+    padding-top: 4px;
     width: 100%;
-    justify-content: center; /* Aligne parfaitement au centre en mode flex */
+    display: flex;
+    justify-content: center;
 }
 
 /* ------------------------------------------- */
-/* 5. ANALYSE, NOTES ET FORMULAIRE             */
+/* 4. ANALYSE, NOTES ET FORMULAIRE             */
 /* ------------------------------------------- */
 
 .analysis-panel {
@@ -241,31 +208,62 @@ body.show-anania .inter-romanian {
     border-top: 4px solid var(--primary-color);
 }
 
-#my-notes { font-family: var(--font-serif); line-height: 1.6; }
+#my-notes { 
+    font-family: var(--font-serif); 
+    line-height: 1.6; 
+}
 
 /* ------------------------------------------- */
-/* 6. PANNEAUX LATÉRAUX                        */
+/* 5. PANNEAUX LATÉRAUX                        */
 /* ------------------------------------------- */
 
-#side-panels { position: fixed; top: 0; left: 0; width: 0; height: 0; z-index: 100; }
+#side-panels { 
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+    width: 0; 
+    height: 0; 
+    z-index: 100; 
+}
 
 .side-panel {
-    position: fixed; top: 0; right: 0; width: 450px; max-width: 90%; height: 100%;
-    background: white; box-shadow: -5px 0 15px rgba(0,0,0,0.2); padding: 25px;
-    overflow-y: auto; z-index: 110; transition: transform 0.3s ease-in-out;
+    position: fixed; 
+    top: 0; 
+    right: 0; 
+    width: 450px; 
+    max-width: 90%; 
+    height: 100%;
+    background: white; 
+    box-shadow: -5px 0 15px rgba(0,0,0,0.2); 
+    padding: 25px;
+    overflow-y: auto; 
+    z-index: 110; 
+    transition: transform 0.3s ease-in-out;
 }
 
-.side-panel.hidden { transform: translateX(100%); }
+.side-panel.hidden { 
+    transform: translateX(100%); 
+}
 
-.side-panel pre { white-space: pre-wrap; font-family: var(--font-serif); line-height: 1.8; }
+.side-panel pre { 
+    white-space: pre-wrap; 
+    font-family: var(--font-serif); 
+    line-height: 1.8; 
+}
 
 .close-btn {
-    position: absolute; top: 15px; right: 15px; background: none; border: none;
-    font-size: 1.5em; cursor: pointer; color: #888;
+    position: absolute; 
+    top: 15px; 
+    right: 15px; 
+    background: none; 
+    border: none;
+    font-size: 1.5em; 
+    cursor: pointer; 
+    color: #888;
 }
 
 /* ------------------------------------------- */
-/* 7. INFO-BULLES ET COULEURS                  */
+/* 6. INFO-BULLES ET COULEURS                  */
 /* ------------------------------------------- */
 
 .mot-info { border-bottom: 2px dotted #e67e22; color: #d35400; cursor: help; }
