@@ -1,4 +1,4 @@
-// Fichier: app.js (VERSION FINALE TRILINGUE COMPLÈTE)
+// Fichier: app.js (VERSION FRANÇAISE ÉPURÉE - JSON MOT-À-MOT)
 
 document.addEventListener('DOMContentLoaded', () => {
 
@@ -74,30 +74,22 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     // --- SÉCURITÉ : CHOIX PAR DÉFAUT ---
-    let currentSundayKey = '01_prodigal_son'; 
+    let currentSundayKey = '00_publican_pharisee'; 
     let currentReadingType = 'gospel';
     let currentTranslation = 'segond';
 
-    // --- 2. FONCTION DE BASCULEMENT (VERSION TRI-LANGUE) ---
+    // --- 2. FONCTION DE BASCULEMENT ---
     const changeTranslation = (version) => {
         currentTranslation = version;
 
-        // 1. Gestion visuelle des boutons : On éteint tout, puis on allume le bon
+        // 1. Gestion visuelle des boutons
         document.querySelectorAll('.version-btn').forEach(btn => btn.classList.remove('active'));
         const activeBtn = document.getElementById('btn-' + version);
         if (activeBtn) activeBtn.classList.add('active');
 
-        // 2. Gestion des classes sur le body : On retire les modes spécifiques
-        document.body.classList.remove('show-darby', 'show-anania');
+        // (On a retiré l'ajout de classes css globales, car la glose centrale est maintenant unique)
 
-        // On active le mode correspondant
-        if (version === 'darby') {
-            document.body.classList.add('show-darby');
-        } else if (version === 'anania') {
-            document.body.classList.add('show-anania');
-        }
-
-        // 3. On rafraîchit l'affichage du texte intégral et de l'interlinéaire
+        // 2. On rafraîchit l'affichage pour mettre à jour le panneau latéral
         loadTextContext(currentSundayKey, currentReadingType);
     };
 
@@ -110,11 +102,9 @@ document.addEventListener('DOMContentLoaded', () => {
         const mainText = document.getElementById('gospel-text');
         const greekFull = document.getElementById('greek-full-text');
         const frenchFull = document.getElementById('french-full-text');
-        const romanianFull = document.getElementById('romanian-full-text'); // MODIFICATION : Ajout du sélecteur roumain
         const myNotes = document.getElementById('my-notes');
         const pdfButtonContainer = document.getElementById('pdf-button-container');
         
-        // Indicateur de chargement
         if(mainText) mainText.innerHTML = '<p style="text-align:center;"><em>Chargement...</em></p>';
 
         try {
@@ -124,7 +114,6 @@ document.addEventListener('DOMContentLoaded', () => {
             const data = await response.json();
             const reading = data[readingType];
 
-            // --- Affichage de la Référence + Titre ---
             if (!reading) throw new Error(`Section "${readingType}" manquante dans le fichier JSON.`);
 
             const referenceHtml = reading.reference 
@@ -133,39 +122,59 @@ document.addEventListener('DOMContentLoaded', () => {
             
             if(verseTitle) verseTitle.innerHTML = referenceHtml + (reading.title || "Titre inconnu");
 
-            // --- GESTION DE L'AFFICHAGE ET DE LA NUMÉROTATION ---
-            if (mainText) {
-                if (Array.isArray(reading.interlinear)) {
-                    let htmlFinal = "";
-                    reading.interlinear.forEach(verset => {
-                        htmlFinal += `<div class="verse-row" data-num="${verset.verse_number}.">
-                                        ${verset.html_content}
-                                      </div>`;
-                    });
-                    mainText.innerHTML = htmlFinal;
-                } else {
-                    mainText.innerHTML = `<div class="verse-row" data-num="1.">${reading.interlinear}</div>`;
+            // --- GESTION DE L'AFFICHAGE (ARCHITECTURE DYNAMIQUE) ---
+            if (mainText && Array.isArray(reading.interlinear)) {
+                let htmlFinal = "";
+                let fullFrenchText = "";
+
+                reading.interlinear.forEach(verset => {
+                    let wordsHtml = "";
+                    
+                    // NOUVELLE MÉTHODE (SainteBible.com - Mot-à-Mot)
+                    if (Array.isArray(verset.interlinear)) {
+                        verset.interlinear.forEach(word => {
+                            wordsHtml += `
+                            <div class="word-unit">
+                                <span class="greek-word">${word.greek}</span>
+                                <span class="inter-gloss">${word.gloss}</span>
+                            </div>`;
+                        });
+                    } 
+                    // ANCIENNE MÉTHODE (Rétrocompatibilité)
+                    else if (verset.html_content) {
+                        wordsHtml = verset.html_content;
+                    }
+
+                    // Ajout du bloc verset à la page
+                    htmlFinal += `<div class="verse-row" data-num="${verset.verse_number}.">
+                                    ${wordsHtml}
+                                  </div>`;
+
+                    // Construction du texte intégral pour le panneau de droite (Nouvelle Méthode)
+                    if (verset.translations) {
+                        const trans = verset.translations[currentTranslation] || "";
+                        if (trans) fullFrenchText += `<strong>${verset.verse_number}.</strong> ${trans}<br><br>`;
+                    }
+                });
+
+                mainText.innerHTML = htmlFinal;
+
+                // Affichage du Panneau Français Intégral
+                if(frenchFull) {
+                    if (fullFrenchText) {
+                        // S'il a été construit dynamiquement (Nouveau JSON)
+                        frenchFull.innerHTML = fullFrenchText;
+                    } else {
+                        // Rétrocompatibilité (Ancien JSON)
+                        const frenchKey = (currentTranslation === 'darby') ? 'french_darby' : 'french_only';
+                        frenchFull.innerHTML = reading[frenchKey] || reading['french_only'] || "Traduction non disponible.";
+                    }
                 }
             }
 
-            // --- GESTION DES FLUX DE TEXTES INTÉGRAUX SÉPARÉS ---
+            // Textes intégraux supplémentaires
             if(greekFull) greekFull.innerText = reading.greek_only || "";
-            
-            // Panneau Français (Affiche Segond ou Darby selon la sélection active)
-            if(frenchFull) {
-                const frenchKey = (currentTranslation === 'darby') ? 'french_darby' : 'french_only';
-                frenchFull.innerText = reading[frenchKey] || reading['french_only'] || "Traduction non disponible.";
-            }
-
-            // Panneau Roumain (Affiche TOUJOURS la version intégrale Anania)
-            if(romanianFull) {
-                romanianFull.innerText = reading.romanian_anania || "Traducerea nu este disponibilă în acest fișier.";
-            }
-
-            // Affichage de l'analyse du Père Pascal
-            if(myNotes) {
-                myNotes.innerText = reading.personal_analysis || "Pas d'analyse disponible.";
-            }
+            if(myNotes) myNotes.innerText = reading.personal_analysis || "Pas d'analyse disponible.";
 
             // Gestion PDF
             if (pdfButtonContainer) {
@@ -177,7 +186,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             }
 
-            // Mise à jour visuelle des boutons Évangile/Apôtre
+            // Mise à jour visuelle des onglets Évangile/Apôtre
             document.querySelectorAll('#text-selector button').forEach(btn => btn.classList.remove('active'));
             const activeBtn = document.getElementById(`select-${readingType}`);
             if(activeBtn) activeBtn.classList.add('active');
@@ -226,62 +235,44 @@ document.addEventListener('DOMContentLoaded', () => {
         btnApostle.addEventListener('click', () => loadTextContext(currentSundayKey, 'apostle'));
     }
 
-    // Gestion des Panneaux latéraux (Modales)
+    // Gestion des Panneaux latéraux
     const greekView = document.getElementById('greek-view');
     const frenchView = document.getElementById('french-view');
-    const romanianView = document.getElementById('romanian-view'); // MODIFICATION : Ajout du panneau roumain
 
     const toggleGreek = document.getElementById('toggle-greek');
     const toggleFrench = document.getElementById('toggle-french');
-    const toggleRomanian = document.getElementById('toggle-romanian'); // MODIFICATION : Ajout du bouton roumain
     
-    if (toggleGreek && greekView && frenchView && romanianView) {
+    if (toggleGreek && greekView && frenchView) {
         toggleGreek.addEventListener('click', () => {
             frenchView.classList.add('hidden');
-            romanianView.classList.add('hidden'); // Ferme le roumain
             greekView.classList.toggle('hidden');
         });
     }
 
-    if (toggleFrench && greekView && frenchView && romanianView) {
+    if (toggleFrench && greekView && frenchView) {
         toggleFrench.addEventListener('click', () => {
             greekView.classList.add('hidden');
-            romanianView.classList.add('hidden'); // Ferme le roumain
             frenchView.classList.toggle('hidden');
         });
     }
 
-    // MODIFICATION : Écouteur pour ouvrir/fermer le panneau Roumain Intégral
-    if (toggleRomanian && greekView && frenchView && romanianView) {
-        toggleRomanian.addEventListener('click', () => {
-            greekView.classList.add('hidden');
-            frenchView.classList.add('hidden'); // Ferme le français
-            romanianView.classList.toggle('hidden');
-        });
-    }
-
-    // Gestion de la fermeture globale via les boutons X
+    // Fermeture globale via les boutons X
     document.querySelectorAll('.close-btn').forEach(btn => {
         btn.addEventListener('click', () => {
             if (greekView) greekView.classList.add('hidden');
             if (frenchView) frenchView.classList.add('hidden');
-            if (romanianView) romanianView.classList.add('hidden'); // MODIFICATION : Prise en compte du roumain
         });
     });
 
-    // Écouteurs pour le changement de version interlinéaire
+    // Sélection de la version
     const btnVersionSegond = document.getElementById('btn-segond');
     const btnVersionDarby = document.getElementById('btn-darby');
-    const btnVersionAnania = document.getElementById('btn-anania');
 
     if (btnVersionSegond) {
         btnVersionSegond.addEventListener('click', () => changeTranslation('segond'));
     }
     if (btnVersionDarby) {
         btnVersionDarby.addEventListener('click', () => changeTranslation('darby'));
-    }
-    if (btnVersionAnania) {
-        btnVersionAnania.addEventListener('click', () => changeTranslation('anania'));
     }
 
 });
