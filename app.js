@@ -287,4 +287,4 @@ document.addEventListener('DOMContentLoaded', () => {
             bulle.style.display = 'none';
         }
     });
-
+ });
