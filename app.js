@@ -235,23 +235,12 @@ document.addEventListener('DOMContentLoaded', () => {
         btnApostle.addEventListener('click', () => loadTextContext(currentSundayKey, 'apostle'));
     }
 
-    // Gestion des Panneaux latéraux
-    const greekView = document.getElementById('greek-view');
+  // --- 5. GESTION DES PANNEAUX LATÉRAUX (CORRIGÉ) ---
     const frenchView = document.getElementById('french-view');
-
-    const toggleGreek = document.getElementById('toggle-greek');
     const toggleFrench = document.getElementById('toggle-french');
-    
-    if (toggleGreek && greekView && frenchView) {
-        toggleGreek.addEventListener('click', () => {
-            frenchView.classList.add('hidden');
-            greekView.classList.toggle('hidden');
-        });
-    }
 
-    if (toggleFrench && greekView && frenchView) {
+    if (toggleFrench && frenchView) {
         toggleFrench.addEventListener('click', () => {
-            greekView.classList.add('hidden');
             frenchView.classList.toggle('hidden');
         });
     }
@@ -259,11 +248,9 @@ document.addEventListener('DOMContentLoaded', () => {
     // Fermeture globale via les boutons X
     document.querySelectorAll('.close-btn').forEach(btn => {
         btn.addEventListener('click', () => {
-            if (greekView) greekView.classList.add('hidden');
             if (frenchView) frenchView.classList.add('hidden');
         });
     });
-
     // Sélection de la version
     const btnVersionSegond = document.getElementById('btn-segond');
     const btnVersionDarby = document.getElementById('btn-darby');
