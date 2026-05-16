@@ -263,5 +263,28 @@ document.addEventListener('DOMContentLoaded', () => {
     if (btnVersionDarby) {
         btnVersionDarby.addEventListener('click', () => changeTranslation('darby'));
     }
+// --- 6. GESTION DES BULLES D'ANALYSE (CLIC) ---
+    // On crée la bulle dynamiquement si elle n'a pas été mise dans le HTML
+    let bulle = document.getElementById('bulle-info');
+    if (!bulle) {
+        bulle = document.createElement('div');
+        bulle.id = 'bulle-info';
+        document.body.appendChild(bulle);
+    }
 
-});
+    document.addEventListener('click', (e) => {
+        // Si on clique sur un mot qui possède la classe 'mot-info'
+        if (e.target.classList.contains('mot-info')) {
+            e.preventDefault();
+            const contenu = e.target.getAttribute('data-analyse');
+            if (contenu) {
+                bulle.innerHTML = contenu;
+                bulle.style.display = 'block';
+            }
+        } 
+        // Si on clique n'importe où ailleurs, on cache la bulle
+        else if (e.target.id !== 'bulle-info') {
+            bulle.style.display = 'none';
+        }
+    });
+
