@@ -1,4 +1,4 @@
-// Fichier: app.js (VERSION FRANÇAISE ÉPURÉE - JSON MOT-À-MOT)
+// Fichier: app.js (VERSION FRANÇAISE ÉPURÉE - JSON MOT-À-MOT + BULLES D'INFO)
 
 document.addEventListener('DOMContentLoaded', () => {
 
@@ -87,8 +87,6 @@ document.addEventListener('DOMContentLoaded', () => {
         const activeBtn = document.getElementById('btn-' + version);
         if (activeBtn) activeBtn.classList.add('active');
 
-        // (On a retiré l'ajout de classes css globales, car la glose centrale est maintenant unique)
-
         // 2. On rafraîchit l'affichage pour mettre à jour le panneau latéral
         loadTextContext(currentSundayKey, currentReadingType);
     };
@@ -133,9 +131,14 @@ document.addEventListener('DOMContentLoaded', () => {
                     // NOUVELLE MÉTHODE (SainteBible.com - Mot-à-Mot)
                     if (Array.isArray(verset.interlinear)) {
                         verset.interlinear.forEach(word => {
+                            
+                            // NOUVEAUTÉ : Gestion des bulles d'info
+                            const infoClass = word.analyse ? 'mot-info' : '';
+                            const dataAttr = word.analyse ? `data-analyse="${word.analyse.replace(/"/g, '&quot;')}"` : '';
+
                             wordsHtml += `
                             <div class="word-unit">
-                                <span class="greek-word">${word.greek}</span>
+                                <span class="greek-word ${infoClass}" ${dataAttr}>${word.greek}</span>
                                 <span class="inter-gloss">${word.gloss}</span>
                             </div>`;
                         });
@@ -150,7 +153,7 @@ document.addEventListener('DOMContentLoaded', () => {
                                     ${wordsHtml}
                                   </div>`;
 
-                    // Construction du texte intégral pour le panneau de droite (Nouvelle Méthode)
+                    // Construction du texte intégral pour le panneau de droite
                     if (verset.translations) {
                         const trans = verset.translations[currentTranslation] || "";
                         if (trans) fullFrenchText += `<strong>${verset.verse_number}.</strong> ${trans}<br><br>`;
@@ -162,10 +165,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 // Affichage du Panneau Français Intégral
                 if(frenchFull) {
                     if (fullFrenchText) {
-                        // S'il a été construit dynamiquement (Nouveau JSON)
                         frenchFull.innerHTML = fullFrenchText;
                     } else {
-                        // Rétrocompatibilité (Ancien JSON)
                         const frenchKey = (currentTranslation === 'darby') ? 'french_darby' : 'french_only';
                         frenchFull.innerHTML = reading[frenchKey] || reading['french_only'] || "Traduction non disponible.";
                     }
@@ -235,7 +236,7 @@ document.addEventListener('DOMContentLoaded', () => {
         btnApostle.addEventListener('click', () => loadTextContext(currentSundayKey, 'apostle'));
     }
 
-  // --- 5. GESTION DES PANNEAUX LATÉRAUX (CORRIGÉ) ---
+  // --- 5. GESTION DES PANNEAUX LATÉRAUX ---
     const frenchView = document.getElementById('french-view');
     const toggleFrench = document.getElementById('toggle-french');
 
@@ -251,6 +252,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (frenchView) frenchView.classList.add('hidden');
         });
     });
+    
     // Sélection de la version
     const btnVersionSegond = document.getElementById('btn-segond');
     const btnVersionDarby = document.getElementById('btn-darby');
