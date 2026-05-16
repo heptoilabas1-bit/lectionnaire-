@@ -17,21 +17,18 @@
     </header>
 
     <main>
-        
         <div id="main-content">
+            
             <div id="translation-selector" class="version-tools">
-    <span>Traduction : </span>
-    <button id="btn-segond" class="version-btn active" onclick="changeVersion('segond')">Louis Segond</button>
-    <button id="btn-darby" class="version-btn" onclick="changeVersion('darby')">Darby</button>
-    <button id="btn-anania" class="version-btn" onclick="changeVersion('anania')">Anania (RO)</button>            
-</div>
+                <span>Traduction latérale : </span>
+                <button id="btn-segond" class="version-btn active">Louis Segond</button>
+                <button id="btn-darby" class="version-btn">Darby</button>
+            </div>
+            
             <div id="panel-toggles" class="text-tools">
                 <button id="toggle-greek" class="tool-btn">Grec Intégral</button>
                 <button id="toggle-french" class="tool-btn">Français Intégral</button>
-                <button id="toggle-romanian" class="tool-btn">Roumain Intégral</button> <a id="pdf-button-container" href="#" target="_blank" class="pdf-btn" style="display: none;">
-                <a id="pdf-button-container" href="#" target="_blank" class="pdf-btn" style="display: none;">
-                    📄 Voir le PDF
-                </a>
+                <a id="pdf-button-container" href="#" target="_blank" class="pdf-btn" style="display: none;">📄 Voir le PDF</a>
             </div>
             
             <div id="text-selector">
@@ -41,39 +38,33 @@
 
             <h2 id="verse-title">Chargement...</h2>
             
-            <div id="gospel-text" class="interlinear-container">
-                </div>
+            <div id="gospel-text" class="interlinear-container"></div>
             
             <section id="notes-view" class="analysis-panel">
                 <h3>Notes / Analyse (**P.Pascal**)</h3>
                 <p id="my-notes">Chargement de l'analyse...</p>
 
-             <h4>Contributions Communautaires</h4>
-<div id="form-container" style="background-color: #f4f4f4; padding: 15px; border-radius: 5px; margin-top: 10px;">
-  <p style="font-size: 0.9em; margin-bottom: 10px;">Envoyez une analyse au Père Pascal ou au webmaster :</p>
-  
-  <form action="https://formspree.io/f/xaqqqanj" method="POST">
-    
-    <label for="nom" style="display:block; margin-top:10px;">Votre Nom :</label>
-    <input type="text" name="nom" required style="width: 100%; padding: 8px; box-sizing: border-box;">
+                <h4>Contributions Communautaires</h4>
+                <div id="form-container" style="background-color: #f4f4f4; padding: 15px; border-radius: 5px; margin-top: 10px;">
+                    <p style="font-size: 0.9em; margin-bottom: 10px;">Envoyez une analyse au Père Pascal ou au webmaster :</p>
+                    <form action="https://formspree.io/f/xaqqqanj" method="POST">
+                        <label for="nom" style="display:block; margin-top:10px;">Votre Nom :</label>
+                        <input type="text" name="nom" required style="width: 100%; padding: 8px; box-sizing: border-box;">
 
-    <label for="email" style="display:block; margin-top:10px;">Votre Email (pour réponse) :</label>
-    <input type="email" name="email" required style="width: 100%; padding: 8px; box-sizing: border-box;">
+                        <label for="email" style="display:block; margin-top:10px;">Votre Email (pour réponse) :</label>
+                        <input type="email" name="email" required style="width: 100%; padding: 8px; box-sizing: border-box;">
 
-    <label for="reference" style="display:block; margin-top:10px;">Passage biblique :</label>
-    <input type="text" name="reference" placeholder="Ex: Luc 15 (Fils Prodigue)" style="width: 100%; padding: 8px; box-sizing: border-box;">
+                        <label for="reference" style="display:block; margin-top:10px;">Passage biblique :</label>
+                        <input type="text" name="reference" placeholder="Ex: Luc 15 (Fils Prodigue)" style="width: 100%; padding: 8px; box-sizing: border-box;">
 
-    <label for="message" style="display:block; margin-top:10px;">Votre Contribution :</label>
-    <textarea name="message" rows="4" required style="width: 100%; padding: 8px; box-sizing: border-box;"></textarea>
+                        <label for="message" style="display:block; margin-top:10px;">Votre Contribution :</label>
+                        <textarea name="message" rows="4" required style="width: 100%; padding: 8px; box-sizing: border-box;"></textarea>
 
-    <button type="submit" style="margin-top: 15px; background-color: #28a745; color: white; padding: 10px 15px; border: none; border-radius: 4px; cursor: pointer; width: 100%;">
-      Envoyer par mail
-    </button>
-  </form>
-</div>   
+                        <button type="submit" style="margin-top: 15px; background-color: #28a745; color: white; padding: 10px 15px; border: none; border-radius: 4px; cursor: pointer; width: 100%;">Envoyer par mail</button>
+                    </form>
+                </div>   
             </section>
         </div>
-
 
         <div id="side-panels">
             <section id="greek-view" class="side-panel hidden">
@@ -81,16 +72,12 @@
                 <h3>Texte Grec Intégral</h3>
                 <pre id="greek-full-text"></pre>
             </section>
+            
             <section id="french-view" class="side-panel hidden">
                 <button class="close-btn">X</button>
                 <h3>Traduction Française (Intégrale)</h3>
                 <pre id="french-full-text"></pre>
             </section>
-            <section id="romanian-view" class="side-panel hidden">
-        <button class="close-btn">X</button>
-        <h3>Versiunea Anania (Integral)</h3>
-        <pre id="romanian-full-text"></pre>
-    </section>
         </div>
         
     </main>
@@ -100,139 +87,6 @@
     </footer>
 
     <script src="app.js"></script>
-<div id="bulle-info"></div>
-
-<script>
-    // --- 1. GESTION DES BULLES (CLIC) ---
-    document.addEventListener('click', function(e) {
-        var bulle = document.getElementById('bulle-info');
-        if (e.target.classList.contains('mot-info')) {
-            e.preventDefault();
-            var contenu = e.target.getAttribute('data-analyse');
-            if (contenu && bulle) {
-                bulle.innerHTML = contenu;
-                bulle.style.display = 'block';
-            }
-        } else if (bulle && e.target.id !== 'bulle-info') {
-            bulle.style.display = 'none';
-        }
-    });
-
-    // --- 2. OUTIL : Trouver le numéro du verset ---
-    function getStartVerse(reference) {
-        if (!reference) return 1;
-        var match = reference.match(/[,:]\s*(\d+)/);
-        if (match && match[1]) {
-            return parseInt(match[1], 10);
-        }
-        return 1;
-    }
-
-    // --- 3. FONCTION D'AFFICHAGE SÉCURISÉE ---
-    function displaySection(data, containerId, titleId, refId, notesId) {
-        if (!data) return;
-
-        // 1. Textes de base (Titre, Référence...)
-        var t = document.getElementById(titleId); if(t) t.textContent = data.title;
-        var r = document.getElementById(refId); if(r) r.textContent = data.reference;
-        var n = document.getElementById(notesId); if(n) n.innerHTML = data.personal_analysis || "";
-
-        // 2. Injection du HTML
-        var container = document.getElementById(containerId);
-        if (!container) return;
-        container.innerHTML = data.interlinear;
-
-        // 3. NUMÉROTATION INTELLIGENTE
-        // On récupère le chiffre de départ (ex: 11)
-        var startNum = getStartVerse(data.reference); 
-        
-        // On récupère tous les blocs de versets (les manuels ET les anciens)
-        // D'abord on cherche la classe officielle, sinon les paragraphes <p>
-        var verses = container.querySelectorAll('.interlinear-verse');
-        if (verses.length === 0) verses = container.querySelectorAll('p');
-
-        for (var i = 0; i < verses.length; i++) {
-            var v = verses[i];
-            var numeroCalcule = startNum + i; // Le numéro qu'on devrait avoir (11, 12... 21...)
-
-            // VÉRIFICATION : Le verset commence-t-il DÉJÀ par un chiffre ?
-            // On regarde le texte brut pour voir s'il y a déjà "11." ou "12."
-            var textClean = v.innerText.trim();
-            // Cette formule magique vérifie si ça commence par un nombre
-            var aDejaUnNumero = /^\d+/.test(textClean);
-
-            // Si PAS de chiffre au début (donc c'est un ancien verset), on l'ajoute !
-            if (!aDejaUnNumero) {
-                var spanNum = document.createElement("strong");
-                
-                // Style Orange
-                spanNum.style.color = "#e67e22"; 
-                spanNum.style.marginRight = "5px";
-                spanNum.innerText = numeroCalcule + ". ";
-                
-                // On insère au tout début du bloc
-                v.insertBefore(spanNum, v.firstChild);
-            }
-        }
-    }
-    
-
-    // --- 4. CHARGEMENT ---
-    async function loadSunday(fileName) {
-        // Petit message de chargement si la boite existe
-        var loader = document.getElementById('gospel-interlinear');
-        if (loader) loader.innerHTML = '<p style="text-align:center; color:#999;">Chargement...</p>';
-        
-        try {
-            const response = await fetch('data/' + fileName);
-            if (!response.ok) throw new Error("Fichier introuvable : " + fileName);
-            
-            const data = await response.json();
-
-            // Affichage Évangile
-            if (data.gospel) {
-                displaySection(data.gospel, 'gospel-interlinear', 'gospel-title', 'gospel-ref', 'gospel-notes');
-            }
-
-            // Affichage Apôtre (Souvent c'est ici que ça plante si l'Apôtre manque dans le HTML)
-            if (data.apostle) {
-                displaySection(data.apostle, 'apostle-interlinear', 'apostle-title', 'apostle-ref', 'apostle-notes');
-            }
-            
-            // Modales (Grec/Français) - avec vérification
-            var greekModal = document.getElementById('modal-greek-content');
-            if(greekModal && data.gospel) greekModal.innerText = data.gospel.greek_only;
-            
-            var frenchModal = document.getElementById('modal-french-content');
-            if(frenchModal && data.gospel) frenchModal.innerText = data.gospel.french_only;
-
-        } catch (error) {
-            console.error("Erreur de chargement :", error);
-        }
-    }
-
-    // Démarrage
-    loadSunday('triode_1_publican.json'); 
-
-    // Menu déroulant
-    var selectMenu = document.getElementById('sunday-select');
-    if (selectMenu) {
-        selectMenu.addEventListener('change', function() {
-            loadSunday(this.value);
-        });
-    }
-</script>
 
 </body>
-
 </html>
-
-
-
-
-
-
-
-
-
-
