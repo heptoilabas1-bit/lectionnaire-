@@ -410,7 +410,56 @@
     ]
   },
   {
-    "verse_number": 28,
+   "verse_number": 26,
+    "translations": {
+      "segond": "Il appela un des serviteurs, et lui demanda ce que c'était.",
+      "darby": "Et ayant appelé à lui l'un des serviteurs, il s'enquit ce que pourraient être ces choses."
+    },
+    "interlinear": [
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "προσκαλεσάμενος", "gloss": "ayant_appelé" },
+      { "greek": "ἕνα", "gloss": "un" },
+      { "greek": "τῶν", "gloss": "des" },
+      { "greek": "παίδων", "gloss": "serviteurs" },
+      { "greek": "ἐπυνθάνετο", "gloss": "il_demandait" },
+      { "greek": "τί", "gloss": "ce_que" },
+      { "greek": "εἴη", "gloss": "pourraient_être" },
+      { "greek": "ταῦτα.", "gloss": "ces_choses" }
+    ]
+  },
+  {
+    "verse_number": 27,
+    "translations": {
+      "segond": "Ce serviteur lui dit : Ton frère est de retour, et, parce qu'il l'a recouvré en bonne santé, ton père a tué le veau gras.",
+      "darby": "Et il lui dit : Ton frère est arrivé, et ton père a tué le veau gras, parce qu'il l'a recouvré en bonne santé."
+    },
+    "interlinear": [
+      { "greek": "ὁ", "gloss": "le/il" },
+      { "greek": "δὲ", "gloss": "or/mais" },
+      { "greek": "εἶπεν", "gloss": "dit" },
+      { "greek": "αὐτῷ·", "gloss": "à_lui" },
+      { "greek": "Ὅτι", "gloss": "Que" },
+      { "greek": "ὁ", "gloss": "le" },
+      { "greek": "ἀδελφός", "gloss": "frère" },
+      { "greek": "σου", "gloss": "de_toi" },
+      { "greek": "ἥκει,", "gloss": "est_arrivé" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "ἔθυσεν", "gloss": "a_sacrifié" },
+      { "greek": "ὁ", "gloss": "le" },
+      { "greek": "πατήρ", "gloss": "père" },
+      { "greek": "σου", "gloss": "de_toi" },
+      { "greek": "τὸν", "gloss": "le" },
+      { "greek": "μόσχον", "gloss": "veau" },
+      { "greek": "τὸν", "gloss": "le" },
+      { "greek": "σιτευτόν,", "gloss": "engraissé" },
+      { "greek": "ὅτι", "gloss": "parce_que" },
+      { "greek": "ὑγιαίνοντα", "gloss": "en_bonne_santé" },
+      { "greek": "αὐτὸν", "gloss": "lui" },
+      { "greek": "ἀπέλαβεν.", "gloss": "il_a_recouvré" }
+    ]
+  },
+  {
+      "verse_number": 28,
     "translations": {
       "segond": "Il se mit en colère, et ne voulut pas entrer. Son père sortit, et le pria d'entrer.",
       "darby": "Et il se mit en colère et ne voulait pas entrer. Son père donc sortit et le pria."
@@ -429,6 +478,72 @@
       { "greek": "ἐξελθὼν", "gloss": "étant_sorti" },
       { "greek": "παρεκάλει", "gloss": "pria/exhortait" },
       { "greek": "αὐτόν.", "gloss": "lui" }
+    ]
+  },
+  {
+   "verse_number": 29,
+    "translations": {
+      "segond": "Mais il répondit à son père : Voici, il y a tant d'années que je te sers, sans avoir jamais transgressé tes ordres, et jamais tu ne m'as donné un chevreau pour que je me réjouisse avec mes amis.",
+      "darby": "Mais lui, répondant, dit à son père : Voici tant d'années que je te sers, et jamais je n'ai transgressé ton commandement ; et tu ne m'as jamais donné un chevreau pour faire bonne chère avec mes amis."
+    },
+    "interlinear": [
+      { "greek": "ὁ", "gloss": "Il" },
+      { "greek": "δὲ", "gloss": "or/mais" },
+      { "greek": "ἀποκριθεὶς", "gloss": "répondant" },
+      { "greek": "εἶπεν", "gloss": "dit" },
+      { "greek": "τῷ", "gloss": "au" },
+      { "greek": "πατρὶ", "gloss": "père" },
+      { "greek": "αὐτοῦ·", "gloss": "de_lui" },
+      { "greek": "Ἰδοὺ", "gloss": "Voici" },
+      { "greek": "τοσαῦτα", "gloss": "tant" },
+      { "greek": "ἔτη", "gloss": "d'années" },
+      { "greek": "δουλεύω", "gloss": "je_sers", "analyse": "Le verbe grec *douleuo* signifie littéralement 'servir comme un esclave' ou 'être asservi'. L'aîné révèle ici sa tragédie intime : bien qu'il n'ait jamais quitté la maison, il a toujours vécu sa relation avec son père non pas comme un fils libre, mais comme un esclave soumis à une loi, attendant un salaire en échange de sa bonne conduite." },
+      { "greek": "σοι,", "gloss": "à_toi" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "οὐδέποτε", "gloss": "jamais" },
+      { "greek": "ἐντολήν", "gloss": "commandement" },
+      { "greek": "σου", "gloss": "de_toi" },
+      { "greek": "παρῆλθον,", "gloss": "je_n'ai_transgressé" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "ἐμοὶ", "gloss": "à_moi" },
+      { "greek": "οὐδέποτε", "gloss": "jamais" },
+      { "greek": "ἔδωκας", "gloss": "tu_as_donné" },
+      { "greek": "ἔριφον,", "gloss": "chevreau" },
+      { "greek": "ἵνα", "gloss": "afin_que" },
+      { "greek": "μετὰ", "gloss": "avec" },
+      { "greek": "τῶν", "gloss": "les" },
+      { "greek": "φίλων", "gloss": "amis" },
+      { "greek": "μου", "gloss": "de_moi" },
+      { "greek": "εὐφρανθῶ·", "gloss": "je_me_réjouisse" }
+    ]
+  },
+  {
+    "verse_number": 30,
+    "translations": {
+      "segond": "Et quand ton fils est arrivé, celui qui a mangé ton bien avec des prostituées, c'est pour lui que tu as tué le veau gras !",
+      "darby": "mais quand ton fils que voici, qui a mangé ton avoir avec des prostituées, est venu, tu as tué pour lui le veau gras."
+    },
+    "interlinear": [
+      { "greek": "ὅτε", "gloss": "quand" },
+      { "greek": "δὲ", "gloss": "or/mais" },
+      { "greek": "ὁ", "gloss": "le" },
+      { "greek": "υἱός", "gloss": "fils" },
+      { "greek": "σου", "gloss": "de_toi" },
+      { "greek": "οὗτος", "gloss": "celui-ci", "analyse": "L'aîné refuse délibérément de dire 'mon frère'. En disant avec mépris 'ce fils à toi', il renie sa propre fraternité. Ce vocabulaire de séparation démontre que l'aîné est, spirituellement, tout aussi 'perdu' que le plus jeune." },
+      { "greek": "ὁ", "gloss": "qui" },
+      { "greek": "καταφαγών", "gloss": "ayant_dévoré" },
+      { "greek": "σου", "gloss": "de_toi" },
+      { "greek": "τὸν", "gloss": "le" },
+      { "greek": "βίον", "gloss": "bien/substance" },
+      { "greek": "μετὰ", "gloss": "avec" },
+      { "greek": "πορνῶν", "gloss": "prostituées" },
+      { "greek": "ἦλθεν,", "gloss": "est_venu" },
+      { "greek": "ἔθυσας", "gloss": "tu_as_sacrifié" },
+      { "greek": "αὐτῷ", "gloss": "pour_lui" },
+      { "greek": "τὸν", "gloss": "le" },
+      { "greek": "μόσχον", "gloss": "veau" },
+      { "greek": "τὸν", "gloss": "le" },
+      { "greek": "σιτευτόν.", "gloss": "engraissé" }
     ]
   },
   {
