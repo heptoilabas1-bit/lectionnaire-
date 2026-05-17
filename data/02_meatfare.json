@@ -430,46 +430,221 @@
   }
 ],
 "personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 32 - ἀφορίσει : Souvent traduit par 'il séparera', ce verbe porte l'idée de marquer un horizon (une frontière). Le jugement n'est pas un tribunal, c'est la révélation d'une limite intérieure que chaque homme a creusée durant sa vie.\n• Verset 41 - κατηραμένοι / ἡτοιμασμένον : Les traductions masquent parfois la passivité de ces participes. Le texte grec prend grand soin de ne jamais faire de Dieu le sujet actif de la damnation. Le feu est préparé pour le diable, pas pour l'homme.\n• Verset 46 - κόλασιν : Segond traduit par 'châtiment' et Darby par 'tourments'. Ces mots ont une forte charge punitive en français, alors que la racine grecque (*kolazo*) évoque plutôt la taille d'un arbre, l'amputation. C'est la coupure relationnelle définitive.\n\nAnalyse spirituelle :\nLe Jugement Dernier (Dimanche du Carnaval) nous offre le critère absolu de notre salut. Le Christ ne nous interrogera ni sur nos jeûnes, ni sur nos dogmes, ni sur nos extases spirituelles. La seule question sera : 'As-tu su me reconnaître dans l'autre ?'\n\nLa tragédie de ceux de 'la gauche' n'est pas d'avoir été de grands criminels. Leur péché est l'omission ('vous ne l'avez pas fait'). Ils ont cru pouvoir aimer Dieu de manière désincarnée, tout en ignorant le pauvre, l'étranger et le prisonnier devant leur porte. L'Orthodoxie nous enseigne ici que l'enfer n'est pas un lieu où Dieu nous enferme par vengeance, mais l'incapacité de l'âme à supporter l'Amour divin, parce qu'elle s'est volontairement 'amputée' (*kolasin*) de toute communion avec le prochain."
- "apostle": {
+  },
+    "apostle": {
   "reference": "1 Corinthiens 8, 8 - 9, 2",
   "title": "La Charité au-dessus de la Connaissance",
   "interlinear": [
    {
     "verse_number": 8,
-    "html_content": "<div class='word-unit'><span class='greek-word'>βρῶμα</span><span class='inter-segond'>Un_aliment</span><span class='inter-darby'>Une_viande</span></div><div class='word-unit'><span class='greek-word'>δὲ</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>ἡμᾶς</span><span class='inter-segond'>nous</span><span class='inter-darby'>nous</span></div><div class='word-unit'><span class='greek-word'>οὐ</span><span class='inter-segond'>ne</span><span class='inter-darby'>ne</span></div><div class='word-unit'><span class='greek-word'>παρίστησιν</span><span class='inter-segond'>approche_pas</span><span class='inter-darby'>recommande_pas</span></div><div class='word-unit'><span class='greek-word'>τῷ</span><span class='inter-segond'>de</span><span class='inter-darby'>à</span></div><div class='word-unit'><span class='greek-word'>θεῷ·</span><span class='inter-segond'>Dieu ;</span><span class='inter-darby'>Dieu ;</span></div><div class='word-unit'><span class='greek-word'>οὔτε</span><span class='inter-segond'>si</span><span class='inter-darby'>soit_que</span></div><div class='word-unit'><span class='greek-word'>ἐὰν</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>φάγωμεν</span><span class='inter-segond'>nous_en_mangeons,</span><span class='inter-darby'>nous_mangeons,</span></div><div class='word-unit'><span class='greek-word'>περισσεύομεν,</span><span class='inter-segond'>nous_n'avons_rien_de_plus,</span><span class='inter-darby'>nous_n'en_avons_pas_plus ;</span></div><div class='word-unit'><span class='greek-word'>οὔτε</span><span class='inter-segond'>si</span><span class='inter-darby'>soit_que</span></div><div class='word-unit'><span class='greek-word'>ἐὰν</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>μὴ</span><span class='inter-segond'>nous_n'en_mangeons_pas,</span><span class='inter-darby'>nous_ne_mangeons_pas,</span></div><div class='word-unit'><span class='greek-word'>φάγωμεν</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>ὑστερούμεθα.</span><span class='inter-segond'>nous_n'avons_rien_de_moins.</span><span class='inter-darby'>nous_y_perdrons_rien.</span></div>"
+    "translations": {
+      "segond": "L'aliment ne nous rapproche pas de Dieu : si nous en mangeons, nous n'avons rien de plus; si nous n'en mangeons pas, nous n'avons rien de moins.",
+      "darby": "Or la viande ne nous recommande pas à Dieu ; car nous n'avons rien de moins si nous ne mangeons pas, et nous n'avons rien de plus si nous mangeons."
+    },
+    "interlinear": [
+      { "greek": "Βρῶμα", "gloss": "L'aliment" },
+      { "greek": "δὲ", "gloss": "or" },
+      { "greek": "ἡμᾶς", "gloss": "nous" },
+      { "greek": "οὐ", "gloss": "ne...pas" },
+      { "greek": "παραστήσει", "gloss": "rapprochera/présentera", "analyse": "Le verbe *paristemi* signifie se tenir devant quelqu'un, être présenté à un roi ou à un juge. Saint Paul pose une règle d'or pour le début du Carême : aucune pratique alimentaire en elle-même ne nous justifie au tribunal de Dieu. Le jeûne est un outil médical pour l'âme, pas un mérite juridique." },
+      { "greek": "τῷ", "gloss": "à" },
+      { "greek": "θεῷ·", "gloss": "Dieu" },
+      { "greek": "οὔτε", "gloss": "ni" },
+      { "greek": "ἐὰν", "gloss": "si" },
+      { "greek": "μὴ", "gloss": "ne...pas" },
+      { "greek": "φάγωμεν", "gloss": "nous_mangeons" },
+      { "greek": "ὑστερούμεθα,", "gloss": "nous_manquons" },
+      { "greek": "οὔτε", "gloss": "ni" },
+      { "greek": "ἐὰν", "gloss": "si" },
+      { "greek": "φάγωμεν", "gloss": "nous_mangeons" },
+      { "greek": "περισσεύομεν.", "gloss": "nous_abondons" }
+    ]
   },
   {
     "verse_number": 9,
-    "html_content": "<div class='word-unit'><span class='greek-word'>βλέπετε</span><span class='inter-segond'>Prenez_garde,</span><span class='inter-darby'>Prenez_garde</span></div><div class='word-unit'><span class='greek-word'>δὲ</span><span class='inter-segond'>toutefois,</span><span class='inter-darby'>seulement</span></div><div class='word-unit'><span class='greek-word'>μή</span><span class='inter-segond'>que</span><span class='inter-darby'>que</span></div><div class='word-unit'><span class='greek-word'>πως</span><span class='inter-segond'>—</span><span class='inter-darby'>de_quelque_manière</span></div><div class='word-unit'><span class='greek-word'>ἡ</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>ἐξουσία</span><span class='inter-segond'>liberté</span><span class='inter-darby'>droit</span></div><div class='word-unit'><span class='greek-word'>ὑμῶν</span><span class='inter-segond'>votre</span><span class='inter-darby'>votre</span></div><div class='word-unit'><span class='greek-word'>αὕτη</span><span class='inter-segond'>cette</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>πρόσκομμα</span><span class='inter-segond'>une_pierre_d'achoppement</span><span class='inter-darby'>une_occasion_de_chute</span></div><div class='word-unit'><span class='greek-word'>γένηται</span><span class='inter-segond'>ne_devienne</span><span class='inter-darby'>ne_soit</span></div><div class='word-unit'><span class='greek-word'>τοῖς</span><span class='inter-segond'>pour_les</span><span class='inter-darby'>pour_les</span></div><div class='word-unit'><span class='greek-word'>ἀσθενέσιν.</span><span class='inter-segond'>faibles.</span><span class='inter-darby'>faibles.</span></div>"
+    "translations": {
+      "segond": "Prenez garde, toutefois, que votre liberté ne devienne une pierre d'achoppement pour les faibles.",
+      "darby": "Mais prenez garde que cette liberté que vous avez ne devienne une pierre d'achoppement pour les faibles."
+    },
+    "interlinear": [
+      { "greek": "Βλέπετε", "gloss": "Prenez_garde" },
+      { "greek": "δὲ", "gloss": "or/cependant" },
+      { "greek": "μή", "gloss": "que_ne" },
+      { "greek": "πως", "gloss": "d'une_manière" },
+      { "greek": "ἡ", "gloss": "la" },
+      { "greek": "ἐξουσία", "gloss": "liberté/droit" },
+      { "greek": "ὑμῶν", "gloss": "de_vous" },
+      { "greek": "αὕτη", "gloss": "cette" },
+      { "greek": "πρόσκομμα", "gloss": "pierre_d'achoppement" },
+      { "greek": "γένηται", "gloss": "devienne" },
+      { "greek": "τοῖς", "gloss": "pour_les" },
+      { "greek": "ἀσθενέσιν.", "gloss": "faibles" }
+    ]
   },
   {
     "verse_number": 10,
-    "html_content": "<div class='word-unit'><span class='greek-word'>ἐὰν</span><span class='inter-segond'>Car_si</span><span class='inter-darby'>Car_si</span></div><div class='word-unit'><span class='greek-word'>γάρ</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>τις</span><span class='inter-segond'>quelqu'un</span><span class='inter-darby'>quelqu'un</span></div><div class='word-unit'><span class='greek-word'>ἴδῃ</span><span class='inter-segond'>voit,</span><span class='inter-darby'>te_voit,</span></div><div class='word-unit'><span class='greek-word'>σὲ</span><span class='inter-segond'>toi</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>τὸν</span><span class='inter-segond'>qui</span><span class='inter-darby'>toi_qui</span></div><div class='word-unit'><span class='greek-word'>ἔχοντα</span><span class='inter-segond'>as</span><span class='inter-darby'>as</span></div><div class='word-unit'><span class='greek-word'>γνῶσιν</span><span class='inter-segond'>de_la_différence</span><span class='inter-darby'>de_la_connaissance</span></div><div class='word-unit'><span class='greek-word'>ἐν</span><span class='inter-segond'>dans</span><span class='inter-darby'>assis_dans</span></div><div class='word-unit'><span class='greek-word'>εἰδωλείῳ</span><span class='inter-segond'>un_temple_d'idoles,</span><span class='inter-darby'>un_temple_d'idoles,</span></div><div class='word-unit'><span class='greek-word'>κατακείμενον,</span><span class='inter-segond'>assis_à_table,</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>οὐχὶ</span><span class='inter-segond'>la_conscience</span><span class='inter-darby'>la_conscience</span></div><div class='word-unit'><span class='greek-word'>ἡ</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>συνείδησις</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>αὐτοῦ</span><span class='inter-segond'>de_celui</span><span class='inter-darby'>de_celui</span></div><div class='word-unit'><span class='greek-word'>ἀσθενοῦς</span><span class='inter-segond'>qui_est</span><span class='inter-darby'>qui_est</span></div><div class='word-unit'><span class='greek-word'>ὄντος</span><span class='inter-segond'>faible</span><span class='inter-darby'>faible</span></div><div class='word-unit'><span class='greek-word'>οἰκοδομηθήσεται</span><span class='inter-segond'>sera-t-elle_pas_portée</span><span class='inter-darby'>ne_sera-t-elle_pas_fortifiée</span></div><div class='word-unit'><span class='greek-word'>εἰς</span><span class='inter-segond'>à</span><span class='inter-darby'>pour</span></div><div class='word-unit'><span class='greek-word'>τὸ</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>τὰ</span><span class='inter-segond'>les_viandes_sacrifiées</span><span class='inter-darby'>les_choses_sacrifiées</span></div><div class='word-unit'><span class='greek-word'>εἰδωλόθυτα</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>ἐσθίειν;</span><span class='inter-segond'>aux_idoles ?</span><span class='inter-darby'>aux_idoles ?</span></div>"
+    "translations": {
+      "segond": "Car, si quelqu'un te voit, toi qui as de la connaissance, assis à table dans un temple d'idoles, sa conscience, à lui qui est faible, ne le portera-t-elle pas à manger des viandes sacrifiées aux idoles?",
+      "darby": "Car si quelqu'un te voit, toi qui as de la connaissance, assis à table dans un temple d'idoles, sa conscience à lui qui est faible, ne sera-t-elle pas enhardie à manger des choses sacrifiées aux idoles ?"
+    },
+    "interlinear": [
+      { "greek": "ἐὰν", "gloss": "Si" },
+      { "greek": "γάρ", "gloss": "car" },
+      { "greek": "τις", "gloss": "quelqu'un" },
+      { "greek": "ἴδῃ", "gloss": "voit" },
+      { "greek": "σὲ", "gloss": "toi" },
+      { "greek": "τὸν", "gloss": "celui" },
+      { "greek": "ἔχοντα", "gloss": "ayant" },
+      { "greek": "γνῶσιν", "gloss": "connaissance" },
+      { "greek": "ἐν", "gloss": "dans" },
+      { "greek": "εἰδωλείῳ", "gloss": "temple_d'idoles" },
+      { "greek": "κατακείμενον,", "gloss": "étant_à_table" },
+      { "greek": "οὐχὶ", "gloss": "est-ce_que_non" },
+      { "greek": "ἡ", "gloss": "la" },
+      { "greek": "συνείδησις", "gloss": "conscience", "analyse": "Le mot *syneidesis* (co-connaissance) désigne l'œil intérieur de l'âme. Pour l'Apôtre, la connaissance théologique pure (savoir qu'une idole n'est rien) est mortifère si elle écrase la conscience fragile d'un frère. La vérité sans l'amour est une idolâtrie pire que le paganisme." },
+      { "greek": "αὐτοῦ", "gloss": "de_lui" },
+      { "greek": "ἀσθενοῦς", "gloss": "étant_faible" },
+      { "greek": "ὄντος", "gloss": "étant" },
+      { "greek": "οἰκοδομηθήσεται", "gloss": "sera_édifiée/poussée" },
+      { "greek": "εἰς", "gloss": "pour" },
+      { "greek": "τὸ", "gloss": "le" },
+      { "greek": "τὰ", "gloss": "les" },
+      { "greek": "εἰδωλόθυτα", "gloss": "sacrifiés_aux_idoles" },
+      { "greek": "ἐσθίειν;", "gloss": "manger" }
+    ]
   },
   {
     "verse_number": 11,
-    "html_content": "<div class='word-unit'><span class='greek-word'>ἀπόλλυμαι</span><span class='inter-segond'>Et_ainsi_périra</span><span class='inter-darby'>Et_le_faible_périra</span></div><div class='word-unit'><span class='greek-word'>γὰρ</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>ὁ</span><span class='inter-segond'>le</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>ἀσθενῶν</span><span class='inter-segond'>faible</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>ἐν</span><span class='inter-segond'>par</span><span class='inter-darby'>par</span></div><div class='word-unit'><span class='greek-word'>τῇ</span><span class='inter-segond'>ta</span><span class='inter-darby'>ta</span></div><div class='word-unit'><span class='greek-word'>σῇ</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>γνώσει,</span><span class='inter-segond'>connaissance,</span><span class='inter-darby'>connaissance,</span></div><div class='word-unit'><span class='greek-word'>ὁ</span><span class='inter-segond'>le</span><span class='inter-darby'>le</span></div><div class='word-unit'><span class='greek-word'>ἀδελφὸς</span><span class='inter-segond'>frère</span><span class='inter-darby'>frère</span></div><div class='word-unit'><span class='greek-word'>δι’</span><span class='inter-segond'>pour</span><span class='inter-darby'>pour</span></div><div class='word-unit'><span class='greek-word'>ὃν</span><span class='inter-segond'>lequel</span><span class='inter-darby'>lequel</span></div><div class='word-unit'><span class='greek-word'>Χριστὸς</span><span class='inter-segond'>Christ</span><span class='inter-darby'>le_Christ</span></div><div class='word-unit'><span class='greek-word'>ἀπέθανεν.</span><span class='inter-segond'>est_mort !</span><span class='inter-darby'>est_mort.</span></div>"
+    "translations": {
+      "segond": "Et ainsi le faible périra par ta connaissance, le frère pour lequel Christ est mort !",
+      "darby": "Et le faible périra par ta connaissance, le frère pour lequel Christ est mort !"
+    },
+    "interlinear": [
+      { "greek": "ἀπόλλυται", "gloss": "Périt" },
+      { "greek": "γὰρ", "gloss": "car" },
+      { "greek": "ὁ", "gloss": "le" },
+      { "greek": "ἀσθενῶν", "gloss": "faible" },
+      { "greek": "ἐν", "gloss": "par" },
+      { "greek": "τῇ", "gloss": "la" },
+      { "greek": "σῇ", "gloss": "tienne" },
+      { "greek": "γνώσει,", "gloss": "connaissance" },
+      { "greek": "ὁ", "gloss": "le" },
+      { "greek": "ἀδελφὸς", "gloss": "frère" },
+      { "greek": "δι’", "gloss": "pour" },
+      { "greek": "ὃν", "gloss": "lequel" },
+      { "greek": "Χριστὸς", "gloss": "Christ" },
+      { "greek": "ἀπέθανεν.", "gloss": "est_mort" }
+    ]
   },
   {
     "verse_number": 12,
-    "html_content": "<div class='word-unit'><span class='greek-word'>οὕτως</span><span class='inter-segond'>En_péchant</span><span class='inter-darby'>Or_en_péchant</span></div><div class='word-unit'><span class='greek-word'>δὲ</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>ἁμαρτάνοντες</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>εἰς</span><span class='inter-segond'>contre</span><span class='inter-darby'>contre</span></div><div class='word-unit'><span class='greek-word'>τοὺς</span><span class='inter-segond'>les</span><span class='inter-darby'>les</span></div><div class='word-unit'><span class='greek-word'>ἀδελφοὺς</span><span class='inter-segond'>frères,</span><span class='inter-darby'>frères</span></div><div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>τύπτοντες</span><span class='inter-segond'>en_blessant</span><span class='inter-darby'>en_frappant</span></div><div class='word-unit'><span class='greek-word'>αὐτῶν</span><span class='inter-segond'>leur</span><span class='inter-darby'>leur</span></div><div class='word-unit'><span class='greek-word'>τὴν</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>συνείδησιν</span><span class='inter-segond'>conscience</span><span class='inter-darby'>conscience</span></div><div class='word-unit'><span class='greek-word'>ἀσθενοῦσαν</span><span class='inter-segond'>faible,</span><span class='inter-darby'>faible,</span></div><div class='word-unit'><span class='greek-word'>εἰς</span><span class='inter-segond'>vous_péchez_contre</span><span class='inter-darby'>vous_péchez_contre</span></div><div class='word-unit'><span class='greek-word'>Χριστὸν</span><span class='inter-segond'>Christ.</span><span class='inter-darby'>Christ.</span></div><div class='word-unit'><span class='greek-word'>ἁμαρτάνετε.</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div>"
+    "translations": {
+      "segond": "En péchant de la sorte contre les frères, et en blessant leur conscience faible, vous péchez contre Christ.",
+      "darby": "Or en péchant ainsi contre les frères, et en blessant leur conscience qui est faible, vous péchez contre Christ."
+    },
+    "interlinear": [
+      { "greek": "οὕτως", "gloss": "Ainsi" },
+      { "greek": "δὲ", "gloss": "or" },
+      { "greek": "ἁμαρτάνοντες", "gloss": "péchant" },
+      { "greek": "εἰς", "gloss": "contre" },
+      { "greek": "τοὺς", "gloss": "les" },
+      { "greek": "ἀδελφοὺς", "gloss": "frères" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "τύπτοντες", "gloss": "frappant/blessant" },
+      { "greek": "αὐτῶν", "gloss": "d'eux" },
+      { "greek": "τὴν", "gloss": "la" },
+      { "greek": "συνείδησιν", "gloss": "conscience" },
+      { "greek": "ἀσθενοῦσαν", "gloss": "étant_faible" },
+      { "greek": "εἰς", "gloss": "contre" },
+      { "greek": "Χριστὸν", "gloss": "Christ", "analyse": "C'est l'axe central de ce dimanche : l'identification absolue du Christ avec notre prochain. Comme dans la parabole du Jugement (ce que vous avez fait au plus petit, c'est à moi que vous l'avez fait), pécher contre le frère, c'est frapper le Christ Lui-même." },
+      { "greek": "ἁμαρτάνετε.", "gloss": "vous_péchez" }
+    ]
   },
   {
     "verse_number": 13,
-    "html_content": "<div class='word-unit'><span class='greek-word'>διόπερ</span><span class='inter-segond'>C'est_pourquoi,</span><span class='inter-darby'>C'est_pourquoi,</span></div><div class='word-unit'><span class='greek-word'>εἰ</span><span class='inter-segond'>si</span><span class='inter-darby'>si</span></div><div class='word-unit'><span class='greek-word'>βρῶμα</span><span class='inter-segond'>un_aliment</span><span class='inter-darby'>une_viande</span></div><div class='word-unit'><span class='greek-word'>σκανδαλίζει</span><span class='inter-segond'>scandalise</span><span class='inter-darby'>est_une_occasion_de_chute_pour</span></div><div class='word-unit'><span class='greek-word'>τὸν</span><span class='inter-segond'>mon</span><span class='inter-darby'>mon</span></div><div class='word-unit'><span class='greek-word'>ἀδελφόν</span><span class='inter-segond'>frère,</span><span class='inter-darby'>frère,</span></div><div class='word-unit'><span class='greek-word'>μου,</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>οὐ</span><span class='inter-segond'>je_ne_mangerai</span><span class='inter-darby'>je_ne_mangerai</span></div><div class='word-unit'><span class='greek-word'>μὴ</span><span class='inter-segond'>jamais</span><span class='inter-darby'>jamais</span></div><div class='word-unit'><span class='greek-word'>φάγω</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>κρέα</span><span class='inter-segond'>de_viande,</span><span class='inter-darby'>de_chair,</span></div><div class='word-unit'><span class='greek-word'>εἰς</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>τὸν</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>αἰῶνα,</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>ἵνα</span><span class='inter-segond'>afin_de_ne_pas</span><span class='inter-darby'>afin_que_je_ne_sois_pas</span></div><div class='word-unit'><span class='greek-word'>μὴ</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>τὸν</span><span class='inter-segond'>mon</span><span class='inter-darby'>une_occasion_de_chute_pour_mon</span></div><div class='word-unit'><span class='greek-word'>ἀδελφόν</span><span class='inter-segond'>frère</span><span class='inter-darby'>frère.</span></div><div class='word-unit'><span class='greek-word'>μου</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>σκανδαλίσω.</span><span class='inter-segond'>scandaliser.</span><span class='inter-darby'>—</span></div>"
+    "translations": {
+      "segond": "C'est pourquoi, si un aliment scandalise mon frère, je ne mangerai jamais de viande, afin de ne pas scandaliser mon frère.",
+      "darby": "C'est pourquoi, si la viande scandalise mon frère, je ne mangerai jamais de chair, pour ne pas scandaliser mon frère."
+    },
+    "interlinear": [
+      { "greek": "διόπερ", "gloss": "C'est_pourquoi" },
+      { "greek": "εἰ", "gloss": "si" },
+      { "greek": "βρῶμα", "gloss": "un_aliment" },
+      { "greek": "σκανδαλίζει", "gloss": "scandalise/fait_chuter" },
+      { "greek": "τὸν", "gloss": "le" },
+      { "greek": "ἀδελφόν", "gloss": "frère" },
+      { "greek": "μου,", "gloss": "de_moi" },
+      { "greek": "οὐ", "gloss": "non" },
+      { "greek": "μὴ", "gloss": "ne...pas" },
+      { "greek": "φάγω", "gloss": "je_mangerai" },
+      { "greek": "κρέα", "gloss": "viandes", "analyse": "Le mot *kréa* (viande) a donné le nom de ce dimanche en grec : Apokreō (Apo = loin de, Kreo = viande), le 'Carnaval' (Carne Vale = adieu la chair). L'apôtre montre ici l'essence du jeûne orthodoxe : on s'abstient de viande non pas parce qu'elle est impure, mais par amour, pour ne pas choquer ni écraser l'autre." },
+      { "greek": "εἰς", "gloss": "pour" },
+      { "greek": "τὸν", "gloss": "le" },
+      { "greek": "αἰῶνα,", "gloss": "siècle/éternité" },
+      { "greek": "ἵνα", "gloss": "afin_que" },
+      { "greek": "μὴ", "gloss": "ne...pas" },
+      { "greek": "τὸν", "gloss": "le" },
+      { "greek": "ἀδελφόν", "gloss": "frère" },
+      { "greek": "μου", "gloss": "de_moi" },
+      { "greek": "σκανδαλίσω.", "gloss": "je_scandalise" }
+    ]
   },
   {
-    "verse_number": 1,
-    "html_content": "<div class='word-unit'><span class='greek-word'>Οὐκ</span><span class='inter-segond'>Ne_suis-je_pas</span><span class='inter-darby'>Ne_suis-je_pas</span></div><div class='word-unit'><span class='greek-word'>εἰμὶ</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>ἐλεύθερος;</span><span class='inter-segond'>libre ?</span><span class='inter-darby'>libre ?</span></div><div class='word-unit'><span class='greek-word'>οὐκ</span><span class='inter-segond'>Ne_suis-je_pas</span><span class='inter-darby'>Ne_suis-je_pas</span></div><div class='word-unit'><span class='greek-word'>εἰμὶ</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>ἀπόστολος;</span><span class='inter-segond'>apôtre ?</span><span class='inter-darby'>apôtre ?</span></div><div class='word-unit'><span class='greek-word'>οὐχὶ</span><span class='inter-segond'>N'ai-je_pas</span><span class='inter-darby'>N'ai-je_pas</span></div><div class='word-unit'><span class='greek-word'>Ἰησοῦν</span><span class='inter-segond'>Jésus-</span><span class='inter-darby'>Jésus-</span></div><div class='word-unit'><span class='greek-word'>Χριστὸν</span><span class='inter-segond'>Christ</span><span class='inter-darby'>Christ</span></div><div class='word-unit'><span class='greek-word'>τὸν</span><span class='inter-segond'>notre</span><span class='inter-darby'>notre</span></div><div class='word-unit'><span class='greek-word'>κύριον</span><span class='inter-segond'>Seigneur ?</span><span class='inter-darby'>Seigneur ?</span></div><div class='word-unit'><span class='greek-word'>ἡμῶν</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>ἑώρακα;</span><span class='inter-segond'>vu</span><span class='inter-darby'>vu</span></div><div class='word-unit'><span class='greek-word'>οὐ</span><span class='inter-segond'>N'êtes-vous_pas</span><span class='inter-darby'>N'êtes-vous_pas</span></div><div class='word-unit'><span class='greek-word'>τὸ</span><span class='inter-segond'>mon</span><span class='inter-darby'>mon</span></div><div class='word-unit'><span class='greek-word'>ἔργον</span><span class='inter-segond'>œuvre</span><span class='inter-darby'>ouvrage</span></div><div class='word-unit'><span class='greek-word'>μου</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>ὑμεῖς</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>ἐστε</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>ἐν</span><span class='inter-segond'>dans_le</span><span class='inter-darby'>dans_le</span></div><div class='word-unit'><span class='greek-word'>κυρίῳ;</span><span class='inter-segond'>Seigneur ?</span><span class='inter-darby'>Seigneur ?</span></div>"
+    "verse_number": "9, 1",
+    "translations": {
+      "segond": "Ne suis-je pas libre ? Ne suis-je pas apôtre ? N'ai-je pas vu Jésus notre Seigneur ? N'êtes-vous pas mon oeuvre dans le Seigneur ?",
+      "darby": "Ne suis-je pas libre ? ne suis-je pas apôtre ? n'ai-je pas vu Jésus notre Seigneur ? n'êtes-vous pas mon oeuvre dans le Seigneur ?"
+    },
+    "interlinear": [
+      { "greek": "Οὐκ", "gloss": "Ne...pas" },
+      { "greek": "εἰμὶ", "gloss": "suis-je" },
+      { "greek": "ἐλεύθερος;", "gloss": "libre" },
+      { "greek": "οὐκ", "gloss": "Ne...pas" },
+      { "greek": "εἰμὶ", "gloss": "suis-je" },
+      { "greek": "ἀπόστολος;", "gloss": "apôtre" },
+      { "greek": "οὐχὶ", "gloss": "N'est-ce_pas_que" },
+      { "greek": "Ἰησοῦν", "gloss": "Jésus" },
+      { "greek": "τὸν", "gloss": "le" },
+      { "greek": "κύριον", "gloss": "Seigneur" },
+      { "greek": "ἡμῶν", "gloss": "de_nous" },
+      { "greek": "ἑώρακα;", "gloss": "j'ai_vu" },
+      { "greek": "οὐ", "gloss": "Ne...pas" },
+      { "greek": "τὸ", "gloss": "l'" },
+      { "greek": "ἔργον", "gloss": "œuvre" },
+      { "greek": "μου", "gloss": "de_moi" },
+      { "greek": "ὑμεῖς", "gloss": "vous" },
+      { "greek": "ἐστε", "gloss": "êtes" },
+      { "greek": "ἐν", "gloss": "dans" },
+      { "greek": "κυρίῳ;", "gloss": "le_Seigneur" }
+    ]
   },
   {
-    "verse_number": 2,
-    "html_content": "<div class='word-unit'><span class='greek-word'>εἰ</span><span class='inter-segond'>Si</span><span class='inter-darby'>Si</span></div><div class='word-unit'><span class='greek-word'>ἄλλοις</span><span class='inter-segond'>pour_d'autres</span><span class='inter-darby'>pour_d'autres</span></div><div class='word-unit'><span class='greek-word'>οὐκ</span><span class='inter-segond'>je_ne_suis_pas</span><span class='inter-darby'>je_ne_suis_pas</span></div><div class='word-unit'><span class='greek-word'>εἰμὶ</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>ἀπόστολος,</span><span class='inter-segond'>apôtre,</span><span class='inter-darby'>apôtre,</span></div><div class='word-unit'><span class='greek-word'>ἀλλά</span><span class='inter-segond'>je_le_suis</span><span class='inter-darby'>je_le_suis</span></div><div class='word-unit'><span class='greek-word'>γε</span><span class='inter-segond'>au_moins</span><span class='inter-darby'>au_moins</span></div><div class='word-unit'><span class='greek-word'>ὑμῖν</span><span class='inter-segond'>pour_vous ;</span><span class='inter-darby'>pour_vous ;</span></div><div class='word-unit'><span class='greek-word'>εἰμι·</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>ἡ</span><span class='inter-segond'>car</span><span class='inter-darby'>car</span></div><div class='word-unit'><span class='greek-word'>γὰρ</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>σφραγὶς</span><span class='inter-segond'>le_sceau</span><span class='inter-darby'>le_sceau</span></div><div class='word-unit'><span class='greek-word'>τῆς</span><span class='inter-segond'>de_mon</span><span class='inter-darby'>de_mon</span></div><div class='word-unit'><span class='greek-word'>ἐμῆς</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>ἀποστολῆς</span><span class='inter-segond'>apostolat,</span><span class='inter-darby'>apostolat,</span></div><div class='word-unit'><span class='greek-word'>ὑμεῖς</span><span class='inter-segond'>c'est_vous</span><span class='inter-darby'>c'est_vous</span></div><div class='word-unit'><span class='greek-word'>ἐστε</span><span class='inter-segond'>qui_l'êtes</span><span class='inter-darby'>qui_l'êtes</span></div><div class='word-unit'><span class='greek-word'>ἐν</span><span class='inter-segond'>dans_le</span><span class='inter-darby'>dans_le</span></div><div class='word-unit'><span class='greek-word'>κυρίῳ.</span><span class='inter-segond'>Seigneur.</span><span class='inter-darby'>Seigneur.</span></div>"
-  } 
-  ],
-  "greek_only": "8 βρῶμα δὲ ἡμᾶς οὐ παραστήσει τῷ θεῷ· οὔτε ἐὰν φάγωμεν περισσεύομεν, οὔτε ἐὰν μὴ φάγωμεν ὑστερούμεθα. 9 βλέπετε δὲ μήπως ἡ ἐξουσία ὑμῶν αὕτη πρόσκομμα γένηται τοῖς ἀσθενέσιν. 10 ἐὰν γάρ τις ἴδῃ σὲ τὸν ἔχοντα γνῶσιν ἐν εἰδωλείῳ κατακείμενον, οὐχὶ ἡ συνείδησις αὐτοῦ ἀσθενοῦς ὄντος οἰκοδομηθήσεται εἰς τὸ τὰ εἰδωλόθυτα ἐσθίειν; 11 ἀπόλλυται γὰρ ὁ ἀσθενῶν ἐν τῇ σῇ γνώσει, ὁ ἀδελφὸς δι’ ὃν Χριστὸς ἀπέθανεν. 12 οὕτως δὲ ἁμαρτάνοντες εἰς τοὺς ἀδελφοὺς καὶ τύπτοντες αὐτῶν τὴν συνείδησιν ἀσθενοῦσαν εἰς Χριστὸν ἁμαρτάνετε. 13 διόπερ εἰ βρῶμα σκανδαλίζει τὸν ἀδελφόν μου, οὐ μὴ φάγω κρέα εἰς τὸν αἰῶνα, ἵνα μὴ τὸν ἀδελφόν μου σκανδαλίσω. 9:1 Οὐκ εἰμὶ ἐλεύθερος; οὐκ εἰμὶ ἀπόστολος; οὐχὶ Ἰησοῦν τὸν κύριον ἡμῶν ἑώρακα; οὐ τὸ ἔργον μου ὑμεῖς ἐστε ἐν κυρίῳ; 2 εἰ ἄλλοις οὐκ εἰμὶ ἀπόστολος, ἀλλά γε ὑμῖν εἰμί· η γὰρ σφραγὶς τῆς ἐμῆς ἀποστολῆς ὑμεῖς ἐστε ἐν κυρίῳ.",
-  "french_only": "8 Ce n'est pas un aliment qui nous rapproche de Dieu : si nous en mangeons, nous n'avons rien de plus ; si nous n'en mangeons pas, nous n'avons rien de moins. 9 Prenez garde, toutefois, que votre liberté ne devienne une pierre d'achoppement pour les faibles. 10 Car, si quelqu'un te voit, toi qui as de la connaissance, assis à table dans un temple d'idoles, sa conscience, à lui qui est faible, ne sera-t-elle pas portée à manger des viandes sacrifiées aux idoles ? 11 Et ainsi le faible périra par ta connaissance, le frère pour lequel Christ est mort ! 12 En péchant de la sorte contre les frères, et en blessant leur conscience faible, vous péchez contre Christ. 13 C'est pourquoi, si un aliment scandalise mon frère, je ne mangerai jamais de viande, afin de ne pas scandaliser mon frère. 9:1 Ne suis-je pas libre ? Ne suis-je pas apôtre ? N'ai-je pas vu Jésus notre Seigneur ? N'êtes-vous pas mon oeuvre dans le Seigneur ? 2 Si pour d'autres je ne suis pas apôtre, je le suis au moins pour vous ; car vous êtes le sceau de mon apostolat dans le Seigneur.",
-  "french_darby": "8 Or un aliment ne nous recommande pas auprès de Dieu ; si nous en mangeons, nous n'avons rien de plus, et si nous n'en mangeons pas, nous n'avons rien de moins. 9 Mais prenez garde que cette liberté que vous avez ne devienne une occasion de chute pour les faibles. 10 Car si quelqu'un te voit, toi qui as de la connaissance, assis à table dans un temple d'idoles, la conscience de celui qui est faible ne sera-t-elle pas édifiée à manger des choses sacrifiées aux idoles ? 11 Et par ta connaissance le faible périra, le frère pour lequel Christ est mort. 12 Or, en péchant ainsi contre les frères et en blessant leur conscience faible, vous péchez contre Christ. 13 C'est pourquoi, si un aliment est une occasion de chute pour mon frère, je ne mangerai jamais de chair, afin que je ne sois pas une occasion de chute pour mon frère. 9:1 Ne suis-je pas libre ? Ne suis-je pas apôtre ? N’ai-je pas vu Jésus notre Seigneur ? N'êtes-vous pas mon ouvrage dans le Seigneur ? 2 Si je ne suis pas apôtre pour d'autres, je le suis au moins pour vous ; car vous êtes le sceau de mon apostolat dans le Seigneur.",
-"personal_analysis": "Notes sur les choix des traducteurs (Omissions) :\n\n• Chapitre 8, Verset 8 - δὲ : Cette particule de liaison n'est pas rendue de façon isolée en début de phrase par Segond et Darby afin de préserver l'affirmation abrupte de la sentence.\n• Chapitre 8, Verset 8 - ἐὰν / φάγωμεν : Les expressions conditionnelles redoublées sont contractées en français (\"si nous en mangeons\" / \"soit que nous mangeons\"). Le deuxième \"ἐὰν\" est donc absorbé structurellement.\n• Chapitre 8, Verset 9 - αὕτη / ἡ : L'article et le démonstratif grec qui qualifient l'autorité (\"cette liberté\") sont fusionnés par Darby sous le pronom possessif précédent ou omis par souci de fluidité.\n• Chapitre 8, Verset 10 - γάρ : Particule explicative (\"en effet\") qui se trouve entièrement absorbée dans la conjonction initiale \"Car\" chez les deux traducteurs.\n• Chapitre 8, Verset 10 - κατακείμενον / σὲ : Le verbe désignant l'action d'être couché à table dans un temple est rendu de manière synthétique par Segond (\"assis à table\") et Darby (\"te voit...\"), déplaçant l'ordre des compléments directs.\n• Chapitre 8, Verset 11 - γὰρ : Omission de la particule explicative par commodité de construction au profit d'une phrase commençant directement par le sujet.\n• Chapitre 8, Verset 12 - δὲ / ἁμαρτάνοντες : Segond et Darby fusionnent le participe et la particule dans la locution verbale principale (\"En péchant contre...\" / \"Or en péchant contre...\").\n• Chapitre 8, Verset 13 - μου / εἰς τὸν αἰῶνα : Les pronoms possessifs répétés après le nom (\"mon frère à moi\") ainsi que l'idiotisme temporel \"jusqu'au siècle\" sont complètement absorbés par l'adverbe absolu de négation \"jamais\".\n• Chapitre 9, Verset 1 - εἰμὶ : Le verbe d'état répété dans les deux premières questions rhétoriques (\"Ne suis-je pas libre ? Ne suis-je pas apôtre ?\") est sous-entendu ou fusionné avec la particule négative sans nécessiter de redoublement sémantique.\n• Chapitre 9, Verset 2 - εἰμι / γὰρ : Le verbe de confirmation en fin de proposition ainsi que la particule causative (\"car\") subissent des inversions ou des élisions structurelles obligatoires pour correspondre aux exigences syntaxiques du français.\n\nAnalyse spirituelle :\nLe texte pose le cadre de la liberté chrétienne, qui trouve sa limite absolue dans la charité et l'édification du frère plus faible. Ce principe philologique fait un écho direct à la péricope évangélique du Jugement Dernier : la connaissance théologique ou l'ascèse n'ont aucune valeur si elles deviennent une occasion de chute pour le prochain. La vraie liberté se fait servante de l'amour."
-}
-}
+    "verse_number": "9, 2",
+    "translations": {
+      "segond": "Si pour d'autres je ne suis pas apôtre, je le suis au moins pour vous ; car vous êtes le sceau de mon apostolat dans le Seigneur.",
+      "darby": "Si pour d'autres je ne suis pas apôtre, je le suis au moins pour vous ; car vous êtes le sceau de mon apostolat dans le Seigneur."
+    },
+    "interlinear": [
+      { "greek": "εἰ", "gloss": "Si" },
+      { "greek": "ἄλλοις", "gloss": "pour_d'autres" },
+      { "greek": "οὐκ", "gloss": "ne...pas" },
+      { "greek": "εἰμὶ", "gloss": "je_suis" },
+      { "greek": "ἀπόστολος,", "gloss": "apôtre" },
+      { "greek": "ἀλλά", "gloss": "mais" },
+      { "greek": "γε", "gloss": "au_moins" },
+      { "greek": "ὑμῖν", "gloss": "pour_vous" },
+      { "greek": "εἰμι·", "gloss": "je_suis" },
+      { "greek": "ἡ", "gloss": "le" },
+      { "greek": "γὰρ", "gloss": "car" },
+      { "greek": "σφραγίς", "gloss": "sceau" },
+      { "greek": "μου", "gloss": "de_moi" },
+      { "greek": "τῆς", "gloss": "de_l'" },
+      { "greek": "ἀποστολῆς", "gloss": "apostolat" },
+      { "greek": "ὑμεῖς", "gloss": "vous" },
+      { "greek": "ἐστε", "gloss": "êtes" },
+      { "greek": "ἐν", "gloss": "dans" },
+      { "greek": "κυρίῳ.", "gloss": "le_Seigneur" }
+    ]
+  }
+],
+"personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 10 - εἰδωλόθυτα : Mot technique grec signifiant 'viandes sacrifiées aux idoles'. Segond garde cette explicitation, Darby traduit par 'choses sacrifiées' pour rester plus proche de la racine large.\n• Verset 13 - σκανδαλίζει : Le verbe *skandalizō* (scandaliser) ne veut pas dire 'choquer les bonnes mœurs', mais littéralement 'placer un piège sur la route de quelqu'un' pour le faire tomber. Traduire par 'fait chuter mon frère' serait plus exact spirituellement.\n• Verset 13 - κρέα : Le pluriel grec indique 'les viandes'. Darby traduit singulièrement par 'la chair' (terme souvent spirituel chez Paul), là où Segond reste concret avec 'de la viande'.\n\nAnalyse spirituelle :\nCette épître pose les fondations du Grand Carême. L'apôtre Paul adresse un avertissement sévère à ceux qui se croiraient 'spirituellement supérieurs'. On peut avoir une théologie parfaite (la 'connaissance') et pourtant détruire son âme si cette connaissance n'est pas au service de l'amour du prochain.\n\nCe dimanche s'appelle l'Apokréo (Carnaval), le jour où l'on prend congé de la viande. Saint Paul nous en donne le sens profond : le but de la privation (le jeûne) n'est pas d'atteindre une pureté rituelle ou de punir son corps. L'ascèse orthodoxe est toujours relationnelle. Je renonce à mon 'droit' légitime, je renonce à ma 'viande' (v. 13) pour me solidariser avec la fragilité de mon frère. Le jeûne qui vient de Dieu est une école de délicatesse, car frapper la conscience d'un homme, c'est 'pécher contre Christ' (v. 12). C'est la réplique exacte de l'Évangile du Jugement Dernier lu ce même jour."
