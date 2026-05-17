@@ -5,76 +5,431 @@
     "reference": "Matthieu 25, 31-46",
     "title": "Le Jugement Dernier : La Brebis et les Boucs",
     "interlinear": [
-      {
+   {
     "verse_number": 31,
-    "html_content": "<div class='word-unit'><span class='greek-word'>Ὅταν</span><span class='inter-segond'>Lorsque</span><span class='inter-darby'>Quand</span></div><div class='word-unit'><span class='greek-word'>δὲ</span><span class='inter-segond'>mais</span><span class='inter-darby'>or</span></div><div class='word-unit'><span class='greek-word'>ἔλθῃ</span><span class='inter-segond'>viendra</span><span class='inter-darby'>sera_venu</span></div><div class='word-unit'><span class='greek-word'>ὁ</span><span class='inter-segond'>le</span><span class='inter-darby'>le</span></div><div class='word-unit'><span class='greek-word'>υἱὸς</span><span class='inter-segond'>Fils</span><span class='inter-darby'>fils</span></div><div class='word-unit'><span class='greek-word'>τοῦ</span><span class='inter-segond'>de_l’</span><span class='inter-darby'>de_l’</span></div><div class='word-unit'><span class='greek-word'>ἀνθρώπου</span><span class='inter-segond'>homme</span><span class='inter-darby'>homme</span></div><div class='word-unit'><span class='greek-word'>ἐν</span><span class='inter-segond'>dans</span><span class='inter-darby'>dans</span></div><div class='word-unit'><span class='greek-word'>τῇ</span><span class='inter-segond'>la</span><span class='inter-darby'>la</span></div><div class='word-unit'><span class='greek-word'>δόξῃ</span><span class='inter-segond'>gloire</span><span class='inter-darby'>gloire</span></div><div class='word-unit'><span class='greek-word'>αὐτοῦ</span><span class='inter-segond'>sa</span><span class='inter-darby'>de_lui</span></div><div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>πάντες</span><span class='inter-segond'>tous</span><span class='inter-darby'>tous</span></div><div class='word-unit'><span class='greek-word'>οἱ</span><span class='inter-segond'>les</span><span class='inter-darby'>les</span></div><div class='word-unit'><span class='greek-word'>ἄγγελοι</span><span class='inter-segond'>anges</span><span class='inter-darby'>anges</span></div><div class='word-unit'><span class='greek-word'>μετ’</span><span class='inter-segond'>avec</span><span class='inter-darby'>avec</span></div><div class='word-unit'><span class='greek-word'>αὐτοῦ,</span><span class='inter-segond'>lui,</span><span class='inter-darby'>lui,</span></div><div class='word-unit'><span class='greek-word'>τότε</span><span class='inter-segond'>alors</span><span class='inter-darby'>alors</span></div><div class='word-unit'><span class='greek-word'>καθίσει</span><span class='inter-segond'>il_s’assiéra</span><span class='inter-darby'>il_s’assiéra</span></div><div class='word-unit'><span class='greek-word'>ἐπὶ</span><span class='inter-segond'>sur</span><span class='inter-darby'>sur</span></div><div class='word-unit'><span class='greek-word'>θρόνου</span><span class='inter-segond'>le_trône</span><span class='inter-darby'>le_trône</span></div><div class='word-unit'><span class='greek-word'>δόξης</span><span class='inter-segond'>de_la_gloire</span><span class='inter-darby'>de_la_gloire</span></div><div class='word-unit'><span class='greek-word'>αὐτοῦ·</span><span class='inter-segond'>sa</span><span class='inter-darby'>de_lui</span></div>"
+    "translations": {
+      "segond": "Lorsque le Fils de l'homme viendra dans sa gloire, avec tous les anges, il s'assiéra sur le trône de sa gloire.",
+      "darby": "Or, quand le fils de l'homme viendra dans sa gloire, et tous les anges avec lui, alors il s'assiéra sur le trône de sa gloire,"
+    },
+    "interlinear": [
+      { "greek": "Ὅταν", "gloss": "Quand" },
+      { "greek": "δὲ", "gloss": "or/mais" },
+      { "greek": "ἔλθῃ", "gloss": "viendra" },
+      { "greek": "ὁ", "gloss": "le" },
+      { "greek": "υἱὸς", "gloss": "fils" },
+      { "greek": "τοῦ", "gloss": "de_l'" },
+      { "greek": "ἀνθρώπου", "gloss": "homme" },
+      { "greek": "ἐν", "gloss": "dans" },
+      { "greek": "τῇ", "gloss": "la" },
+      { "greek": "δόξῃ", "gloss": "gloire", "analyse": "Le mot *doxa* ne désigne pas ici une simple renommée humaine, mais les énergies divines incréées, la lumière éternelle de Dieu. Au moment du jugement, cette gloire n'est plus voilée : elle devient la réalité aveuglante qui éclaire l'état intérieur de chaque être." },
+      { "greek": "αὐτοῦ", "gloss": "de_lui" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "πάντες", "gloss": "tous" },
+      { "greek": "οἱ", "gloss": "les" },
+      { "greek": "ἄγγελοι", "gloss": "anges" },
+      { "greek": "μετ’", "gloss": "avec" },
+      { "greek": "αὐτοῦ,", "gloss": "lui" },
+      { "greek": "τότε", "gloss": "alors" },
+      { "greek": "καθίσει", "gloss": "il_s'assiéra" },
+      { "greek": "ἐπὶ", "gloss": "sur" },
+      { "greek": "θρόνου", "gloss": "trône" },
+      { "greek": "δόξης", "gloss": "de_gloire" },
+      { "greek": "αὐτοῦ·", "gloss": "de_lui" }
+    ]
   },
   {
     "verse_number": 32,
-    "html_content": "<div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>συναχθήσεται</span><span class='inter-segond'>seront_assemblées</span><span class='inter-darby'>seront_assemblées</span></div><div class='word-unit'><span class='greek-word'>ἔμπροσθεν</span><span class='inter-segond'>devant</span><span class='inter-darby'>devant</span></div><div class='word-unit'><span class='greek-word'>αὐτοῦ</span><span class='inter-segond'>lui</span><span class='inter-darby'>lui</span></div><div class='word-unit'><span class='greek-word'>πάντα</span><span class='inter-segond'>toutes</span><span class='inter-darby'>toutes</span></div><div class='word-unit'><span class='greek-word'>τὰ</span><span class='inter-segond'>les</span><span class='inter-darby'>les</span></div><div class='word-unit'><span class='greek-word'>ἔθνη,</span><span class='inter-segond'>nations ;</span><span class='inter-darby'>nations ;</span></div><div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>ἀφοριεῖ</span><span class='inter-segond'>il_séparera</span><span class='inter-darby'>il_séparera</span></div><div class='word-unit'><span class='greek-word'>αὐτοὺς</span><span class='inter-segond'>les_uns</span><span class='inter-darby'>les_uns</span></div><div class='word-unit'><span class='greek-word'>ἀπ’</span><span class='inter-segond'>d’avec</span><span class='inter-darby'>d’avec</span></div><div class='word-unit'><span class='greek-word'>ἀλλήλων,</span><span class='inter-segond'>les_autres,</span><span class='inter-darby'>les_autres,</span></div><div class='word-unit'><span class='greek-word'>ὥσπερ</span><span class='inter-segond'>comme</span><span class='inter-darby'>comme</span></div><div class='word-unit'><span class='greek-word'>ὁ</span><span class='inter-segond'>le</span><span class='inter-darby'>le</span></div><div class='word-unit'><span class='greek-word'>ποιμὴν</span><span class='inter-segond'>berger</span><span class='inter-darby'>berger</span></div><div class='word-unit'><span class='greek-word'>ἀφορίζει</span><span class='inter-segond'>sépare</span><span class='inter-darby'>sépare</span></div><div class='word-unit'><span class='greek-word'>τὰ</span><span class='inter-segond'>les</span><span class='inter-darby'>les</span></div><div class='word-unit'><span class='greek-word'>πρόβατα</span><span class='inter-segond'>brebis</span><span class='inter-darby'>brebis</span></div><div class='word-unit'><span class='greek-word'>ἀπὸ</span><span class='inter-segond'>d’avec</span><span class='inter-darby'>d’avec</span></div><div class='word-unit'><span class='greek-word'>τῶν</span><span class='inter-segond'>les</span><span class='inter-darby'>les</span></div><div class='word-unit'><span class='greek-word'>ἐρίφων,</span><span class='inter-segond'>boucs ;</span><span class='inter-darby'>chèvres ;</span></div>"
+    "translations": {
+      "segond": "Toutes les nations seront assemblées devant lui. Il séparera les uns d'avec les autres, comme le berger sépare les brebis d'avec les boucs;",
+      "darby": "et toutes les nations seront assemblées devant lui ; et il séparera les uns d'avec les autres, comme un berger sépare les brebis d'avec les chèvres ;"
+    },
+    "interlinear": [
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "συναχθήσονται", "gloss": "seront_assemblées" },
+      { "greek": "ἔμπροσθεν", "gloss": "devant" },
+      { "greek": "αὐτοῦ", "gloss": "lui" },
+      { "greek": "πάντα", "gloss": "toutes" },
+      { "greek": "τὰ", "gloss": "les" },
+      { "greek": "ἔθνη,", "gloss": "nations" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "ἀφορίσει", "gloss": "il_séparera", "analyse": "Ce verbe (qui a donné le mot 'horizon') signifie marquer une limite. Dans la pensée des Pères, Dieu ne 'punit' pas arbitrairement. C'est la présence même de Sa lumière qui sépare naturellement ceux qui ont appris à aimer de ceux qui se sont enfermés dans l'égoïsme." },
+      { "greek": "αὐτοὺς", "gloss": "eux" },
+      { "greek": "ἀπ’", "gloss": "de" },
+      { "greek": "ἀλλήλων,", "gloss": "les_uns_les_autres" },
+      { "greek": "ὥσπερ", "gloss": "comme" },
+      { "greek": "ὁ", "gloss": "le" },
+      { "greek": "ποιμὴν", "gloss": "berger" },
+      { "greek": "ἀφορίζει", "gloss": "sépare" },
+      { "greek": "τὰ", "gloss": "les" },
+      { "greek": "πρόβατα", "gloss": "brebis" },
+      { "greek": "ἀπὸ", "gloss": "de" },
+      { "greek": "τῶν", "gloss": "les" },
+      { "greek": "ἐρίφων,", "gloss": "chevreaux/boucs" }
+    ]
   },
-{
+  {
     "verse_number": 33,
-    "html_content": "<div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>στήσει</span><span class='inter-segond'>il_mettra</span><span class='inter-darby'>il_mettra</span></div><div class='word-unit'><span class='greek-word'>τὰ</span><span class='inter-segond'>les</span><span class='inter-darby'>les</span></div><div class='word-unit'><span class='greek-word'>μὲν</span><span class='inter-segond'>certes</span><span class='inter-darby'>certes</span></div><div class='word-unit'><span class='greek-word'>πρόβατα</span><span class='inter-segond'>brebis</span><span class='inter-darby'>brebis</span></div><div class='word-unit'><span class='greek-word'>ἐκ</span><span class='inter-segond'>à</span><span class='inter-darby'>à</span></div><div class='word-unit'><span class='greek-word'>δεξιῶν</span><span class='inter-segond'>droite</span><span class='inter-darby'>droite</span></div><div class='word-unit'><span class='greek-word'>αὐτοῦ,</span><span class='inter-segond'>sa</span><span class='inter-darby'>sa</span></div><div class='word-unit'><span class='greek-word'>τὰ</span><span class='inter-segond'>les</span><span class='inter-darby'>les</span></div><div class='word-unit'><span class='greek-word'>δὲ</span><span class='inter-segond'>et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>ἐρίφια</span><span class='inter-segond'>boucs</span><span class='inter-darby'>chèvres</span></div><div class='word-unit'><span class='greek-word'>ἐξ</span><span class='inter-segond'>à</span><span class='inter-darby'>à</span></div><div class='word-unit'><span class='greek-word'>εὐωνύμων.</span><span class='inter-segond'>gauche.</span><span class='inter-darby'>gauche.</span></div>"
+    "translations": {
+      "segond": "et il mettra les brebis à sa droite, et les boucs à sa gauche.",
+      "darby": "et il mettra les brebis à sa droite et les chèvres à sa gauche."
+    },
+    "interlinear": [
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "στήσει", "gloss": "il_placera" },
+      { "greek": "τὰ", "gloss": "les" },
+      { "greek": "μὲν", "gloss": "d'une_part" },
+      { "greek": "πρόβατα", "gloss": "brebis" },
+      { "greek": "ἐκ", "gloss": "à" },
+      { "greek": "δεξιῶν", "gloss": "droite" },
+      { "greek": "αὐτοῦ", "gloss": "de_lui" },
+      { "greek": "τὰ", "gloss": "les" },
+      { "greek": "δὲ", "gloss": "d'autre_part/et" },
+      { "greek": "ἐρίφια", "gloss": "chevreaux" },
+      { "greek": "ἐξ", "gloss": "à" },
+      { "greek": "εὐωνύμων.", "gloss": "gauche" }
+    ]
   },
   {
     "verse_number": 34,
-    "html_content": "<div class='word-unit'><span class='greek-word'>τότε</span><span class='inter-segond'>Alors</span><span class='inter-darby'>Alors</span></div><div class='word-unit'><span class='greek-word'>ἐρεῖ</span><span class='inter-segond'>dira</span><span class='inter-darby'>dira</span></div><div class='word-unit'><span class='greek-word'>ὁ</span><span class='inter-segond'>le</span><span class='inter-darby'>le</span></div><div class='word-unit'><span class='greek-word'>βασιλεὺς</span><span class='inter-segond'>roi</span><span class='inter-darby'>roi</span></div><div class='word-unit'><span class='greek-word'>τοῖς</span><span class='inter-segond'>à_ceux</span><span class='inter-darby'>à_ceux</span></div><div class='word-unit'><span class='greek-word'>ἐκ</span><span class='inter-segond'>qui_sont_à</span><span class='inter-darby'>qui_sont_à</span></div><div class='word-unit'><span class='greek-word'>δεξιῶν</span><span class='inter-segond'>droite</span><span class='inter-darby'>droite</span></div><div class='word-unit'><span class='greek-word'>αὐτοῦ·</span><span class='inter-segond'>sa</span><span class='inter-darby'>sa</span></div><div class='word-unit'><span class='greek-word'>Δεῦτε,</span><span class='inter-segond'>Venez,</span><span class='inter-darby'>Venez,</span></div><div class='word-unit'><span class='greek-word'>οἱ</span><span class='inter-segond'>les</span><span class='inter-darby'>les</span></div><div class='word-unit'><span class='greek-word'>εὐλογημένοι</span><span class='inter-segond'>bénis</span><span class='inter-darby'>bénis</span></div><div class='word-unit'><span class='greek-word'>τοῦ</span><span class='inter-segond'>de_le</span><span class='inter-darby'>de_le</span></div><div class='word-unit'><span class='greek-word'>πατρός</span><span class='inter-segond'>Père</span><span class='inter-darby'>Père</span></div><div class='word-unit'><span class='greek-word'>μου,</span><span class='inter-segond'>mon,</span><span class='inter-darby'>mon,</span></div><div class='word-unit'><span class='greek-word'>κληρονομήσατε</span><span class='inter-segond'>héritez</span><span class='inter-darby'>héritez</span></div><div class='word-unit'><span class='greek-word'>τὴν</span><span class='inter-segond'>le</span><span class='inter-darby'>le</span></div><div class='word-unit'><span class='greek-word'>ἡτοιμασμένην</span><span class='inter-segond'>préparé</span><span class='inter-darby'>préparé</span></div><div class='word-unit'><span class='greek-word'>ὑμῖν</span><span class='inter-segond'>pour_vous</span><span class='inter-darby'>pour_vous</span></div><div class='word-unit'><span class='greek-word'>βασιλείαν</span><span class='inter-segond'>royaume</span><span class='inter-darby'>royaume</span></div><div class='word-unit'><span class='greek-word'>ἀπὸ</span><span class='inter-segond'>dès</span><span class='inter-darby'>dès</span></div><div class='word-unit'><span class='greek-word'>καταβολῆς</span><span class='inter-segond'>fondation</span><span class='inter-darby'>fondation</span></div><div class='word-unit'><span class='greek-word'>κόσμου.</span><span class='inter-segond'>monde.</span><span class='inter-darby'>monde.</span></div>"
+    "translations": {
+      "segond": "Alors le roi dira à ceux qui seront à sa droite : Venez, vous qui êtes bénis de mon Père; prenez possession du royaume qui vous a été préparé dès la fondation du monde.",
+      "darby": "Alors le roi dira à ceux qui seront à sa droite : Venez, les bénis de mon Père, héritez du royaume qui vous est préparé dès la fondation du monde :"
+    },
+    "interlinear": [
+      { "greek": "τότε", "gloss": "alors" },
+      { "greek": "ἐρεῖ", "gloss": "dira" },
+      { "greek": "ὁ", "gloss": "le" },
+      { "greek": "βασιλεὺς", "gloss": "roi" },
+      { "greek": "τοῖς", "gloss": "à_ceux" },
+      { "greek": "ἐκ", "gloss": "à" },
+      { "greek": "δεξιῶν", "gloss": "droite" },
+      { "greek": "αὐτοῦ·", "gloss": "de_lui" },
+      { "greek": "Δεῦτε,", "gloss": "Venez" },
+      { "greek": "οἱ", "gloss": "les" },
+      { "greek": "εὐλογημένοι", "gloss": "bénis" },
+      { "greek": "τοῦ", "gloss": "du" },
+      { "greek": "πατρός", "gloss": "père" },
+      { "greek": "μου,", "gloss": "de_moi" },
+      { "greek": "κληρονομήσατε", "gloss": "héritez", "analyse": "Un écho direct au Dimanche précédent. Les justes ne sont pas des 'mercenaires' recevant un salaire, ils sont appelés à 'hériter' en tant que fils. Le Royaume n'est pas une récompense qu'on gagne, mais un héritage filial auquel on participe." },
+      { "greek": "τὴν", "gloss": "le" },
+      { "greek": "ἡτοιμασμένην", "gloss": "ayant_été_préparé" },
+      { "greek": "ὑμῖν", "gloss": "pour_vous" },
+      { "greek": "βασιλείαν", "gloss": "royaume" },
+      { "greek": "ἀπὸ", "gloss": "depuis" },
+      { "greek": "καταβολῆς", "gloss": "fondation" },
+      { "greek": "κόσμου·", "gloss": "du_monde" }
+    ]
   },
- {
+  {
     "verse_number": 35,
-    "html_content": "<div class='word-unit'><span class='greek-word'>ἐπείνασα</span><span class='inter-segond'>j’ai_eu_faim,</span><span class='inter-darby'>j’ai_eu_faim,</span></div><div class='word-unit'><span class='greek-word'>γὰρ</span><span class='inter-segond'>car</span><span class='inter-darby'>car</span></div><div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>ἐδώκατέ</span><span class='inter-segond'>vous_avez_donné</span><span class='inter-darby'>vous_avez_donné</span></div><div class='word-unit'><span class='greek-word'>μοι</span><span class='inter-segond'>à_moi</span><span class='inter-darby'>à_moi</span></div><div class='word-unit'><span class='greek-word'>φαγεῖν,</span><span class='inter-segond'>à_manger ;</span><span class='inter-darby'>à_manger ;</span></div><div class='word-unit'><span class='greek-word'>ἐδίψησα</span><span class='inter-segond'>j’ai_eu_soif,</span><span class='inter-darby'>j’ai_eu_soif,</span></div><div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>ἐποτίσατέ</span><span class='inter-segond'>vous_avez_abreuvé</span><span class='inter-darby'>vous_avez_abreuvé</span></div><div class='word-unit'><span class='greek-word'>με,</span><span class='inter-segond'>moi ;</span><span class='inter-darby'>moi ;</span></div><div class='word-unit'><span class='greek-word'>ξένος</span><span class='inter-segond'>étranger,</span><span class='inter-darby'>étranger,</span></div><div class='word-unit'><span class='greek-word'>ἤμην</span><span class='inter-segond'>j’étais</span><span class='inter-darby'>j’étais</span></div><div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>συνηγάγετέ</span><span class='inter-segond'>vous_avez_recueilli</span><span class='inter-darby'>vous_avez_recueilli</span></div><div class='word-unit'><span class='greek-word'>με,</span><span class='inter-segond'>moi,</span><span class='inter-darby'>moi,</span></div>"
+    "translations": {
+      "segond": "Car j'ai eu faim, et vous m'avez donné à manger; j'ai eu soif, et vous m'avez donné à boire; j'étais étranger, et vous m'avez recueilli;",
+      "darby": "car j'ai eu faim, et vous m'avez donné à manger ; j'ai eu soif, et vous m'avez donné à boire ; j'étais étranger, et vous m'avez recueilli ;"
+    },
+    "interlinear": [
+      { "greek": "ἐπείνασα", "gloss": "j'ai_eu_faim" },
+      { "greek": "γὰρ", "gloss": "car" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "ἐδώκατέ", "gloss": "vous_avez_donné" },
+      { "greek": "μοι", "gloss": "à_moi" },
+      { "greek": "φαγεῖν,", "gloss": "à_manger" },
+      { "greek": "ἐδίψησα", "gloss": "j'ai_eu_soif" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "ἐποτίσατέ", "gloss": "vous_avez_donné_à_boire" },
+      { "greek": "με,", "gloss": "à_moi" },
+      { "greek": "ξένος", "gloss": "étranger" },
+      { "greek": "ἤμην", "gloss": "j'étais" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "συνηγάγετέ", "gloss": "vous_m'avez_recueilli", "analyse": "Du verbe *synago* (qui a donné 'synagogue' ou 'synaxe'). Cela signifie littéralement 'vous m'avez rassemblé avec vous'. Accueillir l'étranger n'est pas seulement lui offrir un toit matériel, c'est l'intégrer dans la communion, briser sa solitude pour faire 'assemblée' avec lui." },
+      { "greek": "με,", "gloss": "moi" }
+    ]
   },
   {
     "verse_number": 36,
-    "html_content": "<div class='word-unit'><span class='greek-word'>γυμνὸς</span><span class='inter-segond'>nu,</span><span class='inter-darby'>nu,</span></div><div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>περιεβάλετέ</span><span class='inter-segond'>vous_avez_vêtu</span><span class='inter-darby'>vous_avez_vêtu</span></div><div class='word-unit'><span class='greek-word'>με,</span><span class='inter-segond'>moi ;</span><span class='inter-darby'>moi ;</span></div><div class='word-unit'><span class='greek-word'>ἠσθένησα</span><span class='inter-segond'>malade,</span><span class='inter-darby'>malade,</span></div><div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>ἐπεσκέψασθέ</span><span class='inter-segond'>vous_avez_visité</span><span class='inter-darby'>vous_avez_visité</span></div><div class='word-unit'><span class='greek-word'>με,</span><span class='inter-segond'>moi ;</span><span class='inter-darby'>moi ;</span></div><div class='word-unit'><span class='greek-word'>ἐν</span><span class='inter-segond'>en</span><span class='inter-darby'>en</span></div><div class='word-unit'><span class='greek-word'>φυλακῇ</span><span class='inter-segond'>prison,</span><span class='inter-darby'>prison,</span></div><div class='word-unit'><span class='greek-word'>ἤμην</span><span class='inter-segond'>j’étais</span><span class='inter-darby'>j’étais</span></div><div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>ἤλθατε</span><span class='inter-segond'>vous_êtes_venus</span><span class='inter-darby'>vous_êtes_venus</span></div><div class='word-unit'><span class='greek-word'>πρός</span><span class='inter-segond'>vers</span><span class='inter-darby'>vers</span></div><div class='word-unit'><span class='greek-word'>με.</span><span class='inter-segond'>moi.</span><span class='inter-darby'>moi.</span></div>"
+    "translations": {
+      "segond": "j'étais nu, et vous m'avez vêtu; j'étais malade, et vous m'avez visité; j'étais en prison, et vous êtes venus vers moi.",
+      "darby": "j'étais nu, et vous m'avez vêtu ; j'étais malade, et vous m'avez visité ; j'étais en prison, et vous êtes venus vers moi."
+    },
+    "interlinear": [
+      { "greek": "γυμνὸς", "gloss": "nu" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "περιεβάλετέ", "gloss": "vous_avez_vêtu" },
+      { "greek": "με,", "gloss": "moi" },
+      { "greek": "ἠσθένησα", "gloss": "j'ai_été_faible/malade" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "ἐπεσκέψασθέ", "gloss": "vous_avez_visité" },
+      { "greek": "με,", "gloss": "moi" },
+      { "greek": "ἐν", "gloss": "en" },
+      { "greek": "φυλακῇ", "gloss": "prison/garde" },
+      { "greek": "ἤμην", "gloss": "j'étais" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "ἤλθατε", "gloss": "vous_êtes_venus" },
+      { "greek": "πρός", "gloss": "vers" },
+      { "greek": "με.", "gloss": "moi" }  
+       ]
   },
   {
     "verse_number": 37,
-    "html_content": "<div class='word-unit'><span class='greek-word'>τότε</span><span class='inter-segond'>Alors</span><span class='inter-darby'>Alors</span></div><div class='word-unit'><span class='greek-word'>ἀποκριθήσονται</span><span class='inter-segond'>répondront</span><span class='inter-darby'>répondront</span></div><div class='word-unit'><span class='greek-word'>αὐτῷ</span><span class='inter-segond'>lui</span><span class='inter-darby'>lui</span></div><div class='word-unit'><span class='greek-word'>οἱ</span><span class='inter-segond'>les</span><span class='inter-darby'>les</span></div><div class='word-unit'><span class='greek-word'>δίκαιοι</span><span class='inter-segond'>justes</span><span class='inter-darby'>justes</span></div><div class='word-unit'><span class='greek-word'>λέγοντες·</span><span class='inter-segond'>disant :</span><span class='inter-darby'>disant :</span></div><div class='word-unit'><span class='greek-word'>Κύριε,</span><span class='inter-segond'>Seigneur,</span><span class='inter-darby'>Seigneur,</span></div><div class='word-unit'><span class='greek-word'>πότε</span><span class='inter-segond'>quand</span><span class='inter-darby'>quand</span></div><div class='word-unit'><span class='greek-word'>σε</span><span class='inter-segond'>t’</span><span class='inter-darby'>t’</span></div><div class='word-unit'><span class='greek-word'>εἴδομεν</span><span class='inter-segond'>avons-nous_vu</span><span class='inter-darby'>avons-nous_vu</span></div><div class='word-unit'><span class='greek-word'>πεινῶντα</span><span class='inter-segond'>avoir_faim,</span><span class='inter-darby'>ayant_faim,</span></div><div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>ἐθρέψαμεν,</span><span class='inter-segond'>t’avons-nous_nourri ?</span><span class='inter-darby'>t’avons-nous_nourri ?</span></div><div class='word-unit'><span class='greek-word'>ἢ</span><span class='inter-segond'>ou</span><span class='inter-darby'>ou</span></div><div class='word-unit'><span class='greek-word'>διψῶντα</span><span class='inter-segond'>avoir_soif,</span><span class='inter-darby'>ayant_soif,</span></div><div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>ἐποτίσαμεν;</span><span class='inter-segond'>t’avons-nous_donné_à_boire ?</span><span class='inter-darby'>t’avons-nous_donné_à_boire ?</span></div>"
+    "translations": {
+      "segond": "Les justes lui répondront : Seigneur, quand t'avons-nous vu avoir faim, et t'avons-nous donné à manger; ou avoir soif, et t'avons-nous donné à boire?",
+      "darby": "Alors les justes lui répondront, disant : Seigneur, quand est-ce que nous t'avons vu avoir faim, et que nous t'avons nourri ; ou avoir soif, et que nous t'avons donné à boire ?"
+    },
+    "interlinear": [
+      { "greek": "τότε", "gloss": "Alors" },
+      { "greek": "ἀποκριθήσονται", "gloss": "répondront" },
+      { "greek": "αὐτῷ", "gloss": "à_lui" },
+      { "greek": "οἱ", "gloss": "les" },
+      { "greek": "δίκαιοι", "gloss": "justes", "analyse": "L'étonnement des justes est la clé du passage. La véritable charité orthodoxe ignore sa propre valeur. Le Pharisien du dimanche précédent comptait ses mérites ('je jeûne, je donne ma dîme'). Les vrais justes, eux, ont un amour si naturel et si pur qu'ils ne se rendent même pas compte qu'ils servent le Christ." },
+      { "greek": "λέγοντες·", "gloss": "disant" },
+      { "greek": "Κύριε,", "gloss": "Seigneur" },
+      { "greek": "πότε", "gloss": "quand" },
+      { "greek": "σε", "gloss": "toi" },
+      { "greek": "εἴδομεν", "gloss": "avons-nous_vu" },
+      { "greek": "πεινῶντα", "gloss": "ayant_faim" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "ἐθρέψαμεν,", "gloss": "avons_nourri" },
+      { "greek": "ἢ", "gloss": "ou" },
+      { "greek": "διψῶντα", "gloss": "ayant_soif" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "ἐποτίσαμεν;", "gloss": "avons_donné_à_boire" }
+    ]
   },
   {
     "verse_number": 38,
-    "html_content": "<div class='word-unit'><span class='greek-word'>πότε</span><span class='inter-segond'>quand</span><span class='inter-darby'>quand</span></div><div class='word-unit'><span class='greek-word'>δέ</span><span class='inter-segond'>—</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>σε</span><span class='inter-segond'>t’</span><span class='inter-darby'>t’</span></div><div class='word-unit'><span class='greek-word'>εἴδομεν</span><span class='inter-segond'>avons-nous_vu</span><span class='inter-darby'>avons-nous_vu</span></div><div class='word-unit'><span class='greek-word'>ξένον</span><span class='inter-segond'>étranger,</span><span class='inter-darby'>étranger,</span></div><div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>συνηγάγομεν,</span><span class='inter-segond'>t’avons-nous_recueilli ?</span><span class='inter-darby'>t’avons-nous_recueilli ?</span></div><div class='word-unit'><span class='greek-word'>ἢ</span><span class='inter-segond'>ou</span><span class='inter-darby'>ou</span></div><div class='word-unit'><span class='greek-word'>γυμνὸν</span><span class='inter-segond'>nu,</span><span class='inter-darby'>nu,</span></div><div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>περιεβάλομεν;</span><span class='inter-segond'>t’avons-nous_vêtu ?</span><span class='inter-darby'>t’avons-nous_vêtu ?</span></div>"
+    "translations": {
+      "segond": "Quand t'avons-nous vu étranger, et t'avons-nous recueilli; ou nu, et t'avons-nous vêtu?",
+      "darby": "Et quand est-ce que nous t'avons vu étranger, et que nous t'avons recueilli ; ou nu, et que nous t'avons vêtu ?"
+    },
+    "interlinear": [
+      { "greek": "πότε", "gloss": "quand" },
+      { "greek": "δέ", "gloss": "or/et" },
+      { "greek": "σε", "gloss": "toi" },
+      { "greek": "εἴδομεν", "gloss": "avons-nous_vu" },
+      { "greek": "ξένον", "gloss": "étranger" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "συνηγάγομεν,", "gloss": "avons_recueilli" },
+      { "greek": "ἢ", "gloss": "ou" },
+      { "greek": "γυμνὸν", "gloss": "nu" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "περιεβάλομεν;", "gloss": "avons_vêtu" }
+    ]
   },
   {
     "verse_number": 39,
-    "html_content": "<div class='word-unit'><span class='greek-word'>πότε</span><span class='inter-segond'>quand</span><span class='inter-darby'>quand</span></div><div class='word-unit'><span class='greek-word'>δέ</span><span class='inter-segond'>—</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>σε</span><span class='inter-segond'>t’</span><span class='inter-darby'>t’</span></div><div class='word-unit'><span class='greek-word'>εἴδομεν</span><span class='inter-segond'>avons-nous_vu</span><span class='inter-darby'>avons-nous_vu</span></div><div class='word-unit'><span class='greek-word'>ἀσθενοῦντα</span><span class='inter-segond'>malade,</span><span class='inter-darby'>malade,</span></div><div class='word-unit'><span class='greek-word'>ἢ</span><span class='inter-segond'>ou</span><span class='inter-darby'>ou</span></div><div class='word-unit'><span class='greek-word'>ἐν</span><span class='inter-segond'>en</span><span class='inter-darby'>en</span></div><div class='word-unit'><span class='greek-word'>φυλακῇ</span><span class='inter-segond'>prison,</span><span class='inter-darby'>prison,</span></div><div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>ἤλθομεν</span><span class='inter-segond'>sommes-nous_allés</span><span class='inter-darby'>sommes-nous_venus</span></div><div class='word-unit'><span class='greek-word'>πρός</span><span class='inter-segond'>vers</span><span class='inter-darby'>vers</span></div><div class='word-unit'><span class='greek-word'>σε;</span><span class='inter-segond'>toi ?</span><span class='inter-darby'>toi ?</span></div>"
+    "translations": {
+      "segond": "Quand t'avons-nous vu malade, ou en prison, et sommes-nous allés vers toi?",
+      "darby": "Et quand est-ce que nous t'avons vu malade, ou en prison, et que nous sommes venus vers toi ?"
+    },
+    "interlinear": [
+      { "greek": "πότε", "gloss": "quand" },
+      { "greek": "δέ", "gloss": "or/et" },
+      { "greek": "σε", "gloss": "toi" },
+      { "greek": "εἴδομεν", "gloss": "avons-nous_vu" },
+      { "greek": "ἀσθενοῦντα", "gloss": "étant_malade" },
+      { "greek": "ἢ", "gloss": "ou" },
+      { "greek": "ἐν", "gloss": "en" },
+      { "greek": "φυλακῇ", "gloss": "prison" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "ἤλθομεν", "gloss": "sommes_venus" },
+      { "greek": "πρός", "gloss": "vers" },
+      { "greek": "σε;", "gloss": "toi" }
+    ]
   },
-     {
+  {
     "verse_number": 40,
-    "html_content": "<div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>Et</span><span class='inter-darby'>Et</span></div><div class='word-unit'><span class='greek-word'>ἀποκριθεὶς</span><span class='inter-segond'>répondant</span><span class='inter-darby'>répondant</span></div><div class='word-unit'><span class='greek-word'>ὁ</span><span class='inter-segond'>le</span><span class='inter-darby'>le</span></div><div class='word-unit'><span class='greek-word'>βασιλεὺς</span><span class='inter-segond'>roi</span><span class='inter-darby'>roi</span></div><div class='word-unit'><span class='greek-word'>ἐρεῖ</span><span class='inter-segond'>dira</span><span class='inter-darby'>dira</span></div><div class='word-unit'><span class='greek-word'>αὐτοῖς·</span><span class='inter-segond'>leur :</span><span class='inter-darby'>leur :</span></div><div class='word-unit'><span class='greek-word'>Ἀμὴν</span><span class='inter-segond'>En_vérité</span><span class='inter-darby'>En_vérité</span></div><div class='word-unit'><span class='greek-word'>λέγω</span><span class='inter-segond'>je_dis</span><span class='inter-darby'>je_dis</span></div><div class='word-unit'><span class='greek-word'>ὑμῖν,</span><span class='inter-segond'>vous,</span><span class='inter-darby'>vous,</span></div><div class='word-unit'><span class='greek-word'>ἐφ’</span><span class='inter-segond'>dans_la_mesure_où</span><span class='inter-darby'>en_tant_que</span></div><div class='word-unit'><span class='greek-word'>ὅσον</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>ἐποιήσατε</span><span class='inter-segond'>vous_avez_fait</span><span class='inter-darby'>vous_avez_fait</span></div><div class='word-unit'><span class='greek-word'>ἑνὶ</span><span class='inter-segond'>à_l’un</span><span class='inter-darby'>à_l’un</span></div><div class='word-unit'><span class='greek-word'>τούτων</span><span class='inter-segond'>de_ces</span><span class='inter-darby'>de_ceux-ci</span></div><div class='word-unit'><span class='greek-word'>τῶν</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>ἀδελφῶν</span><span class='inter-segond'>frères</span><span class='inter-darby'>frères</span></div><div class='word-unit'><span class='greek-word'>μου</span><span class='inter-segond'>mes</span><span class='inter-darby'>mes</span></div><div class='word-unit'><span class='greek-word'>τῶν</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>ἐλαχίστων,</span><span class='inter-segond'>plus_petits,</span><span class='inter-darby'>plus_petits,</span></div><div class='word-unit'><span class='greek-word'>ἐμοὶ</span><span class='inter-segond'>c’est_à_moi</span><span class='inter-darby'>c’est_à_moi</span></div><div class='word-unit'><span class='greek-word'>ἐποιήσατε.</span><span class='inter-segond'>que_vous_avez_fait.</span><span class='inter-darby'>que_vous_avez_fait.</span></div>"
+    "translations": {
+      "segond": "Et le roi leur répondra : Je vous le dis en vérité, toutes les fois que vous avez fait ces choses à l'un de ces plus petits de mes frères, c'est à moi que vous les avez faites.",
+      "darby": "Et le roi, répondant, leur dira : En vérité, je vous dis : En tant que vous l'avez fait à l'un des plus petits de ceux-ci qui sont mes frères, vous me l'avez fait à moi."
+    },
+    "interlinear": [
+      { "greek": "καὶ", "gloss": "Et" },
+      { "greek": "ἀποκριθεὶς", "gloss": "répondant" },
+      { "greek": "ὁ", "gloss": "le" },
+      { "greek": "βασιλεὺς", "gloss": "roi" },
+      { "greek": "ἐρεῖ", "gloss": "dira" },
+      { "greek": "αὐτοῖς·", "gloss": "à_eux" },
+      { "greek": "Ἀμὴν", "gloss": "En_vérité" },
+      { "greek": "λέγω", "gloss": "je_dis" },
+      { "greek": "ὑμῖν,", "gloss": "à_vous" },
+      { "greek": "ἐφ’", "gloss": "sur" },
+      { "greek": "ὅσον", "gloss": "autant_que" },
+      { "greek": "ἐποιήσατε", "gloss": "vous_avez_fait" },
+      { "greek": "ἑνὶ", "gloss": "à_un" },
+      { "greek": "τούτων", "gloss": "de_ceux-ci" },
+      { "greek": "τῶν", "gloss": "les" },
+      { "greek": "ἀδελφῶν", "gloss": "frères" },
+      { "greek": "μου", "gloss": "de_moi" },
+      { "greek": "τῶν", "gloss": "les" },
+      { "greek": "ἐλαχίστων,", "gloss": "plus_petits", "analyse": "Le mot *elachistos* (superlatif de petit : le tout dernier, le plus misérable). Les Pères de l'Église parlent du 'sacrement de l'autel' (l'Eucharistie) et du 'sacrement du frère'. Le Christ s'identifie ontologiquement au pauvre. Toucher le rejeté, c'est toucher la chair même du Christ. Il n'y a pas d'amour de Dieu sans cet amour incarné." },
+      { "greek": "ἐμοὶ", "gloss": "à_moi" },
+      { "greek": "ἐποιήσατε.", "gloss": "vous_avez_fait" }
+      ]
   },
   {
     "verse_number": 41,
-    "html_content": "<div class='word-unit'><span class='greek-word'>τότε</span><span class='inter-segond'>Ensuite</span><span class='inter-darby'>Alors</span></div><div class='word-unit'><span class='greek-word'>ἐρεῖ</span><span class='inter-segond'>il_dira</span><span class='inter-darby'>il_dira</span></div><div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>aussi</span><span class='inter-darby'>aussi</span></div><div class='word-unit'><span class='greek-word'>τοῖς</span><span class='inter-segond'>à_ceux</span><span class='inter-darby'>à_ceux</span></div><div class='word-unit'><span class='greek-word'>ἐξ</span><span class='inter-segond'>de</span><span class='inter-darby'>qui_seront_à</span></div><div class='word-unit'><span class='greek-word'>εὐωνύμων·</span><span class='inter-segond'>gauche :</span><span class='inter-darby'>gauche :</span></div><div class='word-unit'><span class='greek-word'>Πορεύεσθε</span><span class='inter-segond'>Retirez-vous</span><span class='inter-darby'>Allez-vous-en</span></div><div class='word-unit'><span class='greek-word'>ἀπ’</span><span class='inter-segond'>de</span><span class='inter-darby'>loin_de</span></div><div class='word-unit'><span class='greek-word'>ἐμοῦ</span><span class='inter-segond'>moi,</span><span class='inter-darby'>moi,</span></div><div class='word-unit'><span class='greek-word'>οἱ</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>κατηραμένοι</span><span class='inter-segond'>maudits,</span><span class='inter-darby'>maudits,</span></div><div class='word-unit'><span class='greek-word'>εἰς</span><span class='inter-segond'>dans</span><span class='inter-darby'>dans</span></div><div class='word-unit'><span class='greek-word'>τὸ</span><span class='inter-segond'>le</span><span class='inter-darby'>le</span></div><div class='word-unit'><span class='greek-word'>πῦρ</span><span class='inter-segond'>feu</span><span class='inter-darby'>feu</span></div><div class='word-unit'><span class='greek-word'>τὸ</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>αἰώνιον</span><span class='inter-segond'>éternel</span><span class='inter-darby'>éternel</span></div><div class='word-unit'><span class='greek-word'>τὸ</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>ἡτοιμασμένον</span><span class='inter-segond'>préparé</span><span class='inter-darby'>préparé</span></div><div class='word-unit'><span class='greek-word'>τῷ</span><span class='inter-segond'>pour_le</span><span class='inter-darby'>pour_le</span></div><div class='word-unit'><span class='greek-word'>διαβόλῳ</span><span class='inter-segond'>diable</span><span class='inter-darby'>diable</span></div><div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>τοῖς</span><span class='inter-segond'>pour_ses</span><span class='inter-darby'>pour_ses</span></div><div class='word-unit'><span class='greek-word'>ἀγγέλοις</span><span class='inter-segond'>anges.</span><span class='inter-darby'>anges.</span></div><div class='word-unit'><span class='greek-word'>αὐτοῦ.</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div>"
+    "translations": {
+      "segond": "Ensuite il dira à ceux qui seront à sa gauche: Retirez-vous de moi, maudits; allez dans le feu éternel qui a été préparé pour le diable et pour ses anges.",
+      "darby": "Alors il dira aussi à ceux qui seront à sa gauche : Allez-vous-en loin de moi, maudits, dans le feu éternel qui est préparé pour le diable et ses anges ;"
+    },
+    "interlinear": [
+      { "greek": "τότε", "gloss": "alors" },
+      { "greek": "ἐρεῖ", "gloss": "il_dira" },
+      { "greek": "καὶ", "gloss": "aussi" },
+      { "greek": "τοῖς", "gloss": "à_ceux" },
+      { "greek": "ἐξ", "gloss": "à" },
+      { "greek": "εὐωνύμων·", "gloss": "gauche" },
+      { "greek": "Πορεύεσθε", "gloss": "Allez-vous-en" },
+      { "greek": "ἀπ’", "gloss": "loin_de" },
+      { "greek": "ἐμοῦ", "gloss": "moi" },
+      { "greek": "κατηραμένοι", "gloss": "maudits", "analyse": "Le participe parfait 'maudits' n'a pas d'agent explicite. Le Christ ne dit pas 'maudits par mon Père' (contrairement aux justes qui sont 'bénis de mon Père'). Dieu ne maudit pas. C'est l'homme qui, par son refus d'aimer, s'enferme lui-même dans l'état de malédiction et de coupure." },
+      { "greek": "εἰς", "gloss": "dans" },
+      { "greek": "τὸ", "gloss": "le" },
+      { "greek": "πῦρ", "gloss": "feu" },
+      { "greek": "τὸ", "gloss": "le" },
+      { "greek": "αἰώνιον", "gloss": "éternel" },
+      { "greek": "τὸ", "gloss": "le" },
+      { "greek": "ἡτοιμασμένον", "gloss": "ayant_été_préparé", "analyse": "Attention à la grammaire théologique : le Royaume a été préparé POUR VOUS (v.34), mais le feu éternel a été préparé POUR LE DIABLE et ses anges (v.41). L'enfer n'a jamais été créé pour l'être humain. L'homme n'y entre que s'il choisit volontairement de suivre la voie de l'isolement démoniaque." },
+      { "greek": "τῷ", "gloss": "pour_le" },
+      { "greek": "διαβόλῳ", "gloss": "diable" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "τοῖς", "gloss": "les" },
+      { "greek": "ἀγγέλοις", "gloss": "anges" },
+      { "greek": "αὐτοῦ.", "gloss": "de_lui" }
+    ]
   },
-     {
+  {
     "verse_number": 42,
-    "html_content": "<div class='word-unit'><span class='greek-word'>ἐπείνασα</span><span class='inter-segond'>j’ai_eu_faim,</span><span class='inter-darby'>j’ai_eu_faim,</span></div><div class='word-unit'><span class='greek-word'>γὰρ</span><span class='inter-segond'>car</span><span class='inter-darby'>car</span></div><div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>οὐκ</span><span class='inter-segond'>ne</span><span class='inter-darby'>ne</span></div><div class='word-unit'><span class='greek-word'>ἐδώκατέ</span><span class='inter-segond'>vous_avez_pas_donné</span><span class='inter-darby'>vous_avez_pas_donné</span></div><div class='word-unit'><span class='greek-word'>μοι</span><span class='inter-segond'>à_moi</span><span class='inter-darby'>à_moi</span></div><div class='word-unit'><span class='greek-word'>φαγεῖν,</span><span class='inter-segond'>à_manger ;</span><span class='inter-darby'>à_manger ;</span></div><div class='word-unit'><span class='greek-word'>ἐδίψησα</span><span class='inter-segond'>j’ai_eu_soif,</span><span class='inter-darby'>j’ai_eu_soif,</span></div><div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>οὐκ</span><span class='inter-segond'>ne</span><span class='inter-darby'>ne</span></div><div class='word-unit'><span class='greek-word'>ἐποτίσατέ</span><span class='inter-segond'>vous_avez_pas_donné_à_boire</span><span class='inter-darby'>vous_avez_pas_donné_à_boire</span></div><div class='word-unit'><span class='greek-word'>με,</span><span class='inter-segond'>à_moi ;</span><span class='inter-darby'>à_moi ;</span></div>"
+    "translations": {
+      "segond": "Car j'ai eu faim, et vous ne m'avez pas donné à manger; j'ai eu soif, et vous ne m'avez pas donné à boire;",
+      "darby": "car j'ai eu faim, et vous ne m'avez pas donné à manger ; j'ai eu soif, et vous ne m'avez pas donné à boire ;"
+    },
+    "interlinear": [
+      { "greek": "ἐπείνασα", "gloss": "j'ai_eu_faim" },
+      { "greek": "γὰρ", "gloss": "car" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "οὐκ", "gloss": "ne...pas" },
+      { "greek": "ἐδώκατέ", "gloss": "vous_avez_donné" },
+      { "greek": "μοι", "gloss": "à_moi" },
+      { "greek": "φαγεῖν,", "gloss": "à_manger" },
+      { "greek": "ἐδίψησα", "gloss": "j'ai_eu_soif" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "οὐκ", "gloss": "ne...pas" },
+      { "greek": "ἐποτίσατέ", "gloss": "vous_avez_donné_à_boire" },
+      { "greek": "με,", "gloss": "moi" }
+    ]
   },
   {
     "verse_number": 43,
-    "html_content": "<div class='word-unit'><span class='greek-word'>ξένος</span><span class='inter-segond'>étranger,</span><span class='inter-darby'>étranger,</span></div><div class='word-unit'><span class='greek-word'>ἤμην</span><span class='inter-segond'>j’étais</span><span class='inter-darby'>j’étais</span></div><div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>οὐ</span><span class='inter-segond'>ne</span><span class='inter-darby'>ne</span></div><div class='word-unit'><span class='greek-word'>συνηγάγετέ</span><span class='inter-segond'>vous_avez_pas_recueilli</span><span class='inter-darby'>vous_avez_pas_recueilli</span></div><div class='word-unit'><span class='greek-word'>με,</span><span class='inter-segond'>moi ;</span><span class='inter-darby'>moi ;</span></div><div class='word-unit'><span class='greek-word'>γυμνὸς</span><span class='inter-segond'>nu,</span><span class='inter-darby'>nu,</span></div><div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>οὐ</span><span class='inter-segond'>ne</span><span class='inter-darby'>ne</span></div><div class='word-unit'><span class='greek-word'>περιεβάλετέ</span><span class='inter-segond'>vous_avez_pas_vêtu</span><span class='inter-darby'>vous_avez_pas_vêtu</span></div><div class='word-unit'><span class='greek-word'>με,</span><span class='inter-segond'>moi ;</span><span class='inter-darby'>moi ;</span></div><div class='word-unit'><span class='greek-word'>ἀσθενὴς</span><span class='inter-segond'>malade</span><span class='inter-darby'>malade</span></div><div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>ἐν</span><span class='inter-segond'>en</span><span class='inter-darby'>en</span></div><div class='word-unit'><span class='greek-word'>φυλακῇ</span><span class='inter-segond'>prison,</span><span class='inter-darby'>prison,</span></div><div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>οὐκ</span><span class='inter-segond'>ne</span><span class='inter-darby'>ne</span></div><div class='word-unit'><span class='greek-word'>ἐπεσκέψασθέ</span><span class='inter-segond'>vous_avez_pas_visité</span><span class='inter-darby'>vous_avez_pas_visité</span></div><div class='word-unit'><span class='greek-word'>με.</span><span class='inter-segond'>moi.</span><span class='inter-darby'>moi.</span></div>"
+    "translations": {
+      "segond": "j'étais étranger, et vous ne m'avez pas recueilli; j'étais nu, et vous ne m'avez pas vêtu; j'étais malade et en prison, et vous ne m'avez pas visité.",
+      "darby": "j'étais étranger, et vous ne m'avez pas recueilli ; nu, et vous ne m'avez pas vêtu ; malade et en prison, et vous ne m'avez pas visité."
+    },
+    "interlinear": [
+      { "greek": "ξένος", "gloss": "étranger" },
+      { "greek": "ἤμην", "gloss": "j'étais" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "οὐ", "gloss": "non" },
+      { "greek": "συνηγάγετέ", "gloss": "vous_avez_recueilli" },
+      { "greek": "με,", "gloss": "moi" },
+      { "greek": "γυμνὸς", "gloss": "nu" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "οὐ", "gloss": "non" },
+      { "greek": "περιεβάλετέ", "gloss": "vous_avez_vêtu" },
+      { "greek": "με,", "gloss": "moi" },
+      { "greek": "ἀσθενὴς", "gloss": "malade" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "ἐν", "gloss": "en" },
+      { "greek": "φυλακῇ", "gloss": "prison" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "οὐκ", "gloss": "ne...pas" },
+      { "greek": "ἐπεσκέψασθέ", "gloss": "vous_avez_visité" },
+      { "greek": "με.", "gloss": "moi" }
+    ]
   },
   {
     "verse_number": 44,
-    "html_content": "<div class='word-unit'><span class='greek-word'>τότε</span><span class='inter-segond'>Alors</span><span class='inter-darby'>Alors</span></div><div class='word-unit'><span class='greek-word'>ἀποκριθήσονται</span><span class='inter-segond'>répondront</span><span class='inter-darby'>répondront</span></div><div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>aussi</span><span class='inter-darby'>aussi</span></div><div class='word-unit'><span class='greek-word'>αὐτοὶ</span><span class='inter-segond'>ils</span><span class='inter-darby'>ils</span></div><div class='word-unit'><span class='greek-word'>λέγοντες·</span><span class='inter-segond'>en_disant :</span><span class='inter-darby'>disant :</span></div><div class='word-unit'><span class='greek-word'>Κύριε,</span><span class='inter-segond'>Seigneur,</span><span class='inter-darby'>Seigneur,</span></div><div class='word-unit'><span class='greek-word'>πότε</span><span class='inter-segond'>quand</span><span class='inter-darby'>quand</span></div><div class='word-unit'><span class='greek-word'>σε</span><span class='inter-segond'>t’</span><span class='inter-darby'>t’</span></div><div class='word-unit'><span class='greek-word'>εἴδομεν</span><span class='inter-segond'>avons-nous_vu</span><span class='inter-darby'>avons-nous_vu</span></div><div class='word-unit'><span class='greek-word'>πεινῶντα</span><span class='inter-segond'>avoir_faim,</span><span class='inter-darby'>ayant_faim,</span></div><div class='word-unit'><span class='greek-word'>ἢ</span><span class='inter-segond'>ou</span><span class='inter-darby'>ou</span></div><div class='word-unit'><span class='greek-word'>διψῶντα</span><span class='inter-segond'>avoir_soif,</span><span class='inter-darby'>ayant_soif,</span></div><div class='word-unit'><span class='greek-word'>ἢ</span><span class='inter-segond'>ou</span><span class='inter-darby'>ou</span></div><div class='word-unit'><span class='greek-word'>ξένον</span><span class='inter-segond'>étranger,</span><span class='inter-darby'>étranger,</span></div><div class='word-unit'><span class='greek-word'>ἢ</span><span class='inter-segond'>ou</span><span class='inter-darby'>ou</span></div><div class='word-unit'><span class='greek-word'>γυμνὸν</span><span class='inter-segond'>nu,</span><span class='inter-darby'>nu,</span></div><div class='word-unit'><span class='greek-word'>ἢ</span><span class='inter-segond'>ou</span><span class='inter-darby'>ou</span></div><div class='word-unit'><span class='greek-word'>ἀσθενῆ</span><span class='inter-segond'>malade,</span><span class='inter-darby'>malade,</span></div><div class='word-unit'><span class='greek-word'>ἢ</span><span class='inter-segond'>ou</span><span class='inter-darby'>ou</span></div><div class='word-unit'><span class='greek-word'>ἐν</span><span class='inter-segond'>en</span><span class='inter-darby'>en</span></div><div class='word-unit'><span class='greek-word'>φυλακῇ</span><span class='inter-segond'>prison,</span><span class='inter-darby'>prison,</span></div><div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>et</span><span class='inter-darby'>et</span></div><div class='word-unit'><span class='greek-word'>οὐ</span><span class='inter-segond'>ne_pas</span><span class='inter-darby'>ne_pas</span></div><div class='word-unit'><span class='greek-word'>διηκονήσαμέν</span><span class='inter-segond'>t’avons-nous_assisté ?</span><span class='inter-darby'>t’avons-nous_servi ?</span></div><div class='word-unit'><span class='greek-word'>σοι;</span><span class='inter-segond'>toi ?</span><span class='inter-darby'>toi ?</span></div>"
+    "translations": {
+      "segond": "Ils répondront aussi: Seigneur, quand t'avons-nous vu ayant faim, ou ayant soif, ou étranger, ou nu, ou malade, ou en prison, et ne t'avons-nous pas assisté?",
+      "darby": "Alors eux aussi répondront, disant : Seigneur, quand est-ce que nous t'avons vu avoir faim, ou avoir soif, ou étranger, ou nu, ou malade, ou en prison, et que nous ne t'avons pas servi ?"
+    },
+    "interlinear": [
+      { "greek": "τότε", "gloss": "alors" },
+      { "greek": "ἀποκριθήσονται", "gloss": "répondront" },
+      { "greek": "καὶ", "gloss": "aussi" },
+      { "greek": "αὐτοὶ", "gloss": "eux" },
+      { "greek": "λέγοντες·", "gloss": "disant" },
+      { "greek": "Κύριε,", "gloss": "Seigneur" },
+      { "greek": "πότε", "gloss": "quand" },
+      { "greek": "σε", "gloss": "toi" },
+      { "greek": "εἴδομεν", "gloss": "avons-nous_vu" },
+      { "greek": "πεινῶντα", "gloss": "ayant_faim" },
+      { "greek": "ἢ", "gloss": "ou" },
+      { "greek": "διψῶντα", "gloss": "ayant_soif" },
+      { "greek": "ἢ", "gloss": "ou" },
+      { "greek": "ξένον", "gloss": "étranger" },
+      { "greek": "ἢ", "gloss": "ou" },
+      { "greek": "γυμνὸν", "gloss": "nu" },
+      { "greek": "ἢ", "gloss": "ou" },
+      { "greek": "ἀσθενοῦντα", "gloss": "étant_malade" },
+      { "greek": "ἢ", "gloss": "ou" },
+      { "greek": "ἐν", "gloss": "en" },
+      { "greek": "φυλακῇ", "gloss": "prison" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "οὐ", "gloss": "ne...pas" },
+      { "greek": "διηκονήσαμέν", "gloss": "avons_servi" },
+      { "greek": "σοι;", "gloss": "à_toi" }
+    ]
   },
   {
     "verse_number": 45,
-    "html_content": "<div class='word-unit'><span class='greek-word'>τότε</span><span class='inter-segond'>Alors</span><span class='inter-darby'>Alors</span></div><div class='word-unit'><span class='greek-word'>ἀποκριθήσεται</span><span class='inter-segond'>il_répondra</span><span class='inter-darby'>il_répondra</span></div><div class='word-unit'><span class='greek-word'>αὐτοῖς</span><span class='inter-segond'>leur</span><span class='inter-darby'>leur</span></div><div class='word-unit'><span class='greek-word'>λέγων·</span><span class='inter-segond'>en_disant :</span><span class='inter-darby'>disant :</span></div><div class='word-unit'><span class='greek-word'>Ἀμὴν</span><span class='inter-segond'>En_vérité</span><span class='inter-darby'>En_vérité</span></div><div class='word-unit'><span class='greek-word'>λέγω</span><span class='inter-segond'>je_dis</span><span class='inter-darby'>je_dis</span></div><div class='word-unit'><span class='greek-word'>ὑμῖν,</span><span class='inter-segond'>vous,</span><span class='inter-darby'>vous,</span></div><div class='word-unit'><span class='greek-word'>ἐφ’</span><span class='inter-segond'>dans_la_mesure_où</span><span class='inter-darby'>en_tant_que</span></div><div class='word-unit'><span class='greek-word'>ὅσον</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>οὐκ</span><span class='inter-segond'>ne</span><span class='inter-darby'>ne</span></div><div class='word-unit'><span class='greek-word'>ἐποιήσατε</span><span class='inter-segond'>vous_avez_pas_fait</span><span class='inter-darby'>vous_avez_pas_fait</span></div><div class='word-unit'><span class='greek-word'>ἑνὶ</span><span class='inter-segond'>à_l’un</span><span class='inter-darby'>à_l’un</span></div><div class='word-unit'><span class='greek-word'>τούτων</span><span class='inter-segond'>de_ces</span><span class='inter-darby'>de_ceux-ci</span></div><div class='word-unit'><span class='greek-word'>τῶν</span><span class='inter-segond'>—</span><span class='inter-darby'>—</span></div><div class='word-unit'><span class='greek-word'>ἐλαχίστων,</span><span class='inter-segond'>plus_petits,</span><span class='inter-darby'>plus_petits,</span></div><div class='word-unit'><span class='greek-word'>οὐδὲ</span><span class='inter-segond'>non_plus</span><span class='inter-darby'>non_plus</span></div><div class='word-unit'><span class='greek-word'>ἐμοὶ</span><span class='inter-segond'>c'est_à_moi</span><span class='inter-darby'>à_moi</span></div><div class='word-unit'><span class='greek-word'>ἐποιήσατε.</span><span class='inter-segond'>que_vous_avez_fait.</span><span class='inter-darby'>vous_avez_fait.</span></div>"
+    "translations": {
+      "segond": "Et il leur répondra: Je vous le dis en vérité, toutes les fois que vous n'avez pas fait ces choses à l'un de ces plus petits, c'est à moi que vous ne les avez pas faites.",
+      "darby": "Alors il leur répondra, disant : En vérité, je vous dis : En tant que vous ne l'avez pas fait à l'un des plus petits de ceux-ci, vous ne me l'avez pas fait à moi non plus."
+    },
+    "interlinear": [
+      { "greek": "τότε", "gloss": "alors" },
+      { "greek": "ἀποκριθήσεται", "gloss": "il_répondra" },
+      { "greek": "αὐτοῖς", "gloss": "à_eux" },
+      { "greek": "λέγων·", "gloss": "disant" },
+      { "greek": "Ἀμὴν", "gloss": "En_vérité" },
+      { "greek": "λέγω", "gloss": "je_dis" },
+      { "greek": "ὑμῖν,", "gloss": "à_vous" },
+      { "greek": "ἐφ’", "gloss": "sur" },
+      { "greek": "ὅσον", "gloss": "autant_que" },
+      { "greek": "οὐκ", "gloss": "ne...pas" },
+      { "greek": "ἐποιήσατε", "gloss": "vous_avez_fait" },
+      { "greek": "ἑνὶ", "gloss": "à_un" },
+      { "greek": "τούτων", "gloss": "de_ceux-ci" },
+      { "greek": "τῶν", "gloss": "les" },
+      { "greek": "ἐλαχίστων,", "gloss": "plus_petits" },
+      { "greek": "οὐδὲ", "gloss": "ni/non_plus" },
+      { "greek": "ἐμοὶ", "gloss": "à_moi" },
+      { "greek": "ἐποιήσατε.", "gloss": "vous_avez_fait" }
+    ]
   },
   {
     "verse_number": 46,
-    "html_content": "<div class='word-unit'><span class='greek-word'>καὶ</span><span class='inter-segond'>Et</span><span class='inter-darby'>Et</span></div><div class='word-unit'><span class='greek-word'>ἀπελεύσονται</span><span class='inter-segond'>iront</span><span class='inter-darby'>iront</span></div><div class='word-unit'><span class='greek-word'>οὗτοι</span><span class='inter-segond'>ceux-ci</span><span class='inter-darby'>ceux-ci</span></div><div class='word-unit'><span class='greek-word'>εἰς</span><span class='inter-segond'>au</span><span class='inter-darby'>dans_les</span></div><div class='word-unit'><span class='greek-word'>κόλασιν</span><span class='inter-segond'>châtiment</span><span class='inter-darby'>tourments</span></div><div class='word-unit'><span class='greek-word'>αἰώνιον,</span><span class='inter-segond'>éternel,</span><span class='inter-darby'>éternels,</span></div><div class='word-unit'><span class='greek-word'>οἱ</span><span class='inter-segond'>les</span><span class='inter-darby'>les</span></div><div class='word-unit'><span class='greek-word'>δὲ</span><span class='inter-segond'>mais</span><span class='inter-darby'>mais</span></div><div class='word-unit'><span class='greek-word'>δίκαιοι</span><span class='inter-segond'>justes</span><span class='inter-darby'>justes</span></div><div class='word-unit'><span class='greek-word'>εἰς</span><span class='inter-segond'>à_la</span><span class='inter-darby'>dans_la</span></div><div class='word-unit'><span class='greek-word'>ζωὴν</span><span class='inter-segond'>vie</span><span class='inter-darby'>vie</span></div><div class='word-unit'><span class='greek-word'>αἰώνιον.</span><span class='inter-segond'>éternelle.</span><span class='inter-darby'>éternelle.</span></div>"
+    "translations": {
+      "segond": "Et ceux-ci iront au châtiment éternel, mais les justes à la vie éternelle.",
+      "darby": "Et ceux-ci s'en iront dans les tourments éternels, et les justes dans la vie éternelle."
+    },
+    "interlinear": [
+      { "greek": "καὶ", "gloss": "Et" },
+      { "greek": "ἀπελεύσονται", "gloss": "ils_iront" },
+      { "greek": "οὗτοι", "gloss": "ceux-ci" },
+      { "greek": "εἰς", "gloss": "dans" },
+      { "greek": "κόλασιν", "gloss": "châtiment/amputation", "analyse": "Très important : le mot grec *kolasin* vient de l'agriculture et signifie originellement 'élaguer', 'amputer' ou 'couper une branche'. Le châtiment infernal n'est pas une torture infligée par Dieu, c'est l'état tragique de l'âme qui s'est elle-même 'amputée' de l'Arbre de Vie par son refus d'aimer l'autre." },
+      { "greek": "αἰώνιον,", "gloss": "éternel" },
+      { "greek": "οἱ", "gloss": "les" },
+      { "greek": "δὲ", "gloss": "mais/or" },
+      { "greek": "δίκαιοι", "gloss": "justes" },
+      { "greek": "εἰς", "gloss": "dans" },
+      { "greek": "ζωὴν", "gloss": "vie" },
+      { "greek": "αἰώνιον.", "gloss": "éternelle" }
+    ]
   }
-    ],
-    "greek_only": "31 Ὅταν δὲ ἔλθῃ ὁ υἱὸς τοῦ ἀνθρώπου ἐν τῇ δόξῃ αὐτοῦ καὶ πάντες οἱ ἅγιοι ἄγγελοι μετ’ αὐτοῦ, τότε καθίσει ἐπὶ θρόνου δόξης αὐτοῦ· 32 καὶ συναχθήσεται ἔμπροσθεν αὐτοῦ πάντα τὰ ἔθνη, καὶ ἀφοριεῖ αὐτοὺς ἀπ’ ἀλλήλων, ὥσπερ ὁ ποιμὴν ἀφορίζει τὰ πρόβατα ἀπὸ τῶν ἐρίφων, 33 καὶ στήσει τὰ μὲν πρόβατα ἐκ δεξιῶν αὐτοῦ, τὰ δὲ ἐρίφια ἐξ εὐωνύμων. 34 τότε ἐρεῖ ὁ βασιλεὺς τοῖς ἐκ δεξιῶν αὐτοῦ· Δεῦτε, οἱ εὐλογημένοι τοῦ πατρός μου, κληρονομήσατε τὴν ἡτοιμασμένην ὑμῖν βασιλείαν ἀπὸ καταβολῆς κόσμου. 35 ἐπείνασα γὰρ καὶ ἐδώκατέ μοι φαγεῖν, ἐδίψησα καὶ ἐποτίσατέ με, ξένος ἤμην καὶ συνηγάγετέ με, 36 γυμνὸς καὶ περιεβάλετέ με, ἠσθένησα καὶ ἐπεσκέψασθέ με, ἐν φυλακῇ ἤμην καὶ ἤλθετε πρός με. 37 τότε ἀποκριθήσονται αὐτῷ οἱ δίκαιοι λέγοντες· Κύριε, πότε σε εἴδομεν πεινῶντα καὶ ἐθρέψαμεν, ἢ διψῶντα καὶ ἐποτίσαμεν; 38 πότε δέ σε εἴδομεν ξένον καὶ συνηγάγομεν, ἢ γυμνὸν καὶ περιεβάλομεν; 39 πότε δέ σε εἴδομεν ἀσθενῆ ἢ ἐν φυλακῇ καὶ ἤλθομεν πρός σε; 40 καὶ ἀποκριθεὶς ὁ βασιλεὺς ἐρεῖ αὐτοῖς· Ἀμὴν λέγω ὑμῖν, ἐφ’ ὅσον ἐποιήσατε ἑνὶ τούτων τῶν ἀδελφῶν μου τῶν ἐλαχίστων, ἐμοὶ ἐποιήσατε. 41 τότε ἐρεῖ καὶ τοῖς ἐξ εὐωνύμων· Πορεύεσθε ἀπ’ ἐμοῦ οἱ κατηραμένοι εἰς τὸ πῦρ τὸ αἰώνιον τὸ ἡτοιμασμένον τῷ διαβόλῳ καὶ τοῖς ἀγγέλοις αὐτοῦ· 42 ἐπείνασα γὰρ καὶ οὐκ ἐδώκατέ μοι φαγεῖν, ἐδίψησα καὶ οὐκ ἐποτίσατέ με, 43 ξένος ἤμην καὶ οὐ συνηγάγετέ με, γυμνὸς καὶ οὐ περιεβάλετέ με, ἀσθενὴς καὶ ἐν φυλακῇ καὶ οὐκ ἐπεσκέψασθέ με. 44 τότε ἀποκριθήσονται αὐτῷ καὶ αὐτοὶ λέγοντες· Κύριε, πότε σε εἴδομεν πεινῶντα ἢ διψῶντα ἢ ξένον ἢ γυμνὸν ἢ ἀσθενῆ ἢ ἐν φυλακῇ καὶ οὐ διηκονήσαμέν σοι; 45 τότε ἀποκριθήσεται αὐτοῖς λέγων· Ἀμὴν λέγω ὑμῖν, ἐφ’ ὅσον οὐκ ἐποιήσατε ἑνὶ τούτων τῶν ἐλαχίστων, οὐδὲ ἐμοὶ ἐποιήσατε. 46 καὶ ἀπελεύσονται οὗτοι εἰς κόλασιν αἰώνιον, οἱ δὲ δίκαιοι εἰς ζωὴν αἰώνιον.",
-    "french_only": "31 Lorsque le Fils de l'homme viendra dans sa gloire, avec tous les anges, il s'assiéra sur le trône de sa gloire. 32 Toutes les nations seront assemblées devant lui. Il séparera les uns d'avec les autres, comme le berger sépare les brebis d'avec les boucs ; 33 et il mettra les brebis à sa droite, et les boucs à sa gauche. 34 Alors le roi dira à ceux qui seront à sa droite : Venez, vous qui êtes bénis de mon Père ; prenez possession du royaume qui vous a été préparé dès la fondation du monde. 35 Car j'ai eu faim, et vous m'avez donné à manger ; j'ai eu soif, et vous m'avez donné à boire ; j'étais étranger, et vous m'avez recueilli ; 36 j'étais nu, et vous m'avez vêtu ; j'étais malade, et vous m'avez visité ; j'étais en prison, et vous êtes venus vers moi. 37 Les justes lui répondront : Seigneur, quand t'avons-nous vu avoir faim, et t'avons-nous nourri ; ou avoir soif, et t'avons-nous donné à boire ? 38 Quand t'avons-nous vu étranger, et t'avons-nous recueilli ; ou nu, et t'avons-nous vêtu ? 39 Quand t'avons-nous vu malade, ou en prison, et sommes-nous allés vers toi ? 40 Et le roi leur répondra : Je vous le dis en vérité, toutes les fois que vous avez fait ces choses à l'un de ces plus petits de mes frères, c'est à moi que vous les avez faites. 41 Ensuite il dira à ceux qui seront à sa gauche : Retirez-vous de moi, maudits ; allez dans le feu éternel qui a été préparé pour le diable et pour ses anges. 42 Car j'ai eu faim, et vous ne m'avez pas donné à manger ; j'ai eu soif, et vous ne m'avez pas donné à boire ; 43 j'étais étranger, et vous ne m'avez pas recueilli ; j'étais nu, et vous ne m'avez pas vêtu ; j'étais malade et en prison, et vous ne m'avez pas visité. 44 Ils répondront aussi : Seigneur, quand t'avons-nous vu ayant faim, ou ayant soif, ou étranger, ou nu, ou malade, ou en prison, et ne t'avons-nous pas assisté ? 45 Et il leur répondra : Je vous le dis en vérité, toutes les fois que vous n'avez pas fait ces choses à l'un de ces plus petits, c'est à moi que vous ne les avez pas faites. 46 Et ceux-ci iront au châtiment éternel, mais les justes à la vie éternelle.",
-    "french_darby": "31 Et quand le fils de l’homme viendra dans sa gloire, et tous les saints anges avec lui, alors il s’assiéra sur le trône de sa gloire ; 32 et toutes les nations seront assemblées devant lui ; et il séparera les uns d’avec les autres, comme un berger sépare les brebis d’avec les chevrettes ; 33 et il mettra les brebis à sa droite, et les chevrettes à sa gauche. 34 Alors le roi dira à ceux qui seront à sa droite : Venez, les bénis de mon Père, héritez du royaume qui vous est préparé dès la fondation du monde ; 35 car j’ai eu faim, et vous m’avez donné à manger ; j’ai eu soif, et vous m’avez donné à boire ; j’étais étranger, et vous m’avez recueilli ; 36 nu, et vous m’avez vêtu ; j’ai été malade, et vous m’avez visité ; j’étais en prison, et vous êtes venus vers moi. 37 Alors les justes lui répondront, disant : Seigneur, quand est-ce que nous t’avons vu avoir faim, et que nous t’avons nourri ? ou avoir soif, et que nous t’avons donné à boire ? 38 Et quand est-ce que nous t’avons vu étranger, et que nous t’avons recueilli ? ou nu, et que nous t’avons vêtu ? 39 Et quand est-ce que nous t’avons vu malade, ou en prison, et que nous sommes allés vers toi ? 40 Et le roi, répondant, leur dira : En vérité, je vous dis : En tant que vous l’avez fait à l’un de ces plus petits de mes frères, vous me l’avez fait à moi. 41 Alors il dira aussi à ceux qui seront à sa gauche : Allez-vous-en loin de moi, maudits, dans le feu éternel qui est préparé pour le diable et pour ses anges ; 42 car j’ai eu faim, et vous ne m’avez pas donné à manger ; j’ai eu soif, et vous ne m’avez pas donné à boire ; 43 j’étais étranger, et vous ne m’avez pas recueilli ; nu, et vous ne m’avez pas vêtu ; malade et en prison, et vous ne m’avez pas visité. 44 Alors eux aussi répondront, disant : Seigneur, quand est-ce que nous t’avons vu avoir faim, ou avoir soif, ou étranger, ou nu, ou malade, ou en prison, et que nous ne t’avons pas servi ? 45 Alors il leur répondra, disant : En vérité, je vous dis : En tant que vous ne l’avez pas fait à l’un de ces plus petits, vous ne l’avez pas fait à moi non plus. 46 Et ceux-ci s’en iront dans le supplice éternel, mais les justes dans la vie éternelle.",
-    "personal_analysis": "Notes sur les choix des traducteurs (Omissions) :\n\n• Verset 40 - ὅσον : Segond et Darby traduisent l'expression ἐφ’ ὅσον d'un seul bloc (\"dans la mesure où\" / \"en tant que\"). Le mot ὅσον reste donc avec un trou car son sens est absorbé par la préposition précédente.\n• Verset 40 - τῶν (avant frères et avant plus petits) : Le grec répète l'article pour l'accord de l'adjectif. Les deux traducteurs l'omettent naturellement en français pour éviter la lourdeur.\n• Verset 41 - οἱ (devant maudits) : Le vocatif/apposition ne requiert pas d'article en français ici, Segond et Darby l'omettent.\n• Verset 41 - τὸ (avant éternel et préparé) : Même cas que le verset 40, la répétition de l'article grec pour l'adjectif est ignorée par les deux traductions françaises.\n• Verset 41 - αὐτοῦ : Segond et Darby ont déjà intégré le sens possessif dans \"ses\" (sous τοῖς). Le mot final αὐτοῦ (de lui) reste donc vide par choix de traduction.\n• Verset 45 - ὅσον : Tout comme au verset 40, l'expression ἐφ’ ὅσον est un idiotisme grec qui se traduit par un seul bloc sémantique (\"dans la mesure où\" / \"en tant que\"). Segond et Darby traduisent l'ensemble sous ἐφ’, rendant ὅσον muet.\n• Verset 45 - τῶν : Répétition de l'article (\"ces\" frères \"les\" plus petits). Les traducteurs français l'omettent pour éviter la redondance stylistique.\n\nAnalyse spirituelle :\nLe Jugement ne porte pas sur des concepts abstraits, mais sur la charité concrète. Le Christ s'identifie à celui qui souffre ('C'est à moi que vous l'avez fait'). C'est le dernier dimanche avant le Carême : l'Église nous rappelle que le jeûne n'a de valeur que s'il débouche sur l'amour du prochain."
-},
+],
+"personal_analysis": "Notes sur les choix des traducteurs (Omissions structurelles par rapport au mot-à-mot) :\n\n• Verset 32 - ἀφορίσει : Souvent traduit par 'il séparera', ce verbe porte l'idée de marquer un horizon (une frontière). Le jugement n'est pas un tribunal, c'est la révélation d'une limite intérieure que chaque homme a creusée durant sa vie.\n• Verset 41 - κατηραμένοι / ἡτοιμασμένον : Les traductions masquent parfois la passivité de ces participes. Le texte grec prend grand soin de ne jamais faire de Dieu le sujet actif de la damnation. Le feu est préparé pour le diable, pas pour l'homme.\n• Verset 46 - κόλασιν : Segond traduit par 'châtiment' et Darby par 'tourments'. Ces mots ont une forte charge punitive en français, alors que la racine grecque (*kolazo*) évoque plutôt la taille d'un arbre, l'amputation. C'est la coupure relationnelle définitive.\n\nAnalyse spirituelle :\nLe Jugement Dernier (Dimanche du Carnaval) nous offre le critère absolu de notre salut. Le Christ ne nous interrogera ni sur nos jeûnes, ni sur nos dogmes, ni sur nos extases spirituelles. La seule question sera : 'As-tu su me reconnaître dans l'autre ?'\n\nLa tragédie de ceux de 'la gauche' n'est pas d'avoir été de grands criminels. Leur péché est l'omission ('vous ne l'avez pas fait'). Ils ont cru pouvoir aimer Dieu de manière désincarnée, tout en ignorant le pauvre, l'étranger et le prisonnier devant leur porte. L'Orthodoxie nous enseigne ici que l'enfer n'est pas un lieu où Dieu nous enferme par vengeance, mais l'incapacité de l'âme à supporter l'Amour divin, parce qu'elle s'est volontairement 'amputée' (*kolasin*) de toute communion avec le prochain."
  "apostle": {
   "reference": "1 Corinthiens 8, 8 - 9, 2",
   "title": "La Charité au-dessus de la Connaissance",
