@@ -1,122 +1,629 @@
 {
   "gospel": {
-    "reference": "Jean 1, 1-17",
-    "title": "Le Prologue : La Lumière luit dans les Ténèbres",
+    "reference": "Jean 1, 1-5 ; 14",
+    "title": "Le Prologue : L'irruption de la Lumière incréée",
     "interlinear": [
       {
         "verse_number": 1,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Ἐν</span><span class='greek-word'>ἀρχῇ</span><span class='greek-word'>ἦν</span><span class='greek-word'>ὁ</span><span class='greek-word'>Λόγος,</span></p><p class='inter-segond'><span class='french-word'>Au</span><span class='french-word'>commencement</span><span class='french-word'>était</span><span class='french-word'>la</span><span class='french-word'>Parole,</span></p><p class='inter-darby'><span class='french-word'>Au</span><span class='french-word'>commencement</span><span class='french-word'>était</span><span class='french-word'>la</span><span class='french-word'>Parole ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ὁ</span><span class='greek-word'>Λόγος</span><span class='greek-word'>ἦν</span><span class='greek-word'>πρὸς</span><span class='greek-word'>τὸν</span><span class='greek-word'>Θεόν,</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>la</span><span class='french-word'>Parole</span><span class='french-word'>était</span><span class='french-word'>avec</span><span class='french-word'>le</span><span class='french-word'>Dieu,</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>la</span><span class='french-word'>Parole</span><span class='french-word'>était</span><span class='french-word'>auprès_de</span><span class='french-word'>Dieu ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>Θεὸς</span><span class='greek-word'>ἦν</span><span class='greek-word'>ὁ</span><span class='greek-word'>Λόγος.</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>Dieu</span><span class='french-word'>était</span><span class='french-word'>la</span><span class='french-word'>Parole.</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>la</span><span class='french-word'>Parole</span><span class='french-word'>était</span><span class='french-word'>Dieu.</span></p></div>"
+        "translations": {
+          "segond": "Au commencement était la Parole, et la Parole était avec Dieu, et la Parole était Dieu.",
+          "darby": "Au commencement était la Parole ; et la Parole était auprès de Dieu ; et la Parole était Dieu."
+        },
+        "interlinear": [
+          { "greek": "Ἐν", "gloss": "Au" },
+          { "greek": "ἀρχῇ", "gloss": "commencement" },
+          { "greek": "ἦν", "gloss": "était" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "λόγος,", "gloss": "Verbe/Parole", "analyse": "Le Logos n'est pas une simple parole, un discours ou un concept intellectuel. C'est le principe d'unité et de communion absolue, l'Énergie divine qui structure le 'Royaume UN'. Le Logos est pure relation : il est ce par quoi le Sujet divin se communique totalement sans jamais se diviser." },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "λόγος", "gloss": "Verbe" },
+          { "greek": "ἦν", "gloss": "était" },
+          { "greek": "πρὸς", "gloss": "vers/auprès_de" },
+          { "greek": "τὸν", "gloss": "le" },
+          { "greek": "θεόν,", "gloss": "Dieu" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "θεὸς", "gloss": "Dieu" },
+          { "greek": "ἦν", "gloss": "était" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "λόγος.", "gloss": "Verbe" }
+        ]
       },
       {
         "verse_number": 2,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Οὗτος</span><span class='greek-word'>ἦν</span><span class='greek-word'>ἐν</span><span class='greek-word'>ἀρχῇ</span><span class='greek-word'>πρὸς</span><span class='greek-word'>τὸν</span><span class='greek-word'>Θεόν.</span></p><p class='inter-segond'><span class='french-word'>Elle</span><span class='french-word'>était</span><span class='french-word'>au</span><span class='french-word'>commencement</span><span class='french-word'>avec</span><span class='french-word'>le</span><span class='french-word'>Dieu.</span></p><p class='inter-darby'><span class='french-word'>Elle</span><span class='french-word'>était</span><span class='french-word'>au</span><span class='french-word'>commencement</span><span class='french-word'>auprès_de</span><span class='french-word'>Dieu.</span></p></div>"
+        "translations": {
+          "segond": "Elle était au commencement avec Dieu.",
+          "darby": "Elle était au commencement auprès de Dieu."
+        },
+        "interlinear": [
+          { "greek": "οὗτος", "gloss": "Celui-ci" },
+          { "greek": "ἦν", "gloss": "était" },
+          { "greek": "ἐν", "gloss": "au" },
+          { "greek": "ἀρχῇ", "gloss": "commencement" },
+          { "greek": "πρὸς", "gloss": "auprès_de" },
+          { "greek": "τὸν", "gloss": "le" },
+          { "greek": "θεόν.", "gloss": "Dieu" }
+        ]
       },
       {
         "verse_number": 3,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>πάντα</span><span class='greek-word'>δι’</span><span class='greek-word'>αὐτοῦ</span><span class='greek-word'>ἐγένετο,</span></p><p class='inter-segond'><span class='french-word'>Toutes_choses</span><span class='french-word'>par</span><span class='french-word'>elle</span><span class='french-word'>ont_été_faites,</span></p><p class='inter-darby'><span class='french-word'>Toutes_choses</span><span class='french-word'>furent_faites</span><span class='french-word'>par</span><span class='french-word'>elle,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>χωρὶς</span><span class='greek-word'>αὐτοῦ</span><span class='greek-word'>ἐγένετο</span><span class='greek-word'>οὐδὲ</span><span class='greek-word'>ἕν</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>sans</span><span class='french-word'>elle</span><span class='french-word'>a_été_fait</span><span class='french-word'>pas_même</span><span class='french-word'>une_seule</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>sans</span><span class='french-word'>elle</span><span class='french-word'>pas_une_seule_chose</span><span class='french-word'>ne_fut_faite</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὃ</span><span class='greek-word'>γέγονεν.</span></p><p class='inter-segond'><span class='french-word'>qui</span><span class='french-word'>ait_été_faite.</span></p><p class='inter-darby'><span class='french-word'>de_ce_qui</span><span class='french-word'>a_été_fait.</span></p></div>"
+        "translations": {
+          "segond": "Toutes choses ont été faites par elle, et rien de ce qui a été fait n'a été fait sans elle.",
+          "darby": "Toutes choses furent faites par elle, et sans elle pas une seule chose ne fut faite de ce qui a été fait."
+        },
+        "interlinear": [
+          { "greek": "πάντα", "gloss": "Toutes_choses" },
+          { "greek": "δι’", "gloss": "par" },
+          { "greek": "αὐτοῦ", "gloss": "lui" },
+          { "greek": "ἐγένετο,", "gloss": "furent_faites" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "χωρὶς", "gloss": "sans" },
+          { "greek": "αὐτοῦ", "gloss": "lui" },
+          { "greek": "ἐγένετο", "gloss": "fut_fait" },
+          { "greek": "οὐδὲ", "gloss": "pas_même" },
+          { "greek": "ἓν", "gloss": "un_seul" },
+          { "greek": "ὃ", "gloss": "qui" },
+          { "greek": "γέγονεν.", "gloss": "a_été_fait" }
+        ]
       },
       {
         "verse_number": 4,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἐν</span><span class='greek-word'>αὐτῷ</span><span class='greek-word'>ζωὴ</span><span class='greek-word'>ἦν,</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἡ</span><span class='greek-word'>ζωὴ</span><span class='greek-word'>ἦν</span><span class='greek-word'>τὸ</span><span class='greek-word'>φῶς</span><span class='greek-word'>τῶν</span><span class='greek-word'>ἀνθρώπων·</span></p><p class='inter-segond'><span class='french-word'>En</span><span class='french-word'>elle</span><span class='french-word'>la_vie</span><span class='french-word'>était,</span><span class='french-word'>et</span><span class='french-word'>la</span><span class='french-word'>vie</span><span class='french-word'>était</span><span class='french-word'>la</span><span class='french-word'>lumière</span><span class='french-word'>des</span><span class='french-word'>hommes.</span></p><p class='inter-darby'><span class='french-word'>En</span><span class='french-word'>elle</span><span class='french-word'>était</span><span class='french-word'>la_vie,</span><span class='french-word'>et</span><span class='french-word'>la</span><span class='french-word'>vie</span><span class='french-word'>était</span><span class='french-word'>la</span><span class='french-word'>lumière</span><span class='french-word'>des</span><span class='french-word'>hommes.</span></p></div>"
+        "translations": {
+          "segond": "En elle était la vie, et la vie était la lumière des hommes.",
+          "darby": "En elle était la vie, et la vie était la lumière des hommes."
+        },
+        "interlinear": [
+          { "greek": "ἐν", "gloss": "En" },
+          { "greek": "αὐτῷ", "gloss": "lui" },
+          { "greek": "ζωὴ", "gloss": "la_vie" },
+          { "greek": "ἦν,", "gloss": "était" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἡ", "gloss": "la" },
+          { "greek": "ζωὴ", "gloss": "vie" },
+          { "greek": "ἦν", "gloss": "était" },
+          { "greek": "τὸ", "gloss": "la" },
+          { "greek": "φῶς", "gloss": "lumière" },
+          { "greek": "τῶν", "gloss": "des" },
+          { "greek": "ἀνθρώπων·", "gloss": "hommes" }
+        ]
       },
       {
         "verse_number": 5,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>τὸ</span><span class='greek-word'>φῶς</span><span class='greek-word'>ἐν</span><span class='greek-word'>τῇ</span><span class='greek-word'>σκοτίᾳ</span><span class='greek-word'>φαίνει,</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>la</span><span class='french-word'>lumière</span><span class='french-word'>dans</span><span class='french-word'>les</span><span class='french-word'>ténèbres</span><span class='french-word'>luit,</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>la</span><span class='french-word'>lumière</span><span class='french-word'>luit</span><span class='french-word'>dans</span><span class='french-word'>les</span><span class='french-word'>ténèbres ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ἡ</span><span class='greek-word'>σκοτία</span><span class='greek-word'>αὐτὸ</span><span class='greek-word'>οὐ</span><span class='greek-word'>κατέλαβεν.</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>les</span><span class='french-word'>ténèbres</span><span class='french-word'>ne_l'</span><span class='french-word'>ont</span><span class='french-word'>point</span><span class='french-word'>reçue.</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>les</span><span class='french-word'>ténèbres</span><span class='french-word'>ne_l'</span><span class='french-word'>ont</span><span class='french-word'>pas</span><span class='french-word'>comprise.</span></p></div>"
+        "translations": {
+          "segond": "La lumière luit dans les ténèbres, et les ténèbres ne l'ont point reçue.",
+          "darby": "Et la lumière luit dans les ténèbres ; et les ténèbres ne l'ont pas comprise."
+        },
+        "interlinear": [
+          { "greek": "καὶ", "gloss": "Et" },
+          { "greek": "τὸ", "gloss": "la" },
+          { "greek": "φῶς", "gloss": "lumière" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "τῇ", "gloss": "les" },
+          { "greek": "σκοτίᾳ", "gloss": "ténèbres" },
+          { "greek": "φαίνει,", "gloss": "luit/brille" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἡ", "gloss": "les" },
+          { "greek": "σκοτία", "gloss": "ténèbres", "analyse": "La 'skotia' (ténèbre) n'est pas qu'une absence physique de lumière. C'est l'état d'isolement de l'Ego, replié sur lui-même, enfermé dans l'illusion de sa propre autonomie. Le 'Monde duel' est par nature ténébreux car il coupe l'homme de la relation et de la clarté incréée." },
+          { "greek": "αὐτὸ", "gloss": "la" },
+          { "greek": "οὐ", "gloss": "ne...pas" },
+          { "greek": "κατέλαβεν.", "gloss": "ont_saisie/comprise", "analyse": "Katalambano signifie 'saisir, maîtriser, étouffer'. Le drame du Monde duel est qu'il veut tout posséder (préhension). Or, la Lumière incréée échappe à toute objectivation. L'Ego humain ne peut pas 'saisir' la résurrection par la pensée ou la force ; il ne peut que s'y abandonner." }
+        ]
       },
       {
-        "verse_number": 6,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Ἐγένετο</span><span class='greek-word'>ἄνθρωπος</span><span class='greek-word'>ἀπεσταλμένος</span><span class='greek-word'>παρὰ</span><span class='greek-word'>Θεοῦ,</span></p><p class='inter-segond'><span class='french-word'>Il_y_eut</span><span class='french-word'>un_homme</span><span class='french-word'>envoyé</span><span class='french-word'>de_la_part_de</span><span class='french-word'>Dieu :</span></p><p class='inter-darby'><span class='french-word'>Il_y_eut</span><span class='french-word'>un_homme</span><span class='french-word'>envoyé</span><span class='french-word'>de_Dieu ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὄνομα</span><span class='greek-word'>αὐτῷ</span><span class='greek-word'>Ἰωάννης·</span></p><p class='inter-segond'><span class='french-word'>nom</span><span class='french-word'>sien</span><span class='french-word'>Jean.</span></p><p class='inter-darby'><span class='french-word'>son_nom</span><span class='french-word'>était</span><span class='french-word'>Jean.</span></p></div>"
+"verse_number": 6,
+        "translations": {
+          "segond": "Il y eut un homme envoyé de Dieu : son nom était Jean.",
+          "darby": "Il y eut un homme envoyé de Dieu ; son nom était Jean."
+        },
+        "interlinear": [
+          { "greek": "Ἐγένετο", "gloss": "Il_y_eut/Parut" },
+          { "greek": "ἄνθρωπος,", "gloss": "un_homme" },
+          { "greek": "ἀπεσταλμένος", "gloss": "ayant_été_envoyé" },
+          { "greek": "παρὰ", "gloss": "de_la_part_de" },
+          { "greek": "θεοῦ,", "gloss": "Dieu" },
+          { "greek": "ὄνομα", "gloss": "nom" },
+          { "greek": "αὐτῷ", "gloss": "à_lui" },
+          { "greek": "Ἰωάννης·", "gloss": "Jean" }
+        ]
       },
       {
         "verse_number": 7,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>οὗτος</span><span class='greek-word'>ἦλθεν</span><span class='greek-word'>εἰς</span><span class='greek-word'>μαρτυρίαν,</span><span class='greek-word'>ἵνα</span><span class='greek-word'>μαρτυρήσῃ</span></p><p class='inter-segond'><span class='french-word'>Il</span><span class='french-word'>vint</span><span class='french-word'>pour</span><span class='french-word'>servir_de_témoin,</span><span class='french-word'>pour</span><span class='french-word'>rendre_témoignage</span></p><p class='inter-darby'><span class='french-word'>Celui-ci</span><span class='french-word'>vint</span><span class='french-word'>pour</span><span class='french-word'>témoigner,</span><span class='french-word'>pour</span><span class='french-word'>rendre_témoignage</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>περὶ</span><span class='greek-word'>τοῦ</span><span class='greek-word'>φωτός,</span><span class='greek-word'>ἵνα</span><span class='greek-word'>πάντες</span><span class='greek-word'>πιστεύσωσι</span><span class='greek-word'>δι’</span><span class='greek-word'>αὐτοῦ.</span></p><p class='inter-segond'><span class='french-word'>à</span><span class='french-word'>la</span><span class='french-word'>lumière,</span><span class='french-word'>afin_que</span><span class='french-word'>tous</span><span class='french-word'>crussent</span><span class='french-word'>par</span><span class='french-word'>lui.</span></p><p class='inter-darby'><span class='french-word'>de</span><span class='french-word'>la</span><span class='french-word'>lumière,</span><span class='french-word'>afin_que</span><span class='french-word'>tous</span><span class='french-word'>crussent</span><span class='french-word'>par</span><span class='french-word'>lui.</span></p></div>"
+        "translations": {
+          "segond": "Il vint pour servir de témoin, pour rendre témoignage à la lumière, afin que tous crussent par lui.",
+          "darby": "Celui-ci vint pour rendre témoignage, pour rendre témoignage à la lumière, afin que tous crussent par lui."
+        },
+        "interlinear": [
+          { "greek": "οὗτος", "gloss": "Celui-ci" },
+          { "greek": "ἦλθεν", "gloss": "vint" },
+          { "greek": "εἰς", "gloss": "pour" },
+          { "greek": "μαρτυρίαν,", "gloss": "témoignage" },
+          { "greek": "ἵνα", "gloss": "afin_de" },
+          { "greek": "μαρτυρήσῃ", "gloss": "rendre_témoignage" },
+          { "greek": "περὶ", "gloss": "au_sujet_de" },
+          { "greek": "τοῦ", "gloss": "la" },
+          { "greek": "φωτός,", "gloss": "lumière" },
+          { "greek": "ἵνα", "gloss": "afin_que" },
+          { "greek": "πάντες", "gloss": "tous" },
+          { "greek": "πιστεύσωσιν", "gloss": "croient" },
+          { "greek": "δι’", "gloss": "par" },
+          { "greek": "αὐτοῦ.", "gloss": "lui" }
+        ]
       },
       {
         "verse_number": 8,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>οὐκ</span><span class='greek-word'>ἦν</span><span class='greek-word'>ἐκεῖνος</span><span class='greek-word'>τὸ</span><span class='greek-word'>φῶς,</span><span class='greek-word'>ἀλλ’</span><span class='greek-word'>ἵνα</span><span class='greek-word'>μαρτυρήσῃ</span></p><p class='inter-segond'><span class='french-word'>Pas</span><span class='french-word'>était</span><span class='french-word'>celui-là</span><span class='french-word'>la</span><span class='french-word'>lumière,</span><span class='french-word'>mais</span><span class='french-word'>pour</span><span class='french-word'>rendre_témoignage</span></p><p class='inter-darby'><span class='french-word'>Lui</span><span class='french-word'>n’était_pas</span><span class='french-word'>la</span><span class='french-word'>lumière,</span><span class='french-word'>mais</span><span class='french-word'>il_vint_pour</span><span class='french-word'>rendre_témoignage</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>περὶ</span><span class='greek-word'>τοῦ</span><span class='greek-word'>φωτός.</span></p><p class='inter-segond'><span class='french-word'>à</span><span class='french-word'>la</span><span class='french-word'>lumière.</span></p><p class='inter-darby'><span class='french-word'>de</span><span class='french-word'>la</span><span class='french-word'>lumière.</span></p></div>"
+        "translations": {
+          "segond": "Il n'était pas la lumière, mais il parut pour rendre témoignage à la lumière.",
+          "darby": "Il n'était pas la lumière, mais pour rendre témoignage à la lumière."
+        },
+        "interlinear": [
+          { "greek": "οὐκ", "gloss": "Ne...pas" },
+          { "greek": "ἦν", "gloss": "était" },
+          { "greek": "ἐκεῖνος", "gloss": "celui-là" },
+          { "greek": "τὸ", "gloss": "la" },
+          { "greek": "φῶς,", "gloss": "lumière" },
+          { "greek": "ἀλλ’", "gloss": "mais" },
+          { "greek": "ἵνα", "gloss": "afin_de" },
+          { "greek": "μαρτυρήσῃ", "gloss": "rendre_témoignage" },
+          { "greek": "περὶ", "gloss": "au_sujet_de" },
+          { "greek": "τοῦ", "gloss": "la" },
+          { "greek": "φωτός.", "gloss": "lumière" }
+        ]
       },
       {
         "verse_number": 9,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἦν</span><span class='greek-word'>τὸ</span><span class='greek-word'>φῶς</span><span class='greek-word'>τὸ</span><span class='greek-word'>ἀληθινόν,</span><span class='greek-word'>ὃ</span><span class='greek-word'>φωτίζει</span><span class='greek-word'>πάντα</span><span class='greek-word'>ἄνθρωπον,</span></p><p class='inter-segond'><span class='french-word'>C'était</span><span class='french-word'>la</span><span class='french-word'>lumière</span><span class='french-word'>la</span><span class='french-word'>véritable,</span><span class='french-word'>laquelle</span><span class='french-word'>éclaire</span><span class='french-word'>tout</span><span class='french-word'>homme,</span></p><p class='inter-darby'><span class='french-word'>La</span><span class='french-word'>véritable</span><span class='french-word'>lumière</span><span class='french-word'>était_celle</span><span class='french-word'>qui,</span><span class='french-word'>venant</span><span class='french-word'>dans</span><span class='french-word'>le</span><span class='french-word'>monde,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐρχόμενον</span><span class='greek-word'>εἰς</span><span class='greek-word'>τὸν</span><span class='greek-word'>κόσμον.</span></p><p class='inter-segond'><span class='french-word'>venant</span><span class='french-word'>dans</span><span class='french-word'>le</span><span class='french-word'>monde.</span></p><p class='inter-darby'><span class='french-word'>éclaire</span><span class='french-word'>tout</span><span class='french-word'>homme.</span></p></div>"
+        "translations": {
+          "segond": "Cette lumière était la véritable lumière, qui, en venant dans le monde, éclaire tout homme.",
+          "darby": "La vraie lumière était celle, qui, venant dans le monde, éclaire tout homme."
+        },
+        "interlinear": [
+          { "greek": "Ἦν", "gloss": "Était" },
+          { "greek": "τὸ", "gloss": "la" },
+          { "greek": "φῶς", "gloss": "lumière" },
+          { "greek": "τὸ", "gloss": "la" },
+          { "greek": "ἀληθινόν,", "gloss": "véritable" },
+          { "greek": "ὃ", "gloss": "qui" },
+          { "greek": "φωτίζει", "gloss": "éclaire" },
+          { "greek": "πάντα", "gloss": "tout" },
+          { "greek": "ἄνθρωπον,", "gloss": "homme" },
+          { "greek": "ἐρχόμενον", "gloss": "venant" },
+          { "greek": "εἰς", "gloss": "dans" },
+          { "greek": "τὸν", "gloss": "le" },
+          { "greek": "κόσμον.", "gloss": "monde" }
+        ]
       },
       {
         "verse_number": 10,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἐν</span><span class='greek-word'>τῷ</span><span class='greek-word'>κόσμῳ</span><span class='greek-word'>ἦν,</span><span class='greek-word'>καὶ</span><span class='greek-word'>ὁ</span><span class='greek-word'>κόσμος</span><span class='greek-word'>δι’</span><span class='greek-word'>αὐτοῦ</span><span class='greek-word'>ἐγένετο,</span></p><p class='inter-segond'><span class='french-word'>Dans</span><span class='french-word'>le</span><span class='french-word'>monde</span><span class='french-word'>elle_était,</span><span class='french-word'>et</span><span class='french-word'>le</span><span class='french-word'>monde</span><span class='french-word'>par</span><span class='french-word'>elle</span><span class='french-word'>a_été_fait,</span></p><p class='inter-darby'><span class='french-word'>Elle</span><span class='french-word'>était</span><span class='french-word'>dans</span><span class='french-word'>le</span><span class='french-word'>monde,</span><span class='french-word'>et</span><span class='french-word'>le</span><span class='french-word'>monde</span><span class='french-word'>fut_fait</span><span class='french-word'>par</span><span class='french-word'>elle ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ὁ</span><span class='greek-word'>κόσμος</span><span class='greek-word'>αὐτὸν</span><span class='greek-word'>οὐκ</span><span class='greek-word'>ἔγνω.</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>le</span><span class='french-word'>monde</span><span class='french-word'>elle</span><span class='french-word'>pas</span><span class='french-word'>n'a_connue.</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>le</span><span class='french-word'>monde</span><span class='french-word'>ne_l'</span><span class='french-word'>a</span><span class='french-word'>pas</span><span class='french-word'>connue.</span></p></div>"
+        "translations": {
+          "segond": "Elle était dans le monde, et le monde a été fait par elle, et le monde ne l'a point connue.",
+          "darby": "Il était dans le monde, et le monde a été fait par lui, et le monde ne l'a pas connu."
+        },
+        "interlinear": [
+          { "greek": "ἐν", "gloss": "Dans" },
+          { "greek": "τῷ", "gloss": "le" },
+          { "greek": "κόσμῳ", "gloss": "monde", "analyse": "Le 'kosmos' (le monde) désigne ici le Monde duel. Il a été créé par le Verbe, mais en s'enfermant dans l'illusion de sa propre autonomie, il est devenu une matrice d'aliénation. L'Ego collectif, aveuglé par sa volonté de puissance, est incapable de 'connaître' (au sens de la communion intime) la Présence incréée qui le traverse pourtant." },
+          { "greek": "ἦν,", "gloss": "il_était" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "κόσμος", "gloss": "monde" },
+          { "greek": "δι’", "gloss": "par" },
+          { "greek": "αὐτοῦ", "gloss": "lui" },
+          { "greek": "ἐγένετο,", "gloss": "fut_fait" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "κόσμος", "gloss": "monde" },
+          { "greek": "αὐτὸν", "gloss": "lui" },
+          { "greek": "οὐκ", "gloss": "ne...pas" },
+          { "greek": "ἔγνω.", "gloss": "a_connu" }
+        ]
       },
       {
         "verse_number": 11,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>εἰς</span><span class='greek-word'>τὰ</span><span class='greek-word'>ἴδια</span><span class='greek-word'>ἦλθε,</span><span class='greek-word'>καὶ</span><span class='greek-word'>οἱ</span><span class='greek-word'>ἴδιοι</span><span class='greek-word'>αὐτὸν</span><span class='greek-word'>οὐ</span><span class='greek-word'>παρέλαβον.</span></p><p class='inter-segond'><span class='french-word'>Chez</span><span class='french-word'>les</span><span class='french-word'>siens</span><span class='french-word'>elle_est_venue,</span><span class='french-word'>et</span><span class='french-word'>les</span><span class='french-word'>siens</span><span class='french-word'>elle</span><span class='french-word'>pas</span><span class='french-word'>n'ont_reçue.</span></p><p class='inter-darby'><span class='french-word'>Elle</span><span class='french-word'>vint</span><span class='french-word'>chez</span><span class='french-word'>soi ;</span><span class='french-word'>et</span><span class='french-word'>les</span><span class='french-word'>siens</span><span class='french-word'>ne_l'</span><span class='french-word'>ont</span><span class='french-word'>pas</span><span class='french-word'>reçue.</span></p></div>"
+        "translations": {
+          "segond": "Elle est venue chez les siens, et les siens ne l'ont point reçue.",
+          "darby": "Il vint chez soi ; et les siens ne l'ont pas reçu."
+        },
+        "interlinear": [
+          { "greek": "εἰς", "gloss": "Chez" },
+          { "greek": "τὰ", "gloss": "les" },
+          { "greek": "ἴδια", "gloss": "siens/propres" },
+          { "greek": "ἦλθεν,", "gloss": "il_vint" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "οἱ", "gloss": "les" },
+          { "greek": "ἴδιοι", "gloss": "siens" },
+          { "greek": "αὐτὸν", "gloss": "lui" },
+          { "greek": "οὐ", "gloss": "ne...pas" },
+          { "greek": "παρέλαβον.", "gloss": "reçurent/accueillirent" }
+        ]
       },
       {
         "verse_number": 12,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ὅσοι</span><span class='greek-word'>δὲ</span><span class='greek-word'>ἔλαβον</span><span class='greek-word'>αὐτόν,</span><span class='greek-word'>ἔδωκεν</span><span class='greek-word'>αὐτοῖς</span><span class='greek-word'>ἐξουσίαν</span></p><p class='inter-segond'><span class='french-word'>Mais_à_tous_ceux_qui</span><span class='french-word'>mais</span><span class='french-word'>ont_reçue</span><span class='french-word'>elle,</span><span class='french-word'>il_a_donné</span><span class='french-word'>à_eux</span><span class='french-word'>le_pouvoir</span></p><p class='inter-darby'><span class='french-word'>Mais</span><span class='french-word'>à</span><span class='french-word'>tous</span><span class='french-word'>ceux</span><span class='french-word'>qui</span><span class='french-word'>l’ont</span><span class='french-word'>reçue,</span><span class='french-word'>elle_leur_a_donné</span><span class='french-word'>le</span><span class='french-word'>droit</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τέκνα</span><span class='greek-word'>Θεῦ</span><span class='greek-word'>γενέσθαι,</span><span class='greek-word'>τοῖς</span><span class='greek-word'>πιστεύουσιν</span></p><p class='inter-segond'><span class='french-word'>enfants</span><span class='french-word'>de_Dieu</span><span class='french-word'>de_devenir,</span><span class='french-word'>à_ceux</span><span class='french-word'>croyant</span></p><p class='inter-darby'><span class='french-word'>d’être</span><span class='french-word'>enfants</span><span class='french-word'>de</span><span class='french-word'>Dieu,</span><span class='french-word'>savoir</span><span class='french-word'>à_ceux</span><span class='french-word'>qui</span><span class='french-word'>croient</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>εἰς</span><span class='greek-word'>τὸ</span><span class='greek-word'>ὄνομα</span><span class='greek-word'>αὐτοῦ,</span></p><p class='inter-segond'><span class='french-word'>en</span><span class='french-word'>le</span><span class='french-word'>nom</span><span class='french-word'>sien,</span></p><p class='inter-darby'><span class='french-word'>en</span><span class='french-word'>son</span><span class='french-word'>nom ;</span></p></div>"
+        "translations": {
+          "segond": "Mais à tous ceux qui l'ont reçue, à ceux qui croient en son nom, elle a donné le pouvoir de devenir enfants de Dieu,",
+          "darby": "Mais à tous ceux qui l'ont reçu, il leur a donné le droit d'être enfants de Dieu, savoir à ceux qui croient en son nom ;"
+        },
+        "interlinear": [
+          { "greek": "ὅσοι", "gloss": "Tous_ceux_qui" },
+          { "greek": "δὲ", "gloss": "mais" },
+          { "greek": "ἔλαβον", "gloss": "reçurent" },
+          { "greek": "αὐτόν,", "gloss": "lui" },
+          { "greek": "ἔδωκεν", "gloss": "il_a_donné" },
+          { "greek": "αὐτοῖς", "gloss": "à_eux" },
+          { "greek": "ἐξουσίαν", "gloss": "le_pouvoir/le_droit", "analyse": "Cette exousia (droit/pouvoir) n'est pas une domination juridique. C'est la restauration de la liberté originelle. Par la foi (l'ancrage dans l'Incréé), l'homme retrouve sa capacité à agir non plus en tant qu'objet soumis au Monde duel, mais en tant que véritable Sujet, enfant libre du Royaume UN." },
+          { "greek": "τέκνα", "gloss": "enfants" },
+          { "greek": "θεοῦ", "gloss": "de_Dieu" },
+          { "greek": "γενέσθαι,", "gloss": "de_devenir" },
+          { "greek": "τοῖς", "gloss": "à_ceux" },
+          { "greek": "πιστεύουσιν", "gloss": "croyant" },
+          { "greek": "εἰς", "gloss": "en" },
+          { "greek": "τὸ", "gloss": "le" },
+          { "greek": "ὄνομα", "gloss": "nom" },
+          { "greek": "αὐτοῦ,", "gloss": "de_lui" }
+        ]
       },
       {
         "verse_number": 13,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>οἳ</span><span class='greek-word'>οὐκ</span><span class='greek-word'>ἐξ</span><span class='greek-word'>αἱμάτων</span><span class='greek-word'>οὐδὲ</span><span class='greek-word'>ἐκ</span><span class='greek-word'>θελήματος</span><span class='greek-word'>σαρκὸς</span></p><p class='inter-segond'><span class='french-word'>lesquels</span><span class='french-word'>non</span><span class='french-word'>du</span><span class='french-word'>sang,</span><span class='french-word'>ni</span><span class='french-word'>de</span><span class='french-word'>la_volonté</span><span class='french-word'>de_la_chair,</span></p><p class='inter-darby'><span class='french-word'>lesquels</span><span class='french-word'>ne_sont_pas_nés</span><span class='french-word'>de</span><span class='french-word'>sang,</span><span class='french-word'>ni</span><span class='french-word'>de_la_volonté</span><span class='french-word'>de_la_chair,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>οὐδὲ</span><span class='greek-word'>ἐκ</span><span class='greek-word'>θελήματος</span><span class='greek-word'>ἀνδρὸς</span><span class='greek-word'>ἀλλ’</span><span class='greek-word'>ἐκ</span><span class='greek-word'>Θεοῦ</span><span class='greek-word'>ἐγεννήθησαν.</span></p><p class='inter-segond'><span class='french-word'>ni</span><span class='french-word'>de</span><span class='french-word'>la_volonté</span><span class='french-word'>de_l'homme,</span><span class='french-word'>mais</span><span class='french-word'>de</span><span class='french-word'>Dieu</span><span class='french-word'>sont_nés.</span></p><p class='inter-darby'><span class='french-word'>ni</span><span class='french-word'>de_la_volonté</span><span class='french-word'>de_l’homme,</span><span class='french-word'>mais</span><span class='french-word'>de</span><span class='french-word'>Dieu.</span></p></div>"
+        "translations": {
+          "segond": "lesquels sont nés, non du sang, ni de la volonté de la chair, ni de la volonté de l'homme, mais de Dieu.",
+          "darby": "lesquels sont nés, non pas de sang, ni de la volonté de la chair, ni de la volonté de l'homme, mais de Dieu."
+        },
+        "interlinear": [
+          { "greek": "οἳ", "gloss": "Lesquels" },
+          { "greek": "οὐκ", "gloss": "non" },
+          { "greek": "ἐξ", "gloss": "de" },
+          { "greek": "αἱμάτων", "gloss": "sang" },
+          { "greek": "οὐδὲ", "gloss": "ni" },
+          { "greek": "ἐκ", "gloss": "de" },
+          { "greek": "θελήματος", "gloss": "la_volonté", "analyse": "Le texte dénonce les trois piliers du Monde duel : la filiation biologique ('le sang'), la pulsion de survie ('la volonté de la chair') et le pouvoir intellectuel/social ('la volonté de l'homme'). Naître 'de Dieu' exige de mourir à ces identifications égotiques pour naître d'en haut." },
+          { "greek": "σαρκὸς", "gloss": "de_la_chair" },
+          { "greek": "οὐδὲ", "gloss": "ni" },
+          { "greek": "ἐκ", "gloss": "de" },
+          { "greek": "θελήματος", "gloss": "la_volonté" },
+          { "greek": "ἀνδρὸς", "gloss": "d'homme" },
+          { "greek": "ἀλλ’", "gloss": "mais" },
+          { "greek": "ἐκ", "gloss": "de" },
+          { "greek": "θεοῦ", "gloss": "Dieu" },
+          { "greek": "ἐγεννήθησαν.", "gloss": "ont_été_engendrés/sont_nés" }
+        ]
       },
       {
         "verse_number": 14,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Καὶ</span><span class='greek-word'>ὁ</span><span class='greek-word'>Λόγος</span><span class='greek-word'>σὰρξ</span><span class='greek-word'>ἐγένετο</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἐσκήνωσεν</span><span class='greek-word'>ἐν</span><span class='greek-word'>ἡμῖν,</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>la</span><span class='french-word'>Parole</span><span class='french-word'>chair</span><span class='french-word'>a_été_faite,</span><span class='french-word'>et</span><span class='french-word'>elle_a_habité</span><span class='french-word'>parmi</span><span class='french-word'>nous,</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>la</span><span class='french-word'>Parole</span><span class='french-word'>devint</span><span class='french-word'>chair,</span><span class='french-word'>et</span><span class='french-word'>habita</span><span class='french-word'>au_milieu_de</span><span class='french-word'>nous</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ἐθεασάμεθα</span><span class='greek-word'>τὴν</span><span class='greek-word'>δόξαν</span><span class='greek-word'>αὐτοῦ,</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>nous_avons_contemplé</span><span class='french-word'>la</span><span class='french-word'>gloire</span><span class='french-word'>sienne,</span></p><p class='inter-darby'><span class='french-word'>(et</span><span class='french-word'>nous</span><span class='french-word'>avons_contemplé</span><span class='french-word'>sa</span><span class='french-word'>gloire,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>δόξαν</span><span class='greek-word'>ὡς</span><span class='greek-word'>μονογενοῦς</span><span class='greek-word'>παρὰ</span><span class='greek-word'>πατρός,</span></p><p class='inter-segond'><span class='french-word'>une_gloire</span><span class='french-word'>comme</span><span class='french-word'>du_Fils_unique</span><span class='french-word'>venu_du</span><span class='french-word'>Père,</span></p><p class='inter-darby'><span class='french-word'>une_gloire</span><span class='french-word'>comme_d’un_Fils_unique</span><span class='french-word'>de_la_part_du</span><span class='french-word'>Père),</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πλήρης</span><span class='greek-word'>χάριτος</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἀληθείας.</span></p><p class='inter-segond'><span class='french-word'>pleine</span><span class='french-word'>de_grâce</span><span class='french-word'>et</span><span class='french-word'>de_vérité.</span></p><p class='inter-darby'><span class='french-word'>pleine</span><span class='french-word'>de_grâce</span><span class='french-word'>et</span><span class='french-word'>de_vérité.</span></p></div>"
+        "translations": {
+          "segond": "Et la parole a été faite chair, et elle a habité parmi nous, pleine de grâce et de vérité; et nous avons contemplé sa gloire, une gloire comme la gloire du Fils unique venu du Père.",
+          "darby": "Et la Parole devint chair, et habita au milieu de nous (et nous vîmes sa gloire, une gloire comme d'un fils unique de la part du Père) pleine de grâce et de vérité ;"
+        },
+        "interlinear": [
+          { "greek": "Καὶ", "gloss": "Et" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "λόγος", "gloss": "Verbe" },
+          { "greek": "σὰρξ", "gloss": "chair" },
+          { "greek": "ἐγένετο", "gloss": "devint" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἐσκήνωσεν", "gloss": "dressa_sa_tente/habita", "analyse": "Le verbe skenoô renvoie à la Tente de la Rencontre. La matière biologique humaine (la chair, qui est par nature mortelle et vouée à la séparation) devient le tabernacle transparent de l'Énergie divine. La frontière entre le créé et l'Incréé est définitivement abolie." },
+          { "greek": "ἐν", "gloss": "parmi" },
+          { "greek": "ἡμῖν,", "gloss": "nous" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἐθεασάμεθα", "gloss": "nous_avons_contemplé" },
+          { "greek": "τὴν", "gloss": "la" },
+          { "greek": "δόξαν", "gloss": "gloire" },
+          { "greek": "αὐτοῦ,", "gloss": "de_lui" },
+          { "greek": "δόξαν", "gloss": "gloire" },
+          { "greek": "ὡς", "gloss": "comme" },
+          { "greek": "μονογενοῦς", "gloss": "du_fils_unique" },
+          { "greek": "παρὰ", "gloss": "auprès_du" },
+          { "greek": "πατρός,", "gloss": "Père" },
+          { "greek": "πλήρης", "gloss": "plein" },
+          { "greek": "χάριτος", "gloss": "de_grâce" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἀληθείας.", "gloss": "de_vérité" }
+        ]
       },
       {
         "verse_number": 15,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Ἰωάννης</span><span class='greek-word'>μαρτυρεῖ</span><span class='greek-word'>περὶ</span><span class='greek-word'>αὐτοῦ</span><span class='greek-word'>καὶ</span><span class='greek-word'>κέκραγε</span><span class='greek-word'>λέγων·</span></p><p class='inter-segond'><span class='french-word'>Jean</span><span class='french-word'>rend_témoignage</span><span class='french-word'>à</span><span class='french-word'>son_sujet,</span><span class='french-word'>et</span><span class='french-word'>s'écrie</span><span class='french-word'>disant :</span></p><p class='inter-darby'><span class='french-word'>Jean</span><span class='french-word'>rend_témoignage</span><span class='french-word'>de</span><span class='french-word'>lui,</span><span class='french-word'>et</span><span class='french-word'>a_crié,</span><span class='french-word'>disant :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Οὗτος</span><span class='greek-word'>ἦν</span><span class='greek-word'>ὃν</span><span class='greek-word'>εἶπον·</span><span class='greek-word'>Ὁ</span><span class='greek-word'>ὀπίσω</span><span class='greek-word'>μου</span><span class='greek-word'>ἐρχόμενος</span></p><p class='inter-segond'><span class='french-word'>C'est</span><span class='french-word'>celui</span><span class='french-word'>de_qui</span><span class='french-word'>j'ai_dit :</span><span class='french-word'>Celui</span><span class='french-word'>derrière</span><span class='french-word'>moi</span><span class='french-word'>venant</span></p><p class='inter-darby'><span class='french-word'>C’était</span><span class='french-word'>celui</span><span class='french-word'>dont</span><span class='french-word'>je_disais :</span><span class='french-word'>Celui</span><span class='french-word'>qui</span><span class='french-word'>vient</span><span class='french-word'>après</span><span class='french-word'>moi</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἔμπροσθέν</span><span class='greek-word'>μου</span><span class='greek-word'>γέγονεν,</span><span class='greek-word'>ὅτι</span><span class='greek-word'>πρῶτός</span><span class='greek-word'>μου</span><span class='greek-word'>ἦν.</span></p><p class='inter-segond'><span class='french-word'>avant</span><span class='french-word'>moi</span><span class='french-word'>est_passé,</span><span class='french-word'>car</span><span class='french-word'>plus_ancien</span><span class='french-word'>que_moi</span><span class='french-word'>il_était.</span></p><p class='inter-darby'><span class='french-word'>est</span><span class='french-word'>préféré</span><span class='french-word'>à</span><span class='french-word'>moi,</span><span class='french-word'>car</span><span class='french-word'>il</span><span class='french-word'>était</span><span class='french-word'>avant</span><span class='french-word'>moi.</span></p></div>"
+        "translations": {
+          "segond": "Jean lui a rendu témoignage, et s'est écrié : C'est celui dont j'ai dit : Celui qui vient après moi m'a précédé, car il était avant moi.",
+          "darby": "Jean rend témoignage de lui, et a crié, disant : C'était celui-ci dont je disais : Celui qui vient après moi a pris place avant moi ; car il était avant moi."
+        },
+        "interlinear": [
+          { "greek": "Ἰωάννης", "gloss": "Jean" },
+          { "greek": "μαρτυρεῖ", "gloss": "rend_témoignage" },
+          { "greek": "περὶ", "gloss": "au_sujet_de" },
+          { "greek": "αὐτοῦ", "gloss": "lui" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "κέκραγεν", "gloss": "s'est_écrié" },
+          { "greek": "λέγων·", "gloss": "disant" },
+          { "greek": "Οὗτος", "gloss": "Celui-ci" },
+          { "greek": "ἦν", "gloss": "était" },
+          { "greek": "ὃν", "gloss": "celui_que" },
+          { "greek": "εἶπον·", "gloss": "j'ai_dit" },
+          { "greek": "Ὁ", "gloss": "Celui_qui" },
+          { "greek": "ὀπίσω", "gloss": "après" },
+          { "greek": "μου", "gloss": "moi" },
+          { "greek": "ἐρχόμενος", "gloss": "venant" },
+          { "greek": "ἔμπροσθέν", "gloss": "devant" },
+          { "greek": "μου", "gloss": "moi" },
+          { "greek": "γέγονεν,", "gloss": "est_passé" },
+          { "greek": "ὅτι", "gloss": "car" },
+          { "greek": "πρῶτός", "gloss": "premier/avant" },
+          { "greek": "μου", "gloss": "moi" },
+          { "greek": "ἦν.", "gloss": "il_était" }
+        ]
       },
       {
         "verse_number": 16,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ὅτι</span><span class='greek-word'>ἐκ</span><span class='greek-word'>τοῦ</span><span class='greek-word'>πληρώματος</span><span class='greek-word'>αὐτοῦ</span><span class='greek-word'>ἡμεῖς</span><span class='greek-word'>πάντες</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>de</span><span class='french-word'>la</span><span class='french-word'>plénitude</span><span class='french-word'>sienne</span><span class='french-word'>nous</span><span class='french-word'>tous</span></p><p class='inter-darby'><span class='french-word'>Car,</span><span class='french-word'>de</span><span class='french-word'>sa</span><span class='french-word'>plénitude,</span><span class='french-word'>nous</span><span class='french-word'>tous</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐλάβομεν,</span><span class='greek-word'>καὶ</span><span class='greek-word'>χάριν</span><span class='greek-word'>ἀντὶ</span><span class='greek-word'>χάριτος·</span></p><p class='inter-segond'><span class='french-word'>nous_avons_reçu,</span><span class='french-word'>et</span><span class='french-word'>grâce</span><span class='french-word'>pour</span><span class='french-word'>grâce ;</span></p><p class='inter-darby'><span class='french-word'>nous_avons</span><span class='french-word'>reçu,</span><span class='french-word'>et</span><span class='french-word'>grâce</span><span class='french-word'>sur</span><span class='french-word'>grâce.</span></p></div>"
+        "translations": {
+          "segond": "Et nous avons tous reçu de sa plénitude, et grâce pour grâce;",
+          "darby": "Car, de sa plénitude, nous tous nous avons reçu, et grâce sur grâce."
+        },
+        "interlinear": [
+          { "greek": "ὅτι", "gloss": "Car" },
+          { "greek": "ἐκ", "gloss": "de" },
+          { "greek": "τοῦ", "gloss": "la" },
+          { "greek": "πληρώματος", "gloss": "plénitude" },
+          { "greek": "αὐτοῦ", "gloss": "de_lui" },
+          { "greek": "ἡμεῖς", "gloss": "nous" },
+          { "greek": "πάντες", "gloss": "tous" },
+          { "greek": "ἐλάβομεν,", "gloss": "avons_reçu" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "χάριν", "gloss": "grâce" },
+          { "greek": "ἀντὶ", "gloss": "sur/pour" },
+          { "greek": "χάριτος·", "gloss": "grâce" }
+        ]
       },
       {
         "verse_number": 17,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ὅτι</span><span class='greek-word'>ὁ</span><span class='greek-word'>νόμος</span><span class='greek-word'>διὰ</span><span class='greek-word'>Μωϋσέως</span><span class='greek-word'>ἐδόθη,</span></p><p class='inter-segond'><span class='french-word'>car</span><span class='french-word'>la</span><span class='french-word'>loi</span><span class='french-word'>par</span><span class='french-word'>Moïse</span><span class='french-word'>a_été_donnée,</span></p><p class='inter-darby'><span class='french-word'>Car</span><span class='french-word'>la</span><span class='french-word'>loi</span><span class='french-word'>a_été_donnée</span><span class='french-word'>par</span><span class='french-word'>Moïse ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἡ</span><span class='greek-word'>χάρις</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἡ</span><span class='greek-word'>ἀλήθεια</span><span class='greek-word'>διὰ</span><span class='greek-word'>Ἰησοῦ</span><span class='greek-word'>Χριστοῦ</span><span class='greek-word'>ἐγένετο.</span></p><p class='inter-segond'><span class='french-word'>la</span><span class='french-word'>grâce</span><span class='french-word'>et</span><span class='french-word'>la</span><span class='french-word'>vérité</span><span class='french-word'>par</span><span class='french-word'>Jésus</span><span class='french-word'>Christ</span><span class='french-word'>sont_venues.</span></p><p class='inter-darby'><span class='french-word'>la</span><span class='french-word'>grâce</span><span class='french-word'>et</span><span class='french-word'>la</span><span class='french-word'>vérité</span><span class='french-word'>vinrent</span><span class='french-word'>par</span><span class='french-word'>Jésus</span><span class='french-word'>Christ.</span></p></div>"
+        "translations": {
+          "segond": "car la loi a été donnée par Moïse, la grâce et la vérité sont venues par Jésus-Christ.",
+          "darby": "Car la loi a été donnée par Moïse ; la grâce et la vérité vinrent par Jésus Christ."
+        },
+        "interlinear": [
+          { "greek": "ὅτι", "gloss": "car" },
+          { "greek": "ὁ", "gloss": "la" },
+          { "greek": "νόμος", "gloss": "loi" },
+          { "greek": "διὰ", "gloss": "par" },
+          { "greek": "Μωϋσέως", "gloss": "Moïse" },
+          { "greek": "ἐδόθη,", "gloss": "fut_donnée" },
+          { "greek": "ἡ", "gloss": "la" },
+          { "greek": "χάρις", "gloss": "grâce", "analyse": "L'opposition théologique centrale : la Loi (nomos) structure et maintient l'ordre dans le Monde duel par un système de peur, de mérite et de comptabilité. La Grâce (charis) est l'économie du Royaume UN : elle est gratuite, sans cause et sans mérite. C'est l'Énergie divine qui se donne." },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἡ", "gloss": "la" },
+          { "greek": "ἀλήθεια", "gloss": "vérité" },
+          { "greek": "διὰ", "gloss": "par" },
+          { "greek": "Ἰησοῦ", "gloss": "Jésus" },
+          { "greek": "Χριστοῦ", "gloss": "Christ" },
+          { "greek": "ἐγένετο.", "gloss": "vinrent/furent" }
+        ]
       }
     ],
-    "greek_only": "1 Ἐν ἀρχῇ ἦν ὁ Λόγος, καὶ ὁ Λόγος ἦν πρὸς τὸν Θεόν, καὶ Θεὸς ἦν ὁ Λόγος. 2 Οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν Θεόν. 3 πάντα δι’ αὐτοῦ ἐγένετο, καὶ χωρὶς αὐτοῦ ἐγένετο οὐδὲ ἕν ὃ γέγονεν. 4 ἐν αὐτῷ ζωὴ ἦν, καὶ ἡ ζωὴ ἦν τὸ φῶς τῶν ἀνθρώπων· 5 καὶ τὸ φῶς ἐν τῇ σκοτίᾳ φαίνει, καὶ ἡ σκοτία αὐτὸ οὐ κατέλαβεν. 6 Ἐγένετο ἄνθρωπος ἀπεσταλμένος παρὰ Θεοῦ, ὄνομα αὐτῷ Ἰωάννης· 7 οὗτος ἦλθεν εἰς μαρτυρίαν, ἵνα μαρτυρήσῃ περὶ τοῦ φωτός, ἵνα πάντες πιστεύσωσι δι’ αὐτοῦ. 8 οὐκ ἦν ἐκεῖνος τὸ φῶς, ἀλλ’ ἵνα μαρτυρήσῃ περὶ τοῦ φωτός. 9 ἦν τὸ φῶς τὸ ἀληθινόν, ὃ φωτίζει πάντα ἄνθρωπον, ἐρχόμενον εἰς τὸν κόσμον. 10 ἐν τῷ κόσμῳ ἦν, καὶ ὁ κόσμος δι’ αὐτοῦ ἐγένετο, καὶ ὁ κόσμος αὐτὸν οὐκ ἔγνω. 11 εἰς τὰ ἴδια ἦλθε, καὶ οἱ ἴδιοι αὐτὸν οὐ παρέλαβον. 12 ὅσοι δὲ ἔλαβον αὐτόν, ἔδωκεν αὐτοῖς ἐξουσίαν τέκνα Θεοῦ γενέσθαι, τοῖς πιστεύουσιν εἰς τὸ ὄνομα αὐτοῦ, 13 οἳ οὐκ ἐξ αἱμάτων οὐδὲ ἐκ θελήματος σαρκὸς οὐδὲ ἐκ θελήματος ἀνδρὸς ἀλλ’ ἐκ Θεοῦ ἐγεννήθησαν. 14 Καὶ ὁ Λόγος σὰρξ ἐγένετο καὶ ἐσκήνωσεν ἐν ἡμῖν, καὶ ἐθεασάμεθα τὴν δόξαν αὐτοῦ, δόξαν ὡς μονογενοῦς παρὰ πατρός, πλήρης χάριτος καὶ ἀληθείας. 15 Ἰωάννης μαρτυρεῖ περὶ αὐτοῦ καὶ κέκραγε λέγων· Οὗτος ἦν ὃν εἶπον· Ὁ ὀπίσω μου ἐρχόμενος ἔμπροσθέν μου γέγονεν, ὅτι πρῶτός μου ἦν. 16 ὅτι ἐκ τοῦ πληρώματος αὐτοῦ ἡμεῖς πάντες ἐλάβομεν, καὶ χάριν ἀντὶ χάριτος· 17 ὅτι ὁ νόμος διὰ Μωϋσέως ἐδόθη, ἡ χάρις καὶ ἡ ἀλήθεια διὰ Ἰησοῦ Χριστοῦ ἐγένετο.",
-    "french_only": "1 Au commencement était la Parole, et la Parole était avec Dieu, et la Parole était Dieu. 2 Elle était au commencement avec Dieu. 3 Toutes choses ont été faites par elle, et rien de ce qui a été fait n'a été fait sans elle. 4 En elle était la vie, et la vie était la lumière des hommes. 5 La lumière luit dans les ténèbres, et les ténèbres ne l'ont point reçue. 6 Il y eut un homme envoyé de Dieu : son nom était Jean. 7 Il vint pour servir de témoin, pour rendre témoignage à la lumière, afin que tous crussent par lui. 8 Il n'était pas la lumière, mais il parut pour rendre témoignage à la lumière. 9 Cette lumière était la véritable lumière, qui, en venant dans le monde, éclaire tout homme. 10 Elle était dans le monde, et le monde a été fait par elle, et le monde ne l'a point connue. 11 Elle est venue chez les siens, et les siens ne l'ont point reçue. 12 Mais à tous ceux qui l'ont reçue, à ceux qui croient en son nom, elle a donné le pouvoir de devenir enfants de Dieu, 13 lesquels sont nés, non du sang, ni de la volonté de la chair, ni de la volonté de l'homme, mais de Dieu. 14 Et la parole a été faite chair, et elle a habité parmi nous, pleine de grâce et de vérité ; et nous avons contemplé sa gloire, une gloire comme la gloire du Fils unique venu du Père. 15 Jean lui a rendu témoignage, et s'est écrié : C'est celui dont j'ai dit : Celui qui vient après moi m'a précédé, car il était avant moi. 16 Et nous avons tous reçu de sa plénitude, et grâce pour grâce ; 17 car la loi a été donnée par Moïse, la grâce et la vérité sont venues par Jésus-Christ.",
-    "french_darby": "1 Au commencement était la Parole ; et la Parole était auprès de Dieu ; et la Parole était Dieu. 2 Elle était au commencement auprès de Dieu. 3 Toutes choses furent faites par elle ; et sans elle, pas une seule chose ne fut faite de ce qui a été fait. 4 En elle était la vie, et la vie était la lumière des hommes. 5 Et la lumière luit dans les ténèbres ; et les ténèbres ne l’ont pas comprise. 6 Il y eut un homme envoyé de Dieu ; son nom était Jean. 7 Celui-ci vint pour témoigner, pour rendre témoignage de la lumière, afin que tous crussent par lui. 8 Lui n’était pas la lumière, mais il vint pour rendre témoignage de la lumière. 9 La véritable lumière était celle qui, venant dans le monde, éclaire tout homme. 10 Elle était dans le monde, et le monde fut fait par elle ; et le monde ne l’a pas connue. 11 Elle vint chez soi ; et les siens ne l’ont pas reçue. 12 Mais à tous ceux qui l’ont reçue, elle leur a donné le droit d’être enfants de Dieu, savoir à ceux qui croient en son nom ; 13 lesquels ne sont pas nés de sang, ni de la volonté de la chair, ni de la volonté de l’homme, mais de Dieu. 14 Et la Parole devint chair, et habita au milieu de nous (et nous avons contemplé sa gloire, une gloire comme d’un Fils unique de la part du Père), pleine de grâce et de vérité. 15 Jean rend témoignage de lui, et a crié, disant : C’était celui dont je disais : Celui qui vient après moi est préféré à moi, car il était avant moi. 16 Car, de sa plénitude, nous tous nous avons reçu, et grâce sur grâce. 17 Car la loi a été donnée par Moïse ; la grâce et la vérité vinrent par Jésus Christ.",
-    "personal_analysis": "La Liturgie de Pâques ne commence pas par le récit du tombeau vide, mais par l'origine éternelle de Celui qui est ressuscité. Ce Prologue affirme que la Vie (Zoe) et la Lumière (Phos) sont invincibles. Le Christ n'est pas seulement un homme revenu à la vie, il est le Logos Créateur qui transfigure la chair en l'habitant (Eskenosan)."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n• Verset 1 - πρὸς τὸν θεόν : Rendu par 'avec' ou 'auprès de'. La préposition 'pros' implique un mouvement dynamique, une orientation vers. Le Verbe n'est pas statique à côté de Dieu, il est élan ininterrompu d'amour vers l'Autre.\n• Verset 5 - κατέλαβεν : Segond traduit par 'reçue', Darby par 'comprise'. Littéralement, c'est 'mettre la main sur' ou 'écraser'. Les ténèbres ont essayé d'étouffer la lumière (la crucifixion), mais elles n'ont pas pu l'enfermer (la résurrection).\n• Verset 13 - ἐξ αἱμάτων / θελήματος σαρκὸς : Ce verset est capital, il liste toutes les forces de détermination mondaine (l'hérédité, la biologie, la volonté propre) que le nouveau 'Sujet' doit transcender.\n\nAnalyse spirituelle globale du Prologue :\nLa nuit de Pâques est l'effondrement final de l'illusion. Le 'Monde duel' s'appuie sur la loi de la mort : tout ce qui est créé (la chair, la matière) finit par se disloquer, et l'Ego, terrorisé par cette finitude, passe son temps à chercher du pouvoir pour s'en protéger, instaurant la Loi morale et la domination.\nLa Croix semblait être la victoire absolue de cette mort : le système mondain et religieux s'était coalisé pour détruire le Christ, l'enfermant dans le tombeau (les ténèbres). Mais l'Évangile de Jean ne lit pas Pâques comme un miracle local, il nous ramène au 'Principe' (l'Arché). Le tombeau ne contenait pas un simple cadavre humain, il contenait le Logos incarné.\nLa Résurrection n'est pas un phénomène de réanimation ; c'est l'Énergie incréée qui fait exploser de l'intérieur la prison de la mort. La Ténèbre (l'isolement, le péché, la fermeture de l'Ego) ne peut pas 'saisir' ni étouffer cette Lumière. Désormais, la 'chair' humaine est divinisée. En passant de la Loi à la Grâce, Pâques annonce la naissance des Sujets libres : la mort n'est plus un mur biologique, elle est devenue la porte ouverte de l'éternité."
   },
 "apostle": {
-  "reference": "Actes 1, 1-8",
-  "title": "Le Prologue des Actes : La Promesse de l'Esprit",
-  "interlinear": [
-    {
-      "verse_number": 1,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Τὸν</span><span class='greek-word'>μὲν</span><span class='greek-word'>πρῶτον</span><span class='greek-word'>λόγον</span><span class='greek-word'>ἐποιησάμην</span></p><p class='inter-segond'><span class='french-word'>Le</span><span class='french-word'>certes</span><span class='french-word'>premier</span><span class='french-word'>livre</span><span class='french-word'>j'ai_fait,</span></p><p class='inter-darby'><span class='french-word'>J'ai</span><span class='french-word'>fait</span><span class='french-word'>le</span><span class='french-word'>premier</span><span class='french-word'>traité,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>περὶ</span><span class='greek-word'>πάντων,</span><span class='greek-word'>ὦ</span><span class='greek-word'>Θεόφιλε,</span><span class='greek-word'>ὧν</span><span class='greek-word'>ἤρξατο</span></p><p class='inter-segond'><span class='french-word'>sur</span><span class='french-word'>tout,</span><span class='french-word'>ô</span><span class='french-word'>Théophile,</span><span class='french-word'>ce_que</span><span class='french-word'>commença</span></p><p class='inter-darby'><span class='french-word'>ô</span><span class='french-word'>Théophile,</span><span class='french-word'>sur</span><span class='french-word'>toutes_les_choses</span><span class='french-word'>que</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὁ</span><span class='greek-word'>Ἰησοῦς</span><span class='greek-word'>ποιεῖν</span><span class='greek-word'>τε</span><span class='greek-word'>καὶ</span><span class='greek-word'>διδάσκειν,</span></p><p class='inter-segond'><span class='french-word'>le</span><span class='french-word'>Jésus</span><span class='french-word'>à_faire</span><span class='french-word'>et</span><span class='french-word'>aussi</span><span class='french-word'>à_enseigner,</span></p><p class='inter-darby'><span class='french-word'>Jésus</span><span class='french-word'>commença</span><span class='french-word'>et</span><span class='french-word'>de_faire</span><span class='french-word'>et</span><span class='french-word'>d’enseigner,</span></p></div>"
-    },
-    {
-      "verse_number": 2,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἄχρι</span><span class='greek-word'>ἧς</span><span class='greek-word'>ἡμέρας</span><span class='greek-word'>ἐντειλάμενος</span><span class='greek-word'>τοῖς</span><span class='greek-word'>ἀποστόλοις</span></p><p class='inter-segond'><span class='french-word'>jusqu'au</span><span class='french-word'>lequel</span><span class='french-word'>jour,</span><span class='french-word'>ayant_donné_ses_ordres</span><span class='french-word'>aux</span><span class='french-word'>apôtres</span></p><p class='inter-darby'><span class='french-word'>jusqu’au</span><span class='french-word'>jour</span><span class='french-word'>où</span><span class='french-word'>il_fut_élevé_au_ciel,</span><span class='french-word'>après_avoir_donné</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>διὰ</span><span class='greek-word'>Πνεύματος</span><span class='greek-word'>Ἁγίου</span><span class='greek-word'>οὓς</span><span class='greek-word'>ἐξελέξατο</span><span class='greek-word'>ἀνελήφθη.</span></p><p class='inter-segond'><span class='french-word'>par</span><span class='french-word'>l'Esprit</span><span class='french-word'>Saint</span><span class='french-word'>lesquels</span><span class='french-word'>il_avait_choisis,</span><span class='french-word'>il_fut_enlevé.</span></p><p class='inter-darby'><span class='french-word'>par_l'Esprit_Saint</span><span class='french-word'>des_ordres</span><span class='french-word'>aux</span><span class='french-word'>apôtres</span><span class='french-word'>qu’il</span><span class='french-word'>avait</span><span class='french-word'>choisis ;</span></p></div>"
-    },
-    {
-      "verse_number": 3,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>οἷς</span><span class='greek-word'>καὶ</span><span class='greek-word'>παρέστησεν</span><span class='greek-word'>ἑαυτὸν</span><span class='greek-word'>ζῶντα</span></p><p class='inter-segond'><span class='french-word'>auxquels</span><span class='french-word'>aussi</span><span class='french-word'>il_se_présenta</span><span class='french-word'>lui-même</span><span class='french-word'>vivant</span></p><p class='inter-darby'><span class='french-word'>auxquels</span><span class='french-word'>aussi,</span><span class='french-word'>après</span><span class='french-word'>avoir_souffert,</span><span class='french-word'>il_se_présenta</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>μετὰ</span><span class='greek-word'>τὸ</span><span class='greek-word'>παθεῖν</span><span class='greek-word'>αὐτὸν</span><span class='greek-word'>ἐν</span><span class='greek-word'>πολλοῖς</span><span class='greek-word'>τεκμηρίοις,</span></p><p class='inter-segond'><span class='french-word'>après</span><span class='french-word'>le</span><span class='french-word'>avoir_souffert</span><span class='french-word'>il</span><span class='french-word'>avec</span><span class='french-word'>plusieurs</span><span class='french-word'>preuves,</span></p><p class='inter-darby'><span class='french-word'>lui-même</span><span class='french-word'>vivant,</span><span class='french-word'>avec</span><span class='french-word'>plusieurs</span><span class='french-word'>preuves</span><span class='french-word'>certaines,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>δι’</span><span class='greek-word'>ἡμερῶν</span><span class='greek-word'>τεσσαράκοντα</span><span class='greek-word'>ὀπτανόμενος</span><span class='greek-word'>αὐτοῖς</span></p><p class='inter-segond'><span class='french-word'>pendant</span><span class='french-word'>jours</span><span class='french-word'>quarante</span><span class='french-word'>apparaissant</span><span class='french-word'>à_eux</span></p><p class='inter-darby'><span class='french-word'>se_faisant_voir</span><span class='french-word'>à_eux</span><span class='french-word'>pendant</span><span class='french-word'>quarante</span><span class='french-word'>jours</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>λέγων</span><span class='greek-word'>τὰ</span><span class='greek-word'>περὶ</span><span class='greek-word'>τῆς</span><span class='greek-word'>βασιλείας</span><span class='greek-word'>τοῦ</span><span class='greek-word'>Θεοῦ·</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>disant</span><span class='french-word'>les_choses</span><span class='french-word'>sur</span><span class='french-word'>le</span><span class='french-word'>royaume</span><span class='french-word'>de</span><span class='french-word'>Dieu.</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>parlant</span><span class='french-word'>des_choses</span><span class='french-word'>qui_regardent</span><span class='french-word'>le</span><span class='french-word'>royaume</span><span class='french-word'>de</span><span class='french-word'>Dieu.</span></p></div>"
-    },
-    {
-      "verse_number": 4,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>συναλιζόμενος</span><span class='greek-word'>παρήγγειλεν</span><span class='greek-word'>αὐτοῖς</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>se_trouvant_avec_eux,</span><span class='french-word'>il_recommanda</span><span class='french-word'>à_eux</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>étant_assemblé_avec_eux,</span><span class='french-word'>il_leur_enjoignit</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀπὸ</span><span class='greek-word'>Ἱεροσολύμων</span><span class='greek-word'>μὴ</span><span class='greek-word'>χωρίζεσθαι,</span></p><p class='inter-segond'><span class='french-word'>de</span><span class='french-word'>Jérusalem</span><span class='french-word'>ne_pas</span><span class='french-word'>s'éloigner,</span></p><p class='inter-darby'><span class='french-word'>de_ne_pas</span><span class='french-word'>s’éloigner</span><span class='french-word'>de</span><span class='french-word'>Jérusalem,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀλλὰ</span><span class='greek-word'>περιμένειν</span><span class='greek-word'>τὴν</span><span class='greek-word'>ἐπαγγελίαν</span><span class='greek-word'>τοῦ</span><span class='greek-word'>πατρὸς</span></p><p class='inter-segond'><span class='french-word'>mais</span><span class='french-word'>d'attendre</span><span class='french-word'>la</span><span class='french-word'>promesse</span><span class='french-word'>du</span><span class='french-word'>Père</span></p><p class='inter-darby'><span class='french-word'>mais</span><span class='french-word'>d’attendre</span><span class='french-word'>la</span><span class='french-word'>promesse</span><span class='french-word'>du</span><span class='french-word'>Père</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἣν</span><span class='greek-word'>ἠκούσατέ</span><span class='greek-word'>μου·</span></p><p class='inter-segond'><span class='french-word'>laquelle</span><span class='french-word'>vous_avez_entendue</span><span class='french-word'>de_moi ;</span></p><p class='inter-darby'><span class='french-word'>laquelle,</span><span class='french-word'>dit-il,</span><span class='french-word'>vous</span><span class='french-word'>avez</span><span class='french-word'>ouïe</span><span class='french-word'>de_moi :</span></p></div>"
-    },
-    {
-      "verse_number": 5,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ὅτι</span><span class='greek-word'>Ἰωάννης</span><span class='greek-word'>μὲν</span><span class='greek-word'>ἐβάπτισεν</span><span class='greek-word'>ὕδατι,</span></p><p class='inter-segond'><span class='french-word'>car</span><span class='french-word'>Jean</span><span class='french-word'>certes</span><span class='french-word'>a_baptisé</span><span class='french-word'>d'eau,</span></p><p class='inter-darby'><span class='french-word'>car</span><span class='french-word'>Jean</span><span class='french-word'>a</span><span class='french-word'>véritablement</span><span class='french-word'>baptisé</span><span class='french-word'>d’eau ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὑμεῖς</span><span class='greek-word'>δὲ</span><span class='greek-word'>ἐν</span><span class='greek-word'>Πνεύματι</span><span class='greek-word'>βαπτισθήσεσθε</span><span class='greek-word'>Ἁγίῳ</span></p><p class='inter-segond'><span class='french-word'>vous</span><span class='french-word'>mais</span><span class='french-word'>dans</span><span class='french-word'>l'Esprit</span><span class='french-word'>serez_baptisés</span><span class='french-word'>Saint</span></p><p class='inter-darby'><span class='french-word'>mais</span><span class='french-word'>vous,</span><span class='french-word'>vous</span><span class='french-word'>serez</span><span class='french-word'>baptisés</span><span class='french-word'>de_l'Esprit</span><span class='french-word'>Saint,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>οὐ</span><span class='greek-word'>μετὰ</span><span class='greek-word'>πολλὰς</span><span class='greek-word'>ταύτας</span><span class='greek-word'>ἡμέρας.</span></p><p class='inter-segond'><span class='french-word'>non</span><span class='french-word'>après</span><span class='french-word'>beaucoup</span><span class='french-word'>ces</span><span class='french-word'>jours.</span></p><p class='inter-darby'><span class='french-word'>dans</span><span class='french-word'>peu</span><span class='french-word'>de</span><span class='french-word'>jours.</span></p></div>"
-    },
-    {
-      "verse_number": 6,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Οἱ</span><span class='greek-word'>μὲν</span><span class='greek-word'>οὖν</span><span class='greek-word'>συνελθόντες</span><span class='greek-word'>ἠρώτων</span><span class='greek-word'>αὐτὸν</span><span class='greek-word'>λέγοντες·</span></p><p class='inter-segond'><span class='french-word'>Alors</span><span class='french-word'>ceux</span><span class='french-word'>donc</span><span class='french-word'>réunis</span><span class='french-word'>demandèrent_à</span><span class='french-word'>lui</span><span class='french-word'>disant :</span></p><p class='inter-darby'><span class='french-word'>Eux</span><span class='french-word'>donc,</span><span class='french-word'>étant_assemblés,</span><span class='french-word'>l’interrogèrent,</span><span class='french-word'>disant :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Κύριε,</span><span class='greek-word'>εἰ</span><span class='greek-word'>ἐν</span><span class='greek-word'>τῷ</span><span class='greek-word'>χρόνῳ</span><span class='greek-word'>τούτῳ</span><span class='greek-word'>ἀποκαθιστάνεις</span></p><p class='inter-segond'><span class='french-word'>Seigneur,</span><span class='french-word'>est-ce</span><span class='french-word'>en</span><span class='french-word'>le</span><span class='french-word'>temps</span><span class='french-word'>celui-ci</span><span class='french-word'>tu_rétabliras</span></p><p class='inter-darby'><span class='french-word'>Seigneur,</span><span class='french-word'>est-ce</span><span class='french-word'>en</span><span class='french-word'>ce</span><span class='french-word'>temps-ci</span><span class='french-word'>que_tu</span><span class='french-word'>rétablis</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τὴν</span><span class='greek-word'>βασιλείαν</span><span class='greek-word'>τῷ</span><span class='greek-word'>Ἰσραήλ;</span></p><p class='inter-segond'><span class='french-word'>le</span><span class='french-word'>royaume</span><span class='french-word'>à</span><span class='french-word'>l'Israël ?</span></p><p class='inter-darby'><span class='french-word'>le</span><span class='french-word'>royaume</span><span class='french-word'>pour</span><span class='french-word'>Israël ?</span></p></div>"
-    },
-    {
-      "verse_number": 7,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>εἶπε</span><span class='greek-word'>δὲ</span><span class='greek-word'>πρὸς</span><span class='greek-word'>αὐτούς·</span><span class='greek-word'>Οὐχ</span><span class='greek-word'>ὑμῶν</span><span class='greek-word'>ἐστι</span><span class='greek-word'>γνῶναι</span></p><p class='inter-segond'><span class='french-word'>Il_dit</span><span class='french-word'>mais</span><span class='french-word'>à</span><span class='french-word'>eux :</span><span class='french-word'>Ce_n'est_pas</span><span class='french-word'>à_vous</span><span class='french-word'>il_est</span><span class='french-word'>de_connaître</span></p><p class='inter-darby'><span class='french-word'>Mais</span><span class='french-word'>il</span><span class='french-word'>leur</span><span class='french-word'>dit :</span><span class='french-word'>Ce_n’est_pas</span><span class='french-word'>à</span><span class='french-word'>vous</span><span class='french-word'>de</span><span class='french-word'>connaître</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>χρόνους</span><span class='greek-word'>ἢ</span><span class='greek-word'>καιροὺς</span><span class='greek-word'>οὓς</span><span class='greek-word'>ὁ</span><span class='greek-word'>πατὴρ</span></p><p class='inter-segond'><span class='french-word'>les_temps</span><span class='french-word'>ou</span><span class='french-word'>les_moments</span><span class='french-word'>que</span><span class='french-word'>le</span><span class='french-word'>Père</span></p><p class='inter-darby'><span class='french-word'>les</span><span class='french-word'>temps</span><span class='french-word'>ou</span><span class='french-word'>les</span><span class='french-word'>saisons</span><span class='french-word'>que</span><span class='french-word'>le</span><span class='french-word'>Père</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἔθετο</span><span class='greek-word'>ἐν</span><span class='greek-word'>τῇ</span><span class='greek-word'>ἰδίᾳ</span><span class='greek-word'>ἐξουσίᾳ·</span></p><p class='inter-segond'><span class='french-word'>a_fixés</span><span class='french-word'>de</span><span class='french-word'>sa_propre</span><span class='french-word'>autorité.</span></p><p class='inter-darby'><span class='french-word'>a</span><span class='french-word'>réservés</span><span class='french-word'>à</span><span class='french-word'>sa_propre</span><span class='french-word'>autorité.</span></p></div>"
-    },
-    {
-      "verse_number": 8,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἀλλὰ</span><span class='greek-word'>λήψεσθε</span><span class='greek-word'>δύναμιν</span><span class='greek-word'>ἐπελθόντος</span><span class='greek-word'>τοῦ</span><span class='greek-word'>Ἁγίου</span></p><p class='inter-segond'><span class='french-word'>Mais</span><span class='french-word'>vous_recevrez</span><span class='french-word'>une_puissance,</span><span class='french-word'>survenant</span><span class='french-word'>le</span><span class='french-word'>Saint</span></p><p class='inter-darby'><span class='french-word'>Mais</span><span class='french-word'>vous</span><span class='french-word'>recevrez</span><span class='french-word'>de_la_puissance,</span><span class='french-word'>le</span><span class='french-word'>Saint</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Πνεύματος</span><span class='greek-word'>ἐφ’</span><span class='greek-word'>ὑμᾶς,</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἔσεσθέ</span><span class='greek-word'>μοι</span><span class='greek-word'>μάρτυρες</span></p><p class='inter-segond'><span class='french-word'>Esprit</span><span class='french-word'>sur</span><span class='french-word'>vous,</span><span class='french-word'>et</span><span class='french-word'>vous_serez</span><span class='french-word'>mes</span><span class='french-word'>témoins</span></p><p class='inter-darby'><span class='french-word'>Esprit</span><span class='french-word'>venant</span><span class='french-word'>sur</span><span class='french-word'>vous ;</span><span class='french-word'>et</span><span class='french-word'>vous</span><span class='french-word'>serez</span><span class='french-word'>mes</span><span class='french-word'>témoins</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἔν</span><span class='greek-word'>τε</span><span class='greek-word'>Ἱερουσαλὴμ</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἐν</span><span class='greek-word'>πάσῃ</span><span class='greek-word'>τῇ</span><span class='greek-word'>Ἰουδαίᾳ</span></p><p class='inter-segond'><span class='french-word'>à_la_fois</span><span class='french-word'>à</span><span class='french-word'>Jérusalem</span><span class='french-word'>et</span><span class='french-word'>dans</span><span class='french-word'>toute</span><span class='french-word'>la</span><span class='french-word'>Judée</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>à</span><span class='french-word'>Jérusalem</span><span class='french-word'>et</span><span class='french-word'>dans</span><span class='french-word'>toute</span><span class='french-word'>la</span><span class='french-word'>Judée</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>Σαμαρείᾳ</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἕως</span><span class='greek-word'>ἐσχάτου</span><span class='greek-word'>τῆς</span><span class='greek-word'>γῆς.</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>la_Samarie,</span><span class='french-word'>et</span><span class='french-word'>jusqu'à</span><span class='french-word'>l'extrémité</span><span class='french-word'>de_la</span><span class='french-word'>terre.</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>dans_la</span><span class='french-word'>Samarie,</span><span class='french-word'>et</span><span class='french-word'>jusqu'au</span><span class='french-word'>bout</span><span class='french-word'>de_la</span><span class='french-word'>terre.</span></p></div>"
-    }
-  ],
-  "greek_only": "1:1 Τὸν μὲν πρῶτον λόγον ἐποιησάμην περὶ πάντων, ὦ Θεόφιλε, ὧν ἤρξατο ὁ Ἰησοῦς ποιεῖν τε καὶ διδάσκειν, 2 ἄχρι ἧς ἡμέρας ἐντειλάμενος τοῖς ἀποστόλοις διὰ Πνεύματος Ἁγίου οἓς ἐξελέξατο ἀνελήφθη. 3 οἷς καὶ παρέστησεν ἑαυτὸν ζῶντα μετὰ τὸ παθεῖν αὐτὸν ἐν πολλοῖς τεκμηρίοις, δι’ ἡμερῶν τεσσαράκοντα ὀπτανόμενος αὐτοῖς καὶ λέγων τὰ περὶ τῆς βασιλείας τοῦ Θεοῦ. 4 καὶ συναλιζόμενος παρήγγειλεν αὐτοῖς ἀπὸ Ἱεροσολύμων μὴ χωρίζεσθαι, ἀλλὰ περιμένειν τὴν ἐπαγγελίαν τοῦ πατρὸς ἣν ἠκούσατέ μου· 5 ὅτι Ἰωάννης μὲν ἐβάπτισεν ὕδατι, ὑμεῖς δὲ ἐν Πνεύματι βαπτισθήσεσθε Ἁγίῳ οὐ μετὰ πολλὰς ταύτας ἡμέρας. 6 Οἱ μὲν οὖν συνελθόντες ἠρώτων αὐτὸν λέγοντες· Κύριε, εἰ ἐν τῷ χρόνῳ τούτῳ ἀποκαθιστάνεις τὴν βασιλείαν τῷ Ἰσραήλ; 7 εἶπε δὲ πρὸς αὐτούς· Οὐχ ὑμῶν ἐστι γνῶναι χρόνους ἢ καιροὺς οὓς ὁ πατὴρ ἔθετο ἐν τῇ ἰδίᾳ ἐξουσίᾳ, 8 ἀλλὰ λήψεσθε δύναμιν ἐπελθόντος τοῦ Ἁγίου Πνεύματος ἐφ’ ὑμᾶς, καὶ ἔσεσθέ μοι μάρτυρες ἔν τε Ἱερουσαλὴμ καὶ ἐν πάσῃ τῇ Ἰουδαίᾳ καὶ Σαμαρείᾳ καὶ ἕως ἐσχάτου τῆς γῆς.",
-  "french_only": "1:1 Théophile, j'ai parlé, dans mon premier livre, de tout ce que Jésus a commencé de faire et d'enseigner dès le commencement 2 jusqu'au jour où il fut enlevé au ciel, après avoir donné ses ordres, par le Saint-Esprit, aux apôtres qu'il avait choisis. 3 Après qu'il eut souffert, il leur apparut vivant, et leur en donna plusieurs preuves, se montrant à eux pendant quarante jours, et parlant des choses qui concernent le royaume de Dieu. 4 Comme il se trouvait avec eux, il leur recommanda de ne pas s'éloigner de Jérusalem, mais d'attendre ce que le Père avait promis, ce que je vous ai annoncé, dit-il ; 5 car Jean a baptisé d'eau, mais vous, dans peu de jours, vous serez baptisés du Saint-Esprit. 6 Alors ceux qui étaient réunis lui demandèrent : Seigneur, est-ce en ce temps que tu rétabliras le royaume d'Israël ? 7 Il leur répondit : Ce n'est pas à vous de connaître les temps ou les moments que le Père a fixés de sa propre autorité. 8 Mais vous recevrez une puissance, le Saint-Esprit survenant sur vous, et vous serez mes témoins à Jérusalem, dans toute la Judée, dans la Samarie, et jusqu'aux extrémités de la terre.",
-  "french_darby": "1:1 J'ai fait le premier traité, ô Théophile, sur toutes les choses que Jésus commença et de faire et d’enseigner, 2 jusqu’au jour où il fut élevé au ciel, après avoir donné, par l'Esprit Saint, des ordres aux apôtres qu’il avait choisis ; 3 auxquels aussi, après avoir souffert, il se présenta lui-même vivant, avec plusieurs preuves certaines, se faisant voir à eux pendant quarante jours, et parlant des choses qui regardent le royaume de Dieu. 4 Et étant assemblé avec eux, il leur enjoignit de ne pas s’éloigner de Jérusalem, mais d’attendre la promesse du Père, laquelle, dit-il, vous avez ouïe de moi : 5 car Jean a véritablement baptisé d’eau ; mais vous, vous serez baptisés de l'Esprit Saint, dans peu de jours. 6 Eux donc, étant assemblés, l’interrogèrent, disant : Seigneur, est-ce en ce temps-ci que tu rétablis le royaume pour Israël ? 7 Mais il leur dit : Ce n’est pas à vous de connaître les temps ou les saisons que le Père a réservés à sa propre autorité ; 8 mais vous recevrez de la puissance, le Saint Esprit venant sur vous ; et vous serez mes témoins et à Jérusalem et dans toute la Judée et la Samarie, et jusqu’au bout de la terre.",
-  "personal_analysis": "La lecture des Actes commence à Pâques pour souligner que la Résurrection n'est pas un événement clos, mais le moteur d'une histoire nouvelle : celle de l'Église. Le témoignage (Martyria) ne repose pas sur une force humaine, mais sur la 'Puissance' (Dynamis) de l'Esprit. La Pâque ouvre le temps du témoignage universel."
-}
+    "reference": "Actes 1, 1-8",
+    "title": "L'attente kénotique et la promesse de l'Esprit",
+    "interlinear": [
+      {
+        "verse_number": "1, 1",
+        "translations": {
+          "segond": "Théophile, j'ai parlé, dans mon premier livre, de tout ce que Jésus a commencé de faire et d'enseigner dès le commencement",
+          "darby": "J'ai composé le premier traité, ô Théophile, sur toutes les choses que Jésus commença de faire et d'enseigner,"
+        },
+        "interlinear": [
+          { "greek": "Τὸν", "gloss": "Le" },
+          { "greek": "μὲν", "gloss": "certes" },
+          { "greek": "πρῶτον", "gloss": "premier" },
+          { "greek": "λόγον", "gloss": "livre/récit" },
+          { "greek": "ἐποιησάμην", "gloss": "j'ai_fait" },
+          { "greek": "περὶ", "gloss": "au_sujet_de" },
+          { "greek": "πάντων,", "gloss": "tout" },
+          { "greek": "ὦ", "gloss": "ô" },
+          { "greek": "Θεόφιλε,", "gloss": "Théophile" },
+          { "greek": "ὧν", "gloss": "ce_que" },
+          { "greek": "ἤρξατο", "gloss": "commença" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
+          { "greek": "ποιεῖν", "gloss": "à_faire" },
+          { "greek": "τε", "gloss": "et" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "διδάσκειν,", "gloss": "enseigner" }
+        ]
+      },
+      {
+        "verse_number": "1, 2",
+        "translations": {
+          "segond": "jusqu'au jour où il fut enlevé au ciel, après avoir donné ses ordres, par le Saint-Esprit, aux apôtres qu'il avait choisis.",
+          "darby": "jusqu'au jour où il fut élevé au ciel, après avoir donné par l'Esprit Saint des ordres aux apôtres qu'il avait choisis ;"
+        },
+        "interlinear": [
+          { "greek": "ἄχρι", "gloss": "jusqu'au" },
+          { "greek": "ἧς", "gloss": "lequel" },
+          { "greek": "ἡμέρας", "gloss": "jour" },
+          { "greek": "ἐντειλάμενος", "gloss": "ayant_donné_des_ordres" },
+          { "greek": "τοῖς", "gloss": "aux" },
+          { "greek": "ἀποστόλοις", "gloss": "apôtres" },
+          { "greek": "διὰ", "gloss": "par" },
+          { "greek": "πνεύματος", "gloss": "l'Esprit" },
+          { "greek": "ἁγίου", "gloss": "Saint" },
+          { "greek": "οὓς", "gloss": "qu'" },
+          { "greek": "ἐξελέξατο", "gloss": "il_avait_choisis" },
+          { "greek": "ἀνελήμφθη·", "gloss": "il_fut_enlevé" }
+        ]
+      },
+      {
+        "verse_number": "1, 3",
+        "translations": {
+          "segond": "Après qu'il eut souffert, il leur apparut vivant, et leur en donna plusieurs preuves, se montrant à eux pendant quarante jours, et parlant des choses qui concernent le royaume de Dieu.",
+          "darby": "à qui aussi, après avoir souffert, il se présenta lui-même vivant, avec plusieurs preuves assurées, étant vu par eux durant quarante jours, et parlant des choses qui regardent le royaume de Dieu."
+        },
+        "interlinear": [
+          { "greek": "οἷς", "gloss": "À_qui" },
+          { "greek": "καὶ", "gloss": "aussi" },
+          { "greek": "παρέστησεν", "gloss": "il_présenta" },
+          { "greek": "ἑαυτὸν", "gloss": "lui-même" },
+          { "greek": "ζῶντα", "gloss": "vivant" },
+          { "greek": "μετὰ", "gloss": "après" },
+          { "greek": "τὸ", "gloss": "le" },
+          { "greek": "παθεῖν", "gloss": "souffrir" },
+          { "greek": "αὐτὸν", "gloss": "lui" },
+          { "greek": "ἐν", "gloss": "avec" },
+          { "greek": "πολλοῖς", "gloss": "plusieurs" },
+          { "greek": "τεκμηρίοις,", "gloss": "preuves" },
+          { "greek": "δι’", "gloss": "pendant" },
+          { "greek": "ἡμερῶν", "gloss": "jours" },
+          { "greek": "τεσσεράκοντα", "gloss": "quarante" },
+          { "greek": "ὀπτανόμενος", "gloss": "apparaissant" },
+          { "greek": "αὐτοῖς", "gloss": "à_eux" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "λέγων", "gloss": "parlant" },
+          { "greek": "τὰ", "gloss": "des_choses" },
+          { "greek": "περὶ", "gloss": "concernant" },
+          { "greek": "τῆς", "gloss": "le" },
+          { "greek": "βασιλείας", "gloss": "Royaume" },
+          { "greek": "τοῦ", "gloss": "de" },
+          { "greek": "θεοῦ·", "gloss": "Dieu" }
+        ]
+      },
+      {
+        "verse_number": "1, 4",
+        "translations": {
+          "segond": "Comme il se trouvait avec eux, il leur recommanda de ne pas s'éloigner de Jérusalem, mais d'attendre ce que le Père avait promis, ce que je vous ai annoncé, leur dit-il;",
+          "darby": "Et étant assemblé avec eux, il leur commanda de ne pas partir de Jérusalem, mais d'attendre la promesse du Père, laquelle, dit-il, vous avez ouïe de moi :"
+        },
+        "interlinear": [
+          { "greek": "καὶ", "gloss": "Et" },
+          { "greek": "συναλιζόμενος", "gloss": "étant_assemblé/mangeant_avec" },
+          { "greek": "παρήγγειλεν", "gloss": "il_ordonna" },
+          { "greek": "αὐτοῖς", "gloss": "à_eux" },
+          { "greek": "ἀπὸ", "gloss": "de" },
+          { "greek": "Ἱεροσολύμων", "gloss": "Jérusalem" },
+          { "greek": "μὴ", "gloss": "ne...pas" },
+          { "greek": "χωρίζεσθαι,", "gloss": "s'éloigner" },
+          { "greek": "ἀλλὰ", "gloss": "mais" },
+          { "greek": "περιμένειν", "gloss": "d'attendre", "analyse": "L'attente ordonnée par le Christ n'est pas passive. Elle correspond à une 'espérance kénotique', une tension vers l'accomplissement[cite: 233]. L'homme doit d'abord se vider (kénose) et faire silence pour laisser l'espace au don de Dieu[cite: 148]. Le temps pascal est cette respiration spirituelle." },
+          { "greek": "τὴν", "gloss": "la" },
+          { "greek": "ἐπαγγελίαν", "gloss": "promesse" },
+          { "greek": "τοῦ", "gloss": "du" },
+          { "greek": "πατρὸς", "gloss": "Père" },
+          { "greek": "ἣν", "gloss": "laquelle" },
+          { "greek": "ἠκούσατέ", "gloss": "vous_avez_entendue" },
+          { "greek": "μου·", "gloss": "de_moi" }
+        ]
+      },
+      {
+        "verse_number": "1, 5",
+        "translations": {
+          "segond": "car Jean a baptisé d'eau, mais vous, dans peu de jours, vous serez baptisés du Saint-Esprit.",
+          "darby": "car Jean a bien baptisé d'eau ; mais vous, vous serez baptisés de l'Esprit Saint, dans peu de jours."
+        },
+        "interlinear": [
+          { "greek": "ὅτι", "gloss": "car" },
+          { "greek": "Ἰωάννης", "gloss": "Jean" },
+          { "greek": "μὲν", "gloss": "certes" },
+          { "greek": "ἐβάπτισεν", "gloss": "baptisa" },
+          { "greek": "ὕδατι,", "gloss": "d'eau" },
+          { "greek": "ὑμεῖς", "gloss": "vous" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "ἐν", "gloss": "dans/de" },
+          { "greek": "πνεύματι", "gloss": "l'Esprit" },
+          { "greek": "βαπτισθήσεσθε", "gloss": "vous_serez_baptisés" },
+          { "greek": "ἁγίῳ", "gloss": "Saint" },
+          { "greek": "οὐ", "gloss": "non" },
+          { "greek": "μετὰ", "gloss": "après" },
+          { "greek": "πολλὰς", "gloss": "beaucoup" },
+          { "greek": "ταύτας", "gloss": "ces" },
+          { "greek": "ἡμέρας.", "gloss": "jours" }
+        ]
+      },
+      {
+        "verse_number": "1, 6",
+        "translations": {
+          "segond": "Alors les apôtres réunis lui demandèrent : Seigneur, est-ce en ce temps que tu rétabliras le royaume d'Israël ?",
+          "darby": "Eux donc, étant assemblés, l'interrogèrent, disant : Seigneur, est-ce en ce temps-ci que tu rétablis le royaume pour Israël ?"
+        },
+        "interlinear": [
+          { "greek": "Οἱ", "gloss": "Ceux/Les" },
+          { "greek": "μὲν", "gloss": "donc" },
+          { "greek": "οὖν", "gloss": "or" },
+          { "greek": "συνελθόντες", "gloss": "étant_réunis" },
+          { "greek": "ἠρώτων", "gloss": "interrogeaient" },
+          { "greek": "αὐτὸν", "gloss": "lui" },
+          { "greek": "λέγοντες·", "gloss": "disant" },
+          { "greek": "Κύριε,", "gloss": "Seigneur" },
+          { "greek": "εἰ", "gloss": "si" },
+          { "greek": "ἐν", "gloss": "en" },
+          { "greek": "τῷ", "gloss": "le" },
+          { "greek": "χρόνῳ", "gloss": "temps" },
+          { "greek": "τούτῳ", "gloss": "ceci" },
+          { "greek": "ἀποκαθιστάνεις", "gloss": "tu_rétablis", "analyse": "Cette question montre que les apôtres sont encore enfermés dans la logique du Monde duel. Ils désirent une victoire politique et temporelle, une restauration d'Israël. Ils sont toujours dans l'illusion de la pensée calculante (dialogismoi) tournée vers le narcissisme d'un triomphe terrestre[cite: 71, 72]." },
+          { "greek": "τὴν", "gloss": "le" },
+          { "greek": "βασιλείαν", "gloss": "royaume" },
+          { "greek": "τῷ", "gloss": "pour" },
+          { "greek": "Ἰσραήλ;", "gloss": "Israël" }
+        ]
+      },
+      {
+        "verse_number": "1, 7",
+        "translations": {
+          "segond": "Il leur répondit : Ce n'est pas à vous de connaître les temps ou les moments que le Père a fixés de sa propre autorité.",
+          "darby": "Mais il leur dit : Ce n'est pas à vous de connaître les temps ou les saisons que le Père a réservés à sa propre autorité ;"
+        },
+        "interlinear": [
+          { "greek": "εἶπεν", "gloss": "Il_dit" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "πρὸς", "gloss": "à" },
+          { "greek": "αὐτούς·", "gloss": "eux" },
+          { "greek": "Οὐχ", "gloss": "Non" },
+          { "greek": "ὑμῶν", "gloss": "de_vous" },
+          { "greek": "ἐστιν", "gloss": "il_est" },
+          { "greek": "γνῶναι", "gloss": "de_connaître" },
+          { "greek": "χρόνους", "gloss": "les_temps" },
+          { "greek": "ἢ", "gloss": "ou" },
+          { "greek": "καιροὺς", "gloss": "les_saisons/moments" },
+          { "greek": "οὓς", "gloss": "que" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "πατὴρ", "gloss": "Père" },
+          { "greek": "ἔθετο", "gloss": "a_placés" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "τῇ", "gloss": "sa" },
+          { "greek": "ἰδίᾳ", "gloss": "propre" },
+          { "greek": "ἐξουσίᾳ·", "gloss": "autorité" }
+        ]
+      },
+      {
+        "verse_number": "1, 8",
+        "translations": {
+          "segond": "Mais vous recevrez une puissance, le Saint-Esprit survenant sur vous, et vous serez mes témoins à Jérusalem, dans toute la Judée, dans la Samarie, et jusqu'aux extrémités de la terre.",
+          "darby": "mais vous recevrez de la puissance, le Saint Esprit venant sur vous ; et vous serez mes témoins à Jérusalem, et dans toute la Judée et la Samarie, et jusqu'au bout de la terre."
+        },
+        "interlinear": [
+          { "greek": "ἀλλὰ", "gloss": "mais" },
+          { "greek": "λήμψεσθε", "gloss": "vous_recevrez" },
+          { "greek": "δύναμιν", "gloss": "puissance" },
+          { "greek": "ἐπελθόντος", "gloss": "survenant" },
+          { "greek": "τοῦ", "gloss": "du" },
+          { "greek": "ἁγίου", "gloss": "Saint" },
+          { "greek": "πνεύματος", "gloss": "Esprit" },
+          { "greek": "ἐφ’", "gloss": "sur" },
+          { "greek": "ὑμᾶς,", "gloss": "vous" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἔσεσθέ", "gloss": "vous_serez" },
+          { "greek": "μου", "gloss": "de_moi" },
+          { "greek": "μάρτυρες", "gloss": "témoins", "analyse": "Le témoignage (martyria) est la finalité du croyant. En devenant un 'Je' unique, le Sujet témoigne de son amour pour l'autre. C'est en s'excluant du Monde duel (pour appartenir au Royaume UN) qu'il se retrouve véritablement uni à tous dans l'Église[cite: 424, 425, 432]." },
+          { "greek": "ἔν", "gloss": "dans" },
+          { "greek": "τε", "gloss": "et" },
+          { "greek": "Ἰερουσαλὴμ", "gloss": "Jérusalem" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "πάσῃ", "gloss": "toute" },
+          { "greek": "τῇ", "gloss": "la" },
+          { "greek": "Ἰουδαίᾳ", "gloss": "Judée" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "Σαμαρείᾳ", "gloss": "Samarie" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἕως", "gloss": "jusqu'à" },
+          { "greek": "ἐσχάτου", "gloss": "l'extrémité" },
+          { "greek": "τῆς", "gloss": "de_la" },
+          { "greek": "γῆς.", "gloss": "terre" }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs :\n• Verset 4 - συναλιζόμενος : Signifie littéralement 'manger du sel avec' (partager le repas), traduisant une profonde communion. Le Royaume n'est pas un concept éthéré, il s'enracine dans la chair de la Synaxe eucharistique.\n• Verset 6 - ἀποκαθιστάνεις : Le terme est lourd de sens politique ('restaurer'). C'est l'espoir déçu des zélotes et de la foule des Rameaux, espérance charnelle que les disciples peinent encore à abandonner.\n\nAnalyse spirituelle :\nCette lecture ouvre le temps pascal, une période qui correspond spirituellement à la naissance du corps de l'Église, le corps théandrique du Christ[cite: 275]. Le grand mouvement théophorique s'amorce : les apôtres vont porter Dieu pour le faire advenir dans le monde[cite: 229, 230]. Cependant, avant cet aboutissement, ils doivent traverser l'étape de l''espérance kénotique'[cite: 236].\n\nMalgré la Résurrection, l'Ego des apôtres résiste encore. Ils interrogent Jésus avec la pensée calculante ('dialogismoi') [cite: 63, 72] propre au Monde duel : 'Est-ce en ce temps que tu rétabliras Israël ?' Ils veulent encore une gloire horizontale, spatiale et mesurable. Le Christ déjoue brutalement cette préhension : le temps appartient au Père. Leur mission n'est pas de dominer le temps ni de restaurer une nation, mais de recevoir la 'Puissance' verticale de l'Esprit. Seule cette kénose totale, cet abaissement où l'homme se vide de ses agendas politiques [cite: 148], permet au Saint-Esprit de transformer une collection d'individus apeurés en un seul Corps de 'Sujets' uniques[cite: 374], unis pour être les témoins vivants de la Lumière incréée jusqu'aux extrémités de la terre."
+  }
   }
