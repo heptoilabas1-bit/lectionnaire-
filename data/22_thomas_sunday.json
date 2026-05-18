@@ -1,110 +1,640 @@
 {
   "gospel": {
     "reference": "Jean 20, 19-31",
-    "title": "L'Apparition aux disciples et la Confession de Thomas",
+    "title": "Les portes closes, le souffle et la foi de Thomas",
     "interlinear": [
       {
         "verse_number": 19,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Οὔσης</span><span class='greek-word'>οὖν</span><span class='greek-word'>ὀψίας</span><span class='greek-word'>τῇ</span><span class='greek-word'>ἡμέρα</span><span class='greek-word'>ἐκείνῃ</span></p><p class='inter-segond'><span class='french-word'>Étant</span><span class='french-word'>donc</span><span class='french-word'>le_soir</span><span class='french-word'>le</span><span class='french-word'>jour</span><span class='french-word'>celui-là,</span></p><p class='inter-darby'><span class='french-word'>Le_soir</span><span class='french-word'>donc</span><span class='french-word'>étant_venu,</span><span class='french-word'>ce</span><span class='french-word'>jour-là,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τῇ</span><span class='greek-word'>μιᾷ</span><span class='greek-word'>σαββάτων,</span><span class='greek-word'>καὶ</span><span class='greek-word'>τῶν</span><span class='greek-word'>θυρῶν</span><span class='greek-word'>κεκλεισμένων</span></p><p class='inter-segond'><span class='french-word'>le</span><span class='french-word'>premier</span><span class='french-word'>de_la_semaine,</span><span class='french-word'>et</span><span class='french-word'>les</span><span class='french-word'>portes</span><span class='french-word'>étant_fermées</span></p><p class='inter-darby'><span class='french-word'>le</span><span class='french-word'>premier</span><span class='french-word'>de_la_semaine,</span><span class='french-word'>et</span><span class='french-word'>les</span><span class='french-word'>portes</span><span class='french-word'>étant_fermées</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὅπου</span><span class='greek-word'>ἦσαν</span><span class='greek-word'>οἱ</span><span class='greek-word'>μαθηταὶ</span><span class='greek-word'>διὰ</span><span class='greek-word'>τὸν</span><span class='greek-word'>φόβον</span><span class='greek-word'>τῶν</span><span class='greek-word'>Ἰουδαίων,</span></p><p class='inter-segond'><span class='french-word'>où</span><span class='french-word'>étaient</span><span class='french-word'>les</span><span class='french-word'>disciples</span><span class='french-word'>par</span><span class='french-word'>la</span><span class='french-word'>crainte</span><span class='french-word'>des</span><span class='french-word'>Juifs,</span></p><p class='inter-darby'><span class='french-word'>où</span><span class='french-word'>les</span><span class='french-word'>disciples</span><span class='french-word'>étaient_assemblés_par</span><span class='french-word'>la</span><span class='french-word'>crainte</span><span class='french-word'>des</span><span class='french-word'>Juifs,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἦλθεν</span><span class='greek-word'>ὁ</span><span class='greek-word'>Ἰησοῦς</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἔστη</span><span class='greek-word'>εἰς</span><span class='greek-word'>τὸ</span><span class='greek-word'>μέσον</span></p><p class='inter-segond'><span class='french-word'>vint</span><span class='french-word'>le</span><span class='french-word'>Jésus</span><span class='french-word'>et</span><span class='french-word'>se_tint</span><span class='french-word'>au</span><span class='french-word'>le</span><span class='french-word'>milieu,</span></p><p class='inter-darby'><span class='french-word'>Jésus_vint,</span><span class='french-word'>et</span><span class='french-word'>se_tint</span><span class='french-word'>au</span><span class='french-word'>milieu_d'eux,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>λέγει</span><span class='greek-word'>αὐτοῖς·</span><span class='greek-word'>Εἰρήνη</span><span class='greek-word'>ὑμῖν.</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>il_dit</span><span class='french-word'>à_eux :</span><span class='french-word'>La_paix</span><span class='french-word'>à_vous !</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>leur_dit :</span><span class='french-word'>Paix</span><span class='french-word'>vous_soit !</span></p></div>"
+        "translations": {
+          "segond": "Le soir de ce jour, qui était le premier de la semaine, les portes du lieu où se trouvaient les disciples étant fermées, à cause de la crainte qu'ils avaient des Juifs, Jésus vint, se présenta au milieu d'eux, et leur dit : La paix soit avec vous !",
+          "darby": "Le soir donc de ce jour-là, qui était le premier de la semaine, et les portes du lieu où les disciples étaient rassemblés par crainte des Juifs, étant fermées, Jésus vint, et se tint au milieu d'eux. Et il leur dit : Paix vous soit !"
+        },
+        "interlinear": [
+          { "greek": "Οὔσης", "gloss": "Étant" },
+          { "greek": "οὖν", "gloss": "donc" },
+          { "greek": "ὀψίας", "gloss": "le_soir" },
+          { "greek": "τῇ", "gloss": "le" },
+          { "greek": "ἡμέρᾳ", "gloss": "jour" },
+          { "greek": "ἐκείνῃ", "gloss": "ce...-là" },
+          { "greek": "τῇ", "gloss": "le" },
+          { "greek": "μιᾷ", "gloss": "premier" },
+          { "greek": "σαββάτων,", "gloss": "de_la_semaine" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "τῶν", "gloss": "les" },
+          { "greek": "θυρῶν", "gloss": "portes" },
+          { "greek": "κεκλεισμένων", "gloss": "étant_fermées", "analyse": "Les portes fermées matérialisent la peur de l'Ego. Le 'Monde duel' est un monde de clôture et de protection où l'on s'enferme pour survivre face à la menace de l'autre. Le Christ ressuscité ne force pas la porte : Il la traverse, car dans le Royaume UN, la matière n'est plus une barrière opaque à la communion." },
+          { "greek": "ὅπου", "gloss": "où" },
+          { "greek": "ἦσαν", "gloss": "étaient" },
+          { "greek": "οἱ", "gloss": "les" },
+          { "greek": "μαθηταὶ", "gloss": "disciples" },
+          { "greek": "διὰ", "gloss": "à_cause_de" },
+          { "greek": "τὸν", "gloss": "la" },
+          { "greek": "φόβον", "gloss": "peur" },
+          { "greek": "τῶν", "gloss": "des" },
+          { "greek": "Ἰουδαίων,", "gloss": "Juifs" },
+          { "greek": "ἦλθεν", "gloss": "vint" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἔστη", "gloss": "se_tint" },
+          { "greek": "εἰς", "gloss": "au" },
+          { "greek": "τὸ", "gloss": "le" },
+          { "greek": "μέσον", "gloss": "milieu" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "λέγει", "gloss": "dit" },
+          { "greek": "αὐτοῖς·", "gloss": "à_eux" },
+          { "greek": "Εἰρήνη", "gloss": "Paix" },
+          { "greek": "ὑμῖν.", "gloss": "à_vous" }
+        ]
       },
       {
         "verse_number": 20,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>τοῦτο</span><span class='greek-word'>εἰπὼν</span><span class='greek-word'>ἔδειξεν</span><span class='greek-word'>αὐτοῖς</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>cela</span><span class='french-word'>ayant_dit,</span><span class='french-word'>il_montra</span><span class='french-word'>à_eux</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>ayant_dit</span><span class='french-word'>cela,</span><span class='french-word'>il_leur_montra</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τὰς</span><span class='greek-word'>χεῖρας</span><span class='greek-word'>καὶ</span><span class='greek-word'>τὴν</span><span class='greek-word'>πλευρὰν</span><span class='greek-word'>αὐτοῖς·</span></p><p class='inter-segond'><span class='french-word'>les</span><span class='french-word'>mains</span><span class='french-word'>et</span><span class='french-word'>le</span><span class='french-word'>côté</span><span class='french-word'>à_eux.</span></p><p class='inter-darby'><span class='french-word'>ses</span><span class='french-word'>mains</span><span class='french-word'>et</span><span class='french-word'>son</span><span class='french-word'>côté.</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐχάρησαν</span><span class='greek-word'>οὖν</span><span class='greek-word'>οἱ</span><span class='greek-word'>μαθηταὶ</span><span class='greek-word'>ἰδόντες</span><span class='greek-word'>τὸν</span><span class='greek-word'>Κύριον.</span></p><p class='inter-segond'><span class='french-word'>Se_réjouirent</span><span class='french-word'>donc</span><span class='french-word'>les</span><span class='french-word'>disciples</span><span class='french-word'>voyant</span><span class='french-word'>le</span><span class='french-word'>Seigneur.</span></p><p class='inter-darby'><span class='french-word'>Les</span><span class='french-word'>disciples</span><span class='french-word'>donc</span><span class='french-word'>se_réjouirent</span><span class='french-word'>quand_ils_virent</span><span class='french-word'>le</span><span class='french-word'>Seigneur.</span></p></div>"
+        "translations": {
+          "segond": "Et quand il eut dit cela, il leur montra ses mains et son côté. Les disciples furent dans la joie en voyant le Seigneur.",
+          "darby": "Et ayant dit cela, il leur montra ses mains et son côté. Les disciples donc se réjouirent quand ils virent le Seigneur."
+        },
+        "interlinear": [
+          { "greek": "καὶ", "gloss": "Et" },
+          { "greek": "τοῦτο", "gloss": "ceci" },
+          { "greek": "εἰπὼν", "gloss": "ayant_dit" },
+          { "greek": "ἔδειξεν", "gloss": "il_montra" },
+          { "greek": "τὰς", "gloss": "les" },
+          { "greek": "χεῖρας", "gloss": "mains" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "τὴν", "gloss": "le" },
+          { "greek": "πλευρὰν", "gloss": "côté" },
+          { "greek": "αὐτοῖς·", "gloss": "à_eux" },
+          { "greek": "ἐχάρησαν", "gloss": "se_réjouirent" },
+          { "greek": "οὖν", "gloss": "donc" },
+          { "greek": "οἱ", "gloss": "les" },
+          { "greek": "μαθηταὶ", "gloss": "disciples" },
+          { "greek": "ἰδόντες", "gloss": "ayant_vu" },
+          { "greek": "τὸν", "gloss": "le" },
+          { "greek": "κύριον.", "gloss": "Seigneur" }
+        ]
       },
       {
         "verse_number": 21,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>εἶπεν</span><span class='greek-word'>οὖν</span><span class='greek-word'>αὐτοῖς</span><span class='greek-word'>ὁ</span><span class='greek-word'>Ἰησοῦς</span><span class='greek-word'>πάλιν·</span></p><p class='inter-segond'><span class='french-word'>Dit</span><span class='french-word'>donc</span><span class='french-word'>à_eux</span><span class='french-word'>le</span><span class='french-word'>Jésus</span><span class='french-word'>de_nouveau :</span></p><p class='inter-darby'><span class='french-word'>Jésus</span><span class='french-word'>donc</span><span class='french-word'>leur_dit</span><span class='french-word'>encore :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Εἰρήνη</span><span class='greek-word'>ὑμῖν·</span><span class='greek-word'>καθὼς</span><span class='greek-word'>ἀπέσταλκέ</span><span class='greek-word'>με</span><span class='greek-word'>ὁ</span><span class='greek-word'>πατήρ,</span></p><p class='inter-segond'><span class='french-word'>La_paix</span><span class='french-word'>à_vous !</span><span class='french-word'>Comme</span><span class='french-word'>a_envoyé</span><span class='french-word'>moi</span><span class='french-word'>le</span><span class='french-word'>Père,</span></p><p class='inter-darby'><span class='french-word'>Paix</span><span class='french-word'>vous_soit !</span><span class='french-word'>Comme</span><span class='french-word'>le</span><span class='french-word'>Père</span><span class='french-word'>m’a</span><span class='french-word'>envoyé,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>κἀγὼ</span><span class='greek-word'>πέμπω</span><span class='greek-word'>ὑμᾶς.</span></p><p class='inter-segond'><span class='french-word'>moi_aussi</span><span class='french-word'>j'envoie</span><span class='french-word'>vous.</span></p><p class='inter-darby'><span class='french-word'>moi_aussi,</span><span class='french-word'>je_vous</span><span class='french-word'>envoie.</span></p></div>"
+        "translations": {
+          "segond": "Jésus leur dit de nouveau : La paix soit avec vous ! Comme le Père m'a envoyé, moi aussi je vous envoie.",
+          "darby": "Jésus donc leur dit encore : Paix vous soit ! Comme le Père m'a envoyé, moi aussi je vous envoie."
+        },
+        "interlinear": [
+          { "greek": "εἶπεν", "gloss": "Il_dit" },
+          { "greek": "οὖν", "gloss": "donc" },
+          { "greek": "αὐτοῖς", "gloss": "à_eux" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
+          { "greek": "πάλιν·", "gloss": "de_nouveau" },
+          { "greek": "Εἰρήνη", "gloss": "Paix" },
+          { "greek": "ὑμῖν·", "gloss": "à_vous" },
+          { "greek": "καθὼς", "gloss": "comme" },
+          { "greek": "ἀπέσταλκέν", "gloss": "a_envoyé" },
+          { "greek": "με", "gloss": "moi" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "πατήρ,", "gloss": "Père" },
+          { "greek": "κἀγὼ", "gloss": "moi_aussi" },
+          { "greek": "πέμπω", "gloss": "j'envoie" },
+          { "greek": "ὑμᾶς.", "gloss": "vous" }
+        ]
       },
       {
         "verse_number": 22,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>τοῦτο</span><span class='greek-word'>εἰπὼν</span><span class='greek-word'>ἐνεφύσησε</span><span class='greek-word'>καὶ</span><span class='greek-word'>λέγει</span><span class='greek-word'>αὐτοῖς·</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>cela</span><span class='french-word'>ayant_dit,</span><span class='french-word'>il_souffla_sur</span><span class='french-word'>et</span><span class='french-word'>dit</span><span class='french-word'>à_eux :</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>ayant_dit</span><span class='french-word'>cela,</span><span class='french-word'>il_souffla_en_eux,</span><span class='french-word'>et</span><span class='french-word'>leur_dit :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Λάβετε</span><span class='greek-word'>Πνεῦμα</span><span class='greek-word'>Ἅγιον.</span></p><p class='inter-segond'><span class='french-word'>Recevez</span><span class='french-word'>l'Esprit</span><span class='french-word'>Saint.</span></p><p class='inter-darby'><span class='french-word'>Recevez</span><span class='french-word'>l’Esprit</span><span class='french-word'>Saint.</span></p></div>"
+        "translations": {
+          "segond": "Après ces paroles, il souffla sur eux, et leur dit : Recevez le Saint-Esprit.",
+          "darby": "Et ayant dit cela, il souffla en eux, et leur dit : Recevez l'Esprit Saint."
+        },
+        "interlinear": [
+          { "greek": "καὶ", "gloss": "Et" },
+          { "greek": "τοῦτο", "gloss": "ceci" },
+          { "greek": "εἰπὼν", "gloss": "ayant_dit" },
+          { "greek": "ἐνεφύσησεν", "gloss": "il_souffla_sur", "analyse": "Le verbe 'enephusesen' n'est utilisé qu'une seule autre fois dans la Bible : dans la Genèse, lorsque Dieu insuffle la vie au premier homme tiré de la terre. Le Christ ressuscité opère ici la seconde création. Il insuffle l'Énergie divine pour faire des apôtres des 'Sujets' vivants du Royaume UN, les arrachant à l'asphyxie du Monde duel." },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "λέγει", "gloss": "dit" },
+          { "greek": "αὐτοῖς·", "gloss": "à_eux" },
+          { "greek": "Λάβετε", "gloss": "Recevez" },
+          { "greek": "πνεῦμα", "gloss": "l'Esprit" },
+          { "greek": "ἅγιον·", "gloss": "Saint" }
+        ]
       },
       {
         "verse_number": 23,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἄν</span><span class='greek-word'>τινων</span><span class='greek-word'>ἀφῆτε</span><span class='greek-word'>τὰς</span><span class='greek-word'>ἁμαρτίας,</span><span class='greek-word'>ἀφέωνται</span><span class='greek-word'>αὐτοῖς·</span></p><p class='inter-segond'><span class='french-word'>Si_de</span><span class='french-word'>quelques-uns</span><span class='french-word'>vous_pardonnez</span><span class='french-word'>les</span><span class='french-word'>péchés,</span><span class='french-word'>ils_sont_pardonnés</span><span class='french-word'>à_eux ;</span></p><p class='inter-darby'><span class='french-word'>À</span><span class='french-word'>quiconque</span><span class='french-word'>vous</span><span class='french-word'>remettrez</span><span class='french-word'>les</span><span class='french-word'>péchés,</span><span class='french-word'>ils</span><span class='french-word'>leur</span><span class='french-word'>sont</span><span class='french-word'>remis ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἄν</span><span class='greek-word'>τινων</span><span class='greek-word'>κρατῆτε,</span><span class='greek-word'>κεκράτηνται.</span></p><p class='inter-segond'><span class='french-word'>si_de</span><span class='french-word'>certains</span><span class='french-word'>vous_les_retenez,</span><span class='french-word'>ils_sont_retenus.</span></p><p class='inter-darby'><span class='french-word'>et_à</span><span class='french-word'>quiconque</span><span class='french-word'>vous</span><span class='french-word'>les</span><span class='french-word'>retiendrez,</span><span class='french-word'>ils</span><span class='french-word'>sont</span><span class='french-word'>retenus.</span></p></div>"
+        "translations": {
+          "segond": "Ceux à qui vous pardonnerez les péchés, ils leur seront pardonnés; et ceux à qui vous les retiendrez, ils leur seront retenus.",
+          "darby": "À quiconque vous remettrez les péchés, ils leur sont remis ; et à quiconque vous les retiendrez, ils lui sont retenus."
+        },
+        "interlinear": [
+          { "greek": "ἄν", "gloss": "Si" },
+          { "greek": "τινων", "gloss": "de_quelqu'un" },
+          { "greek": "ἀφῆτε", "gloss": "vous_remettez/pardonnez" },
+          { "greek": "τὰς", "gloss": "les" },
+          { "greek": "ἁμαρτίας", "gloss": "péchés" },
+          { "greek": "ἀφέωνται", "gloss": "ils_sont_remis" },
+          { "greek": "αὐτοῖς·", "gloss": "à_eux" },
+          { "greek": "ἄν", "gloss": "si" },
+          { "greek": "τινων", "gloss": "de_quelqu'un" },
+          { "greek": "κρατῆτε", "gloss": "vous_retenez" },
+          { "greek": "κεκράτηνται.", "gloss": "ils_sont_retenus" }
+        ]
       },
       {
         "verse_number": 24,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Θωμᾶς</span><span class='greek-word'>δὲ</span><span class='greek-word'>εἷς</span><span class='greek-word'>ἐκ</span><span class='greek-word'>τῶν</span><span class='greek-word'>δώδεκα,</span><span class='greek-word'>ὁ</span><span class='greek-word'>λεγόμενος</span><span class='greek-word'>Δίδυμος,</span></p><p class='inter-segond'><span class='french-word'>Thomas</span><span class='french-word'>mais</span><span class='french-word'>l'un</span><span class='french-word'>des</span><span class='french-word'>douze,</span><span class='french-word'>celui</span><span class='french-word'>appelé</span><span class='french-word'>Didyme,</span></p><p class='inter-darby'><span class='french-word'>Mais</span><span class='french-word'>Thomas,</span><span class='french-word'>l’un</span><span class='french-word'>des</span><span class='french-word'>douze,</span><span class='french-word'>appelé</span><span class='french-word'>Didyme,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>οὐκ</span><span class='greek-word'>ἦν</span><span class='greek-word'>μετ’</span><span class='greek-word'>αὐτῶν</span><span class='greek-word'>ὅτε</span><span class='greek-word'>ἦλθεν</span><span class='greek-word'>ὁ</span><span class='greek-word'>Ἰησοῦς.</span></p><p class='inter-segond'><span class='french-word'>pas</span><span class='french-word'>n'était</span><span class='french-word'>avec</span><span class='french-word'>eux</span><span class='french-word'>quand</span><span class='french-word'>vint</span><span class='french-word'>le</span><span class='french-word'>Jésus.</span></p><p class='inter-darby'><span class='french-word'>n’était</span><span class='french-word'>pas</span><span class='french-word'>avec</span><span class='french-word'>eux</span><span class='french-word'>quand</span><span class='french-word'>Jésus</span><span class='french-word'>vint.</span></p></div>"
+        "translations": {
+          "segond": "Thomas, appelé Didyme, l'un des douze, n'était pas avec eux lorsque Jésus vint.",
+          "darby": "Or Thomas, l'un des douze, appelé Didyme, n'était pas avec eux quand Jésus vint."
+        },
+        "interlinear": [
+          { "greek": "Θωμᾶς", "gloss": "Thomas" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "εἷς", "gloss": "un" },
+          { "greek": "ἐκ", "gloss": "de" },
+          { "greek": "τῶν", "gloss": "les" },
+          { "greek": "δώδεκα,", "gloss": "douze" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "λεγόμενος", "gloss": "appelé" },
+          { "greek": "Δίδυμος,", "gloss": "Jumeau/Didyme" },
+          { "greek": "οὐκ", "gloss": "n'..." },
+          { "greek": "ἦν", "gloss": "était" },
+          { "greek": "μετ’", "gloss": "avec" },
+          { "greek": "αὐτῶν", "gloss": "eux" },
+          { "greek": "ὅτε", "gloss": "quand" },
+          { "greek": "ἦλθεν", "gloss": "vint" },
+          { "greek": "Ἰησοῦς.", "gloss": "Jésus" }
+        ]
       },
       {
         "verse_number": 25,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἔλεγον</span><span class='greek-word'>οὖν</span><span class='greek-word'>αὐτῷ</span><span class='greek-word'>οἱ</span><span class='greek-word'>ἄλλοι</span><span class='greek-word'>μαθηταί·</span></p><p class='inter-segond'><span class='french-word'>Disaient</span><span class='french-word'>donc</span><span class='french-word'>à_lui</span><span class='french-word'>les</span><span class='french-word'>autres</span><span class='french-word'>disciples :</span></p><p class='inter-darby'><span class='french-word'>Les</span><span class='french-word'>autres</span><span class='french-word'>disciples</span><span class='french-word'>lui</span><span class='french-word'>dirent</span><span class='french-word'>donc :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Ἑωράκαμεν</span><span class='greek-word'>τὸν</span><span class='greek-word'>Κύριον.</span></p><p class='inter-segond'><span class='french-word'>Nous_avons_vu</span><span class='french-word'>le</span><span class='french-word'>Seigneur.</span></p><p class='inter-darby'><span class='french-word'>Nous</span><span class='french-word'>avons_vu</span><span class='french-word'>le</span><span class='french-word'>Seigneur.</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὁ</span><span class='greek-word'>δὲ</span><span class='greek-word'>εἶπεν</span><span class='greek-word'>αὐτοῖς·</span><span class='greek-word'>Ἐὰν</span><span class='greek-word'>μὴ</span><span class='greek-word'>ἴδω</span><span class='greek-word'>ἐν</span><span class='greek-word'>ταῖς</span><span class='greek-word'>χερσὶν</span></p><p class='inter-segond'><span class='french-word'>il</span><span class='french-word'>mais</span><span class='french-word'>dit</span><span class='french-word'>à_eux :</span><span class='french-word'>Si</span><span class='french-word'>pas</span><span class='french-word'>je_vois</span><span class='french-word'>dans</span><span class='french-word'>les</span><span class='french-word'>mains</span></p><p class='inter-darby'><span class='french-word'>Mais</span><span class='french-word'>il</span><span class='french-word'>leur</span><span class='french-word'>dit :</span><span class='french-word'>À_moins</span><span class='french-word'>que</span><span class='french-word'>je_ne_voie</span><span class='french-word'>en</span><span class='french-word'>ses</span><span class='french-word'>mains</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>αὐτοῦ</span><span class='greek-word'>τὸν</span><span class='greek-word'>τύπον</span><span class='greek-word'>τῶν</span><span class='greek-word'>ἥλων</span><span class='greek-word'>καὶ</span><span class='greek-word'>βάλω</span></p><p class='inter-segond'><span class='french-word'>siennes</span><span class='french-word'>la</span><span class='french-word'>marque</span><span class='french-word'>des</span><span class='french-word'>clous,</span><span class='french-word'>et</span><span class='french-word'>que_je_mette</span></p><p class='inter-darby'><span class='french-word'>la</span><span class='french-word'>marque</span><span class='french-word'>des</span><span class='french-word'>clous,</span><span class='french-word'>et</span><span class='french-word'>que_je_ne_mette</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τὸν</span><span class='greek-word'>δάκτυλόν</span><span class='greek-word'>μου</span><span class='greek-word'>εἰς</span><span class='greek-word'>τὸν</span><span class='greek-word'>τύπον</span><span class='greek-word'>τῶν</span><span class='greek-word'>ἥλων,</span></p><p class='inter-segond'><span class='french-word'>le</span><span class='french-word'>doigt</span><span class='french-word'>mien</span><span class='french-word'>dans</span><span class='french-word'>la</span><span class='french-word'>marque</span><span class='french-word'>des</span><span class='french-word'>clous,</span></p><p class='inter-darby'><span class='french-word'>mon</span><span class='french-word'>doigt</span><span class='french-word'>dans</span><span class='french-word'>la</span><span class='french-word'>marque</span><span class='french-word'>des</span><span class='french-word'>clous,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>βάλω</span><span class='greek-word'>μου</span><span class='greek-word'>τὴν</span><span class='greek-word'>χεῖρα</span><span class='greek-word'>εἰς</span><span class='greek-word'>τὴν</span><span class='greek-word'>πλευρὰν</span><span class='greek-word'>αὐτοῦ,</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>que_je_mette</span><span class='french-word'>ma</span><span class='french-word'>la</span><span class='french-word'>main</span><span class='french-word'>dans</span><span class='french-word'>le</span><span class='french-word'>côté</span><span class='french-word'>sien,</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>que_je_ne_mette</span><span class='french-word'>ma</span><span class='french-word'>main</span><span class='french-word'>dans</span><span class='french-word'>son</span><span class='french-word'>côté,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>οὐ</span><span class='greek-word'>μὴ</span><span class='greek-word'>πιστεύσω.</span></p><p class='inter-segond'><span class='french-word'>non</span><span class='french-word'>pas</span><span class='french-word'>je_ne_croirai.</span></p><p class='inter-darby'><span class='french-word'>je_ne_le_croirai</span><span class='french-word'>point.</span></p></div>"
+        "translations": {
+          "segond": "Les autres disciples lui dirent donc : Nous avons vu le Seigneur. Mais il leur dit : Si je ne vois dans ses mains la marque des clous, et si je ne mets mon doigt dans la marque des clous, et si je ne mets ma main dans son côté, je ne croirai point.",
+          "darby": "Les autres disciples donc lui dirent : Nous avons vu le Seigneur. Mais il leur dit : À moins que je ne voie en ses mains la marque des clous, et que je ne mette mon doigt dans la marque des clous, et que je ne mette ma main dans son côté, je ne croirai point."
+        },
+        "interlinear": [
+          { "greek": "ἔλεγον", "gloss": "Disaient" },
+          { "greek": "οὖν", "gloss": "donc" },
+          { "greek": "αὐτῷ", "gloss": "à_lui" },
+          { "greek": "οἱ", "gloss": "les" },
+          { "greek": "ἄλλοι", "gloss": "autres" },
+          { "greek": "μαθηταί·", "gloss": "disciples" },
+          { "greek": "Ἑωράκαμεν", "gloss": "Nous_avons_vu" },
+          { "greek": "τὸν", "gloss": "le" },
+          { "greek": "κύριον.", "gloss": "Seigneur" },
+          { "greek": "ὁ", "gloss": "Le" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "εἶπεν", "gloss": "dit" },
+          { "greek": "αὐτοῖς·", "gloss": "à_eux" },
+          { "greek": "Ἐὰν", "gloss": "Si" },
+          { "greek": "μὴ", "gloss": "ne...pas" },
+          { "greek": "ἴδω", "gloss": "je_vois" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "ταῖς", "gloss": "les" },
+          { "greek": "χερσὶν", "gloss": "mains" },
+          { "greek": "αὐτοῦ", "gloss": "de_lui" },
+          { "greek": "τὸν", "gloss": "la" },
+          { "greek": "τύπον", "gloss": "marque" },
+          { "greek": "τῶν", "gloss": "des" },
+          { "greek": "ἥλων", "gloss": "clous" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "βάλω", "gloss": "je_mette", "analyse": "Thomas exige des preuves empiriques. C'est la démarche typique de l'Ego et de l'intelligence aliénée qui veulent 'saisir' (préhension), contrôler et soumettre la réalité à leurs propres conditions (voir et toucher) avant de s'engager. Le Monde duel exige des garanties intellectuelles et sensorielles ; la foi du Royaume est une reddition." },
+          { "greek": "τὸν", "gloss": "le" },
+          { "greek": "δάκτυλόν", "gloss": "doigt" },
+          { "greek": "μου", "gloss": "de_moi" },
+          { "greek": "εἰς", "gloss": "dans" },
+          { "greek": "τὸν", "gloss": "la" },
+          { "greek": "τύπον", "gloss": "marque" },
+          { "greek": "τῶν", "gloss": "des" },
+          { "greek": "ἥλων", "gloss": "clous" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "βάλω", "gloss": "je_mette" },
+          { "greek": "μου", "gloss": "de_moi" },
+          { "greek": "τὴν", "gloss": "la" },
+          { "greek": "χεῖρα", "gloss": "main" },
+          { "greek": "εἰς", "gloss": "dans" },
+          { "greek": "τὴν", "gloss": "le" },
+          { "greek": "πλευρὰν", "gloss": "côté" },
+          { "greek": "αὐτοῦ,", "gloss": "de_lui" },
+          { "greek": "οὐ", "gloss": "non" },
+          { "greek": "μὴ", "gloss": "absolument_pas" },
+          { "greek": "πιστεύσω.", "gloss": "je_croirai" }
+        ]
       },
       {
         "verse_number": 26,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Καὶ</span><span class='greek-word'>μεθ’</span><span class='greek-word'>ἡμέρας</span><span class='greek-word'>ὀκτὼ</span><span class='greek-word'>πάλιν</span><span class='greek-word'>ἦσαν</span><span class='greek-word'>ἔσω</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>après</span><span class='french-word'>jours</span><span class='french-word'>huit</span><span class='french-word'>de_nouveau</span><span class='french-word'>étaient</span><span class='french-word'>dedans</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>huit</span><span class='french-word'>jours</span><span class='french-word'>après,</span><span class='french-word'>ses</span><span class='french-word'>disciples</span><span class='french-word'>étaient</span><span class='french-word'>de_nouveau</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>οἱ</span><span class='greek-word'>μαθηταὶ</span><span class='greek-word'>αὐτοῦ,</span><span class='greek-word'>καὶ</span><span class='greek-word'>Θωμᾶς</span><span class='greek-word'>μετ’</span><span class='greek-word'>αὐτῶν.</span></p><p class='inter-segond'><span class='french-word'>les</span><span class='french-word'>disciples</span><span class='french-word'>siens,</span><span class='french-word'>et</span><span class='french-word'>Thomas</span><span class='french-word'>avec</span><span class='french-word'>eux.</span></p><p class='inter-darby'><span class='french-word'>dans_la_maison,</span><span class='french-word'>et</span><span class='french-word'>Thomas</span><span class='french-word'>était</span><span class='french-word'>avec</span><span class='french-word'>eux.</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἔρχεται</span><span class='greek-word'>ὁ</span><span class='greek-word'>Ἰησοῦς</span><span class='greek-word'>τῶν</span><span class='greek-word'>θυρῶν</span><span class='greek-word'>κεκλεισμένων,</span></p><p class='inter-segond'><span class='french-word'>Vient</span><span class='french-word'>le</span><span class='french-word'>Jésus</span><span class='french-word'>les</span><span class='french-word'>portes</span><span class='french-word'>étant_fermées,</span></p><p class='inter-darby'><span class='french-word'>Jésus_vient,</span><span class='french-word'>les</span><span class='french-word'>portes</span><span class='french-word'>étant_fermées,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ἔστη</span><span class='greek-word'>εἰς</span><span class='greek-word'>τὸ</span><span class='greek-word'>μέσον</span><span class='greek-word'>καὶ</span><span class='greek-word'>εἶπεν·</span><span class='greek-word'>Εἰρήνη</span><span class='greek-word'>ὑμῖν.</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>se_tint</span><span class='french-word'>au</span><span class='french-word'>le</span><span class='french-word'>milieu,</span><span class='french-word'>et</span><span class='french-word'>dit :</span><span class='french-word'>La_paix</span><span class='french-word'>à_vous !</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>se_tint</span><span class='french-word'>au</span><span class='french-word'>milieu_d'eux</span><span class='french-word'>et</span><span class='french-word'>dit :</span><span class='french-word'>Paix</span><span class='french-word'>vous_soit !</span></p></div>"
+        "translations": {
+          "segond": "Huit jours après, les disciples de Jésus étaient de nouveau dans la maison, et Thomas se trouvait avec eux. Jésus vint, les portes étant fermées, se présenta au milieu d'eux, et dit : La paix soit avec vous !",
+          "darby": "Et huit jours après, ses disciples étaient de nouveau dans la maison, et Thomas avec eux. Jésus vient, les portes étant fermées ; et il se tint au milieu d'eux et dit : Paix vous soit !"
+        },
+        "interlinear": [
+          { "greek": "Καὶ", "gloss": "Et" },
+          { "greek": "μεθ’", "gloss": "après" },
+          { "greek": "ἡμέρας", "gloss": "jours" },
+          { "greek": "ὀκτὼ", "gloss": "huit" },
+          { "greek": "πάλιν", "gloss": "de_nouveau" },
+          { "greek": "ἦσαν", "gloss": "étaient" },
+          { "greek": "ἔσω", "gloss": "à_l'intérieur" },
+          { "greek": "οἱ", "gloss": "les" },
+          { "greek": "μαθηταὶ", "gloss": "disciples" },
+          { "greek": "αὐτοῦ", "gloss": "de_lui" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "Θωμᾶς", "gloss": "Thomas" },
+          { "greek": "μετ’", "gloss": "avec" },
+          { "greek": "αὐτῶν.", "gloss": "eux" },
+          { "greek": "ἔρχεται", "gloss": "Vient" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
+          { "greek": "τῶν", "gloss": "les" },
+          { "greek": "θυρῶν", "gloss": "portes" },
+          { "greek": "κεκλεισμένων,", "gloss": "étant_fermées" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἔστη", "gloss": "se_tint" },
+          { "greek": "εἰς", "gloss": "au" },
+          { "greek": "τὸ", "gloss": "le" },
+          { "greek": "μέσον", "gloss": "milieu" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "εἶπεν·", "gloss": "dit" },
+          { "greek": "Εἰρήνη", "gloss": "Paix" },
+          { "greek": "ὑμῖν.", "gloss": "à_vous" }
+        ]
       },
       {
         "verse_number": 27,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>εἶτα</span><span class='greek-word'>λέγει</span><span class='greek-word'>τῷ</span><span class='greek-word'>Θωμᾷ·</span><span class='greek-word'>Φέρε</span><span class='greek-word'>τὸν</span><span class='greek-word'>δάκτυλόν</span><span class='greek-word'>σου</span></p><p class='inter-segond'><span class='french-word'>Puis</span><span class='french-word'>il_dit</span><span class='french-word'>au</span><span class='french-word'>Thomas :</span><span class='french-word'>Porte</span><span class='french-word'>le</span><span class='french-word'>doigt</span><span class='french-word'>ton</span></p><p class='inter-darby'><span class='french-word'>Puis</span><span class='french-word'>il</span><span class='french-word'>dit</span><span class='french-word'>à</span><span class='french-word'>Thomas :</span><span class='french-word'>Avance</span><span class='french-word'>ton</span><span class='french-word'>doigt</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὧδε</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἴδε</span><span class='greek-word'>τὰς</span><span class='greek-word'>χεῖράς</span><span class='greek-word'>μου,</span></p><p class='inter-segond'><span class='french-word'>ici</span><span class='french-word'>et</span><span class='french-word'>vois</span><span class='french-word'>les</span><span class='french-word'>mains</span><span class='french-word'>mes,</span></p><p class='inter-darby'><span class='french-word'>ici,</span><span class='french-word'>et</span><span class='french-word'>vois</span><span class='french-word'>mes</span><span class='french-word'>mains ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>φέρε</span><span class='greek-word'>τὴν</span><span class='greek-word'>χεῖρά</span><span class='greek-word'>σου</span><span class='greek-word'>καὶ</span><span class='greek-word'>βάλε</span><span class='greek-word'>εἰς</span><span class='greek-word'>τὴν</span><span class='greek-word'>πλευράν</span><span class='greek-word'>μου,</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>porte</span><span class='french-word'>la</span><span class='french-word'>main</span><span class='french-word'>ta</span><span class='french-word'>et</span><span class='french-word'>mets-la</span><span class='french-word'>dans</span><span class='french-word'>le</span><span class='french-word'>côté</span><span class='french-word'>mien,</span></p><p class='inter-darby'><span class='french-word'>avance</span><span class='french-word'>aussi</span><span class='french-word'>ta</span><span class='french-word'>main,</span><span class='french-word'>et</span><span class='french-word'>mets-la</span><span class='french-word'>dans</span><span class='french-word'>mon</span><span class='french-word'>côté ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>μὴ</span><span class='greek-word'>γίνου</span><span class='greek-word'>ἄπιστος</span><span class='greek-word'>ἀλλὰ</span><span class='greek-word'>πιστός.</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>ne</span><span class='french-word'>sois_pas</span><span class='french-word'>incrédule,</span><span class='french-word'>mais</span><span class='french-word'>croyant.</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>ne</span><span class='french-word'>sois</span><span class='french-word'>pas</span><span class='french-word'>incrédule,</span><span class='french-word'>mais</span><span class='french-word'>croyant.</span></p></div>"
+        "translations": {
+          "segond": "Puis il dit à Thomas : Avance ici ton doigt, et regarde mes mains; avance aussi ta main, et mets-la dans mon côté; et ne sois pas incrédule, mais crois.",
+          "darby": "Puis il dit à Thomas : Avance ici ton doigt, et regarde mes mains ; avance aussi ta main, et mets-la dans mon côté ; et ne sois pas incrédule, mais croyant."
+        },
+        "interlinear": [
+          { "greek": "εἶτα", "gloss": "Puis" },
+          { "greek": "λέγει", "gloss": "il_dit" },
+          { "greek": "τῷ", "gloss": "à" },
+          { "greek": "Θωμᾷ·", "gloss": "Thomas" },
+          { "greek": "Φέρε", "gloss": "Porte/Avance" },
+          { "greek": "τὸν", "gloss": "le" },
+          { "greek": "δάκτυλόν", "gloss": "doigt" },
+          { "greek": "σου", "gloss": "de_toi" },
+          { "greek": "ὧδε", "gloss": "ici" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἴδε", "gloss": "vois" },
+          { "greek": "τὰς", "gloss": "les" },
+          { "greek": "χεῖράς", "gloss": "mains" },
+          { "greek": "μου,", "gloss": "de_moi" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "φέρε", "gloss": "avance" },
+          { "greek": "τὴν", "gloss": "la" },
+          { "greek": "χεῖρά", "gloss": "main" },
+          { "greek": "σου", "gloss": "de_toi" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "βάλε", "gloss": "mets" },
+          { "greek": "εἰς", "gloss": "dans" },
+          { "greek": "τὴν", "gloss": "le" },
+          { "greek": "πλευράν", "gloss": "côté" },
+          { "greek": "μου,", "gloss": "de_moi" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "μὴ", "gloss": "ne...pas" },
+          { "greek": "γίνου", "gloss": "deviens/sois" },
+          { "greek": "ἄπιστος", "gloss": "incrédule" },
+          { "greek": "ἀλλὰ", "gloss": "mais" },
+          { "greek": "πιστός.", "gloss": "croyant" }
+        ]
       },
       {
         "verse_number": 28,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἀπεκρίθη</span><span class='greek-word'>Θωμᾶς</span><span class='greek-word'>καὶ</span><span class='greek-word'>εἶπεν</span><span class='greek-word'>αὐτῷ·</span></p><p class='inter-segond'><span class='french-word'>Répondit</span><span class='french-word'>Thomas</span><span class='french-word'>et</span><span class='french-word'>dit</span><span class='french-word'>à_lui :</span></p><p class='inter-darby'><span class='french-word'>Thomas</span><span class='french-word'>répondit</span><span class='french-word'>et</span><span class='french-word'>lui_dit :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Ὁ</span><span class='greek-word'>Κύριός</span><span class='greek-word'>μου</span><span class='greek-word'>καὶ</span><span class='greek-word'>ὁ</span><span class='greek-word'>Θεός</span><span class='greek-word'>μου.</span></p><p class='inter-segond'><span class='french-word'>Mon</span><span class='french-word'>Seigneur</span><span class='french-word'>à_moi</span><span class='french-word'>et</span><span class='french-word'>mon</span><span class='french-word'>Dieu</span><span class='french-word'>à_moi !</span></p><p class='inter-darby'><span class='french-word'>Mon</span><span class='french-word'>Seigneur</span><span class='french-word'>et</span><span class='french-word'>mon</span><span class='french-word'>Dieu !</span></p></div>"
+        "translations": {
+          "segond": "Thomas lui répondit : Mon Seigneur et mon Dieu !",
+          "darby": "Thomas répondit et lui dit : Mon Seigneur et mon Dieu !"
+        },
+        "interlinear": [
+          { "greek": "ἀπεκρίθη", "gloss": "Répondit" },
+          { "greek": "Θωμᾶς", "gloss": "Thomas" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "εἶπεν", "gloss": "dit" },
+          { "greek": "αὐτῷ·", "gloss": "à_lui" },
+          { "greek": "Ὁ", "gloss": "Le" },
+          { "greek": "κύριός", "gloss": "Seigneur" },
+          { "greek": "μου", "gloss": "de_moi" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "θεός", "gloss": "Dieu" },
+          { "greek": "μου.", "gloss": "de_moi", "analyse": "Le texte ne dit pas que Thomas a effectivement touché les plaies. La seule vue de la kénose du Christ fait s'effondrer son besoin de contrôle. Dans ce cri ('Mon Seigneur et mon Dieu'), l'Ego de Thomas capitule. Il cesse d'être un observateur distant cherchant à objectiver le divin, et devient un vrai 'Sujet' en relation directe avec l'Incréé." }
+        ]
       },
       {
         "verse_number": 29,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>λέγει</span><span class='greek-word'>αὐτῷ</span><span class='greek-word'>ὁ</span><span class='greek-word'>Ἰησοῦς·</span><span class='greek-word'>Ὅτι</span><span class='greek-word'>ἑώρακάς</span><span class='greek-word'>με</span></p><p class='inter-segond'><span class='french-word'>Dit</span><span class='french-word'>à_lui</span><span class='french-word'>le</span><span class='french-word'>Jésus :</span><span class='french-word'>Parce_que</span><span class='french-word'>tu_as_vu</span><span class='french-word'>moi,</span></p><p class='inter-darby'><span class='french-word'>Jésus</span><span class='french-word'>lui_dit :</span><span class='french-word'>Parce_que</span><span class='french-word'>tu</span><span class='french-word'>m’as_vu,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πεπίστευκας;</span><span class='greek-word'>μακάριοι</span><span class='greek-word'>οἱ</span><span class='greek-word'>μὴ</span><span class='greek-word'>ἰδόντες</span><span class='greek-word'>καὶ</span><span class='greek-word'>πιστεύσαντες.</span></p><p class='inter-segond'><span class='french-word'>tu_as_cru ?</span><span class='french-word'>Heureux</span><span class='french-word'>ceux_qui</span><span class='french-word'>pas</span><span class='french-word'>ayant_vu</span><span class='french-word'>et</span><span class='french-word'>ont_cru.</span></p><p class='inter-darby'><span class='french-word'>tu</span><span class='french-word'>as_cru ;</span><span class='french-word'>bienheureux</span><span class='french-word'>ceux</span><span class='french-word'>qui</span><span class='french-word'>n’ont_pas_vu</span><span class='french-word'>et</span><span class='french-word'>qui_ont_cru.</span></p></div>"
+        "translations": {
+          "segond": "Jésus lui dit : Parce que tu m'as vu, tu as cru. Heureux ceux qui n'ont pas vu, et qui ont cru !",
+          "darby": "Jésus lui dit : Parce que tu m'as vu, tu as cru ; bienheureux ceux qui n'ont point vu et qui ont cru."
+        },
+        "interlinear": [
+          { "greek": "λέγει", "gloss": "Dit" },
+          { "greek": "αὐτῷ", "gloss": "à_lui" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "Ἰησοῦς·", "gloss": "Jésus" },
+          { "greek": "Ὅτι", "gloss": "Parce_que" },
+          { "greek": "ἑώρακάς", "gloss": "tu_as_vu" },
+          { "greek": "με", "gloss": "moi" },
+          { "greek": "πεπίστευκας;", "gloss": "tu_as_cru" },
+          { "greek": "μακάριοι", "gloss": "heureux" },
+          { "greek": "οἱ", "gloss": "ceux" },
+          { "greek": "μὴ", "gloss": "n'ayant_pas" },
+          { "greek": "ἰδόντες", "gloss": "vu" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "πιστεύσαντες.", "gloss": "ayant_cru" }
+        ]
       },
       {
         "verse_number": 30,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Πολλὰ</span><span class='greek-word'>μὲν</span><span class='greek-word'>οὖν</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἄλλα</span><span class='greek-word'>σημεῖα</span><span class='greek-word'>ἐποίησεν</span><span class='greek-word'>ὁ</span><span class='greek-word'>Ἰησοῦς</span></p><p class='inter-segond'><span class='french-word'>Beaucoup</span><span class='french-word'>certes</span><span class='french-word'>donc</span><span class='french-word'>et</span><span class='french-word'>autres</span><span class='french-word'>miracles</span><span class='french-word'>fit</span><span class='french-word'>le</span><span class='french-word'>Jésus</span></p><p class='inter-darby'><span class='french-word'>Jésus</span><span class='french-word'>donc</span><span class='french-word'>fit</span><span class='french-word'>aussi</span><span class='french-word'>devant</span><span class='french-word'>ses</span><span class='french-word'>disciples</span><span class='french-word'>beaucoup</span><span class='french-word'>d’autres</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐνώπιον</span><span class='greek-word'>τῶν</span><span class='greek-word'>μαθητῶν</span><span class='greek-word'>αὐτοῦ,</span><span class='greek-word'>ἃ</span><span class='greek-word'>οὐκ</span><span class='greek-word'>ἔστι</span></p><p class='inter-segond'><span class='french-word'>devant</span><span class='french-word'>les</span><span class='french-word'>disciples</span><span class='french-word'>siens,</span><span class='french-word'>lesquels</span><span class='french-word'>pas</span><span class='french-word'>sont</span></p><p class='inter-darby'><span class='french-word'>miracles,</span><span class='french-word'>qui</span><span class='french-word'>ne</span><span class='french-word'>sont</span><span class='french-word'>pas</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>γεγραμμένα</span><span class='greek-word'>ἐν</span><span class='greek-word'>τῷ</span><span class='greek-word'>βιβλίῳ</span><span class='greek-word'>τούτῳ·</span></p><p class='inter-segond'><span class='french-word'>écrits</span><span class='french-word'>dans</span><span class='french-word'>le</span><span class='french-word'>livre</span><span class='french-word'>celui-ci.</span></p><p class='inter-darby'><span class='french-word'>écrits</span><span class='french-word'>dans</span><span class='french-word'>ce</span><span class='french-word'>livre.</span></p></div>"
+        "translations": {
+          "segond": "Jésus a fait encore, en présence de ses disciples, beaucoup d'autres miracles, qui ne sont pas écrits dans ce livre.",
+          "darby": "Jésus donc fit aussi devant ses disciples beaucoup d'autres miracles, qui ne sont pas écrits dans ce livre."
+        },
+        "interlinear": [
+          { "greek": "Πολλὰ", "gloss": "Beaucoup" },
+          { "greek": "μὲν", "gloss": "certes" },
+          { "greek": "οὖν", "gloss": "donc" },
+          { "greek": "καὶ", "gloss": "et/aussi" },
+          { "greek": "ἄλλα", "gloss": "autres" },
+          { "greek": "σημεῖα", "gloss": "signes/miracles" },
+          { "greek": "ἐποίησεν", "gloss": "fit" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
+          { "greek": "ἐνώπιον", "gloss": "devant" },
+          { "greek": "τῶν", "gloss": "les" },
+          { "greek": "μαθητῶν", "gloss": "disciples" },
+          { "greek": "αὐτοῦ,", "gloss": "de_lui" },
+          { "greek": "ἃ", "gloss": "lesquels" },
+          { "greek": "οὐκ", "gloss": "ne...pas" },
+          { "greek": "ἔστιν", "gloss": "sont" },
+          { "greek": "γεγραμμένα", "gloss": "écrits" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "τῷ", "gloss": "le" },
+          { "greek": "βιβλίῳ", "gloss": "livre" },
+          { "greek": "τούτῳ·", "gloss": "ceci" }
+        ]
       },
       {
         "verse_number": 31,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ταῦτα</span><span class='greek-word'>δὲ</span><span class='greek-word'>γέγραπται</span><span class='greek-word'>ἵνα</span><span class='greek-word'>πιστεύσητε</span></p><p class='inter-segond'><span class='french-word'>Ceux-ci</span><span class='french-word'>mais</span><span class='french-word'>ont_été_écrits</span><span class='french-word'>afin_que</span><span class='french-word'>vous_croyiez</span></p><p class='inter-darby'><span class='french-word'>Mais</span><span class='french-word'>ces_choses</span><span class='french-word'>sont</span><span class='french-word'>écrites</span><span class='french-word'>afin_que</span><span class='french-word'>vous</span><span class='french-word'>croyiez</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὅτι</span><span class='greek-word'>Ἰησοῦς</span><span class='greek-word'>ἐστιν</span><span class='greek-word'>ὁ</span><span class='greek-word'>Χριστὸς</span><span class='greek-word'>ὁ</span><span class='greek-word'>υἱὸς</span><span class='greek-word'>τοῦ</span><span class='greek-word'>Θεοῦ,</span></p><p class='inter-segond'><span class='french-word'>que</span><span class='french-word'>Jésus</span><span class='french-word'>est</span><span class='french-word'>le</span><span class='french-word'>Christ</span><span class='french-word'>le</span><span class='french-word'>Fils</span><span class='french-word'>de</span><span class='french-word'>Dieu,</span></p><p class='inter-darby'><span class='french-word'>que</span><span class='french-word'>Jésus</span><span class='french-word'>est</span><span class='french-word'>le</span><span class='french-word'>Christ,</span><span class='french-word'>le</span><span class='french-word'>Fils</span><span class='french-word'>de</span><span class='french-word'>Dieu,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ἵνα</span><span class='greek-word'>πιστεύοντες</span><span class='greek-word'>ζωὴν</span><span class='greek-word'>ἔχητε</span><span class='greek-word'>ἐν</span><span class='greek-word'>τῷ</span><span class='greek-word'>ὀνόματι</span><span class='greek-word'>αὐτοῦ.</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>afin_qu'en</span><span class='french-word'>croyant</span><span class='french-word'>la_vie</span><span class='french-word'>vous_ayez</span><span class='french-word'>par</span><span class='french-word'>le</span><span class='french-word'>nom</span><span class='french-word'>sien.</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>qu’en</span><span class='french-word'>croyant</span><span class='french-word'>vous</span><span class='french-word'>ayez</span><span class='french-word'>la_vie</span><span class='french-word'>par</span><span class='french-word'>son</span><span class='french-word'>nom.</span></p></div>"
+        "translations": {
+          "segond": "Mais ces choses ont été écrites afin que vous croyiez que Jésus est le Christ, le Fils de Dieu, et qu'en croyant vous ayez la vie en son nom.",
+          "darby": "Mais ces choses sont écrites afin que vous croyiez que Jésus est le Christ, le Fils de Dieu, et qu'en croyant vous ayez la vie par son nom."
+        },
+        "interlinear": [
+          { "greek": "ταῦτα", "gloss": "ces_choses" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "γέγραπται", "gloss": "ont_été_écrites" },
+          { "greek": "ἵνα", "gloss": "afin_que" },
+          { "greek": "πιστεύητε", "gloss": "vous_croyiez" },
+          { "greek": "ὅτι", "gloss": "que" },
+          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
+          { "greek": "ἐστιν", "gloss": "est" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "Χριστὸς", "gloss": "Christ" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "υἱὸς", "gloss": "fils" },
+          { "greek": "τοῦ", "gloss": "de_le" },
+          { "greek": "θεοῦ,", "gloss": "Dieu" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἵνα", "gloss": "afin_que" },
+          { "greek": "πιστεύοντες", "gloss": "croyant" },
+          { "greek": "ζωὴν", "gloss": "la_vie" },
+          { "greek": "ἔχητε", "gloss": "vous_ayez" },
+          { "greek": "ἐν", "gloss": "en/par" },
+          { "greek": "τῷ", "gloss": "le" },
+          { "greek": "ὀνόματι", "gloss": "nom" },
+          { "greek": "αὐτοῦ.", "gloss": "de_lui" }
+        ]
       }
     ],
-    "greek_only": "19 Οὔσης οὖν ὀψίας τῇ ἡμέρᾳ ἐκείνῃ τῇ μιᾷ σαββάτων, καὶ τῶν θυρῶν κεκλεισμένων ὅπου ἦσαν οἱ μαθηταὶ διὰ τὸν φόβον τῶν Ἰουδαίων, ἦλθεν ὁ Ἰησοῦς καὶ ἔστη εἰς τὸ μέσον, καὶ λέγει αὐτοῖς· Εἰρήνη ὑμῖν. 20 καὶ τοῦτο εἰπὼν ἔδειξεν τὰς χεῖρας καὶ τὴν πλευρὰν αὐτοῖς. ἐχάρησαν οὖν οἱ μαθηταὶ ἰδόντες τὸν Κύριον. 21 εἶπεν οὖν αὐτοῖς ὁ Ἰησοῦς πάλιν· Εἰρήνη ὑμῖν· καθὼς ἀπέσταλκέν με ὁ πατήρ, κἀγὼ πέμπω ὑμᾶς. 22 καὶ τοῦτο εἰπὼν ἐνεφύσησεν καὶ λέγει αὐτοῖς· Λάβετε Πνεῦμα Ἅγιον· 23 ἄν τινων ἀφῆτε τὰς ἁμαρτίας, ἀφέωνται αὐτοῖς· ἄν τινων κρατῆτε, κεκράτηνται. 24 Θωμᾶς δὲ εἷς ἐκ τῶν δώδεκα, ὁ λεγόμενος Δίδυμος, οὐκ ἦν μετ’ αὐτῶν ὅτε ἦλθεν ὁ Ἰησοῦς. 25 ἔλεγον οὖν αὐτῷ οἱ ἄλλοι μαθηταί· Ἑωράκαμεν τὸν Κύριον. ὁ δὲ εἶπεν αὐτοῖς· Ἐὰν μὴ ἴδω ἐν ταῖς χερσὶν αὐτοῦ τὸν τύπον τῶν ἥλων καὶ βάλω τὸν δάκτυλόν μου εἰς τὸν τύπον τῶν ἥλων καὶ βάλω μου τὴν χεῖρα εἰς τὴν πλευρὰν αὐτοῦ, οὐ μὴ πιστεύσω. 26 Καὶ μεθ’ ἡμέρας ὀκτὼ πάλιν ἦσαν ἔσω οἱ μαθηταὶ αὐτοῦ καὶ Θωμᾶς μετ’ αὐτῶν. ἔρχεται ὁ Ἰησοῦς τῶν θυρῶν κεκλεισμένων, καὶ ἔστη εἰς τὸ μέσον καὶ εἶπεν· Εἰρήνη ὑμῖν. 27 εἶτα λέγει τῷ Θωμᾷ· Φέρε τὸν δάκτυλόν σου ὧδε καὶ ἴδε τὰς χεῖράς μου, καὶ φέρε τὴν χεῖρά σου καὶ βάλε εἰς τὴν πλευράν μου, καὶ μὴ γίνου ἄπιστος ἀλλὰ πιστός. 28 ἀπεκρίθη Θωμᾶς καὶ εἶπεν αὐτῷ· Ὁ Κύριός μου καὶ ὁ Θεός μου. 29 λέγει αὐτῷ ὁ Ἰησοῦς· Ὅτι ἑώρακάς με, πεπίστευκας; μακάριοι οἱ μὴ ἰδόντες καὶ πιστεύσαντες. 30 Πολλὰ μὲν οὖν καὶ ἄλλα σημεῖα ἐποίησεν ὁ Ἰησοῦς ἐνώπιον τῶν μαθητῶν αὐτοῦ, ἃ οὐκ ἔστιν γεγραμμένα ἐν τῷ βιβλίῳ τούτῳ· 31 ταῦτα δὲ γέγραπται ἵνα πιστεύσητε ὅτι Ἰησοῦς ἐστιν ὁ Χριστὸς ὁ υἱὸς τοῦ Θεοῦ, καὶ ἵνα πιστεύοντες ζωὴν ἔχητε ἐν τῷ ὀνόματι αὐτοῦ.",
-    "french_only": "19 Le soir de ce jour, qui était le premier de la semaine, les portes du lieu où se trouvaient les disciples étant fermées, à cause de la crainte qu'ils avaient des Juifs, Jésus vint, se présenta au milieu d'eux, et leur dit : La paix soit avec vous ! 20 Et quand il eut dit cela, il leur montra ses mains et son côté. Les disciples furent dans la joie en voyant le Seigneur. 21 Jésus leur dit de nouveau : La paix soit avec vous ! Comme le Père m'a envoyé, moi aussi je vous envoie. 22 Après ces paroles, il souffla sur eux, et leur dit : Recevez le Saint-Esprit. 23 Ceux à qui vous pardonnerez les péchés, ils leur seront pardonnés ; et ceux à qui vous les retiendrez, ils leur seront retenus. 24 Thomas, appelé Didyme, l'un des douze, n'était pas avec eux lorsque Jésus vint. 25 Les autres disciples lui dirent donc : Nous avons vu le Seigneur. Mais il leur dit : Si je ne vois dans ses mains la marque des clous, et si je ne mets mon doigt dans la marque des clous, et si je ne mets ma main dans son côté, je ne croirai point. 26 Huit jours après, les disciples de Jésus étaient de nouveau dans la maison, et Thomas se trouvait avec eux. Jésus vint, les portes étant fermées, se présenta au milieu d'eux, et dit : La paix soit avec vous ! 27 Puis il dit à Thomas : Avance ici ton doigt, et regarde mes mains ; avance aussi ta main, et mets-la dans mon côté ; et ne sois pas incrédule, mais crois. 28 Thomas lui répondit : Mon Seigneur et mon Dieu ! 29 Jésus lui dit : Parce que tu m'as vu, tu as cru. Heureux ceux qui n'ont pas vu, et qui ont cru ! 30 Jésus a fait encore, en présence de ses disciples, beaucoup d'autres miracles, qui ne sont pas écrits dans ce livre. 31 Mais ces choses ont été écrites afin que vous croyiez que Jésus est le Christ, le Fils de Dieu, et qu'en croyant vous ayez la vie en son nom.",
-    "french_darby": "19 Le soir donc de ce même jour, qui était le premier de la semaine, les portes étant fermées, là où les disciples étaient assemblés par la crainte des Juifs, Jésus vint, et se tint au milieu d'eux, et leur dit : Paix vous soit ! 20 Et ayant dit cela, il leur montra ses mains et son côté. Les disciples donc se réjouirent quand ils virent le Seigneur. 21 Jésus donc leur dit encore : Paix vous soit ! Comme le Père m’a envoyé, moi aussi, je vous envoie. 22 Et ayant dit cela, il souffla en eux, et leur dit : Recevez l’Esprit Saint. 23 À quiconque vous remettrez les péchés, ils leur sont remis ; et à quiconque vous les retiendrez, ils sont retenus. 24 Mais Thomas, l’un des douze, appelé Didyme, n’était pas avec eux quand Jésus vint. 25 Les autres disciples lui dirent donc : Nous avons vu le Seigneur. Mais il leur dit : À moins que je ne voie en ses mains la marque des clous, et que je ne mette mon doigt dans la marque des clous, et que je ne mette ma main dans son côté, je ne le croirai point. 26 Et huit jours après, ses disciples étaient de nouveau dans la maison, et Thomas était avec eux. Jésus vient, les portes étant fermées, et se tint au milieu d'eux et dit : Paix vous soit ! 27 Puis il dit à Thomas : Avance ton doigt ici, et vois mes mains ; avance aussi ta main, et mets-la dans mon côté ; et ne sois pas incrédule, mais croyant. 28 Thomas répondit et lui dit : Mon Seigneur et mon Dieu ! 29 Jésus lui dit : Parce que tu m’as vu, tu as cru ; bienheureux ceux qui n’ont pas vu et qui ont cru. 30 Jésus donc fit aussi devant ses disciples beaucoup d’autres miracles, qui ne sont pas écrits dans ce livre. 31 Mais ces choses sont écrites afin que vous croyiez que Jésus est le Christ, le Fils de Dieu, et qu’en croyant vous ayez la vie par son nom.",
-    "personal_analysis": "Le Dimanche de Thomas nous montre que le doute n'est pas l'ennemi de la foi, mais parfois son chemin. Thomas ne veut pas une idée de la Résurrection, il veut toucher la réalité du corps sacrifié. En confessant 'Mon Seigneur et mon Dieu', il affirme la divinité pleine du Christ. Huit jours après Pâques, l'Église nous rappelle que la vie éternelle se reçoit par la foi en ce Nom."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n• Verset 19 - τῶν θυρῶν κεκλεισμένων : 'Les portes étant fermées'. Cette précision, répétée au verset 26, n'est pas qu'un détail architectural. C'est l'image spatiale de l'enfermement des disciples dans le Monde duel (par la peur).\n• Verset 22 - ἐνεφύσησεν : C'est le même verbe grec (emphysaô) utilisé dans la traduction des Septante en Genèse 2,7, quand Dieu insuffle le souffle de vie dans les narines d'Adam. C'est le moment précis de la recréation de l'humanité.\n\nAnalyse spirituelle :\nCe dimanche qui suit Pâques illustre l'intégration de la Résurrection par les apôtres. Dans un premier temps, les disciples sont littéralement claustrés. L'Ego, terrorisé par la mort et par les autres ('la crainte des Juifs'), érige des murs. Le Christ ne détruit pas ces murs par la force, Il apparaît au milieu d'eux. Dans la logique du 'Royaume UN', la matérialité n'est plus une frontière d'exclusion. En leur insufflant l'Esprit Saint, Jésus brise leur enfermement intérieur et les rend capables d'une véritable communion : ils deviennent des Sujets apostoliques.\n\nThomas, absent lors de ce premier don, incarne la résistance ultime du 'Monde duel' : l'empirisme. L'Ego de Thomas refuse de s'abandonner à la parole des autres ; il exige de voir, de toucher, de vérifier. Il veut 'saisir' Dieu par les sens pour en garder la maîtrise intellectuelle. Mais face au Christ qui lui offre ses blessures — la marque absolue de sa kénose et de son amour sans défense —, Thomas est foudroyé. Son exigence de contrôle s'effondre. Sans même toucher, il lâche prise et pousse le cri du Sujet enfin libéré : 'Mon Seigneur et mon Dieu !'. La foi n'est pas une déduction rationnelle ou une preuve matérielle, c'est la capitulation joyeuse de l'Ego face à l'Incréé."
   },
 "apostle": {
-  "reference": "Actes 5, 12-20",
-  "title": "Les Miracles des Apôtres et la Délivrance Miraculeuse",
-  "interlinear": [
-    {
-      "verse_number": 12,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Διὰ</span><span class='greek-word'>δὲ</span><span class='greek-word'>τῶν</span><span class='greek-word'>χειρῶν</span><span class='greek-word'>τῶν</span><span class='greek-word'>ἀποστόλων</span></p><p class='inter-segond'><span class='french-word'>Par</span><span class='french-word'>mais</span><span class='french-word'>les</span><span class='french-word'>mains</span><span class='french-word'>des</span><span class='french-word'>apôtres</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>par</span><span class='french-word'>les</span><span class='french-word'>mains</span><span class='french-word'>des</span><span class='french-word'>apôtres</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐγίνετο</span><span class='greek-word'>σημεῖα</span><span class='greek-word'>καὶ</span><span class='greek-word'>τέρατα</span><span class='greek-word'>ἐν</span><span class='greek-word'>τῷ</span><span class='greek-word'>λαῷ</span><span class='greek-word'>πολλά·</span></p><p class='inter-segond'><span class='french-word'>se_faisaient</span><span class='french-word'>miracles</span><span class='french-word'>et</span><span class='french-word'>prodiges</span><span class='french-word'>parmi</span><span class='french-word'>le</span><span class='french-word'>peuple</span><span class='french-word'>beaucoup ;</span></p><p class='inter-darby'><span class='french-word'>se_faisaient</span><span class='french-word'>beaucoup_de</span><span class='french-word'>miracles</span><span class='french-word'>et</span><span class='french-word'>de</span><span class='french-word'>prodiges</span><span class='french-word'>parmi</span><span class='french-word'>le</span><span class='french-word'>peuple ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ἦσαν</span><span class='greek-word'>ὁμοθυμαδὸν</span><span class='greek-word'>ἅπαντες</span><span class='greek-word'>ἐν</span><span class='greek-word'>τῇ</span><span class='greek-word'>στοᾷ</span><span class='greek-word'>Σολομῶντος·</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>ils_étaient</span><span class='french-word'>d'un_commun_accord</span><span class='french-word'>tous</span><span class='french-word'>sous</span><span class='french-word'>le</span><span class='french-word'>portique</span><span class='french-word'>de_Salomon.</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>ils_étaient</span><span class='french-word'>tous</span><span class='french-word'>d’un_commun_accord</span><span class='french-word'>au</span><span class='french-word'>portique</span><span class='french-word'>de_Salomon.</span></p></div>"
-    },
-    {
-      "verse_number": 13,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>τῶν</span><span class='greek-word'>δὲ</span><span class='greek-word'>λοιπῶν</span><span class='greek-word'>οὐδεὶς</span><span class='greek-word'>ἐτόλμα</span><span class='greek-word'>κολλᾶσθαι</span><span class='greek-word'>αὐτοῖς,</span></p><p class='inter-segond'><span class='french-word'>des</span><span class='french-word'>mais</span><span class='french-word'>autres</span><span class='french-word'>personne</span><span class='french-word'>n'osait</span><span class='french-word'>se_joindre</span><span class='french-word'>à_eux ;</span></p><p class='inter-darby'><span class='french-word'>Mais</span><span class='french-word'>d’entre</span><span class='french-word'>les</span><span class='french-word'>autres,</span><span class='french-word'>nul</span><span class='french-word'>n’osait</span><span class='french-word'>se_joindre</span><span class='french-word'>à_eux,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀλλ’</span><span class='greek-word'>ἐμεγάλυνεν</span><span class='greek-word'>αὐτοὺς</span><span class='greek-word'>ὁ</span><span class='greek-word'>λαός·</span></p><p class='inter-segond'><span class='french-word'>mais</span><span class='french-word'>louait_hautement</span><span class='french-word'>eux</span><span class='french-word'>le</span><span class='french-word'>peuple.</span></p><p class='inter-darby'><span class='french-word'>mais</span><span class='french-word'>le</span><span class='french-word'>peuple</span><span class='french-word'>les</span><span class='french-word'>magnifiait ;</span></p></div>"
-    },
-    {
-      "verse_number": 14,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>μᾶλλον</span><span class='greek-word'>δὲ</span><span class='greek-word'>προσετίθεντο</span><span class='greek-word'>πιστεύοντες</span><span class='greek-word'>τῷ</span><span class='greek-word'>Κυρίῳ</span></p><p class='inter-segond'><span class='french-word'>plus</span><span class='french-word'>mais</span><span class='french-word'>s'augmentait_le_nombre</span><span class='french-word'>de_ceux_qui_croyaient</span><span class='french-word'>en_le</span><span class='french-word'>Seigneur,</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>il_s’ajoutait</span><span class='french-word'>toujours_plus</span><span class='french-word'>de_croyants</span><span class='french-word'>au</span><span class='french-word'>Seigneur,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πλήθη</span><span class='greek-word'>ἀνδρῶν</span><span class='greek-word'>τε</span><span class='greek-word'>καὶ</span><span class='greek-word'>γυναικῶν,</span></p><p class='inter-segond'><span class='french-word'>multitudes</span><span class='french-word'>d'hommes</span><span class='french-word'>tant</span><span class='french-word'>que</span><span class='french-word'>de_femmes,</span></p><p class='inter-darby'><span class='french-word'>des</span><span class='french-word'>multitudes</span><span class='french-word'>d’hommes</span><span class='french-word'>et</span><span class='french-word'>de_femmes,</span></p></div>"
-    },
-    {
-      "verse_number": 15,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ὥστε</span><span class='greek-word'>κατὰ</span><span class='greek-word'>τὰς</span><span class='greek-word'>πλατείας</span><span class='greek-word'>ἐκφέρειν</span><span class='greek-word'>τοὺς</span><span class='greek-word'>ἀσθενεῖς</span></p><p class='inter-segond'><span class='french-word'>de_sorte_qu'on</span><span class='french-word'>dans</span><span class='french-word'>les</span><span class='french-word'>rues</span><span class='french-word'>apportait</span><span class='french-word'>les</span><span class='french-word'>malades</span></p><p class='inter-darby'><span class='french-word'>de_sorte_qu’on</span><span class='french-word'>apportait</span><span class='french-word'>les</span><span class='french-word'>infirmes</span><span class='french-word'>dans</span><span class='french-word'>les</span><span class='french-word'>rues,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>τιθέναι</span><span class='greek-word'>ἐπὶ</span><span class='greek-word'>κλινῶν</span><span class='greek-word'>καὶ</span><span class='greek-word'>κραβάττων,</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>plaçait</span><span class='french-word'>sur</span><span class='french-word'>des_lits</span><span class='french-word'>et</span><span class='french-word'>des_couchettes,</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>on_les_mettait</span><span class='french-word'>sur</span><span class='french-word'>des_petits_lits</span><span class='french-word'>et</span><span class='french-word'>des_couchettes,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἵνα</span><span class='greek-word'>ἐρχομένου</span><span class='greek-word'>Πέτρου</span><span class='greek-word'>κἂν</span><span class='greek-word'>ἡ</span><span class='greek-word'>σκιὰ</span><span class='greek-word'>ἐπισκιάσῃ</span><span class='greek-word'>τινὶ</span><span class='greek-word'>αὐτῶν.</span></p><p class='inter-segond'><span class='french-word'>afin_que,</span><span class='french-word'>passant,</span><span class='french-word'>Pierre,</span><span class='french-word'>au_moins</span><span class='french-word'>l'</span><span class='french-word'>ombre</span><span class='french-word'>couvrit</span><span class='french-word'>quelqu'un</span><span class='french-word'>d'eux.</span></p><p class='inter-darby'><span class='french-word'>afin_que,</span><span class='french-word'>quand</span><span class='french-word'>Pierre</span><span class='french-word'>viendrait,</span><span class='french-word'>au_moins</span><span class='french-word'>son</span><span class='french-word'>ombre</span><span class='french-word'>couvrît</span><span class='french-word'>quelqu’un</span><span class='french-word'>d’eux.</span></p></div>"
-    },
-    {
-      "verse_number": 16,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>συνήρχετο</span><span class='greek-word'>δὲ</span><span class='greek-word'>καὶ</span><span class='greek-word'>τὸ</span><span class='greek-word'>πλῆθος</span><span class='greek-word'>τῶν</span><span class='greek-word'>πέριξ</span><span class='greek-word'>πόλεων</span></p><p class='inter-segond'><span class='french-word'>Accourait</span><span class='french-word'>mais</span><span class='french-word'>aussi</span><span class='french-word'>la</span><span class='french-word'>multitude</span><span class='french-word'>des</span><span class='french-word'>voisines</span><span class='french-word'>villes</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>la</span><span class='french-word'>multitude</span><span class='french-word'>des</span><span class='french-word'>villes</span><span class='french-word'>environnantes</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Ἱερουσαλήμ,</span><span class='greek-word'>φέροντες</span><span class='greek-word'>ἀσθενεῖς</span><span class='greek-word'>καὶ</span><span class='greek-word'>ὀχλουμένους</span></p><p class='inter-segond'><span class='french-word'>de_Jérusalem,</span><span class='french-word'>apportant</span><span class='french-word'>malades</span><span class='french-word'>et</span><span class='french-word'>tourmentés</span></p><p class='inter-darby'><span class='french-word'>accourait</span><span class='french-word'>aussi</span><span class='french-word'>à_Jérusalem,</span><span class='french-word'>apportant</span><span class='french-word'>les</span><span class='french-word'>infirmes</span><span class='french-word'>et</span><span class='french-word'>ceux</span><span class='french-word'>qui_étaient</span><span class='french-word'>tourmentés</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὑπὸ</span><span class='greek-word'>πνευμάτων</span><span class='greek-word'>ἀκαθάρτων,</span><span class='greek-word'>οἵτινες</span><span class='greek-word'>ἐθεραπεύοντο</span><span class='greek-word'>ἅπαντες.</span></p><p class='inter-segond'><span class='french-word'>par</span><span class='french-word'>esprits</span><span class='french-word'>impurs,</span><span class='french-word'>lesquels</span><span class='french-word'>étaient_guéris</span><span class='french-word'>tous.</span></p><p class='inter-darby'><span class='french-word'>par</span><span class='french-word'>des</span><span class='french-word'>esprits</span><span class='french-word'>impurs ;</span><span class='french-word'>et</span><span class='french-word'>ils_étaient</span><span class='french-word'>tous</span><span class='french-word'>guéris.</span></p></div>"
-    },
-    {
-      "verse_number": 17,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Ἀναστὰς</span><span class='greek-word'>δὲ</span><span class='greek-word'>ὁ</span><span class='greek-word'>ἀρχιερεὺς</span><span class='greek-word'>καὶ</span><span class='greek-word'>πάντες</span><span class='greek-word'>οἱ</span><span class='greek-word'>σὺν</span><span class='greek-word'>αὐτῷ,</span></p><p class='inter-segond'><span class='french-word'>Se_levant</span><span class='french-word'>mais</span><span class='french-word'>le</span><span class='french-word'>souverain_sacrificateur</span><span class='french-word'>et</span><span class='french-word'>tous</span><span class='french-word'>ceux</span><span class='french-word'>avec</span><span class='french-word'>lui,</span></p><p class='inter-darby'><span class='french-word'>Mais</span><span class='french-word'>le</span><span class='french-word'>souverain_sacrificateur</span><span class='french-word'>se_levant,</span><span class='french-word'>et</span><span class='french-word'>tous</span><span class='french-word'>ceux</span><span class='french-word'>qui_étaient</span><span class='french-word'>avec</span><span class='french-word'>lui,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἡ</span><span class='greek-word'>οὖσα</span><span class='greek-word'>αἵρεσις</span><span class='greek-word'>τῶν</span><span class='greek-word'>Σαδδουκαίων,</span><span class='greek-word'>ἐπλήσθησαν</span><span class='greek-word'>ζήλου,</span></p><p class='inter-segond'><span class='french-word'>laquelle</span><span class='french-word'>est</span><span class='french-word'>la_secte</span><span class='french-word'>des</span><span class='french-word'>Sadducéens,</span><span class='french-word'>furent_remplis</span><span class='french-word'>de_jalousie,</span></p><p class='inter-darby'><span class='french-word'>(savoir</span><span class='french-word'>la</span><span class='french-word'>secte</span><span class='french-word'>des</span><span class='french-word'>Sadducéens),</span><span class='french-word'>furent</span><span class='french-word'>remplis</span><span class='french-word'>d’envie,</span></p></div>"
-    },
-    {
-      "verse_number": 18,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ἐπέβαλον</span><span class='greek-word'>τὰς</span><span class='greek-word'>χεῖρας</span><span class='greek-word'>αὐτῶν</span><span class='greek-word'>ἐπὶ</span><span class='greek-word'>τοὺς</span><span class='greek-word'>ἀποστόλους</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>jetèrent</span><span class='french-word'>les</span><span class='french-word'>mains</span><span class='french-word'>leurs</span><span class='french-word'>sur</span><span class='french-word'>les</span><span class='french-word'>apôtres</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>mirent</span><span class='french-word'>les</span><span class='french-word'>mains</span><span class='french-word'>sur</span><span class='french-word'>les</span><span class='french-word'>apôtres,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ἔθεντο</span><span class='greek-word'>αὐτοὺς</span><span class='greek-word'>ἐν</span><span class='greek-word'>τηρήσει</span><span class='greek-word'>δημοσίᾳ.</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>mirent</span><span class='french-word'>eux</span><span class='french-word'>en</span><span class='french-word'>prison</span><span class='french-word'>publique.</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>les</span><span class='french-word'>mirent</span><span class='french-word'>dans</span><span class='french-word'>une_prison</span><span class='french-word'>publique.</span></p></div>"
-    },
-    {
-      "verse_number": 19,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἄγγελος</span><span class='greek-word'>δὲ</span><span class='greek-word'>Κυρίου</span><span class='greek-word'>διὰ</span><span class='greek-word'>τῆς</span><span class='greek-word'>νυκτὸς</span><span class='greek-word'>ἤνοιξε</span></p><p class='inter-segond'><span class='french-word'>Ange</span><span class='french-word'>mais</span><span class='french-word'>du_Seigneur</span><span class='french-word'>pendant</span><span class='french-word'>la</span><span class='french-word'>nuit</span><span class='french-word'>ouvrit</span></p><p class='inter-darby'><span class='french-word'>Mais</span><span class='french-word'>un</span><span class='french-word'>ange</span><span class='french-word'>du</span><span class='french-word'>Seigneur</span><span class='french-word'>ouvrit</span><span class='french-word'>de</span><span class='french-word'>nuit</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τὰς</span><span class='greek-word'>θύρας</span><span class='greek-word'>τῆς</span><span class='greek-word'>φυλακῆς,</span><span class='greek-word'>ἐξαγαγών</span><span class='greek-word'>τε</span><span class='greek-word'>αὐτοὺς</span><span class='greek-word'>εἶπε·</span></p><p class='inter-segond'><span class='french-word'>les</span><span class='french-word'>portes</span><span class='french-word'>de_la</span><span class='french-word'>prison,</span><span class='french-word'>ayant_fait_sortir</span><span class='french-word'>et</span><span class='french-word'>eux</span><span class='french-word'>dit :</span></p><p class='inter-darby'><span class='french-word'>les</span><span class='french-word'>portes</span><span class='french-word'>de_la</span><span class='french-word'>prison,</span><span class='french-word'>et</span><span class='french-word'>les</span><span class='french-word'>ayant_menés</span><span class='french-word'>dehors,</span><span class='french-word'>dit :</span></p></div>"
-    },
-    {
-      "verse_number": 20,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Πορεύεσθε,</span><span class='greek-word'>καὶ</span><span class='greek-word'>σταθέντες</span><span class='greek-word'>λαλεῖτε</span><span class='greek-word'>ἐν</span><span class='greek-word'>τῷ</span><span class='greek-word'>ἱερῷ</span></p><p class='inter-segond'><span class='french-word'>Allez,</span><span class='french-word'>et</span><span class='french-word'>vous_tenant</span><span class='french-word'>annoncez</span><span class='french-word'>dans</span><span class='french-word'>le</span><span class='french-word'>temple</span></p><p class='inter-darby'><span class='french-word'>Allez,</span><span class='french-word'>et,</span><span class='french-word'>vous_tenant</span><span class='french-word'>dans</span><span class='french-word'>le</span><span class='french-word'>temple,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τῷ</span><span class='greek-word'>λαῷ</span><span class='greek-word'>πάντα</span><span class='greek-word'>τὰ</span><span class='greek-word'>ῥήματα</span><span class='greek-word'>τῆς</span><span class='greek-word'>ζωῆς</span><span class='greek-word'>ταύτης.</span></p><p class='inter-segond'><span class='french-word'>au</span><span class='french-word'>peuple</span><span class='french-word'>toutes</span><span class='french-word'>les</span><span class='french-word'>paroles</span><span class='french-word'>de_la</span><span class='french-word'>vie</span><span class='french-word'>cette.</span></p><p class='inter-darby'><span class='french-word'>annoncez</span><span class='french-word'>au</span><span class='french-word'>peuple</span><span class='french-word'>toutes</span><span class='french-word'>les</span><span class='french-word'>paroles</span><span class='french-word'>de</span><span class='french-word'>cette</span><span class='french-word'>vie.</span></p></div>"
-    }
-  ],
-  "greek_only": "12 Διὰ δὲ τῶν χειρῶν τῶν ἀποστόλων ἐγίνετο σημεῖα καὶ τέρατα ἐν τῷ λαῷ πολλά· καὶ ἦσαν ὁμοθυμαδὸν ἅπαντες ἐν τῇ στοᾷ Σολομῶντος· 13 τῶν δὲ λοιπῶν οὐδεὶς ἐτόλμα κολλᾶσθαι αὐτοῖς, ἀλλ’ ἐμεγάλυνεν αὐτοὺς ὁ λαός· 14 μᾶλλον δὲ προσετίθεντο πιστεύοντες τῷ Κυρίῳ πλήθη ἀνδρῶν τε καὶ γυναικῶν, 15 ὥστε κατὰ τὰς πλατείας ἐκφέρειν τοὺς ἀσθενεῖς καὶ τιθέναι ἐπὶ κλινῶν καὶ κραβάττων, ἵνα ἐρχομένου Πέτρου κἂν ἡ σκιὰ ἐπισκιάσῃ τινὶ αὐτων. 16 συνήρχετο δὲ καὶ τὸ πλῆθος τῶν πέριξ πόλεων Ἱερουσαλήμ, φέροντες ἀσθενεῖς καὶ ὀχλουμένους ὑπὸ πνευμάτων ἀκαθάρτων, οἵτινες ἐθεραπεύοντο ἅπαντες. 17 Ἀναστὰς δὲ ὁ ἀρχιερεὺς καὶ πάντες οἱ σὺν αὐτῷ, ἡ οὖσα αἵρεσις τῶν Σαδδουκαίων, ἐπλήσθησαν ζήλου, 18 καὶ ἐπέβαλον τὰς χεῖρας αὐτῶν ἐπὶ τοὺς ἀποστόλους καὶ ἔθεντο αὐτοὺς ἐν τηρήσει δημοσίᾳ. 19 ἄγγελος δὲ Κυρίου διὰ τῆς νυκτὸς ἤνοιξε τὰς θύρας τῆς φυλακῆς, ἐξαγαγών τε αὐτοὺς εἶπε· 20 Πορεύεσθε, καὶ σταθέντες λαλεῖτε ἐν τῷ ἱερῷ τῷ λαῷ πάντα τὰ ῥήματα τῆς ζωῆς ταύτης.",
-  "french_only": "12 Beaucoup de miracles et de prodiges se faisaient au milieu du peuple par les mains des apôtres. Ils se tenaient tous d'un commun accord au portique de Salomon, 13 et aucun des autres n'osait se joindre à eux ; mais le peuple les louait hautement. 14 Le nombre de ceux qui croyaient au Seigneur, hommes et femmes, s'augmentait de plus en plus ; 15 en sorte qu'on apportait les malades dans les rues et qu'on les plaçait sur des lits et des couchettes, afin que, lorsque Pierre passerait, son ombre au moins en couvrît quelques-uns. 16 La multitude accourait aussi des villes voisines à Jérusalem, apportant des malades et des gens tourmentés par des esprits impurs ; et tous étaient guéris. 17 Cependant le souverain sacrificateur et tous ceux qui étaient avec lui, savoir la secte des Sadducéens, se levèrent, remplis de jalousie, 18 jetèrent les mains sur les apôtres, et les mirent dans la prison publique. 19 Mais un ange du Seigneur, ayant ouvert pendant la nuit les portes de la prison, les fit sortir, et leur dit : 20 Allez, tenez-vous dans le temple, et annoncez au peuple toutes les paroles de cette vie.",
-  "french_darby": "12 Et beaucoup de miracles et de prodiges se faisaient parmi le peuple par les mains des apôtres ; et ils étaient tous d’un commun accord au portique de Salomon. 13 Mais d’entre les autres, nul n’osait se joindre à eux, mais le peuple les magnifiait ; 14 et il s’ajoutait toujours plus de croyants au Seigneur, des multitudes d’hommes et de femmes ; 15 de sorte qu’on apportait les infirmes dans les rues, et on les mettait sur des petits lits et des couchettes, afin que, quand Pierre viendrait, au moins son ombre couvrît quelqu’un d’eux. 16 Et la multitude des villes environnantes accourait aussi à Jérusalem, apportant les infirmes et ceux qui étaient tourmentés par des esprits impurs ; et ils étaient tous guéris. 17 Mais le souverain sacrificateur se levant, et tous ceux qui étaient avec lui (savoir la secte des Sadducéens), furent remplis d’envie, 18 et mirent les mains sur les apôtres et les mirent dans une prison publique. 19 Mais un ange du Seigneur ouvrit de nuit les portes de la prison, et les ayant menés dehors, dit : 20 Allez, et, vous tenant dans le temple, annoncez au peuple toutes les paroles de cette vie.",
-  "personal_analysis": "Le Dimanche de Thomas marque le début de la mission apostolique. Tandis que Thomas touchait les plaies du Christ, les Apôtres touchent les plaies de l'humanité par leurs mains. La libération miraculeuse de la prison souligne que la Parole de Dieu (Logos) ne peut être enchaînée. L'ordre de l'ange est clair : 'Annoncez les paroles de cette Vie' — une vie qui a vaincu la mort et qui se manifeste maintenant par des guérisons et des prodiges."
-}
- } 
+    "reference": "Actes 5, 12-20",
+    "title": "La liberté de l'Esprit face aux clôtures du monde",
+    "interlinear": [
+      {
+        "verse_number": "5, 12",
+        "translations": {
+          "segond": "Beaucoup de miracles et de prodiges se faisaient au milieu du peuple par les mains des apôtres. Ils se tenaient tous ensemble au portique de Salomon,",
+          "darby": "Et beaucoup de miracles et de prodiges se faisaient parmi le peuple, par les mains des apôtres (et ils étaient tous d'un commun accord au portique de Salomon ;"
+        },
+        "interlinear": [
+          { "greek": "Διὰ", "gloss": "Par" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "τῶν", "gloss": "les" },
+          { "greek": "χειρῶν", "gloss": "mains" },
+          { "greek": "τῶν", "gloss": "des" },
+          { "greek": "ἀποστόλων", "gloss": "apôtres" },
+          { "greek": "ἐγίνετο", "gloss": "se_faisaient" },
+          { "greek": "σημεῖα", "gloss": "signes" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "τέρατα", "gloss": "prodiges" },
+          { "greek": "πολλὰ", "gloss": "beaucoup" },
+          { "greek": "ἐν", "gloss": "parmi" },
+          { "greek": "τῷ", "gloss": "le" },
+          { "greek": "λαῷ·", "gloss": "peuple" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἦσαν", "gloss": "ils_étaient" },
+          { "greek": "ὁμοθυμαδὸν", "gloss": "d'un_commun_accord", "analyse": "Le terme *homothumadon* (d'une même âme, d'un même souffle) est fondamental dans les Actes. Il décrit la respiration du Royaume UN. L'Esprit Saint a guéri les apôtres de la dispersion de l'Ego : ils ne sont plus une collection d'individus isolés luttant pour le pouvoir (comme avant la Passion), mais un Corps uni de Sujets libres." },
+          { "greek": "ἅπαντες", "gloss": "tous" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "τῇ", "gloss": "la" },
+          { "greek": "Στοᾷ", "gloss": "portique" },
+          { "greek": "Σολομῶντος·", "gloss": "de_Salomon" }
+        ]
+      },
+      {
+        "verse_number": "5, 13",
+        "translations": {
+          "segond": "et aucun des autres n'osait se joindre à eux; mais le peuple les louait hautement.",
+          "darby": "et d'entre les autres nul n'osait se joindre à eux ; mais le peuple les louait hautement."
+        },
+        "interlinear": [
+          { "greek": "τῶν", "gloss": "des" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "λοιπῶν", "gloss": "autres" },
+          { "greek": "οὐδεὶς", "gloss": "aucun" },
+          { "greek": "ἐτόλμα", "gloss": "n'osait" },
+          { "greek": "κολλᾶσθαι", "gloss": "se_joindre" },
+          { "greek": "αὐτοῖς,", "gloss": "à_eux" },
+          { "greek": "ἀλλ’", "gloss": "mais" },
+          { "greek": "ἐμεγάλυνεν", "gloss": "louait_hautement/magnifiait" },
+          { "greek": "αὐτοὺς", "gloss": "eux" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "λαός·", "gloss": "peuple" }
+        ]
+      },
+      {
+        "verse_number": "5, 14",
+        "translations": {
+          "segond": "Le nombre de ceux qui croyaient au Seigneur, hommes et femmes, s'augmentait de plus en plus;",
+          "darby": "Et des croyants, multitudes tant d'hommes que de femmes, s'ajoutaient de plus en plus au Seigneur),"
+        },
+        "interlinear": [
+          { "greek": "μᾶλλον", "gloss": "plus" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "προσετίθεντο", "gloss": "s'ajoutaient" },
+          { "greek": "πιστεύοντες", "gloss": "ceux_qui_croient" },
+          { "greek": "τῷ", "gloss": "au" },
+          { "greek": "κυρίῳ,", "gloss": "Seigneur" },
+          { "greek": "πλήθη", "gloss": "des_multitudes" },
+          { "greek": "ἀνδρῶν", "gloss": "d'hommes" },
+          { "greek": "τε", "gloss": "et" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "γυναικῶν·", "gloss": "de_femmes" }
+        ]
+      },
+      {
+        "verse_number": "5, 15",
+        "translations": {
+          "segond": "en sorte qu'on apportait les malades dans les rues et qu'on les plaçait sur des lits et des couchettes, afin que, lorsque Pierre passerait, son ombre au moins couvrît quelqu'un d'eux.",
+          "darby": "de sorte qu'on apportait les infirmes dans les rues, et qu'on les mettait sur de petits lits et sur des couchettes, afin que, quand Pierre viendrait, au moins son ombre passât sur quelqu'un d'eux."
+        },
+        "interlinear": [
+          { "greek": "ὥστε", "gloss": "de_sorte_que" },
+          { "greek": "καὶ", "gloss": "aussi" },
+          { "greek": "εἰς", "gloss": "dans" },
+          { "greek": "τὰς", "gloss": "les" },
+          { "greek": "πλατείας", "gloss": "places/rues" },
+          { "greek": "ἐκφέρειν", "gloss": "ils_apportaient_dehors" },
+          { "greek": "τοὺς", "gloss": "les" },
+          { "greek": "ἀσθενεῖς", "gloss": "malades" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "τιθέναι", "gloss": "les_plaçaient" },
+          { "greek": "ἐπὶ", "gloss": "sur" },
+          { "greek": "κλιναρίων", "gloss": "des_petits_lits" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "κραβάττων,", "gloss": "des_couchettes/grabats" },
+          { "greek": "ἵνα", "gloss": "afin_que" },
+          { "greek": "ἐρχομένου", "gloss": "venant" },
+          { "greek": "Πέτρου", "gloss": "Pierre" },
+          { "greek": "κἂν", "gloss": "au_moins" },
+          { "greek": "ἡ", "gloss": "l'" },
+          { "greek": "σκιὰ", "gloss": "ombre" },
+          { "greek": "ἐπισκιάσῃ", "gloss": "couvre_de_son_ombre" },
+          { "greek": "τινὶ", "gloss": "quelqu'un" },
+          { "greek": "αὐτῶν.", "gloss": "d'eux" }
+        ]
+      },
+      {
+        "verse_number": "5, 16",
+        "translations": {
+          "segond": "La multitude accourait aussi des villes voisines à Jérusalem, amenant des malades et des gens tourmentés par des esprits impurs; et tous étaient guéris.",
+          "darby": "Et la multitude des villes d'alentour s'assemblait aussi à Jérusalem, apportant des infirmes et des personnes tourmentées par des esprits immondes ; et tous étaient guéris."
+        },
+        "interlinear": [
+          { "greek": "συνήρχετο", "gloss": "s'assemblait" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "καὶ", "gloss": "aussi" },
+          { "greek": "τὸ", "gloss": "la" },
+          { "greek": "πλῆθος", "gloss": "multitude" },
+          { "greek": "τῶν", "gloss": "des" },
+          { "greek": "πέριξ", "gloss": "voisines/autour" },
+          { "greek": "πόλεων", "gloss": "villes" },
+          { "greek": "Ἰερουσαλήμ,", "gloss": "de_Jérusalem" },
+          { "greek": "φέροντες", "gloss": "apportant" },
+          { "greek": "ἀσθενεῖς", "gloss": "des_malades" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ὀχλουμένους", "gloss": "tourmentés" },
+          { "greek": "ὑπὸ", "gloss": "par" },
+          { "greek": "πνευμάτων", "gloss": "des_esprits" },
+          { "greek": "ἀκαθάρτων,", "gloss": "impurs" },
+          { "greek": "οἵτινες", "gloss": "lesquels" },
+          { "greek": "ἐθεραπεύοντο", "gloss": "étaient_guéris" },
+          { "greek": "ἅπαντες.", "gloss": "tous" }
+        ]
+      },
+      {
+        "verse_number": "5, 17",
+        "translations": {
+          "segond": "Cependant le souverain sacrificateur et tous ceux qui étaient avec lui, savoir le parti des sadducéens, se levèrent, remplis de jalousie,",
+          "darby": "Et le souverain sacrificateur et tous ceux qui étaient avec lui (laquelle est la secte des sadducéens), se levant, furent remplis de jalousie,"
+        },
+        "interlinear": [
+          { "greek": "Ἀναστὰς", "gloss": "S'étant_levé" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "ἀρχιερεὺς", "gloss": "grand_prêtre" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "πάντες", "gloss": "tous" },
+          { "greek": "οἱ", "gloss": "ceux" },
+          { "greek": "σὺν", "gloss": "avec" },
+          { "greek": "αὐτῷ,", "gloss": "lui" },
+          { "greek": "ἡ", "gloss": "la/celle" },
+          { "greek": "οὖσα", "gloss": "étant" },
+          { "greek": "αἵρεσις", "gloss": "secte/parti" },
+          { "greek": "τῶν", "gloss": "des" },
+          { "greek": "Σαδδουκαίων,", "gloss": "Sadducéens" },
+          { "greek": "ἐπλήσθησαν", "gloss": "ils_furent_remplis" },
+          { "greek": "ζήλου", "gloss": "de_jalousie", "analyse": "La jalousie (zélos) révèle l'Ego blessé. Face à l'effusion de l'Énergie incréée (qui guérit gratuitement), le pouvoir mondain, qui gère la religion comme un marché juridique de lois et de peurs, se sent menacé. La jalousie est le moteur de la violence dans le Monde duel : elle tente d'écraser l'autre pour préserver sa propre position de préhension." }
+        ]
+      },
+      {
+        "verse_number": "5, 18",
+        "translations": {
+          "segond": "mirent les mains sur les apôtres, et les jetèrent dans la prison publique.",
+          "darby": "et mirent les mains sur les apôtres, et les jetèrent dans la prison publique."
+        },
+        "interlinear": [
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἐπέβαλον", "gloss": "ils_jetèrent/mirent" },
+          { "greek": "τὰς", "gloss": "les" },
+          { "greek": "χεῖρας", "gloss": "mains" },
+          { "greek": "ἐπὶ", "gloss": "sur" },
+          { "greek": "τοὺς", "gloss": "les" },
+          { "greek": "ἀποστόλους", "gloss": "apôtres" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἔθεντο", "gloss": "ils_placèrent/mirent" },
+          { "greek": "αὐτοὺς", "gloss": "eux" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "τηρήσει", "gloss": "une_prison", "analyse": "La prison est la réponse architecturale de l'idéologie mondaine. Le Monde duel tente toujours d'objectiver, de clore et d'enfermer ce qu'il ne peut pas comprendre ni maîtriser." },
+          { "greek": "δημοσίᾳ.", "gloss": "publique" }
+        ]
+      },
+      {
+        "verse_number": "5, 19",
+        "translations": {
+          "segond": "Mais un ange du Seigneur, ayant ouvert pendant la nuit les portes de la prison, les fit sortir, et leur dit :",
+          "darby": "Mais un ange du Seigneur ouvrit de nuit les portes de la prison, et les ayant menés dehors, il dit :"
+        },
+        "interlinear": [
+          { "greek": "ἄγγελος", "gloss": "Un_ange" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "κυρίου", "gloss": "du_Seigneur" },
+          { "greek": "διὰ", "gloss": "pendant" },
+          { "greek": "νυκτὸς", "gloss": "la_nuit" },
+          { "greek": "ἤνοιξε", "gloss": "ouvrit" },
+          { "greek": "τὰς", "gloss": "les" },
+          { "greek": "θύρας", "gloss": "portes" },
+          { "greek": "τῆς", "gloss": "de_la" },
+          { "greek": "φυλακῆς,", "gloss": "prison" },
+          { "greek": "ἐξαγαγών", "gloss": "ayant_conduit_dehors" },
+          { "greek": "τε", "gloss": "et" },
+          { "greek": "αὐτοὺς", "gloss": "eux" },
+          { "greek": "εἶπεν·", "gloss": "il_dit" }
+        ]
+      },
+      {
+        "verse_number": "5, 20",
+        "translations": {
+          "segond": "Allez, tenez-vous dans le temple, et annoncez au peuple toutes les paroles de cette vie.",
+          "darby": "Allez, et vous tenant dans le temple, annoncez au peuple toutes les paroles de cette vie."
+        },
+        "interlinear": [
+          { "greek": "Πορεύεσθε", "gloss": "Allez" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "σταθέντες", "gloss": "vous_étant_tenus" },
+          { "greek": "λαλεῖτε", "gloss": "annoncez/parlez" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "τῷ", "gloss": "le" },
+          { "greek": "ἱερῷ", "gloss": "temple" },
+          { "greek": "τῷ", "gloss": "au" },
+          { "greek": "λαῷ", "gloss": "peuple" },
+          { "greek": "πάντα", "gloss": "toutes" },
+          { "greek": "τὰ", "gloss": "les" },
+          { "greek": "ῥήματα", "gloss": "paroles/choses" },
+          { "greek": "τῆς", "gloss": "de_la" },
+          { "greek": "ζωῆς", "gloss": "vie" },
+          { "greek": "ταύτης.", "gloss": "cette" }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs :\n• Verset 12 - ὁμοθυμαδὸν : 'D'un commun accord'. La traduction gomme la poésie de ce terme qui contient le mot 'thymos' (l'âme, le souffle vital). Les apôtres respirent ensemble d'un même souffle divin.\n• Verset 18 - τηρήσει : Traduit par 'prison', ce mot vient du verbe tereô (garder, surveiller). Il illustre la volonté de contrôle, la tentative désespérée de garder sous surveillance la liberté de l'Esprit.\n\nAnalyse spirituelle :\nCet extrait des Actes est le miroir parfait de l'Évangile de Thomas. Dans l'Évangile, les apôtres étaient derrière des portes verrouillées par peur, incapables de sortir de la matrice d'angoisse du Monde duel. Après avoir reçu le souffle du Christ et la paix du Royaume UN, nous les retrouvons ici dans un état opposé : ils sont au milieu de la foule, porteurs d'une Lumière incréée qui guérit.\n\nLe miracle attire les affligés, mais il attire aussi la foudre de l'Ego clérical et politique. La 'jalousie' (zélos) des grands prêtres démontre que le système aliéné ne supporte pas la gratuité. Si les apôtres guérissent sans condition, tout le système de contrôle, de préhension et de mérite s'effondre. Le Monde duel répond par la violence : il enferme les Sujets libres dans une prison (le retour des portes fermées). Mais la métaphore est limpide : de même que le Christ ressuscité a traversé la pierre du tombeau et la porte du Cénacle, l'ange de l'Incréé ouvre les portes de la prison de nuit. L'ordre divin ('Allez et annoncez les paroles de la vie') confirme que la force spirituelle ne peut être ni objectivée ni réduite au silence."
+  }
+  }
