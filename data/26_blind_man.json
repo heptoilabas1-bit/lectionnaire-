@@ -1,166 +1,1070 @@
 {
   "gospel": {
-    "reference": "Jean 9, 1-38",
-    "title": "La Guérison de l'Aveugle-Né : De la Nuit à la Lumière",
+    "reference": "Jean 9, 1-12 (Partie 1/3)",
+    "title": "L'Aveugle-né : La crise mimétique et la création du Sujet",
     "interlinear": [
       {
         "verse_number": 1,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Καὶ</span><span class='greek-word'>παράγων</span><span class='greek-word'>εἶδεν</span><span class='greek-word'>ἄνθρωπον</span><span class='greek-word'>τυφλὸν</span><span class='greek-word'>ἐκ</span><span class='greek-word'>γενετῆς.</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>passant</span><span class='french-word'>il_vit</span><span class='french-word'>un_homme</span><span class='french-word'>aveugle</span><span class='french-word'>dès_sa</span><span class='french-word'>naissance.</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>comme_il_passait,</span><span class='french-word'>il_vit</span><span class='french-word'>un_homme</span><span class='french-word'>aveugle</span><span class='french-word'>dès_sa</span><span class='french-word'>naissance.</span></p></div>"
+        "translations": {
+          "segond": "Jésus vit, en passant, un homme aveugle de naissance.",
+          "darby": "Et en passant, il vit un homme aveugle dès sa naissance."
+        },
+        "interlinear": [
+          { "greek": "Καὶ", "gloss": "Et" },
+          { "greek": "παράγων", "gloss": "passant" },
+          { "greek": "εἶδεν", "gloss": "il_vit" },
+          { "greek": "ἄνθρωπον", "gloss": "un_homme" },
+          { "greek": "τυφλὸν", "gloss": "aveugle" },
+          { "greek": "ἐκ", "gloss": "depuis" },
+          { "greek": "γενετῆς.", "gloss": "la_naissance" }
+        ]
       },
       {
         "verse_number": 2,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ἠρώτησαν</span><span class='greek-word'>αὐτὸν</span><span class='greek-word'>οἱ</span><span class='greek-word'>μαθηταὶ</span><span class='greek-word'>αὐτοῦ</span><span class='greek-word'>λέγοντες·</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>demandèrent_à</span><span class='french-word'>lui</span><span class='french-word'>les</span><span class='french-word'>disciples</span><span class='french-word'>siens</span><span class='french-word'>disant :</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>ses</span><span class='french-word'>disciples</span><span class='french-word'>lui</span><span class='french-word'>demandèrent,</span><span class='french-word'>disant :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Ῥαββί,</span><span class='greek-word'>τίς</span><span class='greek-word'>ἥμαρτεν,</span><span class='greek-word'>οὗτος</span><span class='greek-word'>ἢ</span><span class='greek-word'>οἱ</span><span class='greek-word'>γονεῖς</span><span class='greek-word'>αὐτοῦ,</span></p><p class='inter-segond'><span class='french-word'>Rabbi,</span><span class='french-word'>qui</span><span class='french-word'>a_péché,</span><span class='french-word'>lui</span><span class='french-word'>ou</span><span class='french-word'>les</span><span class='french-word'>parents</span><span class='french-word'>siens,</span></p><p class='inter-darby'><span class='french-word'>Rabbi,</span><span class='french-word'>qui</span><span class='french-word'>a_péché :</span><span class='french-word'>celui-ci,</span><span class='french-word'>ou</span><span class='french-word'>ses</span><span class='french-word'>parents,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἵνα</span><span class='greek-word'>τυφλὸς</span><span class='greek-word'>γεννηθῇ;</span></p><p class='inter-segond'><span class='french-word'>pour_qu'</span><span class='french-word'>aveugle</span><span class='french-word'>il_soit_né ?</span></p><p class='inter-darby'><span class='french-word'>pour_qu’il</span><span class='french-word'>soit_né</span><span class='french-word'>aveugle ?</span></p></div>"
+        "translations": {
+          "segond": "Ses disciples lui firent cette question : Rabbi, qui a péché, cet homme ou ses parents, pour qu'il soit né aveugle ?",
+          "darby": "Et ses disciples l'interrogèrent, disant : Rabbi, qui a péché : celui-ci, ou ses parents, pour qu'il soit né aveugle ?"
+        },
+        "interlinear": [
+          { "greek": "καὶ", "gloss": "Et" },
+          { "greek": "ἠρώτησαν", "gloss": "interrogèrent" },
+          { "greek": "αὐτὸν", "gloss": "lui" },
+          { "greek": "οἱ", "gloss": "les" },
+          { "greek": "μαθηταὶ", "gloss": "disciples" },
+          { "greek": "αὐτοῦ", "gloss": "de_lui" },
+          { "greek": "λέγοντες·", "gloss": "disant" },
+          { "greek": "Ῥαββί,", "gloss": "Rabbi" },
+          { "greek": "τίς", "gloss": "qui" },
+          { "greek": "ἥμαρτεν,", "gloss": "a_péché", "analyse": "L'Ego des disciples fonctionne 'en plein', selon la logique de l'Arbre de la Connaissance. Le Monde duel exige d'expliquer le manque par une faute morale, de classer et de juger. Ils objectivent l'aveugle en le réduisant à un cas d'école théologique." },
+          { "greek": "οὗτος", "gloss": "celui-ci" },
+          { "greek": "ἢ", "gloss": "ou" },
+          { "greek": "οἱ", "gloss": "les" },
+          { "greek": "γονεῖς", "gloss": "parents" },
+          { "greek": "αὐτοῦ,", "gloss": "de_lui" },
+          { "greek": "ἵνα", "gloss": "afin_qu'" },
+          { "greek": "τυφλὸς", "gloss": "aveugle" },
+          { "greek": "γεννηθῇ;", "gloss": "il_soit_né" }
+        ]
       },
       {
         "verse_number": 3,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἀπεκρίθη</span><span class='greek-word'>Ἰησοῦς·</span><span class='greek-word'>Οὔτε</span><span class='greek-word'>οὗτος</span><span class='greek-word'>ἥμαρτεν</span></p><p class='inter-segond'><span class='french-word'>Répondit</span><span class='french-word'>Jésus :</span><span class='french-word'>Ni</span><span class='french-word'>lui</span><span class='french-word'>n'a_péché</span></p><p class='inter-darby'><span class='french-word'>Jésus</span><span class='french-word'>répondit :</span><span class='french-word'>Ni</span><span class='french-word'>celui-ci</span><span class='french-word'>n’a</span><span class='french-word'>péché,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>οὔτε</span><span class='greek-word'>οἱ</span><span class='greek-word'>γονεῖς</span><span class='greek-word'>αὐτοῦ,</span><span class='greek-word'>ἀλλ’</span><span class='greek-word'>ἵνα</span><span class='greek-word'>φανερωθῇ</span></p><p class='inter-segond'><span class='french-word'>ni</span><span class='french-word'>les</span><span class='french-word'>parents</span><span class='french-word'>siens ;</span><span class='french-word'>mais</span><span class='french-word'>afin_que</span><span class='french-word'>soient_manifestées</span></p><p class='inter-darby'><span class='french-word'>ni</span><span class='french-word'>ses</span><span class='french-word'>parents,</span><span class='french-word'>mais</span><span class='french-word'>c'est_afin_que</span><span class='french-word'>les</span><span class='french-word'>œuvres</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τὰ</span><span class='greek-word'>ἔργα</span><span class='greek-word'>τοῦ</span><span class='greek-word'>Θεοῦ</span><span class='greek-word'>ἐν</span><span class='greek-word'>αὐτῷ.</span></p><p class='inter-segond'><span class='french-word'>les</span><span class='french-word'>oeuvres</span><span class='french-word'>de</span><span class='french-word'>Dieu</span><span class='french-word'>en</span><span class='french-word'>lui.</span></p><p class='inter-darby'><span class='french-word'>de</span><span class='french-word'>Dieu</span><span class='french-word'>fussent_manifestées</span><span class='french-word'>en</span><span class='french-word'>lui.</span></p></div>"
+        "translations": {
+          "segond": "Jésus répondit : Ce n'est pas que lui ou ses parents aient péché; mais c'est afin que les œuvres de Dieu soient manifestées en lui.",
+          "darby": "Jésus répondit : Ni celui-ci n'a péché, ni ses parents ; mais c'est afin que les œuvres de Dieu soient manifestées en lui."
+        },
+        "interlinear": [
+          { "greek": "ἀπεκρίθη", "gloss": "Répondit" },
+          { "greek": "Ἰησοῦς·", "gloss": "Jésus" },
+          { "greek": "Οὔτε", "gloss": "Ni" },
+          { "greek": "οὗτος", "gloss": "celui-ci" },
+          { "greek": "ἥμαρτεν", "gloss": "n'a_péché" },
+          { "greek": "οὔτε", "gloss": "ni" },
+          { "greek": "οἱ", "gloss": "les" },
+          { "greek": "γονεῖς", "gloss": "parents" },
+          { "greek": "αὐτοῦ,", "gloss": "de_lui" },
+          { "greek": "ἀλλ’", "gloss": "mais" },
+          { "greek": "ἵνα", "gloss": "afin_que" },
+          { "greek": "φανερωθῇ", "gloss": "soient_manifestées", "analyse": "Le Christ refuse la causalité du Monde duel. La cécité n'est pas une punition du passé, mais un espace 'en creux', une matrice vide qui attend d'être comblée. Ce n'est que dans ce vide que l'Énergie incréée (les œuvres de Dieu) peut être engendrée et manifestée." },
+          { "greek": "τὰ", "gloss": "les" },
+          { "greek": "ἔργα", "gloss": "œuvres" },
+          { "greek": "τοῦ", "gloss": "de" },
+          { "greek": "θεοῦ", "gloss": "Dieu" },
+          { "greek": "ἐν", "gloss": "en" },
+          { "greek": "αὐτῷ.", "gloss": "lui" }
+        ]
       },
       {
         "verse_number": 4,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἐμὲ</span><span class='greek-word'>δεῖ</span><span class='greek-word'>ἐργάζεσθαι</span><span class='greek-word'>τὰ</span><span class='greek-word'>ἔργα</span><span class='greek-word'>τοῦ</span><span class='greek-word'>πέμψαντός</span><span class='greek-word'>με</span></p><p class='inter-segond'><span class='french-word'>Moi</span><span class='french-word'>il_faut</span><span class='french-word'>faire</span><span class='french-word'>les</span><span class='french-word'>oeuvres</span><span class='french-word'>de_celui</span><span class='french-word'>ayant_envoyé</span><span class='french-word'>moi</span></p><p class='inter-darby'><span class='french-word'>Il_me_faut</span><span class='french-word'>faire</span><span class='french-word'>les</span><span class='french-word'>œuvres</span><span class='french-word'>de</span><span class='french-word'>celui</span><span class='french-word'>qui</span><span class='french-word'>m’a</span><span class='french-word'>envoyé,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἕως</span><span class='greek-word'>ἡμέρα</span><span class='greek-word'>ἐστίν·</span><span class='greek-word'>ἔρχεται</span><span class='greek-word'>νὺξ</span></p><p class='inter-segond'><span class='french-word'>tant_que</span><span class='french-word'>jour</span><span class='french-word'>il_est ;</span><span class='french-word'>vient</span><span class='french-word'>la_nuit</span></p><p class='inter-darby'><span class='french-word'>tandis_qu’il_est</span><span class='french-word'>jour ;</span><span class='french-word'>la_nuit</span><span class='french-word'>vient,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὅτε</span><span class='greek-word'>οὐδεὶς</span><span class='greek-word'>δύναται</span><span class='greek-word'>ἐργάζεσθαι.</span></p><p class='inter-segond'><span class='french-word'>où</span><span class='french-word'>personne</span><span class='french-word'>ne_peut</span><span class='french-word'>travailler.</span></p><p class='inter-darby'><span class='french-word'>où</span><span class='french-word'>nul</span><span class='french-word'>ne</span><span class='french-word'>peut</span><span class='french-word'>travailler.</span></p></div>"
+        "translations": {
+          "segond": "Il faut que je fasse, tandis qu'il est jour, les œuvres de celui qui m'a envoyé; la nuit vient, où personne ne peut travailler.",
+          "darby": "Il me faut faire les œuvres de celui qui m'a envoyé, tandis qu'il est jour ; la nuit vient, en laquelle personne ne peut travailler."
+        },
+        "interlinear": [
+          { "greek": "ἡμᾶς", "gloss": "Nous" },
+          { "greek": "δεῖ", "gloss": "il_faut" },
+          { "greek": "ἐργάζεσθαι", "gloss": "travailler/faire" },
+          { "greek": "τὰ", "gloss": "les" },
+          { "greek": "ἔργα", "gloss": "œuvres" },
+          { "greek": "τοῦ", "gloss": "de_celui_qui" },
+          { "greek": "πέμψαντός", "gloss": "a_envoyé" },
+          { "greek": "με", "gloss": "moi" },
+          { "greek": "ἕως", "gloss": "tandis_que" },
+          { "greek": "ἡμέρα", "gloss": "jour" },
+          { "greek": "ἐστίν·", "gloss": "il_est" },
+          { "greek": "ἔρχεται", "gloss": "vient" },
+          { "greek": "νὺξ", "gloss": "la_nuit" },
+          { "greek": "ὅτε", "gloss": "où" },
+          { "greek": "οὐδεὶς", "gloss": "personne" },
+          { "greek": "δύναται", "gloss": "ne_peut" },
+          { "greek": "ἐργάζεσθαι.", "gloss": "travailler" }
+        ]
       },
       {
         "verse_number": 5,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ὅταν</span><span class='greek-word'>ἐν</span><span class='greek-word'>τῷ</span><span class='greek-word'>κόσμῳ</span><span class='greek-word'>ὦ,</span><span class='greek-word'>φῶς</span><span class='greek-word'>εἰμι</span><span class='greek-word'>τοῦ</span><span class='greek-word'>κόσμου.</span></p><p class='inter-segond'><span class='french-word'>Quand</span><span class='french-word'>dans</span><span class='french-word'>le</span><span class='french-word'>monde</span><span class='french-word'>je_suis,</span><span class='french-word'>lumière</span><span class='french-word'>je_suis</span><span class='french-word'>du</span><span class='french-word'>monde.</span></p><p class='inter-darby'><span class='french-word'>Pendant_que</span><span class='french-word'>je_suis</span><span class='french-word'>dans</span><span class='french-word'>le</span><span class='french-word'>monde,</span><span class='french-word'>je_suis</span><span class='french-word'>la_lumière</span><span class='french-word'>du</span><span class='french-word'>monde.</span></p></div>"
+        "translations": {
+          "segond": "Pendant que je suis dans le monde, je suis la lumière du monde.",
+          "darby": "Pendant que je suis dans le monde, je suis la lumière du monde."
+        },
+        "interlinear": [
+          { "greek": "ὅταν", "gloss": "Tant_que" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "τῷ", "gloss": "le" },
+          { "greek": "κόσμῳ", "gloss": "monde" },
+          { "greek": "ῶ,", "gloss": "je_suis" },
+          { "greek": "φῶς", "gloss": "lumière" },
+          { "greek": "εἰμι", "gloss": "je_suis" },
+          { "greek": "τοῦ", "gloss": "du" },
+          { "greek": "κόσμου.", "gloss": "monde" }
+        ]
       },
       {
         "verse_number": 6,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ταῦτα</span><span class='greek-word'>εἰπὼν</span><span class='greek-word'>ἔπτυσε</span><span class='greek-word'>χαμαὶ</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἐποίησε</span></p><p class='inter-segond'><span class='french-word'>Cela</span><span class='french-word'>ayant_dit</span><span class='french-word'>il_cracha</span><span class='french-word'>à_terre</span><span class='french-word'>et</span><span class='french-word'>fit</span></p><p class='inter-darby'><span class='french-word'>Ayant_dit</span><span class='french-word'>cela,</span><span class='french-word'>il_cracha</span><span class='french-word'>en_terre</span><span class='french-word'>et</span><span class='french-word'>fit</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πηλὸν</span><span class='greek-word'>ἐκ</span><span class='greek-word'>τοῦ</span><span class='greek-word'>πτύσματος,</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἐπέχρισε</span></p><p class='inter-segond'><span class='french-word'>de_la_boue</span><span class='french-word'>avec</span><span class='french-word'>la</span><span class='french-word'>salive,</span><span class='french-word'>et</span><span class='french-word'>il_oignit</span></p><p class='inter-darby'><span class='french-word'>de_la_boue</span><span class='french-word'>de</span><span class='french-word'>sa</span><span class='french-word'>salive,</span><span class='french-word'>et</span><span class='french-word'>mit</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τὸν</span><span class='greek-word'>πηλὸν</span><span class='greek-word'>ἐπὶ</span><span class='greek-word'>τοὺς</span><span class='greek-word'>ὀφθαλμοὺς</span><span class='greek-word'>τοῦ</span><span class='greek-word'>τυφλοῦ,</span></p><p class='inter-segond'><span class='french-word'>la</span><span class='french-word'>boue</span><span class='french-word'>sur</span><span class='french-word'>les</span><span class='french-word'>yeux</span><span class='french-word'>de_l'</span><span class='french-word'>aveugle,</span></p><p class='inter-darby'><span class='french-word'>la</span><span class='french-word'>boue</span><span class='french-word'>comme_un_onguent</span><span class='french-word'>sur</span><span class='french-word'>les</span><span class='french-word'>yeux</span><span class='french-word'>de_l’aveugle,</span></p></div>"
+        "translations": {
+          "segond": "Après avoir dit cela, il cracha à terre, et fit de la boue avec sa salive. Puis il appliqua cette boue sur les yeux de l'aveugle,",
+          "darby": "Ayant dit ces choses, il cracha en terre et fit de la boue de son crachat, et enduisit de boue les yeux de l'aveugle,"
+        },
+        "interlinear": [
+          { "greek": "Ταῦτα", "gloss": "Ces_choses" },
+          { "greek": "εἰπὼν", "gloss": "ayant_dites" },
+          { "greek": "ἔπτυσεν", "gloss": "il_cracha" },
+          { "greek": "χαμαὶ", "gloss": "à_terre" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἐποίησεν", "gloss": "fit" },
+          { "greek": "πηλὸν", "gloss": "de_la_boue" },
+          { "greek": "ἐκ", "gloss": "de" },
+          { "greek": "τοῦ", "gloss": "la" },
+          { "greek": "πτύσματος,", "gloss": "salive" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἐπέχρισεν", "gloss": "il_enduisit/appliqua" },
+          { "greek": "αὐτοῦ", "gloss": "de_lui" },
+          { "greek": "τὸν", "gloss": "la" },
+          { "greek": "πηλὸν", "gloss": "boue" },
+          { "greek": "ἐπὶ", "gloss": "sur" },
+          { "greek": "τοὺς", "gloss": "les" },
+          { "greek": "ὀφθαλμούς,", "gloss": "yeux" }
+        ]
       },
       {
         "verse_number": 7,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>εἶπεν</span><span class='greek-word'>αὐτῷ·</span><span class='greek-word'>Ὕπαγε</span><span class='greek-word'>νίψαι</span><span class='greek-word'>εἰς</span><span class='greek-word'>τὴν</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>il_dit</span><span class='french-word'>à_lui :</span><span class='french-word'>Va</span><span class='french-word'>te_laver</span><span class='french-word'>dans</span><span class='french-word'>le</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>lui</span><span class='french-word'>dit :</span><span class='french-word'>Va,</span><span class='french-word'>et_lave-toi</span><span class='french-word'>au</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>κολυμβήθραν</span><span class='greek-word'>τοῦ</span><span class='greek-word'>Σιλωάμ</span><span class='greek-word'>(ὃ</span><span class='greek-word'>ἑρμηνεύεται</span><span class='greek-word'>Ἀπεσταλμένος).</span></p><p class='inter-segond'><span class='french-word'>réservoir</span><span class='french-word'>de</span><span class='french-word'>Siloé</span><span class='french-word'>(qui</span><span class='french-word'>se_traduit</span><span class='french-word'>Envoyé).</span></p><p class='inter-darby'><span class='french-word'>réservoir</span><span class='french-word'>de</span><span class='french-word'>Siloé</span><span class='french-word'>(ce</span><span class='french-word'>qui</span><span class='french-word'>est_interprété :</span><span class='french-word'>Envoyé).</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀπῆλθεν</span><span class='greek-word'>οὖν</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἐνίψατο,</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἦλθε</span><span class='greek-word'>βλέπων.</span></p><p class='inter-segond'><span class='french-word'>Il_y_alla</span><span class='french-word'>donc</span><span class='french-word'>et</span><span class='french-word'>se_lava,</span><span class='french-word'>et</span><span class='french-word'>revint</span><span class='french-word'>voyant.</span></p><p class='inter-darby'><span class='french-word'>Il</span><span class='french-word'>s’en_alla</span><span class='french-word'>donc,</span><span class='french-word'>et</span><span class='french-word'>se_lava,</span><span class='french-word'>et</span><span class='french-word'>revint</span><span class='french-word'>voyant.</span></p></div>"
+        "translations": {
+          "segond": "et lui dit : Va, et lave-toi au réservoir de Siloé (nom qui signifie envoyé). Il y alla, se lava, et s'en retourna voyant clair.",
+          "darby": "et lui dit : Va, lave-toi au réservoir de Siloé (ce qui, interprété, est : Envoyé). Il y alla donc, et se lava, et revint voyant."
+        },
+        "interlinear": [
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "εἶπεν", "gloss": "dit" },
+          { "greek": "αὐτῷ·", "gloss": "à_lui" },
+          { "greek": "Ὕπαγε", "gloss": "Va" },
+          { "greek": "νίψαι", "gloss": "lave-toi" },
+          { "greek": "εἰς", "gloss": "dans" },
+          { "greek": "τὴν", "gloss": "le" },
+          { "greek": "κολυμβήθραν", "gloss": "réservoir/piscine" },
+          { "greek": "τοῦ", "gloss": "de" },
+          { "greek": "Σιλωάμ", "gloss": "Siloé" },
+          { "greek": "ὃ", "gloss": "ce_qui" },
+          { "greek": "ἑρμηνεύεται", "gloss": "se_traduit" },
+          { "greek": "Ἀπεσταλμένος.", "gloss": "Envoyé" },
+          { "greek": "ἀπῆλθεν", "gloss": "Il_s'en_alla" },
+          { "greek": "οὖν", "gloss": "donc" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἐνίψατο,", "gloss": "se_lava" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἦλθεν", "gloss": "il_vint/revint" },
+          { "greek": "βλέπων.", "gloss": "voyant" }
+        ]
       },
       {
         "verse_number": 8,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Οἱ</span><span class='greek-word'>οὖν</span><span class='greek-word'>γείτονες</span><span class='greek-word'>καὶ</span><span class='greek-word'>οἱ</span><span class='greek-word'>θεωροῦντες</span><span class='greek-word'>αὐτὸν</span></p><p class='inter-segond'><span class='french-word'>Les</span><span class='french-word'>donc</span><span class='french-word'>voisins</span><span class='french-word'>et</span><span class='french-word'>ceux</span><span class='french-word'>ayant_vu</span><span class='french-word'>lui</span></p><p class='inter-darby'><span class='french-word'>Les</span><span class='french-word'>voisins</span><span class='french-word'>donc,</span><span class='french-word'>et</span><span class='french-word'>ceux</span><span class='french-word'>qui</span><span class='french-word'>l’avaient</span><span class='french-word'>vu</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τὸ</span><span class='greek-word'>πρότερον</span><span class='greek-word'>ὅτι</span><span class='greek-word'>προσαίτης</span><span class='greek-word'>ἦν,</span><span class='greek-word'>ἔλεγον·</span></p><p class='inter-segond'><span class='french-word'>auparavant</span><span class='french-word'>qu'</span><span class='french-word'>mendiant</span><span class='french-word'>il_était,</span><span class='french-word'>disaient :</span></p><p class='inter-darby'><span class='french-word'>auparavant,</span><span class='french-word'>qu’il</span><span class='french-word'>était</span><span class='french-word'>un_mendiant,</span><span class='french-word'>disaient :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Οὐχ</span><span class='greek-word'>οὗτός</span><span class='greek-word'>ἐστιν</span><span class='greek-word'>ὁ</span><span class='greek-word'>καθήμενος</span><span class='greek-word'>καὶ</span><span class='greek-word'>προσαιτῶν;</span></p><p class='inter-segond'><span class='french-word'>N'est-ce</span><span class='french-word'>celui-là</span><span class='french-word'>pas</span><span class='french-word'>celui</span><span class='french-word'>étant_assis</span><span class='french-word'>et</span><span class='french-word'>mendiant ?</span></p><p class='inter-darby'><span class='french-word'>N'est-ce_pas</span><span class='french-word'>celui-ci</span><span class='french-word'>qui</span><span class='french-word'>se_tenait_assis</span><span class='french-word'>et</span><span class='french-word'>qui_mendiait ?</span></p></div>"
+        "translations": {
+          "segond": "Ses voisins et ceux qui auparavant l'avaient connu comme un mendiant disaient : N'est-ce pas là celui qui se tenait assis et qui mendiait ?",
+          "darby": "Les voisins donc, et ceux qui auparavant le voyaient, qu'il était mendiant, disaient : N'est-ce pas là celui qui était assis et qui mendiait ?"
+        },
+        "interlinear": [
+          { "greek": "Οἱ", "gloss": "Les" },
+          { "greek": "οὖν", "gloss": "donc" },
+          { "greek": "γείτονες", "gloss": "voisins" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "οἱ", "gloss": "ceux_qui" },
+          { "greek": "θεωροῦντες", "gloss": "voyaient" },
+          { "greek": "αὐτὸν", "gloss": "lui" },
+          { "greek": "τὸ", "gloss": "au" },
+          { "greek": "πρότερον", "gloss": "paravant" },
+          { "greek": "ὅτι", "gloss": "qu'" },
+          { "greek": "προσαίτης", "gloss": "mendiant" },
+          { "greek": "ἦν,", "gloss": "il_était" },
+          { "greek": "ἔλεγον·", "gloss": "disaient" },
+          { "greek": "Οὐχ", "gloss": "Non" },
+          { "greek": "οὗτός", "gloss": "celui-ci" },
+          { "greek": "ἐστιν", "gloss": "est-il" },
+          { "greek": "ὁ", "gloss": "celui_qui" },
+          { "greek": "καθήμενος", "gloss": "étant_assis" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "προσαιτῶν;", "gloss": "mendiait" }
+        ]
       },
       {
         "verse_number": 9,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἄλλοι</span><span class='greek-word'>ἔλεγον</span><span class='greek-word'>ὅτι</span><span class='greek-word'>Οὗτός</span><span class='greek-word'>ἐστιν·</span></p><p class='inter-segond'><span class='french-word'>Les_uns</span><span class='french-word'>disaient :</span><span class='french-word'>C'est</span><span class='french-word'>lui.</span></p><p class='inter-darby'><span class='french-word'>Les_uns</span><span class='french-word'>disaient :</span><span class='french-word'>C'est</span><span class='french-word'>lui ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἄλλοι</span><span class='greek-word'>ἔλεγον·</span><span class='greek-word'>Οὐχί,</span><span class='greek-word'>ἀλλ’</span><span class='greek-word'>ὅμοιος</span><span class='greek-word'>αὐτῷ</span><span class='greek-word'>ἐστιν.</span></p><p class='inter-segond'><span class='french-word'>d'autres</span><span class='french-word'>disaient :</span><span class='french-word'>Non,</span><span class='french-word'>mais</span><span class='french-word'>ressemblant</span><span class='french-word'>à_lui</span><span class='french-word'>il_est.</span></p><p class='inter-darby'><span class='french-word'>d’autres :</span><span class='french-word'>Il</span><span class='french-word'>lui</span><span class='french-word'>ressemble.</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐκεῖνος</span><span class='greek-word'>ἔλεγεν</span><span class='greek-word'>ὅτι</span><span class='greek-word'>Ἐγώ</span><span class='greek-word'>εἰμι.</span></p><p class='inter-segond'><span class='french-word'>Lui</span><span class='french-word'>disait :</span><span class='french-word'>C'est</span><span class='french-word'>moi.</span></p><p class='inter-darby'><span class='french-word'>Lui</span><span class='french-word'>disait :</span><span class='french-word'>C'est</span><span class='french-word'>moi-même.</span></p></div>"
+        "translations": {
+          "segond": "Les uns disaient : C'est lui. D'autres disaient : Non, mais il lui ressemble. Et lui-même disait : C'est moi.",
+          "darby": "D'autres disaient : C'est lui ; d'autres disaient : Non, mais il lui ressemble. Lui disait : C'est moi."
+        },
+        "interlinear": [
+          { "greek": "ἄλλοι", "gloss": "D'autres" },
+          { "greek": "ἔλεγον", "gloss": "disaient" },
+          { "greek": "ὅτι", "gloss": "que" },
+          { "greek": "Οὗτός", "gloss": "C'est_lui" },
+          { "greek": "ἐστιν·", "gloss": "il_est" },
+          { "greek": "ἄλλοι", "gloss": "d'autres" },
+          { "greek": "ἔλεγον·", "gloss": "disaient" },
+          { "greek": "Οὐχί,", "gloss": "Non" },
+          { "greek": "ἀλλὰ", "gloss": "mais" },
+          { "greek": "ὅμοιος", "gloss": "semblable/pareil", "analyse": "La crise du mimétisme. Le Monde duel, fait de regards croisés et d'idées arrêtées, panique face à l'émergence d'un 'Sujet' recréé. L'aveugle n'est plus l'objet-mendiant qu'on dominait du regard. La foule tente alors de le réduire à un 'comme' réducteur (ὅμοιος), une simple copie, refusant de s'ouvrir à sa nouvelle singularité." },
+          { "greek": "αὐτῷ", "gloss": "à_lui" },
+          { "greek": "ἐστιν.", "gloss": "il_est" },
+          { "greek": "ἐκεῖνος", "gloss": "Lui" },
+          { "greek": "ἔλεγεν", "gloss": "disait" },
+          { "greek": "ὅτι", "gloss": "que" },
+          { "greek": "Ἐγώ", "gloss": "Moi" },
+          { "greek": "εἰμι.", "gloss": "je_suis" }
+        ]
       },
       {
         "verse_number": 10,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἔλεγον</span><span class='greek-word'>οὖν</span><span class='greek-word'>αὐτῷ·</span><span class='greek-word'>Πῶς</span><span class='greek-word'>ἀνεῴχθησάν</span><span class='greek-word'>σου</span><span class='greek-word'>οἱ</span><span class='greek-word'>ὀφθαλμοί;</span></p><p class='inter-segond'><span class='french-word'>Ils_disaient</span><span class='french-word'>donc</span><span class='french-word'>à_lui :</span><span class='french-word'>Comment</span><span class='french-word'>ont_été_ouverts</span><span class='french-word'>tes</span><span class='french-word'>yeux ?</span></p><p class='inter-darby'><span class='french-word'>Ils</span><span class='french-word'>lui</span><span class='french-word'>dirent</span><span class='french-word'>donc :</span><span class='french-word'>Comment</span><span class='french-word'>tes</span><span class='french-word'>yeux</span><span class='french-word'>ont-ils_été_ouverts ?</span></p></div>"
+        "translations": {
+          "segond": "Ils lui dirent donc : Comment tes yeux ont-ils été ouverts ?",
+          "darby": "Ils lui disaient donc : Comment tes yeux ont-ils été ouverts ?"
+        },
+        "interlinear": [
+          { "greek": "ἔλεγον", "gloss": "Ils_disaient" },
+          { "greek": "οὖν", "gloss": "donc" },
+          { "greek": "αὐτῷ·", "gloss": "à_lui" },
+          { "greek": "Πῶς", "gloss": "Comment" },
+          { "greek": "οὖν", "gloss": "donc" },
+          { "greek": "ἠνεῴχθησάν", "gloss": "ont_été_ouverts" },
+          { "greek": "σου", "gloss": "de_toi" },
+          { "greek": "οἱ", "gloss": "les" },
+          { "greek": "ὀφθαλμοί;", "gloss": "yeux" }
+        ]
       },
       {
         "verse_number": 11,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἀπεκρίθη</span><span class='greek-word'>ἐκεῖνος</span><span class='greek-word'>καὶ</span><span class='greek-word'>εἶπεν·</span><span class='greek-word'>Ἄνθρωπος</span><span class='greek-word'>λεγόμενος</span><span class='greek-word'>Ἰησοῦς</span></p><p class='inter-segond'><span class='french-word'>Répondit</span><span class='french-word'>lui</span><span class='french-word'>et</span><span class='french-word'>dit :</span><span class='french-word'>L'homme</span><span class='french-word'>appelé</span><span class='french-word'>Jésus</span></p><p class='inter-darby'><span class='french-word'>Il</span><span class='french-word'>répondit :</span><span class='french-word'>Un_homme</span><span class='french-word'>appelé</span><span class='french-word'>Jésus</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πηλὸν</span><span class='greek-word'>ἐποίησε</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἐπέχρισέ</span><span class='greek-word'>μου</span><span class='greek-word'>τοὺς</span><span class='greek-word'>ὀφθαλμοὺς</span></p><p class='inter-segond'><span class='french-word'>de_la_boue</span><span class='french-word'>a_fait</span><span class='french-word'>et</span><span class='french-word'>a_oint</span><span class='french-word'>mes</span><span class='french-word'>yeux</span></p><p class='inter-darby'><span class='french-word'>a_fait</span><span class='french-word'>de_la_boue,</span><span class='french-word'>et</span><span class='french-word'>a_oint</span><span class='french-word'>mes</span><span class='french-word'>yeux,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>εἶπέ</span><span class='greek-word'>μοι·</span><span class='greek-word'>Ὕπαγε</span><span class='greek-word'>εἰς</span><span class='greek-word'>τὸν</span><span class='greek-word'>Σιλωὰμ</span><span class='greek-word'>καὶ</span><span class='greek-word'>νίψαι·</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>m'a_dit :</span><span class='french-word'>Va</span><span class='french-word'>au</span><span class='french-word'>Siloé</span><span class='french-word'>et</span><span class='french-word'>lave-toi ;</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>m’a</span><span class='french-word'>dit :</span><span class='french-word'>Va</span><span class='french-word'>au</span><span class='french-word'>Siloé</span><span class='french-word'>et</span><span class='french-word'>lave-toi.</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀπελθὼν</span><span class='greek-word'>δὲ</span><span class='greek-word'>καὶ</span><span class='greek-word'>νιψάμενος</span><span class='greek-word'>ἀνέβλεψα.</span></p><p class='inter-segond'><span class='french-word'>y_étant_allé</span><span class='french-word'>mais</span><span class='french-word'>et</span><span class='french-word'>m'étant_lavé,</span><span class='french-word'>j'ai_recouvré_la_vue.</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>y_étant_allé</span><span class='french-word'>et</span><span class='french-word'>m’étant_lavé,</span><span class='french-word'>j’ai_vu.</span></p></div>"
+        "translations": {
+          "segond": "Il répondit : L'homme qu'on appelle Jésus a fait de la boue, a oint mes yeux, et m'a dit : Va au réservoir de Siloé, et lave-toi. J'y suis allé, je me suis lavé, et j'ai recouvré la vue.",
+          "darby": "Il répondit : L'homme qu'on appelle Jésus a fait de la boue, et m'a oint les yeux, et m'a dit : Va à Siloé et lave-toi. Et j'y suis allé, je me suis lavé, et j'ai recouvré la vue."
+        },
+        "interlinear": [
+          { "greek": "ἀπεκρίθη", "gloss": "Répondit" },
+          { "greek": "ἐκεῖνος·", "gloss": "lui" },
+          { "greek": "Ὁ", "gloss": "L'" },
+          { "greek": "ἄνθρωπος", "gloss": "homme" },
+          { "greek": "ὁ", "gloss": "celui" },
+          { "greek": "λεγόμενος", "gloss": "appelé" },
+          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
+          { "greek": "πηλὸν", "gloss": "de_la_boue" },
+          { "greek": "ἐποίησεν", "gloss": "a_fait" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἐπέχρισέν", "gloss": "a_oint" },
+          { "greek": "μου", "gloss": "de_moi" },
+          { "greek": "τοὺς", "gloss": "les" },
+          { "greek": "ὀφθαλμοὺς", "gloss": "yeux" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "εἶπέν", "gloss": "a_dit" },
+          { "greek": "μοι", "gloss": "à_moi" },
+          { "greek": "ὅτι", "gloss": "que" },
+          { "greek": "Ὕπαγε", "gloss": "Va" },
+          { "greek": "εἰς", "gloss": "à" },
+          { "greek": "τὸν", "gloss": "le" },
+          { "greek": "Σιλωὰμ", "gloss": "Siloé" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "νίψαι·", "gloss": "lave-toi" },
+          { "greek": "ἀπελθὼν", "gloss": "étant_allé" },
+          { "greek": "οὖν", "gloss": "donc" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "νιψάμενος", "gloss": "m'étant_lavé" },
+          { "greek": "ἀνέβλεψα.", "gloss": "j'ai_retrouvé_la_vue" }
+        ]
       },
       {
         "verse_number": 12,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>εἶπον</span><span class='greek-word'>οὖν</span><span class='greek-word'>αὐτῷ·</span><span class='greek-word'>Ποῦ</span><span class='greek-word'>ἐστιν</span><span class='greek-word'>ἐκεῖνος;</span></p><p class='inter-segond'><span class='french-word'>Ils_dirent</span><span class='french-word'>donc</span><span class='french-word'>à_lui :</span><span class='french-word'>Où</span><span class='french-word'>est</span><span class='french-word'>celui-là ?</span></p><p class='inter-darby'><span class='french-word'>Ils</span><span class='french-word'>lui</span><span class='french-word'>dirent :</span><span class='french-word'>Où</span><span class='french-word'>est-il ?</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>λέγει·</span><span class='greek-word'>Οὐκ</span><span class='greek-word'>οἶδα.</span></p><p class='inter-segond'><span class='french-word'>Il_dit :</span><span class='french-word'>Je_ne_sais_pas.</span></p><p class='inter-darby'><span class='french-word'>Il_dit :</span><span class='french-word'>Je_ne_sais.</span></p></div>"
+        "translations": {
+          "segond": "Ils lui dirent : Où est cet homme ? Il répondit : Je ne sais.",
+          "darby": "Ils lui dirent : Où est celui-là ? Il dit : Je ne sais."
+        },
+        "interlinear": [
+          { "greek": "καὶ", "gloss": "Et" },
+          { "greek": "εἶπαν", "gloss": "ils_dirent" },
+          { "greek": "αὐτῷ·", "gloss": "à_lui" },
+          { "greek": "Ποῦ", "gloss": "Où" },
+          { "greek": "ἐστιν", "gloss": "est" },
+          { "greek": "ἐκεῖνος;", "gloss": "celui-là" },
+          { "greek": "λέγει·", "gloss": "Il_dit" },
+          { "greek": "Οὐκ", "gloss": "Ne...pas" },
+          { "greek": "οἶδα.", "gloss": "je_sais", "analyse": "Le 'je ne sais pas' de l'aveugle s'oppose au futur 'nous savons' arrogant des Pharisiens. Dans cette posture de non-savoir (Arbre de Vie), l'homme laisse un creux mental que l'Esprit Saint va pouvoir investir tout au long du chapitre, le conduisant à une confession de foi totale." }
+        ]
       },
       {
         "verse_number": 13,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Ἄγουσιν</span><span class='greek-word'>αὐτὸν</span><span class='greek-word'>πρὸς</span><span class='greek-word'>τοὺς</span><span class='greek-word'>Φαρισαίους,</span></p><p class='inter-segond'><span class='french-word'>Ils_mènent</span><span class='french-word'>lui</span><span class='french-word'>vers</span><span class='french-word'>les</span><span class='french-word'>Pharisiens,</span></p><p class='inter-darby'><span class='french-word'>Ils</span><span class='french-word'>mènent</span><span class='french-word'>vers</span><span class='french-word'>les</span><span class='french-word'>Pharisiens</span><span class='french-word'>celui</span><span class='french-word'>qui</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τόν</span><span class='greek-word'>ποτε</span><span class='greek-word'>τυφλόν.</span></p><p class='inter-segond'><span class='french-word'>celui</span><span class='french-word'>autrefois</span><span class='french-word'>aveugle.</span></p><p class='inter-darby'><span class='french-word'>auparavant</span><span class='french-word'>avait_été</span><span class='french-word'>aveugle.</span></p></div>"
+        "translations": {
+          "segond": "Ils menèrent devant les pharisiens celui qui avait été aveugle.",
+          "darby": "Ils mènent aux pharisiens celui qui avait été aveugle."
+        },
+        "interlinear": [
+          { "greek": "Ἄγουσιν", "gloss": "Ils_mènent" },
+          { "greek": "αὐτὸν", "gloss": "lui" },
+          { "greek": "πρὸς", "gloss": "vers" },
+          { "greek": "τοὺς", "gloss": "les" },
+          { "greek": "Φαρισαίους", "gloss": "Pharisiens" },
+          { "greek": "τόν", "gloss": "celui_qui" },
+          { "greek": "ποτε", "gloss": "autrefois" },
+          { "greek": "τυφλόν.", "gloss": "aveugle" }
+        ]
       },
       {
         "verse_number": 14,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἦν</span><span class='greek-word'>δὲ</span><span class='greek-word'>σάββατον</span><span class='greek-word'>ὅτε</span><span class='greek-word'>τὸν</span><span class='greek-word'>πηλὸν</span><span class='greek-word'>ἐποίησεν</span></p><p class='inter-segond'><span class='french-word'>C'était</span><span class='french-word'>mais</span><span class='french-word'>sabbat</span><span class='french-word'>quand</span><span class='french-word'>la</span><span class='french-word'>boue</span><span class='french-word'>fit</span></p><p class='inter-darby'><span class='french-word'>Or</span><span class='french-word'>c’était</span><span class='french-word'>un</span><span class='french-word'>sabbat</span><span class='french-word'>quand</span><span class='french-word'>Jésus</span><span class='french-word'>avait_fait</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὁ</span><span class='greek-word'>Ἰησοῦς</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἀνέῳξεν</span><span class='greek-word'>αὐτοῦ</span><span class='greek-word'>τοὺς</span><span class='greek-word'>ὀφθαλμούς.</span></p><p class='inter-segond'><span class='french-word'>le</span><span class='french-word'>Jésus</span><span class='french-word'>et</span><span class='french-word'>ouvrit</span><span class='french-word'>ses</span><span class='french-word'>les</span><span class='french-word'>yeux.</span></p><p class='inter-darby'><span class='french-word'>la</span><span class='french-word'>boue</span><span class='french-word'>et</span><span class='french-word'>avait_ouvert</span><span class='french-word'>ses</span><span class='french-word'>yeux.</span></p></div>"
+        "translations": {
+          "segond": "Or, c'était un jour de sabbat que Jésus avait fait de la boue, et lui avait ouvert les yeux.",
+          "darby": "Or c'était sabbat, le jour où Jésus fit de la boue et lui ouvrit les yeux."
+        },
+        "interlinear": [
+          { "greek": "ἦν", "gloss": "C'était" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "σάββατον", "gloss": "sabbat" },
+          { "greek": "ἐν", "gloss": "en" },
+          { "greek": "ᾗ", "gloss": "lequel" },
+          { "greek": "ἡμέρᾳ", "gloss": "jour" },
+          { "greek": "τὸν", "gloss": "la" },
+          { "greek": "πηλὸν", "gloss": "boue" },
+          { "greek": "ἐποίησεν", "gloss": "fit" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἀνέῳξεν", "gloss": "ouvrit" },
+          { "greek": "αὐτοῦ", "gloss": "de_lui" },
+          { "greek": "τοὺς", "gloss": "les" },
+          { "greek": "ὀφθαλμούς.", "gloss": "yeux" }
+        ]
       },
       {
         "verse_number": 15,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>πάλιν</span><span class='greek-word'>οὖν</span><span class='greek-word'>ἠρώτων</span><span class='greek-word'>αὐτὸν</span><span class='greek-word'>καὶ</span><span class='greek-word'>οἱ</span><span class='greek-word'>Φαρισαῖοι</span></p><p class='inter-segond'><span class='french-word'>De_nouveau</span><span class='french-word'>donc</span><span class='french-word'>demandèrent_à</span><span class='french-word'>lui</span><span class='french-word'>aussi</span><span class='french-word'>les</span><span class='french-word'>Pharisiens</span></p><p class='inter-darby'><span class='french-word'>Les</span><span class='french-word'>Pharisiens</span><span class='french-word'>donc</span><span class='french-word'>lui</span><span class='french-word'>demandèrent</span><span class='french-word'>aussi</span><span class='french-word'>encore</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πῶς</span><span class='greek-word'>ἀνέβλεψεν.</span><span class='greek-word'>ὁ</span><span class='greek-word'>δὲ</span><span class='greek-word'>εἶπεν</span><span class='greek-word'>αὐτοῖς·</span></p><p class='inter-segond'><span class='french-word'>comment</span><span class='french-word'>il_a_recouvré_la_vue.</span><span class='french-word'>Lui</span><span class='french-word'>mais</span><span class='french-word'>dit</span><span class='french-word'>à_eux :</span></p><p class='inter-darby'><span class='french-word'>comment</span><span class='french-word'>il</span><span class='french-word'>avait_recouvré_la_vue.</span><span class='french-word'>Et</span><span class='french-word'>il</span><span class='french-word'>leur</span><span class='french-word'>dit :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Πηλὸν</span><span class='greek-word'>ἐπέθηκέ</span><span class='greek-word'>μου</span><span class='greek-word'>ἐπὶ</span><span class='greek-word'>τοὺς</span><span class='greek-word'>ὀφθαλμούς,</span></p><p class='inter-segond'><span class='french-word'>De_la_boue</span><span class='french-word'>il_a_mis</span><span class='french-word'>sur_mes</span><span class='french-word'>les</span><span class='french-word'>yeux,</span></p><p class='inter-darby'><span class='french-word'>Il_a_mis</span><span class='french-word'>de_la_boue</span><span class='french-word'>sur</span><span class='french-word'>mes</span><span class='french-word'>yeux,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ἐνιψάμην,</span><span class='greek-word'>καὶ</span><span class='greek-word'>βλέπω.</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>je_me_suis_lavé,</span><span class='french-word'>et</span><span class='french-word'>je_vois.</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>je_me_suis_lavé,</span><span class='french-word'>et</span><span class='french-word'>je_vois.</span></p></div>"
+        "translations": {
+          "segond": "De nouveau, les pharisiens aussi lui demandèrent comment il avait recouvré la vue. Et il leur dit : Il a appliqué de la boue sur mes yeux, je me suis lavé, et je vois.",
+          "darby": "Les pharisiens donc aussi lui demandèrent à leur tour comment il avait recouvré la vue. Et il leur dit : Il a mis de la boue sur mes yeux, et je me suis lavé, et je vois."
+        },
+        "interlinear": [
+          { "greek": "πάλιν", "gloss": "De_nouveau" },
+          { "greek": "οὖν", "gloss": "donc" },
+          { "greek": "ἠρώτων", "gloss": "interrogeaient" },
+          { "greek": "αὐτὸν", "gloss": "lui" },
+          { "greek": "καὶ", "gloss": "aussi" },
+          { "greek": "οἱ", "gloss": "les" },
+          { "greek": "Φαρισαῖοι", "gloss": "Pharisiens" },
+          { "greek": "πῶς", "gloss": "comment" },
+          { "greek": "ἀνέβλεψεν.", "gloss": "il_avait_recouvré_la_vue" },
+          { "greek": "ὁ", "gloss": "lui" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "εἶπεν", "gloss": "dit" },
+          { "greek": "αὐτοῖς·", "gloss": "à_eux" },
+          { "greek": "Πηλὸν", "gloss": "De_la_boue" },
+          { "greek": "ἐπέθηκεν", "gloss": "il_a_mis" },
+          { "greek": "ἐπὶ", "gloss": "sur" },
+          { "greek": "τοὺς", "gloss": "les" },
+          { "greek": "ὀφθαλμούς", "gloss": "yeux" },
+          { "greek": "μου,", "gloss": "de_moi" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἐνιψάμην,", "gloss": "je_me_suis_lavé" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "βλέπω.", "gloss": "je_vois" }
+        ]
       },
       {
         "verse_number": 16,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἔλεγον</span><span class='greek-word'>οὖν</span><span class='greek-word'>ἐκ</span><span class='greek-word'>τῶν</span><span class='greek-word'>Φαρισαίων</span><span class='greek-word'>τινές·</span></p><p class='inter-segond'><span class='french-word'>Disaient</span><span class='french-word'>donc</span><span class='french-word'>parmi</span><span class='french-word'>les</span><span class='french-word'>Pharisiens</span><span class='french-word'>quelques-uns :</span></p><p class='inter-darby'><span class='french-word'>Quelques-uns</span><span class='french-word'>donc</span><span class='french-word'>d’entre</span><span class='french-word'>les</span><span class='french-word'>Pharisiens</span><span class='french-word'>disaient :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Οὐκ</span><span class='greek-word'>ἔστιν</span><span class='greek-word'>οὗτος</span><span class='greek-word'>παρὰ</span><span class='greek-word'>Θεοῦ</span><span class='greek-word'>ὁ</span><span class='greek-word'>ἄνθρωπος,</span></p><p class='inter-segond'><span class='french-word'>Pas</span><span class='french-word'>est</span><span class='french-word'>celui-ci</span><span class='french-word'>de_la_part_de</span><span class='french-word'>Dieu</span><span class='french-word'>cet</span><span class='french-word'>homme,</span></p><p class='inter-darby'><span class='french-word'>Cet</span><span class='french-word'>homme</span><span class='french-word'>n’est_pas</span><span class='french-word'>de_Dieu,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὅτι</span><span class='greek-word'>τὸ</span><span class='greek-word'>σάββατον</span><span class='greek-word'>οὐ</span><span class='greek-word'>τηρεῖ.</span></p><p class='inter-segond'><span class='french-word'>car</span><span class='french-word'>le</span><span class='french-word'>sabbat</span><span class='french-word'>pas</span><span class='french-word'>il_ne_garde.</span></p><p class='inter-darby'><span class='french-word'>car</span><span class='french-word'>il</span><span class='french-word'>ne_garde_pas</span><span class='french-word'>le</span><span class='french-word'>sabbat.</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἄλλοι</span><span class='greek-word'>ἔλεγον·</span><span class='greek-word'>Πῶς</span><span class='greek-word'>δύναται</span><span class='greek-word'>ἄνθρωπος</span></p><p class='inter-segond'><span class='french-word'>D'autres</span><span class='french-word'>disaient :</span><span class='french-word'>Comment</span><span class='french-word'>peut</span><span class='french-word'>un_homme</span></p><p class='inter-darby'><span class='french-word'>D’autres</span><span class='french-word'>disaient :</span><span class='french-word'>Comment</span><span class='french-word'>un</span><span class='french-word'>homme</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἁμαρτωλὸς</span><span class='greek-word'>τοιαῦτα</span><span class='greek-word'>σημεῖα</span><span class='greek-word'>ποιεῖν;</span></p><p class='inter-segond'><span class='french-word'>pécheur</span><span class='french-word'>de_tels</span><span class='french-word'>miracles</span><span class='french-word'>faire ?</span></p><p class='inter-darby'><span class='french-word'>pécheur</span><span class='french-word'>peut-il</span><span class='french-word'>faire</span><span class='french-word'>de</span><span class='french-word'>tels</span><span class='french-word'>miracles ?</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>σχίσμα</span><span class='greek-word'>ἦν</span><span class='greek-word'>ἐν</span><span class='greek-word'>αὐτοῖς.</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>division</span><span class='french-word'>était</span><span class='french-word'>parmi</span><span class='french-word'>eux.</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>il_y_avait</span><span class='french-word'>une_division</span><span class='french-word'>parmi</span><span class='french-word'>eux.</span></p></div>"
+        "translations": {
+          "segond": "Sur quoi quelques-uns des pharisiens dirent : Cet homme ne vient pas de Dieu, car il n'observe pas le sabbat. D'autres dirent : Comment un homme pécheur peut-il faire de tels miracles ? Et il y eut division parmi eux.",
+          "darby": "Quelques-uns donc des pharisiens disaient : Cet homme n'est pas de Dieu, car il ne garde pas le sabbat. D'autres disaient : Comment un homme pécheur peut-il faire de tels miracles ? Et il y avait une division parmi eux."
+        },
+        "interlinear": [
+          { "greek": "ἔλεγον", "gloss": "Disaient" },
+          { "greek": "οὖν", "gloss": "donc" },
+          { "greek": "ἐκ", "gloss": "d'" },
+          { "greek": "τῶν", "gloss": "les" },
+          { "greek": "Φαρισαίων", "gloss": "Pharisiens" },
+          { "greek": "τινες·", "gloss": "quelques" },
+          { "greek": "Οὐκ", "gloss": "Ne...pas" },
+          { "greek": "ἔστιν", "gloss": "est" },
+          { "greek": "ἀπὸ", "gloss": "de_la_part_de" },
+          { "greek": "θεοῦ", "gloss": "Dieu" },
+          { "greek": "ὁ", "gloss": "cet" },
+          { "greek": "ἄνθρωπος", "gloss": "homme" },
+          { "greek": "οὗτος,", "gloss": "homme" },
+          { "greek": "ὅτι", "gloss": "car" },
+          { "greek": "τὸ", "gloss": "le" },
+          { "greek": "σάββατον", "gloss": "sabbat" },
+          { "greek": "οὐ", "gloss": "ne...pas" },
+          { "greek": "τηρεῖ.", "gloss": "il_observe" },
+          { "greek": "ἄλλοι", "gloss": "d'autres" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "ἔλεγον·", "gloss": "disaient" },
+          { "greek": "Πῶς", "gloss": "Comment" },
+          { "greek": "δύναται", "gloss": "peut" },
+          { "greek": "ἄνθρωπος", "gloss": "homme" },
+          { "greek": "ἁμαρτωλὸς", "gloss": "pécheur" },
+          { "greek": "τοιαῦτα", "gloss": "de_tels" },
+          { "greek": "σημεῖα", "gloss": "miracles" },
+          { "greek": "ποιεῖν;", "gloss": "faire" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "σχίσμα", "gloss": "une_division/schisme", "analyse": "Le *schisma* (déchirure, division). C'est le propre du Monde duel : incapable de recevoir le Royaume UN, il se déchire sur l'interprétation. Ils ne regardent pas l'homme guéri (Sujet), ils regardent la Loi (Objet)." },
+          { "greek": "ἦν", "gloss": "il_y_avait" },
+          { "greek": "ἐν", "gloss": "parmi" },
+          { "greek": "αὐτοῖς.", "gloss": "eux" }
+        ]
       },
       {
         "verse_number": 17,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>λέγουσι</span><span class='greek-word'>τῷ</span><span class='greek-word'>τυφλῷ</span><span class='greek-word'>πάλιν·</span></p><p class='inter-segond'><span class='french-word'>Ils_disent</span><span class='french-word'>à_l'</span><span class='french-word'>aveugle</span><span class='french-word'>encore :</span></p><p class='inter-darby'><span class='french-word'>Ils</span><span class='french-word'>disent</span><span class='french-word'>donc</span><span class='french-word'>encore</span><span class='french-word'>à</span><span class='french-word'>l’aveugle :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Σὺ</span><span class='greek-word'>τί</span><span class='greek-word'>λέγεις</span><span class='greek-word'>περὶ</span><span class='greek-word'>αὐτοῦ,</span></p><p class='inter-segond'><span class='french-word'>Toi</span><span class='french-word'>que</span><span class='french-word'>dis-tu</span><span class='french-word'>de</span><span class='french-word'>lui,</span></p><p class='inter-darby'><span class='french-word'>Toi,</span><span class='french-word'>que</span><span class='french-word'>dis-tu</span><span class='french-word'>de</span><span class='french-word'>lui,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὅτι</span><span class='greek-word'>ἤνοιξέ</span><span class='greek-word'>σου</span><span class='greek-word'>τοὺς</span><span class='greek-word'>ὀφθαλμούς;</span></p><p class='inter-segond'><span class='french-word'>parce_qu'il</span><span class='french-word'>a_ouvert</span><span class='french-word'>tes</span><span class='french-word'>les</span><span class='french-word'>yeux ?</span></p><p class='inter-darby'><span class='french-word'>de_ce_qu'il</span><span class='french-word'>t'a</span><span class='french-word'>ouvert</span><span class='french-word'>les</span><span class='french-word'>yeux ?</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὁ</span><span class='greek-word'>δὲ</span><span class='greek-word'>εἶπεν</span><span class='greek-word'>ὅτι</span><span class='greek-word'>Προφήτης</span><span class='greek-word'>ἐστίν.</span></p><p class='inter-segond'><span class='french-word'>Lui</span><span class='french-word'>mais</span><span class='french-word'>dit</span><span class='french-word'>que :</span><span class='french-word'>Un_prophète</span><span class='french-word'>il_est.</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>il</span><span class='french-word'>dit :</span><span class='french-word'>C’est</span><span class='french-word'>un</span><span class='french-word'>prophète.</span></p></div>"
+        "translations": {
+          "segond": "Ils dirent encore à l'aveugle : Toi, que dis-tu de lui, sur ce qu'il t'a ouvert les yeux ? Il répondit : C'est un prophète.",
+          "darby": "Ils disent donc encore à l'aveugle : Toi, que dis-tu de lui, puisque tu lui as ouvert les yeux ? Et il dit : C'est un prophète."
+        },
+        "interlinear": [
+          { "greek": "λέγουσιν", "gloss": "Ils_disent" },
+          { "greek": "οὖν", "gloss": "donc" },
+          { "greek": "τῷ", "gloss": "à" },
+          { "greek": "τυφλῷ", "gloss": "l'aveugle" },
+          { "greek": "πάλιν·", "gloss": "de_nouveau" },
+          { "greek": "Σὺ", "gloss": "Toi" },
+          { "greek": "τί", "gloss": "que" },
+          { "greek": "λέγεις", "gloss": "dis-tu" },
+          { "greek": "περὶ", "gloss": "au_sujet_de" },
+          { "greek": "αὐτοῦ,", "gloss": "lui" },
+          { "greek": "ὅτι", "gloss": "que" },
+          { "greek": "ἤνοιξέν", "gloss": "il_a_ouvert" },
+          { "greek": "σου", "gloss": "de_toi" },
+          { "greek": "τοὺς", "gloss": "les" },
+          { "greek": "ὀφθαλμούς;", "gloss": "yeux" },
+          { "greek": "ὁ", "gloss": "lui" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "εἶπεν", "gloss": "dit" },
+          { "greek": "ὅτι", "gloss": "que" },
+          { "greek": "Προφήτης", "gloss": "prophète" },
+          { "greek": "ἐστίν.", "gloss": "il_est" }
+        ]
       },
       {
         "verse_number": 18,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>οὐκ</span><span class='greek-word'>ἐπίστευσαν</span><span class='greek-word'>οὖν</span><span class='greek-word'>οἱ</span><span class='greek-word'>Ἰουδαῖοι</span><span class='greek-word'>περὶ</span><span class='greek-word'>αὐτοῦ</span></p><p class='inter-segond'><span class='french-word'>Pas</span><span class='french-word'>ne_crurent</span><span class='french-word'>donc</span><span class='french-word'>les</span><span class='french-word'>Juifs</span><span class='french-word'>à_son_sujet</span></p><p class='inter-darby'><span class='french-word'>Les</span><span class='french-word'>Juifs</span><span class='french-word'>donc</span><span class='french-word'>ne</span><span class='french-word'>crurent</span><span class='french-word'>pas</span><span class='french-word'>à</span><span class='french-word'>son</span><span class='french-word'>égard,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὅτι</span><span class='greek-word'>τυφλὸς</span><span class='greek-word'>ἦν</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἀνέβλεψεν,</span></p><p class='inter-segond'><span class='french-word'>qu'</span><span class='french-word'>aveugle</span><span class='french-word'>il_était</span><span class='french-word'>et</span><span class='french-word'>qu'il_voyait_maintenant,</span></p><p class='inter-darby'><span class='french-word'>qu’il</span><span class='french-word'>eût</span><span class='french-word'>été</span><span class='french-word'>aveugle</span><span class='french-word'>et</span><span class='french-word'>qu’il</span><span class='french-word'>eût</span><span class='french-word'>recouvré</span><span class='french-word'>la</span><span class='french-word'>vue,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἕως</span><span class='greek-word'>ὅτου</span><span class='greek-word'>ἐφώνησαν</span><span class='greek-word'>τοὺς</span><span class='greek-word'>γονεῖς</span><span class='greek-word'>αὐτοῦ</span></p><p class='inter-segond'><span class='french-word'>jusqu'à_ce_que</span><span class='french-word'>ils_eussent_appelé</span><span class='french-word'>les</span><span class='french-word'>parents</span><span class='french-word'>siens</span></p><p class='inter-darby'><span class='french-word'>jusqu’à_ce_qu’ils</span><span class='french-word'>eussent</span><span class='french-word'>appelé</span><span class='french-word'>les</span><span class='french-word'>parents</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τοῦ</span><span class='greek-word'>ἀναβλέψαντος,</span></p><p class='inter-segond'><span class='french-word'>de_celui</span><span class='french-word'>ayant_recouvré_la_vue,</span></p><p class='inter-darby'><span class='french-word'>de</span><span class='french-word'>celui</span><span class='french-word'>qui</span><span class='french-word'>avait_recouvré</span><span class='french-word'>la</span><span class='french-word'>vue.</span></p></div>"
+        "translations": {
+          "segond": "Les Juifs ne crurent point qu'il eût été aveugle et qu'il eût recouvré la vue avant d'avoir appelé ses parents.",
+          "darby": "Les Juifs donc ne crurent pas, pour ce qui le concerne, qu'il eût été aveugle et qu'il eût recouvré la vue, jusqu'à ce qu'ils eussent appelé les parents de celui qui avait recouvré la vue,"
+        },
+        "interlinear": [
+          { "greek": "Οὐκ", "gloss": "Ne...pas" },
+          { "greek": "ἐπίστευσαν", "gloss": "crurent" },
+          { "greek": "οὖν", "gloss": "donc" },
+          { "greek": "οἱ", "gloss": "les" },
+          { "greek": "Ἰουδαῖοι", "gloss": "Juifs" },
+          { "greek": "περὶ", "gloss": "au_sujet_de" },
+          { "greek": "αὐτοῦ", "gloss": "lui" },
+          { "greek": "ὅτι", "gloss": "que" },
+          { "greek": "ἦν", "gloss": "il_était" },
+          { "greek": "τυφλὸς", "gloss": "aveugle" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἀνέβλεψεν,", "gloss": "avait_recouvré_la_vue" },
+          { "greek": "ἕως", "gloss": "jusqu'à_ce_que" },
+          { "greek": "ὅτου", "gloss": "que" },
+          { "greek": "ἐφώνησαν", "gloss": "ils_aient_appelé" },
+          { "greek": "τοὺς", "gloss": "les" },
+          { "greek": "γονεῖς", "gloss": "parents" },
+          { "greek": "αὐτοῦ", "gloss": "de_lui" }
+        ]
       },
       {
         "verse_number": 19,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ἠρώτησαν</span><span class='greek-word'>αὐτοὺς</span><span class='greek-word'>λέγοντες·</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>ils_demandèrent_à</span><span class='french-word'>eux</span><span class='french-word'>disant :</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>ils</span><span class='french-word'>les</span><span class='french-word'>interrogèrent,</span><span class='french-word'>disant :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Οὗτός</span><span class='greek-word'>ἐστιν</span><span class='greek-word'>ὁ</span><span class='greek-word'>υἱὸς</span><span class='greek-word'>ὑμῶν,</span></p><p class='inter-segond'><span class='french-word'>C'est</span><span class='french-word'>celui-là</span><span class='french-word'>est</span><span class='french-word'>le</span><span class='french-word'>fils</span><span class='french-word'>vôtre,</span></p><p class='inter-darby'><span class='french-word'>Celui-ci</span><span class='french-word'>est-il</span><span class='french-word'>votre</span><span class='french-word'>fils</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὃν</span><span class='greek-word'>ὑμεῖς</span><span class='greek-word'>λέγετε</span><span class='greek-word'>ὅτι</span><span class='greek-word'>τυφλὸς</span><span class='greek-word'>ἐγεννήθη;</span></p><p class='inter-segond'><span class='french-word'>lequel</span><span class='french-word'>vous</span><span class='french-word'>dites</span><span class='french-word'>qu'</span><span class='french-word'>aveugle</span><span class='french-word'>est_né ?</span></p><p class='inter-darby'><span class='french-word'>que</span><span class='french-word'>vous,</span><span class='french-word'>vous</span><span class='french-word'>dites</span><span class='french-word'>être</span><span class='french-word'>né</span><span class='french-word'>aveugle ?</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πῶς</span><span class='greek-word'>οὖν</span><span class='greek-word'>ἄρτι</span><span class='greek-word'>βλέπει;</span></p><p class='inter-segond'><span class='french-word'>comment</span><span class='french-word'>donc</span><span class='french-word'>maintenant</span><span class='french-word'>voit-il ?</span></p><p class='inter-darby'><span class='french-word'>Comment</span><span class='french-word'>donc</span><span class='french-word'>voit-il</span><span class='french-word'>maintenant ?</span></p></div>"
+        "translations": {
+          "segond": "et ils les interrogèrent, disant : Est-ce là votre fils, dont vous dites qu'il est né aveugle ? Comment donc voit-il maintenant ?",
+          "darby": "et qu'ils les interrogèrent, disant : Est-ce là votre fils, dont vous dites qu'il est né aveugle ? Comment donc voit-il maintenant ?"
+        },
+        "interlinear": [
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἠρώτησαν", "gloss": "interrogèrent" },
+          { "greek": "αὐτοὺς", "gloss": "eux" },
+          { "greek": "λέγοντες·", "gloss": "disant" },
+          { "greek": "Οὗτός", "gloss": "Celui-ci" },
+          { "greek": "ἐστιν", "gloss": "est" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "υἱὸς", "gloss": "fils" },
+          { "greek": "ὑμῶν", "gloss": "de_vous" },
+          { "greek": "ὃν", "gloss": "lequel" },
+          { "greek": "ὑμεῖς", "gloss": "vous" },
+          { "greek": "λέγετε", "gloss": "vous_dites" },
+          { "greek": "ὅτι", "gloss": "que" },
+          { "greek": "τυφλὸς", "gloss": "aveugle" },
+          { "greek": "ἐγεννήθη;", "gloss": "il_est_né" },
+          { "greek": "πῶς", "gloss": "comment" },
+          { "greek": "οὖν", "gloss": "donc" },
+          { "greek": "βλέπει", "gloss": "il_voit" },
+          { "greek": "ἄρτι;", "gloss": "maintenant" }
+        ]
       },
       {
         "verse_number": 20,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἀπεκρίθησαν</span><span class='greek-word'>δὲ</span><span class='greek-word'>αὐτοῖς</span><span class='greek-word'>οἱ</span><span class='greek-word'>γονεῖς</span><span class='greek-word'>αὐτοῦ</span><span class='greek-word'>καὶ</span><span class='greek-word'>εἶπον·</span></p><p class='inter-segond'><span class='french-word'>Répondirent</span><span class='french-word'>mais</span><span class='french-word'>à_eux</span><span class='french-word'>les</span><span class='french-word'>parents</span><span class='french-word'>siens</span><span class='french-word'>et</span><span class='french-word'>dirent :</span></p><p class='inter-darby'><span class='french-word'>Ses</span><span class='french-word'>parents</span><span class='french-word'>répondirent</span><span class='french-word'>et</span><span class='french-word'>dirent :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Οἴδαμεν</span><span class='greek-word'>ὅτι</span><span class='greek-word'>οὗτός</span><span class='greek-word'>ἐστιν</span><span class='greek-word'>ὁ</span><span class='greek-word'>υἱὸς</span><span class='greek-word'>ἡμῶν</span></p><p class='inter-segond'><span class='french-word'>Nous_savons</span><span class='french-word'>que</span><span class='french-word'>celui-là</span><span class='french-word'>est</span><span class='french-word'>le</span><span class='french-word'>fils</span><span class='french-word'>notre</span></p><p class='inter-darby'><span class='french-word'>Nous</span><span class='french-word'>savons</span><span class='french-word'>que</span><span class='french-word'>celui-ci</span><span class='french-word'>est</span><span class='french-word'>notre</span><span class='french-word'>fils,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ὅτι</span><span class='greek-word'>τυφλὸς</span><span class='greek-word'>ἐγεννήθη·</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>qu'</span><span class='french-word'>aveugle</span><span class='french-word'>il_est_né ;</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>qu'il</span><span class='french-word'>est</span><span class='french-word'>né</span><span class='french-word'>aveugle ;</span></p></div>"
+        "translations": {
+          "segond": "Ses parents répondirent : Nous savons que c'est notre fils, et qu'il est né aveugle;",
+          "darby": "Ses parents répondirent et leur dirent : Nous savons que c'est notre fils, et qu'il est né aveugle ;"
+        },
+        "interlinear": [
+          { "greek": "ἀπεκρίθησαν", "gloss": "Répondirent" },
+          { "greek": "οὖν", "gloss": "donc" },
+          { "greek": "οἱ", "gloss": "les" },
+          { "greek": "γονεῖς", "gloss": "parents" },
+          { "greek": "αὐτοῦ", "gloss": "de_lui" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "εἶπαν·", "gloss": "dirent" },
+          { "greek": "Οἴδαμεν", "gloss": "Nous_savons", "analyse": "Le 'Oidamen' des parents. Ici, le savoir n'est pas une vérité vivante, mais une protection sécuritaire. Ils veulent éviter de s'engager, de devenir des Sujets. Ils se réfugient dans la certitude biologique pour ne pas affronter la portée spirituelle du signe." },
+          { "greek": "ὅτι", "gloss": "que" },
+          { "greek": "οὗτός", "gloss": "celui-ci" },
+          { "greek": "ἐστιν", "gloss": "est" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "υἱὸς", "gloss": "fils" },
+          { "greek": "ἡμῶν", "gloss": "de_nous" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ὅτι", "gloss": "que" },
+          { "greek": "τυφλὸς", "gloss": "aveugle" },
+          { "greek": "ἐγεννήθη·" , "gloss": "il_est_né" }
+        ]
       },
       {
         "verse_number": 21,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>πῶς</span><span class='greek-word'>δὲ</span><span class='greek-word'>νῦν</span><span class='greek-word'>βλέπει</span><span class='greek-word'>οὐκ</span><span class='greek-word'>οἴδαμεν,</span></p><p class='inter-segond'><span class='french-word'>comment</span><span class='french-word'>mais</span><span class='french-word'>maintenant</span><span class='french-word'>il_voit</span><span class='french-word'>pas</span><span class='french-word'>nous_ne_savons,</span></p><p class='inter-darby'><span class='french-word'>mais</span><span class='french-word'>comment</span><span class='french-word'>il</span><span class='french-word'>voit</span><span class='french-word'>maintenant,</span><span class='french-word'>nous</span><span class='french-word'>ne_le_savons_pas ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἢ</span><span class='greek-word'>τίς</span><span class='greek-word'>ἤνοιξεν</span><span class='greek-word'>αὐτοῦ</span><span class='greek-word'>τοὺς</span><span class='greek-word'>ὀφθαλμοὺς</span></p><p class='inter-segond'><span class='french-word'>ou</span><span class='french-word'>qui</span><span class='french-word'>a_ouvert</span><span class='french-word'>ses</span><span class='french-word'>les</span><span class='french-word'>yeux</span></p><p class='inter-darby'><span class='french-word'>ou</span><span class='french-word'>qui</span><span class='french-word'>lui</span><span class='french-word'>a</span><span class='french-word'>ouvert</span><span class='french-word'>les</span><span class='french-word'>yeux,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἡμεῖς</span><span class='greek-word'>οὐκ</span><span class='greek-word'>οἴδαμεν·</span><span class='greek-word'>αὐτὸν</span><span class='greek-word'>ἐρωτήσατε,</span></p><p class='inter-segond'><span class='french-word'>nous</span><span class='french-word'>pas</span><span class='french-word'>ne_savons ;</span><span class='french-word'>lui</span><span class='french-word'>interrogez-</span><span class='french-word'>le,</span></p><p class='inter-darby'><span class='french-word'>nous</span><span class='french-word'>ne_le_savons_pas_non_plus :</span><span class='french-word'>interrogez-le,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἡλικίαν</span><span class='greek-word'>ἔχει,</span><span class='greek-word'>αὐτὸς</span><span class='greek-word'>περὶ</span><span class='greek-word'>ἑαυτοῦ</span><span class='greek-word'>λαλήσει.</span></p><p class='inter-segond'><span class='french-word'>l'âge</span><span class='french-word'>il_a,</span><span class='french-word'>lui</span><span class='french-word'>sur</span><span class='french-word'>lui-même</span><span class='french-word'>parlera.</span></p><p class='inter-darby'><span class='french-word'>il</span><span class='french-word'>a</span><span class='french-word'>de_l’âge,</span><span class='french-word'>il</span><span class='french-word'>parlera</span><span class='french-word'>de</span><span class='french-word'>ce</span><span class='french-word'>qui_le_concerne.</span></p></div>"
+        "translations": {
+          "segond": "mais comment il voit maintenant, ou qui a ouvert ses yeux, nous ne le savons pas. Interrogez-le lui-même, il est âgé, il parlera de ce qui le concerne.",
+          "darby": "mais comment il voit maintenant, nous ne le savons pas, ou qui a ouvert ses yeux, nous ne le savons pas ; lui-même a de l'âge, interrogez-le, il parlera de lui-même."
+        },
+        "interlinear": [
+          { "greek": "πῶς", "gloss": "comment" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "νῦν", "gloss": "maintenant" },
+          { "greek": "βλέπει", "gloss": "il_voit" },
+          { "greek": "οὐκ", "gloss": "ne...pas" },
+          { "greek": "οἴδαμεν,", "gloss": "nous_savons" },
+          { "greek": "ἢ", "gloss": "ou" },
+          { "greek": "τίς", "gloss": "qui" },
+          { "greek": "ἤνοιξεν", "gloss": "a_ouvert" },
+          { "greek": "αὐτοῦ", "gloss": "de_lui" },
+          { "greek": "τοὺς", "gloss": "les" },
+          { "greek": "ὀφθαλμοὺς", "gloss": "yeux" },
+          { "greek": "ἡμεῖς", "gloss": "nous" },
+          { "greek": "οὐκ", "gloss": "ne...pas" },
+          { "greek": "οἴδαμεν·", "gloss": "savons" },
+          { "greek": "αὐτὸν", "gloss": "lui" },
+          { "greek": "ἐρωτήσατε,", "gloss": "interrogez" },
+          { "greek": "ἡλικίαν", "gloss": "âge/maturité" },
+          { "greek": "ἔχει,", "gloss": "il_a" },
+          { "greek": "αὐτὸς", "gloss": "lui-même" },
+          { "greek": "λαλήσει", "gloss": "parlera" },
+          { "greek": "περὶ", "gloss": "au_sujet_de" },
+          { "greek": "ἑαυτοῦ.", "gloss": "lui-même" }
+        ]
       },
       {
         "verse_number": 22,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ταῦτα</span><span class='greek-word'>εἶπον</span><span class='greek-word'>οἱ</span><span class='greek-word'>γονεῖς</span><span class='greek-word'>αὐτοῦ</span><span class='greek-word'>ὅτι</span><span class='greek-word'>ἐφοβοῦντο</span></p><p class='inter-segond'><span class='french-word'>Cela</span><span class='french-word'>dirent</span><span class='french-word'>les</span><span class='french-word'>parents</span><span class='french-word'>siens</span><span class='french-word'>parce_que</span><span class='french-word'>ils_craignaient</span></p><p class='inter-darby'><span class='french-word'>Ses</span><span class='french-word'>parents</span><span class='french-word'>dirent</span><span class='french-word'>cela</span><span class='french-word'>parce_qu’ils</span><span class='french-word'>craignaient</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τοὺς</span><span class='greek-word'>Ἰουδαίους·</span><span class='greek-word'>ἤδη</span><span class='greek-word'>γὰρ</span><span class='greek-word'>συνετέθειντο</span></p><p class='inter-segond'><span class='french-word'>les</span><span class='french-word'>Juifs ;</span><span class='french-word'>déjà</span><span class='french-word'>car</span><span class='french-word'>étaient_convenus</span></p><p class='inter-darby'><span class='french-word'>les</span><span class='french-word'>Juifs ;</span><span class='french-word'>car</span><span class='french-word'>les</span><span class='french-word'>Juifs</span><span class='french-word'>étaient</span><span class='french-word'>déjà</span><span class='french-word'>convenus</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>οἱ</span><span class='greek-word'>Ἰουδαῖοι</span><span class='greek-word'>ἵνα</span><span class='greek-word'>ἐάν</span><span class='greek-word'>τις</span><span class='greek-word'>αὐτὸν</span><span class='greek-word'>ὁμολογήσῃ</span></p><p class='inter-segond'><span class='french-word'>les</span><span class='french-word'>Juifs</span><span class='french-word'>que</span><span class='french-word'>si</span><span class='french-word'>quelqu'un</span><span class='french-word'>lui</span><span class='french-word'>reconnaissait</span></p><p class='inter-darby'><span class='french-word'>que,</span><span class='french-word'>si</span><span class='french-word'>quelqu’un</span><span class='french-word'>le</span><span class='french-word'>confessait</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Χριστόν,</span><span class='greek-word'>ἀποσυνάγωγος</span><span class='greek-word'>γένηται.</span></p><p class='inter-segond'><span class='french-word'>Christ,</span><span class='french-word'>exclu_de_la_synagogue</span><span class='french-word'>il_serait.</span></p><p class='inter-darby'><span class='french-word'>pour_le</span><span class='french-word'>Christ,</span><span class='french-word'>il</span><span class='french-word'>serait</span><span class='french-word'>exclu_de_la_synagogue.</span></p></div>"
+        "translations": {
+          "segond": "Ses parents dirent cela parce qu'ils craignaient les Juifs; car les Juifs avaient déjà convenu que, si quelqu'un reconnaissait Jésus comme le Christ, il serait exclu de la synagogue.",
+          "darby": "Ses parents dirent ces choses parce qu'ils craignaient les Juifs ; car les Juifs étaient déjà convenus que si quelqu'un le confessait comme Christ, il serait exclu de la synagogue."
+        },
+        "interlinear": [
+          { "greek": "ταῦτα", "gloss": "Ces_choses" },
+          { "greek": "εἶπαν", "gloss": "dirent" },
+          { "greek": "οἱ", "gloss": "les" },
+          { "greek": "γονεῖς", "gloss": "parents" },
+          { "greek": "αὐτοῦ", "gloss": "de_lui" },
+          { "greek": "ὅτι", "gloss": "parce_qu'" },
+          { "greek": "ἐφοβοῦντο", "gloss": "ils_craignaient", "analyse": "La peur (phobos) est le ciment de l'aliénation. Les parents préfèrent leur sécurité dans le système clos ('la synagogue') à la liberté du Sujet. Ils acceptent d'être des objets du système plutôt que des témoins de la Lumière." },
+          { "greek": "τοὺς", "gloss": "les" },
+          { "greek": "Ἰουδαίους·", "gloss": "Juifs" },
+          { "greek": "ἤδη", "gloss": "déjà" },
+          { "greek": "γὰρ", "gloss": "car" },
+          { "greek": "συνετέθειντο", "gloss": "ils_avaient_convenu" },
+          { "greek": "οἱ", "gloss": "les" },
+          { "greek": "Ἰουδαῖοι", "gloss": "Juifs" },
+          { "greek": "ἵνα", "gloss": "que" },
+          { "greek": "ἐάν", "gloss": "si" },
+          { "greek": "τις", "gloss": "quelqu'un" },
+          { "greek": "αὐτὸν", "gloss": "lui" },
+          { "greek": "ὁμολογήσῃ", "gloss": "reconnaissait/confessait" },
+          { "greek": "Χριστόν,", "gloss": "Christ" },
+          { "greek": "ἀποσυνάγωγος", "gloss": "exclu_de_la_synagogue" },
+          { "greek": "γένηται.", "gloss": "il_soit" }
+        ]
       },
       {
         "verse_number": 23,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>διὰ</span><span class='greek-word'>τοῦτο</span><span class='greek-word'>οἱ</span><span class='greek-word'>γονεῖς</span><span class='greek-word'>αὐτοῦ</span><span class='greek-word'>εἶπον</span></p><p class='inter-segond'><span class='french-word'>À_cause_de</span><span class='french-word'>cela</span><span class='french-word'>les</span><span class='french-word'>parents</span><span class='french-word'>siens</span><span class='french-word'>dirent :</span></p><p class='inter-darby'><span class='french-word'>C'est_pourquoi</span><span class='french-word'>ses</span><span class='french-word'>parents</span><span class='french-word'>dirent :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὅτι</span><span class='greek-word'>Ἡλικίαν</span><span class='greek-word'>ἔχει,</span><span class='greek-word'>αὐτὸν</span><span class='greek-word'>ἐρωτήσατε.</span></p><p class='inter-segond'><span class='french-word'>L'âge</span><span class='french-word'>il_a,</span><span class='french-word'>lui</span><span class='french-word'>interrogez-</span><span class='french-word'>le.</span></p><p class='inter-darby'><span class='french-word'>Il</span><span class='french-word'>a</span><span class='french-word'>de_l’âge,</span><span class='french-word'>interrogez-le.</span></p></div>"
+        "translations": {
+          "segond": "C'est pourquoi ses parents dirent : Il a de l'âge, interrogez-le lui-même.",
+          "darby": "C'est pourquoi ses parents dirent : Il a de l'âge, interrogez-le."
+        },
+        "interlinear": [
+          { "greek": "διὰ", "gloss": "C'est_pourquoi" },
+          { "greek": "τοῦτο", "gloss": "cela" },
+          { "greek": "οἱ", "gloss": "les" },
+          { "greek": "γονεῖς", "gloss": "parents" },
+          { "greek": "αὐτοῦ", "gloss": "de_lui" },
+          { "greek": "εἶπαν·", "gloss": "dirent" },
+          { "greek": "Ὅτι", "gloss": "Qu'" },
+          { "greek": "ἡλικίαν", "gloss": "âge/maturité" },
+          { "greek": "ἔχει,", "gloss": "il_a" },
+          { "greek": "αὐτὸν", "gloss": "lui" },
+          { "greek": "ἐρωτήσατε.", "gloss": "interrogez" }
+        ]
       },
       {
         "verse_number": 24,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Ἐφώνησαν</span><span class='greek-word'>οὖν</span><span class='greek-word'>ἐκ</span><span class='greek-word'>δευτέρου</span><span class='greek-word'>τὸν</span><span class='greek-word'>ἄνθρωπον</span></p><p class='inter-segond'><span class='french-word'>Ils_appelèrent</span><span class='french-word'>donc</span><span class='french-word'>pour_la</span><span class='french-word'>deuxième_fois</span><span class='french-word'>l'</span><span class='french-word'>homme</span></p><p class='inter-darby'><span class='french-word'>Ils</span><span class='french-word'>appelèrent</span><span class='french-word'>donc</span><span class='french-word'>pour_la</span><span class='french-word'>seconde_fois</span><span class='french-word'>l'homme</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὃς</span><span class='greek-word'>ἦν</span><span class='greek-word'>τυφλός,</span><span class='greek-word'>καὶ</span><span class='greek-word'>εἶπον</span><span class='greek-word'>αὐτῷ·</span></p><p class='inter-segond'><span class='french-word'>lequel</span><span class='french-word'>était</span><span class='french-word'>aveugle,</span><span class='french-word'>et</span><span class='french-word'>dirent</span><span class='french-word'>à_lui :</span></p><p class='inter-darby'><span class='french-word'>qui</span><span class='french-word'>avait_été</span><span class='french-word'>aveugle,</span><span class='french-word'>et</span><span class='french-word'>lui</span><span class='french-word'>dirent :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Δὸς</span><span class='greek-word'>δόξαν</span><span class='greek-word'>τῷ</span><span class='greek-word'>Θεῷ·</span><span class='greek-word'>ἡμεῖς</span><span class='greek-word'>οἴδαμεν</span></p><p class='inter-segond'><span class='french-word'>Donne</span><span class='french-word'>gloire</span><span class='french-word'>à</span><span class='french-word'>Dieu ;</span><span class='french-word'>nous</span><span class='french-word'>savons</span></p><p class='inter-darby'><span class='french-word'>Donne</span><span class='french-word'>gloire</span><span class='french-word'>à</span><span class='french-word'>Dieu ;</span><span class='french-word'>nous,</span><span class='french-word'>nous</span><span class='french-word'>savons</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὅτι</span><span class='greek-word'>ὁ</span><span class='greek-word'>ἄνθρωπος</span><span class='greek-word'>οὗτος</span><span class='greek-word'>ἁμαρτωλός</span><span class='greek-word'>ἐστιν.</span></p><p class='inter-segond'><span class='french-word'>que</span><span class='french-word'>l'</span><span class='french-word'>homme</span><span class='french-word'>celui-ci</span><span class='french-word'>pécheur</span><span class='french-word'>est.</span></p><p class='inter-darby'><span class='french-word'>que</span><span class='french-word'>cet</span><span class='french-word'>homme</span><span class='french-word'>est</span><span class='french-word'>un_pécheur.</span></p></div>"
+        "translations": {
+          "segond": "Les pharisiens appelèrent une seconde fois l'homme qui avait été aveugle, et ils lui dirent : Donne gloire à Dieu; nous savons que cet homme est un pécheur.",
+          "darby": "Ils appelèrent donc une seconde fois l'homme qui avait été aveugle, et lui dirent : Donne gloire à Dieu ; nous, nous savons que cet homme est un pécheur."
+        },
+        "interlinear": [
+          { "greek": "ἐφώνησαν", "gloss": "Ils_appelèrent" },
+          { "greek": "οὖν", "gloss": "donc" },
+          { "greek": "ἐκ", "gloss": "de" },
+          { "greek": "δευτέρου", "gloss": "la_seconde_fois" },
+          { "greek": "τὸν", "gloss": "l'" },
+          { "greek": "ἄνθρωπον", "gloss": "homme" },
+          { "greek": "ὃς", "gloss": "qui" },
+          { "greek": "ἦν", "gloss": "était" },
+          { "greek": "τυφλὸς", "gloss": "aveugle" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "εἶπαν", "gloss": "dirent" },
+          { "greek": "αὐτῷ·", "gloss": "à_lui" },
+          { "greek": "Δὸς", "gloss": "Donne" },
+          { "greek": "δόξαν", "gloss": "gloire" },
+          { "greek": "τῷ", "gloss": "à" },
+          { "greek": "θεῷ·", "gloss": "Dieu" },
+          { "greek": "ἡμεῖς", "gloss": "nous" },
+          { "greek": "οἴδαμεν", "gloss": "savons" },
+          { "greek": "ὅτι", "gloss": "que" },
+          { "greek": "ὁ", "gloss": "cet" },
+          { "greek": "ἄνθρωπος", "gloss": "homme" },
+          { "greek": "οὗτος", "gloss": "homme" },
+          { "greek": "ἁμαρτωλός", "gloss": "pécheur" },
+          { "greek": "ἐστιν.", "gloss": "est" }
+        ]
       },
       {
         "verse_number": 25,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἀπεκρίθη</span><span class='greek-word'>οὖν</span><span class='greek-word'>ἐκεῖνος·</span><span class='greek-word'>Εἰ</span><span class='greek-word'>ἁμαρτωλός</span></p><p class='inter-segond'><span class='french-word'>Répondit</span><span class='french-word'>donc</span><span class='french-word'>lui :</span><span class='french-word'>S'</span><span class='french-word'>pécheur</span></p><p class='inter-darby'><span class='french-word'>Il</span><span class='french-word'>répondit</span><span class='french-word'>donc :</span><span class='french-word'>S’il</span><span class='french-word'>est</span><span class='french-word'>un_pécheur,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐστιν</span><span class='greek-word'>οὐκ</span><span class='greek-word'>οἶδα·</span><span class='greek-word'>ἓν</span><span class='greek-word'>οἶδα,</span></p><p class='inter-segond'><span class='french-word'>il_est</span><span class='french-word'>pas</span><span class='french-word'>je_ne_sais ;</span><span class='french-word'>une_chose</span><span class='french-word'>je_sais,</span></p><p class='inter-darby'><span class='french-word'>je</span><span class='french-word'>ne_le_sais_pas ;</span><span class='french-word'>je_sais</span><span class='french-word'>une_chose,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὅτι</span><span class='greek-word'>τυφλὸς</span><span class='greek-word'>ὢν</span><span class='greek-word'>ἄρτι</span><span class='greek-word'>βλέπω.</span></p><p class='inter-segond'><span class='french-word'>que</span><span class='french-word'>aveugle</span><span class='french-word'>étant</span><span class='french-word'>maintenant</span><span class='french-word'>je_vois.</span></p><p class='inter-darby'><span class='french-word'>c’est_que,</span><span class='french-word'>ayant_été</span><span class='french-word'>aveugle,</span><span class='french-word'>je</span><span class='french-word'>vois</span><span class='french-word'>maintenant.</span></p></div>"
+        "translations": {
+          "segond": "Il répondit : S'il est un pécheur, je ne sais; je sais une chose, c'est que j'étais aveugle et que maintenant je vois.",
+          "darby": "Celui-là donc répondit : S'il est un pécheur, je ne sais ; je sais une chose, c'est que, étant aveugle, maintenant je vois."
+        },
+        "interlinear": [
+          { "greek": "ἀπεκρίθη", "gloss": "Répondit" },
+          { "greek": "οὖν", "gloss": "donc" },
+          { "greek": "ἐκεῖνος·", "gloss": "lui" },
+          { "greek": "Εἰ", "gloss": "Si" },
+          { "greek": "ἁμαρτωλός", "gloss": "pécheur" },
+          { "greek": "ἐστιν", "gloss": "il_est" },
+          { "greek": "οὐκ", "gloss": "ne_sais_pas" },
+          { "greek": "οἶδα·", "gloss": "je_sais" },
+          { "greek": "ἓν", "gloss": "une_chose" },
+          { "greek": "οἶδα,", "gloss": "je_sais" },
+          { "greek": "ὅτι", "gloss": "que" },
+          { "greek": "τυφλὸς", "gloss": "aveugle" },
+          { "greek": "ὢν", "gloss": "étant" },
+          { "greek": "ἄρτι", "gloss": "maintenant" },
+          { "greek": "βλέπω.", "gloss": "je_vois" }
+        ]
       },
       {
         "verse_number": 26,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>εἶπον</span><span class='greek-word'>δὲ</span><span class='greek-word'>αὐτῷ</span><span class='greek-word'>πάλιν·</span><span class='greek-word'>Τί</span><span class='greek-word'>ἐποίησέ</span><span class='greek-word'>σοι;</span></p><p class='inter-segond'><span class='french-word'>Ils_dirent</span><span class='french-word'>mais</span><span class='french-word'>à_lui</span><span class='french-word'>encore :</span><span class='french-word'>Que</span><span class='french-word'>fit-il</span><span class='french-word'>à_toi ?</span></p><p class='inter-darby'><span class='french-word'>Ils</span><span class='french-word'>lui</span><span class='french-word'>dirent</span><span class='french-word'>donc</span><span class='french-word'>encore :</span><span class='french-word'>Que</span><span class='french-word'>t’a-t-il_fait ?</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πῶς</span><span class='greek-word'>ἤνοιξέ</span><span class='greek-word'>σου</span><span class='greek-word'>τοὺς</span><span class='greek-word'>ὀφθαλμούς;</span></p><p class='inter-segond'><span class='french-word'>comment</span><span class='french-word'>ouvrit-il</span><span class='french-word'>tes</span><span class='french-word'>les</span><span class='french-word'>yeux ?</span></p><p class='inter-darby'><span class='french-word'>Comment</span><span class='french-word'>t’a-t-il_ouvert</span><span class='french-word'>les</span><span class='french-word'>yeux ?</span></p></div>"
+        "translations": {
+          "segond": "Ils lui dirent : Que t'a-t-il fait ? Comment a-t-il ouvert tes yeux ?",
+          "darby": "Ils lui dirent encore : Que t'a-t-il fait ? Comment a-t-il ouvert tes yeux ?"
+        },
+        "interlinear": [
+          { "greek": "εἶπαν", "gloss": "Dirent" },
+          { "greek": "οὖν", "gloss": "donc" },
+          { "greek": "αὐτῷ·", "gloss": "à_lui" },
+          { "greek": "Τί", "gloss": "Que" },
+          { "greek": "ἐποίησέν", "gloss": "a-t-il_fait" },
+          { "greek": "σοι;", "gloss": "à_toi" },
+          { "greek": "πῶς", "gloss": "comment" },
+          { "greek": "ἤνοιξέν", "gloss": "a-t-il_ouvert" },
+          { "greek": "σου", "gloss": "de_toi" },
+          { "greek": "τοὺς", "gloss": "les" },
+          { "greek": "ὀφθαλμούς;", "gloss": "yeux" }
+        ]
       },
       {
         "verse_number": 27,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἀπεκρίθη</span><span class='greek-word'>αὐτοῖς·</span><span class='greek-word'>Εἶπον</span><span class='greek-word'>ὑμῖν</span><span class='greek-word'>ἤδη,</span></p><p class='inter-segond'><span class='french-word'>Il_répondit</span><span class='french-word'>à_eux :</span><span class='french-word'>J'ai_dit</span><span class='french-word'>à_vous</span><span class='french-word'>déjà,</span></p><p class='inter-darby'><span class='french-word'>Il</span><span class='french-word'>leur</span><span class='french-word'>répondit :</span><span class='french-word'>Je</span><span class='french-word'>vous_l’ai</span><span class='french-word'>déjà</span><span class='french-word'>dit,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>οὐκ</span><span class='greek-word'>ἠκούσατε·</span><span class='greek-word'>τί</span><span class='greek-word'>πάλιν</span><span class='greek-word'>θέλετε</span><span class='greek-word'>ἀκούειν;</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>pas</span><span class='french-word'>vous_n'avez_écouté ;</span><span class='french-word'>pourquoi</span><span class='french-word'>encore</span><span class='french-word'>voulez-vous</span><span class='french-word'>entendre ?</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>vous</span><span class='french-word'>n’avez_pas</span><span class='french-word'>écouté ;</span><span class='french-word'>pourquoi</span><span class='french-word'>voulez-vous</span><span class='french-word'>encore</span><span class='french-word'>l’entendre ?</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>μὴ</span><span class='greek-word'>καὶ</span><span class='greek-word'>ὑμεῖς</span><span class='greek-word'>θέλετε</span><span class='greek-word'>αὐτοῦ</span><span class='greek-word'>μαθηταὶ</span><span class='greek-word'>γενέσθαι;</span></p><p class='inter-segond'><span class='french-word'>Est-ce_que</span><span class='french-word'>aussi</span><span class='french-word'>vous</span><span class='french-word'>voulez</span><span class='french-word'>ses</span><span class='french-word'>disciples</span><span class='french-word'>devenir ?</span></p><p class='inter-darby'><span class='french-word'>Voulez-vous</span><span class='french-word'>aussi,</span><span class='french-word'>vous,</span><span class='french-word'>devenir</span><span class='french-word'>ses</span><span class='french-word'>disciples ?</span></p></div>"
+        "translations": {
+          "segond": "Il leur répondit : Je vous l'ai déjà dit, et vous n'avez pas écouté; pourquoi voulez-vous l'entendre encore ? Voulez-vous aussi devenir ses disciples ?",
+          "darby": "Il leur répondit : Je vous l'ai déjà dit, et vous n'avez pas écouté ; pourquoi voulez-vous l'entendre de nouveau ? Voulez-vous, vous aussi, devenir ses disciples ?"
+        },
+        "interlinear": [
+          { "greek": "ἀπεκρίθη", "gloss": "Répondit" },
+          { "greek": "αὐτοῖς·", "gloss": "à_eux" },
+          { "greek": "Εἶπον", "gloss": "J'ai_dit" },
+          { "greek": "ὑμῖν", "gloss": "à_vous" },
+          { "greek": "ἤδη", "gloss": "déjà" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "οὐκ", "gloss": "ne...pas" },
+          { "greek": "ἠκούσατε·", "gloss": "vous_avez_écouté" },
+          { "greek": "τί", "gloss": "pourquoi" },
+          { "greek": "πάλιν", "gloss": "de_nouveau" },
+          { "greek": "θέλετε", "gloss": "voulez-vous" },
+          { "greek": "ἀκούειν;", "gloss": "entendre" },
+          { "greek": "μὴ", "gloss": "est-ce_que" },
+          { "greek": "καὶ", "gloss": "aussi" },
+          { "greek": "ὑμεῖς", "gloss": "vous" },
+          { "greek": "θέλετε", "gloss": "voulez" },
+          { "greek": "αὐτοῦ", "gloss": "de_lui" },
+          { "greek": "μαθηταὶ", "gloss": "disciples" },
+          { "greek": "γενέσθαι;", "gloss": "devenir" }
+        ]
       },
-      {
+    {
         "verse_number": 28,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἐλοιδόρησαν</span><span class='greek-word'>αὐτὸν</span><span class='greek-word'>καὶ</span><span class='greek-word'>εἶπον·</span></p><p class='inter-segond'><span class='french-word'>Ils_injurièrent</span><span class='french-word'>lui</span><span class='french-word'>et</span><span class='french-word'>dirent :</span></p><p class='inter-darby'><span class='french-word'>Ils</span><span class='french-word'>l’injurièrent</span><span class='french-word'>et</span><span class='french-word'>dirent :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Σὺ</span><span class='greek-word'>εἶ</span><span class='greek-word'>μαθητὴς</span><span class='greek-word'>ἐκείνου,</span></p><p class='inter-segond'><span class='french-word'>Toi</span><span class='french-word'>tu_es</span><span class='french-word'>disciple</span><span class='french-word'>de_celui-là,</span></p><p class='inter-darby'><span class='french-word'>Toi,</span><span class='french-word'>tu_es</span><span class='french-word'>son</span><span class='french-word'>disciple ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἡμεῖς</span><span class='greek-word'>δὲ</span><span class='greek-word'>τοῦ</span><span class='greek-word'>Μωϋσέως</span><span class='greek-word'>ἐσμὲν</span><span class='greek-word'>μαθηταί.</span></p><p class='inter-segond'><span class='french-word'>nous</span><span class='french-word'>mais</span><span class='french-word'>de</span><span class='french-word'>Moïse</span><span class='french-word'>nous_sommes</span><span class='french-word'>disciples.</span></p><p class='inter-darby'><span class='french-word'>mais</span><span class='french-word'>nous,</span><span class='french-word'>nous_sommes</span><span class='french-word'>disciples</span><span class='french-word'>de</span><span class='french-word'>Moïse.</span></p></div>"
+        "translations": {
+          "segond": "Ils l'injurièrent et dirent : C'est toi qui es son disciple; nous, nous sommes disciples de Moïse.",
+          "darby": "Ils l'injurièrent donc et dirent : Toi, tu es son disciple ; mais nous, nous sommes disciples de Moïse ;"
+        },
+        "interlinear": [
+          { "greek": "ἐλοιδόρησαν", "gloss": "Ils_injurièrent" },
+          { "greek": "οὖν", "gloss": "donc" },
+          { "greek": "αὐτὸν", "gloss": "lui" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "εἶπαν·", "gloss": "dirent" },
+          { "greek": "Σὺ", "gloss": "Toi" },
+          { "greek": "μαθητὴς", "gloss": "disciple" },
+          { "greek": "εἶ", "gloss": "tu_es" },
+          { "greek": "ἐκείνου,", "gloss": "de_celui-là" },
+          { "greek": "ἡμεῖς", "gloss": "nous" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "τοῦ", "gloss": "de" },
+          { "greek": "Μωϋσέως", "gloss": "Moïse" },
+          { "greek": "ἐσμὲν", "gloss": "nous_sommes" },
+          { "greek": "μαθηταί·", "gloss": "disciples" }
+        ]
       },
       {
         "verse_number": 29,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἡμεῖς</span><span class='greek-word'>οἴδαμεν</span><span class='greek-word'>ὅτι</span><span class='greek-word'>Μωϋσεῖ</span><span class='greek-word'>λελάληκεν</span><span class='greek-word'>ὁ</span><span class='greek-word'>Θεός,</span></p><p class='inter-segond'><span class='french-word'>Nous</span><span class='french-word'>savons</span><span class='french-word'>que</span><span class='french-word'>à_Moïse</span><span class='french-word'>a_parlé</span><span class='french-word'>le</span><span class='french-word'>Dieu,</span></p><p class='inter-darby'><span class='french-word'>Nous</span><span class='french-word'>savons</span><span class='french-word'>que</span><span class='french-word'>Dieu</span><span class='french-word'>a</span><span class='french-word'>parlé</span><span class='french-word'>à</span><span class='french-word'>Moïse ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τοῦτον</span><span class='greek-word'>δὲ</span><span class='greek-word'>οὐκ</span><span class='greek-word'>οἴδαμεν</span><span class='greek-word'>πόθεν</span><span class='greek-word'>ἐστίν.</span></p><p class='inter-segond'><span class='french-word'>celui-ci</span><span class='french-word'>mais</span><span class='french-word'>pas</span><span class='french-word'>nous_ne_savons</span><span class='french-word'>d'où</span><span class='french-word'>il_est.</span></p><p class='inter-darby'><span class='french-word'>mais</span><span class='french-word'>pour</span><span class='french-word'>celui-ci,</span><span class='french-word'>nous</span><span class='french-word'>ne_savons</span><span class='french-word'>d’où</span><span class='french-word'>il_est.</span></p></div>"
+        "translations": {
+          "segond": "nous savons que Dieu a parlé à Moïse; mais quant à celui-ci, nous ne savons d'où il est.",
+          "darby": "nous, nous savons que Dieu a parlé à Moïse ; mais pour celui-ci, nous ne savons d'où il est."
+        },
+        "interlinear": [
+          { "greek": "ἡμεῖς", "gloss": "Nous" },
+          { "greek": "οἴδαμεν", "gloss": "savons", "analyse": "Le 'Oidamen' (nous savons) pharisien. C'est le savoir 'en plein' de l'Arbre de la Connaissance : une certitude intellectuelle qui n'est qu'une muraille érigée contre la nouveauté de Dieu. Ils croient posséder la vérité (Moïse) mais sont aveugles à la Présence (le Christ)." },
+          { "greek": "ὅτι", "gloss": "que" },
+          { "greek": "Μωϋσεῖ", "gloss": "à_Moïse" },
+          { "greek": "λελάληκεν", "gloss": "a_parlé" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "θεός,", "gloss": "Dieu" },
+          { "greek": "τοῦτον", "gloss": "celui-ci" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "οὐκ", "gloss": "ne...pas" },
+          { "greek": "οἴδαμεν", "gloss": "nous_savons" },
+          { "greek": "πόθεν", "gloss": "d'où" },
+          { "greek": "ἐστίν.", "gloss": "il_est" }
+        ]
       },
       {
         "verse_number": 30,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἀπεκρίθη</span><span class='greek-word'>ὁ</span><span class='greek-word'>ἄνθρωπος</span><span class='greek-word'>καὶ</span><span class='greek-word'>εἶπεν</span><span class='greek-word'>αὐτοῖς·</span></p><p class='inter-segond'><span class='french-word'>Répondit</span><span class='french-word'>l'</span><span class='french-word'>homme</span><span class='french-word'>et</span><span class='french-word'>dit</span><span class='french-word'>à_eux :</span></p><p class='inter-darby'><span class='french-word'>L’homme</span><span class='french-word'>répondit</span><span class='french-word'>et</span><span class='french-word'>leur</span><span class='french-word'>dit :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Ἐν</span><span class='greek-word'>τούτῳ</span><span class='greek-word'>γὰρ</span><span class='greek-word'>τὸ</span><span class='greek-word'>θαυμαστόν</span><span class='greek-word'>ἐστιν,</span></p><p class='inter-segond'><span class='french-word'>En</span><span class='french-word'>ceci</span><span class='french-word'>certes</span><span class='french-word'>est</span><span class='french-word'>l'</span><span class='french-word'>étonnant,</span></p><p class='inter-darby'><span class='french-word'>En</span><span class='french-word'>ceci</span><span class='french-word'>pourtant</span><span class='french-word'>est</span><span class='french-word'>la_chose_étonnante,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὅτι</span><span class='greek-word'>ὑμεῖς</span><span class='greek-word'>οὐκ</span><span class='greek-word'>οἴδατε</span><span class='greek-word'>πόθεν</span><span class='greek-word'>ἐστίν,</span></p><p class='inter-segond'><span class='french-word'>que</span><span class='french-word'>vous</span><span class='french-word'>pas</span><span class='french-word'>ne_sachez</span><span class='french-word'>d'où</span><span class='french-word'>il_est,</span></p><p class='inter-darby'><span class='french-word'>que</span><span class='french-word'>vous,</span><span class='french-word'>vous</span><span class='french-word'>ne_sachiez</span><span class='french-word'>d’où</span><span class='french-word'>il_est ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ἤνοιξέ</span><span class='greek-word'>μου</span><span class='greek-word'>τοὺς</span><span class='greek-word'>ὀφθαλμούς.</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>il_a_ouvert</span><span class='french-word'>mes</span><span class='french-word'>les</span><span class='french-word'>yeux.</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>il</span><span class='french-word'>a</span><span class='french-word'>ouvert</span><span class='french-word'>mes</span><span class='french-word'>yeux !</span></p></div>"
+        "translations": {
+          "segond": "Cet homme leur répondit : Il est étonnant que vous ne sachiez d'où il est; et cependant il a ouvert mes yeux.",
+          "darby": "L'homme répondit et leur dit : C'est en cela une chose étonnante, que vous ne sachiez pas d'où il est, et qu'il ait ouvert mes yeux !"
+        },
+        "interlinear": [
+          { "greek": "ἀπεκρίθη", "gloss": "Répondit" },
+          { "greek": "ὁ", "gloss": "l'" },
+          { "greek": "ἄνθρωπος", "gloss": "homme" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "εἶπεν", "gloss": "dit" },
+          { "greek": "αὐτοῖς·", "gloss": "à_eux" },
+          { "greek": "Ἐν", "gloss": "En" },
+          { "greek": "τούτῳ", "gloss": "ceci" },
+          { "greek": "γὰρ", "gloss": "car" },
+          { "greek": "θαυμαστόν", "gloss": "étonnant" },
+          { "greek": "ἐστιν", "gloss": "il_est" },
+          { "greek": "ὅτι", "gloss": "que" },
+          { "greek": "ὑμεῖς", "gloss": "vous" },
+          { "greek": "οὐκ", "gloss": "ne...pas" },
+          { "greek": "οἴδατε", "gloss": "savez" },
+          { "greek": "πόθεν", "gloss": "d'où" },
+          { "greek": "ἐστίν,", "gloss": "il_est" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἤνοιξέν", "gloss": "il_a_ouvert" },
+          { "greek": "μου", "gloss": "de_moi" },
+          { "greek": "τοὺς", "gloss": "les" },
+          { "greek": "ὀφθαλμούς.", "gloss": "yeux" }
+        ]
       },
       {
         "verse_number": 31,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>οἴδαμεν</span><span class='greek-word'>δὲ</span><span class='greek-word'>ὅτι</span><span class='greek-word'>ἁμαρτωλῶν</span><span class='greek-word'>ὁ</span><span class='greek-word'>Θεὸς</span><span class='greek-word'>οὐκ</span><span class='greek-word'>ἀκούει,</span></p><p class='inter-segond'><span class='french-word'>Nous_savons</span><span class='french-word'>mais</span><span class='french-word'>que</span><span class='french-word'>les_pécheurs</span><span class='french-word'>le</span><span class='french-word'>Dieu</span><span class='french-word'>pas</span><span class='french-word'>n'exauce,</span></p><p class='inter-darby'><span class='french-word'>Or</span><span class='french-word'>nous</span><span class='french-word'>savons</span><span class='french-word'>que</span><span class='french-word'>Dieu</span><span class='french-word'>n'écoute</span><span class='french-word'>pas</span><span class='french-word'>les_pécheurs ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀλλ’</span><span class='greek-word'>ἐάν</span><span class='greek-word'>τις</span><span class='greek-word'>θεοσεβὴς</span><span class='greek-word'>ᾖ</span><span class='greek-word'>καὶ</span><span class='greek-word'>τὸ</span></p><p class='inter-segond'><span class='french-word'>mais</span><span class='french-word'>si</span><span class='french-word'>quelqu'un</span><span class='french-word'>est_pieux</span><span class='french-word'>et</span><span class='french-word'>le</span></p><p class='inter-darby'><span class='french-word'>mais</span><span class='french-word'>si</span><span class='french-word'>quelqu’un</span><span class='french-word'>est</span><span class='french-word'>pieux</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>θέλημα</span><span class='greek-word'>αὐτοῦ</span><span class='greek-word'>ποιῇ,</span><span class='greek-word'>τούτου</span><span class='greek-word'>ἀκούει.</span></p><p class='inter-segond'><span class='french-word'>volonté</span><span class='french-word'>sienne</span><span class='french-word'>fait,</span><span class='french-word'>celui-là</span><span class='french-word'>il_l'exauce.</span></p><p class='inter-darby'><span class='french-word'>envers_Dieu</span><span class='french-word'>et</span><span class='french-word'>fait</span><span class='french-word'>sa</span><span class='french-word'>volonté,</span><span class='french-word'>celui-là</span><span class='french-word'>il</span><span class='french-word'>l’écoute.</span></p></div>"
+        "translations": {
+          "segond": "Nous savons que Dieu n'exauce point les pécheurs; mais, si quelqu'un l'honore et fait sa volonté, c'est celui-là qu'il exauce.",
+          "darby": "Or nous savons que Dieu n'écoute pas les pécheurs ; mais si quelqu'un est pieux envers Dieu et qu'il fasse sa volonté, celui-là, il l'écoute."
+        },
+        "interlinear": [
+          { "greek": "οἴδαμεν", "gloss": "Nous_savons" },
+          { "greek": "ὅτι", "gloss": "que" },
+          { "greek": "ἁμαρτωλῶν", "gloss": "les_pécheurs" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "θεὸς", "gloss": "Dieu" },
+          { "greek": "οὐκ", "gloss": "ne...pas" },
+          { "greek": "ἀκούει,", "gloss": "écoute" },
+          { "greek": "ἀλλ’", "gloss": "mais" },
+          { "greek": "ἐάν", "gloss": "si" },
+          { "greek": "τις", "gloss": "quelqu'un" },
+          { "greek": "θεοσεβὴς", "gloss": "pieux/adorateur_de_Dieu" },
+          { "greek": "ᾖ", "gloss": "est" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "τὸ", "gloss": "la" },
+          { "greek": "θέλημα", "gloss": "volonté" },
+          { "greek": "αὐτοῦ", "gloss": "de_lui" },
+          { "greek": "ποιῇ", "gloss": "fait" },
+          { "greek": "τούτου", "gloss": "celui-là" },
+          { "greek": "ἀκούει.", "gloss": "il_écoute" }
+        ]
       },
       {
         "verse_number": 32,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἐκ</span><span class='greek-word'>τοῦ</span><span class='greek-word'>αἰῶνος</span><span class='greek-word'>οὐκ</span><span class='greek-word'>ἠκούσθη</span><span class='greek-word'>ὅτι</span><span class='greek-word'>ἤνοιξέ</span><span class='greek-word'>τις</span></p><p class='inter-segond'><span class='french-word'>Depuis_l'éternité</span><span class='french-word'>pas</span><span class='french-word'>on_n'a_entendu_que</span><span class='french-word'>ouvrit</span><span class='french-word'>quelqu'un</span></p><p class='inter-darby'><span class='french-word'>Jamais</span><span class='french-word'>on_n’a</span><span class='french-word'>ouï_dire</span><span class='french-word'>que</span><span class='french-word'>quelqu’un</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὀφθαλμοὺς</span><span class='greek-word'>τυφλοῦ</span><span class='greek-word'>γεγεννημένου.</span></p><p class='inter-segond'><span class='french-word'>les_yeux</span><span class='french-word'>d'un_aveugle</span><span class='french-word'>né_ainsi.</span></p><p class='inter-darby'><span class='french-word'>ait_ouvert</span><span class='french-word'>les</span><span class='french-word'>yeux</span><span class='french-word'>d’un_aveugle-né.</span></p></div>"
+        "translations": {
+          "segond": "Jamais on n'a appris que quelqu'un ait ouvert les yeux d'un aveugle de naissance.",
+          "darby": "De tout temps on n'a jamais ouï dire que quelqu'un ait ouvert les yeux d'un aveugle-né."
+        },
+        "interlinear": [
+          { "greek": "ἐκ", "gloss": "Depuis" },
+          { "greek": "τοῦ", "gloss": "le" },
+          { "greek": "αἰῶνος", "gloss": "siècle/temps" },
+          { "greek": "οὐκ", "gloss": "ne...pas" },
+          { "greek": "ἠκούσθη", "gloss": "il_a_été_entendu" },
+          { "greek": "ὅτι", "gloss": "que" },
+          { "greek": "ἤνοιξέν", "gloss": "il_a_ouvert" },
+          { "greek": "τις", "gloss": "quelqu'un" },
+          { "greek": "ὀφθαλμοὺς", "gloss": "les_yeux" },
+          { "greek": "τυφλοῦ", "gloss": "d'un_aveugle" },
+          { "greek": "γεγεννημένου.", "gloss": "né" }
+        ]
       },
       {
         "verse_number": 33,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>εἰ</span><span class='greek-word'>μὴ</span><span class='greek-word'>ἦν</span><span class='greek-word'>οὗτος</span><span class='greek-word'>παρὰ</span><span class='greek-word'>Θεοῦ,</span></p><p class='inter-segond'><span class='french-word'>Si</span><span class='french-word'>pas</span><span class='french-word'>était</span><span class='french-word'>celui-ci</span><span class='french-word'>de_la_part_de</span><span class='french-word'>Dieu,</span></p><p class='inter-darby'><span class='french-word'>Si</span><span class='french-word'>celui-ci</span><span class='french-word'>n’était_pas</span><span class='french-word'>de_Dieu,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>οὐκ</span><span class='greek-word'>ἠδύνατο</span><span class='greek-word'>ποιεῖν</span><span class='greek-word'>οὐδέν.</span></p><p class='inter-segond'><span class='french-word'>il_ne</span><span class='french-word'>pourrait</span><span class='french-word'>faire</span><span class='french-word'>rien.</span></p><p class='inter-darby'><span class='french-word'>il</span><span class='french-word'>ne</span><span class='french-word'>pourrait</span><span class='french-word'>rien</span><span class='french-word'>faire.</span></p></div>"
+        "translations": {
+          "segond": "Si cet homme ne venait pas de Dieu, il ne pourrait rien faire.",
+          "darby": "Si celui-ci n'était pas de Dieu, il ne pourrait rien faire."
+        },
+        "interlinear": [
+          { "greek": "εἰ", "gloss": "Si" },
+          { "greek": "μὴ", "gloss": "ne...pas" },
+          { "greek": "ἦν", "gloss": "il_était" },
+          { "greek": "οὗτος", "gloss": "cet_homme" },
+          { "greek": "ἐκ", "gloss": "de_la_part_de" },
+          { "greek": "θεοῦ,", "gloss": "Dieu" },
+          { "greek": "οὐκ", "gloss": "ne_pourrait_rien" },
+          { "greek": "ἠδύνατο", "gloss": "il_pouvait" },
+          { "greek": "ποιεῖν", "gloss": "faire" },
+          { "greek": "οὐδέν.", "gloss": "rien" }
+        ]
       },
       {
         "verse_number": 34,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἀπεκρίθησαν</span><span class='greek-word'>καὶ</span><span class='greek-word'>εἶπον</span><span class='greek-word'>αὐτῷ·</span></p><p class='inter-segond'><span class='french-word'>Ils_répondirent</span><span class='french-word'>et</span><span class='french-word'>dirent</span><span class='french-word'>à_lui :</span></p><p class='inter-darby'><span class='french-word'>Ils</span><span class='french-word'>répondirent</span><span class='french-word'>et</span><span class='french-word'>lui</span><span class='french-word'>dirent :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Ἐν</span><span class='greek-word'>ἁμαρτίαις</span><span class='greek-word'>σὺ</span><span class='greek-word'>ἐγεννήθης</span><span class='greek-word'>ὅλος,</span></p><p class='inter-segond'><span class='french-word'>Dans</span><span class='french-word'>les_péchés</span><span class='french-word'>toi</span><span class='french-word'>tu_es_né</span><span class='french-word'>tout_entier,</span></p><p class='inter-darby'><span class='french-word'>Tu</span><span class='french-word'>es</span><span class='french-word'>entièrement</span><span class='french-word'>né</span><span class='french-word'>dans</span><span class='french-word'>le_péché,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>σὺ</span><span class='greek-word'>διδάσκεις</span><span class='greek-word'>ἡμᾶς;</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἐξέβαλον</span><span class='greek-word'>αὐτὸν</span><span class='greek-word'>ἔξω.</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>toi</span><span class='french-word'>tu_enseignes</span><span class='french-word'>nous ?</span><span class='french-word'>Et</span><span class='french-word'>ils_jetèrent</span><span class='french-word'>lui</span><span class='french-word'>dehors.</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>tu</span><span class='french-word'>nous</span><span class='french-word'>enseignes !</span><span class='french-word'>Et</span><span class='french-word'>ils</span><span class='french-word'>le</span><span class='french-word'>jetèrent</span><span class='french-word'>dehors.</span></p></div>"
+        "translations": {
+          "segond": "Ils lui répondirent : Tu es né tout entier dans le péché, et tu nous enseignes ! Et ils le chassèrent.",
+          "darby": "Ils répondirent et lui dirent : Tu es né tout entier dans le péché, et tu nous enseignes ! Et ils le mirent dehors."
+        },
+        "interlinear": [
+          { "greek": "ἀπεκρίθησαν", "gloss": "Répondirent" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "εἶπαν", "gloss": "dirent" },
+          { "greek": "αὐτῷ·", "gloss": "à_lui" },
+          { "greek": "Ἐν", "gloss": "Dans" },
+          { "greek": "ἁμαρτίαις", "gloss": "péchés" },
+          { "greek": "σὺ", "gloss": "toi" },
+          { "greek": "ἐγεννήθης", "gloss": "tu_es_né" },
+          { "greek": "ὅλος,", "gloss": "tout_entier" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "σὺ", "gloss": "toi" },
+          { "greek": "διδάσκεις", "gloss": "tu_enseignes" },
+          { "greek": "ἡμᾶς;", "gloss": "nous" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἐξέβαλον", "gloss": "ils_mirent/chassèrent_dehors", "analyse": "L'expulsion (*exebalon*) est l'acte final de l'Ego pharisien. Incapables de réfuter la vérité du Sujet guéri, ils le bannissent. Le 'Sujet' chrétien est, par définition, celui qui est chassé du Monde duel : il n'y a plus de place pour lui dans leurs synagogues (systèmes fermés)." },
+          { "greek": "αὐτὸν", "gloss": "lui" },
+          { "greek": "ἔξω.", "gloss": "dehors" }
+        ]
       },
       {
         "verse_number": 35,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Ἤκουσεν</span><span class='greek-word'>ὁ</span><span class='greek-word'>Ἰησοῦς</span><span class='greek-word'>ὅτι</span><span class='greek-word'>ἐξέβαλον</span><span class='greek-word'>αὐτὸν</span><span class='greek-word'>ἔξω,</span></p><p class='inter-segond'><span class='french-word'>Apprit</span><span class='french-word'>le</span><span class='french-word'>Jésus</span><span class='french-word'>qu'</span><span class='french-word'>ils_avaient_jeté</span><span class='french-word'>lui</span><span class='french-word'>dehors ;</span></p><p class='inter-darby'><span class='french-word'>Jésus</span><span class='french-word'>apprit</span><span class='french-word'>qu’ils</span><span class='french-word'>l’avaient</span><span class='french-word'>jeté</span><span class='french-word'>dehors ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>εὑρὼν</span><span class='greek-word'>αὐτὸν</span><span class='greek-word'>εἶπεν</span><span class='greek-word'>αὐτῷ·</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>l'ayant_trouvé</span><span class='french-word'>il_dit</span><span class='french-word'>à_lui :</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>l'ayant_trouvé,</span><span class='french-word'>il</span><span class='french-word'>lui</span><span class='french-word'>dit :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Σὺ</span><span class='greek-word'>πιστεύεις</span><span class='greek-word'>εἰς</span><span class='greek-word'>τὸν</span><span class='greek-word'>υἱὸν</span><span class='greek-word'>τοῦ</span><span class='greek-word'>Θεοῦ;</span></p><p class='inter-segond'><span class='french-word'>Toi</span><span class='french-word'>crois-tu</span><span class='french-word'>en</span><span class='french-word'>le</span><span class='french-word'>Fils</span><span class='french-word'>de</span><span class='french-word'>Dieu ?</span></p><p class='inter-darby'><span class='french-word'>Crois-tu</span><span class='french-word'>au</span><span class='french-word'>Fils</span><span class='french-word'>de</span><span class='french-word'>Dieu ?</span></p></div>"
+        "translations": {
+          "segond": "Jésus apprit qu'ils l'avaient chassé; et, l'ayant rencontré, il lui dit : Crois-tu au Fils de Dieu ?",
+          "darby": "Jésus apprit qu'ils l'avaient mis dehors ; et l'ayant trouvé, il lui dit : Crois-tu, toi, au Fils de Dieu ?"
+        },
+        "interlinear": [
+          { "greek": "Ἤκουσεν", "gloss": "Apprit" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
+          { "greek": "ὅτι", "gloss": "que" },
+          { "greek": "ἐξέβαλον", "gloss": "ils_avaient_chassé" },
+          { "greek": "αὐτὸν", "gloss": "lui" },
+          { "greek": "ἔξω,", "gloss": "dehors" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "εὑρὼν", "gloss": "ayant_trouvé" },
+          { "greek": "αὐτὸν", "gloss": "lui" },
+          { "greek": "εἶπεν·", "gloss": "dit" },
+          { "greek": "Σὺ", "gloss": "Toi" },
+          { "greek": "πιστεύεις", "gloss": "crois-tu" },
+          { "greek": "εἰς", "gloss": "en" },
+          { "greek": "τὸν", "gloss": "le" },
+          { "greek": "υἱὸν", "gloss": "Fils" },
+          { "greek": "τοῦ", "gloss": "de" },
+          { "greek": "θεοῦ;", "gloss": "Dieu" }
+        ]
       },
       {
         "verse_number": 36,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἀπεκρίθη</span><span class='greek-word'>ἐκεῖνος</span><span class='greek-word'>καὶ</span><span class='greek-word'>εἶπε·</span></p><p class='inter-segond'><span class='french-word'>Répondit</span><span class='french-word'>lui</span><span class='french-word'>et</span><span class='french-word'>dit :</span></p><p class='inter-darby'><span class='french-word'>Il</span><span class='french-word'>répondit</span><span class='french-word'>et</span><span class='french-word'>dit :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Καὶ</span><span class='greek-word'>τίς</span><span class='greek-word'>ἐστι,</span><span class='greek-word'>Κύριε,</span><span class='greek-word'>ἵνα</span><span class='greek-word'>πιστεύσω</span><span class='greek-word'>εἰς</span><span class='greek-word'>αὐτόν;</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>qui</span><span class='french-word'>est-il,</span><span class='french-word'>Seigneur,</span><span class='french-word'>afin_que</span><span class='french-word'>je_croie</span><span class='french-word'>en</span><span class='french-word'>lui ?</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>qui</span><span class='french-word'>est-il,</span><span class='french-word'>Seigneur,</span><span class='french-word'>afin_que</span><span class='french-word'>je</span><span class='french-word'>croie</span><span class='french-word'>en</span><span class='french-word'>lui ?</span></p></div>"
+        "translations": {
+          "segond": "Il répondit : Et qui est-il, Seigneur, afin que je croie en lui ?",
+          "darby": "Il répondit et dit : Et qui est-il, Seigneur, afin que je croie en lui ?"
+        },
+        "interlinear": [
+          { "greek": "ἀπεκρίθη", "gloss": "Répondit" },
+          { "greek": "ἐκεῖνος", "gloss": "lui" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "εἶπεν·", "gloss": "dit" },
+          { "greek": "Καὶ", "gloss": "Et" },
+          { "greek": "τίς", "gloss": "qui" },
+          { "greek": "ἐστιν,", "gloss": "est-il" },
+          { "greek": "κύριε,", "gloss": "Seigneur" },
+          { "greek": "ἵνα", "gloss": "afin_que" },
+          { "greek": "πιστεύσω", "gloss": "je_croie" },
+          { "greek": "εἰς", "gloss": "en" },
+          { "greek": "αὐτόν;", "gloss": "lui" }
+        ]
       },
       {
         "verse_number": 37,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>εἶπε</span><span class='greek-word'>δὲ</span><span class='greek-word'>αὐτῷ</span><span class='greek-word'>ὁ</span><span class='greek-word'>Ἰησοῦς·</span></p><p class='inter-segond'><span class='french-word'>Dit</span><span class='french-word'>mais</span><span class='french-word'>à_lui</span><span class='french-word'>le</span><span class='french-word'>Jésus :</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>Jésus</span><span class='french-word'>lui</span><span class='french-word'>dit :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Καὶ</span><span class='greek-word'>ἑώρακας</span><span class='greek-word'>αὐτὸν</span><span class='greek-word'>καὶ</span><span class='greek-word'>ὁ</span><span class='greek-word'>λαλῶν</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>tu_as_vu</span><span class='french-word'>lui</span><span class='french-word'>et</span><span class='french-word'>celui</span><span class='french-word'>parlant</span></p><p class='inter-darby'><span class='french-word'>Tu</span><span class='french-word'>l’as</span><span class='french-word'>vu,</span><span class='french-word'>et</span><span class='french-word'>celui</span><span class='french-word'>qui</span><span class='french-word'>te</span><span class='french-word'>parle,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>μετὰ</span><span class='greek-word'>σοῦ</span><span class='greek-word'>ἐκεῖνός</span><span class='greek-word'>ἐστιν.</span></p><p class='inter-segond'><span class='french-word'>avec</span><span class='french-word'>toi</span><span class='french-word'>celui-là</span><span class='french-word'>est.</span></p><p class='inter-darby'><span class='french-word'>c’est</span><span class='french-word'>lui-même.</span></p></div>"
+        "translations": {
+          "segond": "Tu l'as vu, lui dit Jésus, et celui qui te parle, c'est lui.",
+          "darby": "Jésus lui dit : Tu l'as et vu, et c'est lui qui parle avec toi."
+        },
+        "interlinear": [
+          { "greek": "εἶπεν", "gloss": "Dit" },
+          { "greek": "αὐτῷ", "gloss": "à_lui" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "Ἰησοῦς·", "gloss": "Jésus" },
+          { "greek": "Καὶ", "gloss": "Et" },
+          { "greek": "ἑώρακας", "gloss": "tu_l'as_vu" },
+          { "greek": "αὐτὸν", "gloss": "lui" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ὁ", "gloss": "celui" },
+          { "greek": "λαλῶν", "gloss": "parlant" },
+          { "greek": "μετὰ", "gloss": "avec" },
+          { "greek": "σοῦ", "gloss": "toi" },
+          { "greek": "ἐκεῖνός", "gloss": "c'est_lui" },
+          { "greek": "ἐστιν.", "gloss": "il_est" }
+        ]
       },
       {
         "verse_number": 38,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ὁ</span><span class='greek-word'>δὲ</span><span class='greek-word'>ἔφη·</span><span class='greek-word'>Πιστεύω,</span><span class='greek-word'>Κύριε·</span></p><p class='inter-segond'><span class='french-word'>Lui</span><span class='french-word'>mais</span><span class='french-word'>dit :</span><span class='french-word'>Je_crois,</span><span class='french-word'>Seigneur !</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>il</span><span class='french-word'>dit :</span><span class='french-word'>Je_crois,</span><span class='french-word'>Seigneur !</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>προσεκύνησεν</span><span class='greek-word'>αὐτῷ.</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>il_se_prosterna_devant</span><span class='french-word'>lui.</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>il</span><span class='french-word'>se_prosterna_devant</span><span class='french-word'>lui.</span></p></div>"
+        "translations": {
+          "segond": "Et il dit : Je crois, Seigneur. Et il l'adora.",
+          "darby": "Et il dit : Je crois, Seigneur. Et il lui rendit hommage."
+        },
+        "interlinear": [
+          { "greek": "ὁ", "gloss": "Lui" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "ἔφη·", "gloss": "dit" },
+          { "greek": "Πιστεύω,", "gloss": "Je_crois" },
+          { "greek": "κύριε·", "gloss": "Seigneur" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "προσεκύνησεν", "gloss": "il_adora", "analyse": "La fin du chemin du Sujet. L'aveugle, autrefois assis au bord du chemin (objet passif), finit à genoux devant le Seigneur (adorateur). La foi n'est pas une conclusion intellectuelle, c'est une prosternation devant la Présence vivante." },
+          { "greek": "αὐτῷ.", "gloss": "lui" }
+        ]
+      },
+      {
+        "verse_number": 39,
+        "translations": {
+          "segond": "Puis Jésus dit : Je suis venu pour un jugement dans ce monde, afin que ceux qui ne voient point voient, et que ceux qui voient deviennent aveugles.",
+          "darby": "Et Jésus dit : Je suis venu, moi, dans ce monde pour un jugement, afin que ceux qui ne voient pas voient, et que ceux qui voient deviennent aveugles."
+        },
+        "interlinear": [
+          { "greek": "καὶ", "gloss": "Et" },
+          { "greek": "εἶπεν", "gloss": "dit" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "Ἰησοῦς·", "gloss": "Jésus" },
+          { "greek": "Εἰς", "gloss": "Pour" },
+          { "greek": "κρίμα", "gloss": "jugement" },
+          { "greek": "ἐγὼ", "gloss": "moi" },
+          { "greek": "εἰς", "gloss": "dans" },
+          { "greek": "τὸν", "gloss": "le" },
+          { "greek": "κόσμον", "gloss": "monde" },
+          { "greek": "τοῦτον", "gloss": "ceci" },
+          { "greek": "ἦλθον,", "gloss": "je_suis_venu" },
+          { "greek": "ἵνα", "gloss": "afin_que" },
+          { "greek": "οἱ", "gloss": "ceux_qui" },
+          { "greek": "μὴ", "gloss": "ne...pas" },
+          { "greek": "βλέποντες", "gloss": "voyant" },
+          { "greek": "βλέπωσιν", "gloss": "voient" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "οἱ", "gloss": "ceux_qui" },
+          { "greek": "βλέποντες", "gloss": "voyant" },
+          { "greek": "τυφλοὶ", "gloss": "aveugles" },
+          { "greek": "γένωνται.", "gloss": "deviennent" }
+        ]
+      },
+      {
+        "verse_number": 40,
+        "translations": {
+          "segond": "Quelques pharisiens qui étaient avec lui entendirent ces paroles, et ils lui dirent : Nous aussi, sommes-nous aveugles ?",
+          "darby": "Quelques-uns des pharisiens qui étaient avec lui entendirent ces choses, et ils lui dirent : Sommes-nous aveugles, nous aussi ?"
+        },
+        "interlinear": [
+          { "greek": "ἤκουσαν", "gloss": "Entendirent" },
+          { "greek": "ἐκ", "gloss": "de" },
+          { "greek": "τῶν", "gloss": "les" },
+          { "greek": "Φαρισαίων", "gloss": "Pharisiens" },
+          { "greek": "ταῦτα", "gloss": "ces_choses" },
+          { "greek": "οἱ", "gloss": "ceux_qui" },
+          { "greek": "ὄντες", "gloss": "étaient" },
+          { "greek": "μετ’", "gloss": "avec" },
+          { "greek": "αὐτοῦ,", "gloss": "lui" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "εἶπαν", "gloss": "dirent" },
+          { "greek": "αὐτῷ·", "gloss": "à_lui" },
+          { "greek": "Μὴ", "gloss": "Est-ce_que" },
+          { "greek": "καὶ", "gloss": "aussi" },
+          { "greek": "ἡμεῖς", "gloss": "nous" },
+          { "greek": "τυφλοί", "gloss": "aveugles" },
+          { "greek": "ἐσμεν;", "gloss": "sommes" }
+        ]
+      },
+      {
+        "verse_number": 41,
+        "translations": {
+          "segond": "Jésus leur répondit : Si vous étiez aveugles, vous n'auriez pas de péché. Mais maintenant vous dites : Nous voyons. C'est pour cela que votre péché subsiste.",
+          "darby": "Jésus leur dit : Si vous étiez aveugles, vous n'auriez pas de péché ; mais maintenant vous dites : Nous voyons ; votre péché demeure donc."
+        },
+        "interlinear": [
+          { "greek": "εἶπεν", "gloss": "Dit" },
+          { "greek": "αὐτοῖς", "gloss": "à_eux" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "Ἰησοῦς·", "gloss": "Jésus" },
+          { "greek": "Εἰ", "gloss": "Si" },
+          { "greek": "τυφλοὶ", "gloss": "aveugles" },
+          { "greek": "ἦτε,", "gloss": "vous_étiez" },
+          { "greek": "οὐκ", "gloss": "ne...pas" },
+          { "greek": "ἂν", "gloss": "(conditionnel)" },
+          { "greek": "εἴχετε", "gloss": "vous_auriez" },
+          { "greek": "ἁμαρτίαν·", "gloss": "de_péché" },
+          { "greek": "νῦν", "gloss": "maintenant" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "λέγετε", "gloss": "vous_dites" },
+          { "greek": "ὅτι", "gloss": "que" },
+          { "greek": "Βλέπομεν·", "gloss": "Nous_voyons" },
+          { "greek": "ἡ", "gloss": "votre" },
+          { "greek": "ἁμαρτία", "gloss": "péché" },
+          { "greek": "ὑμῶν", "gloss": "de_vous" },
+          { "greek": "μένει.", "gloss": "demeure" }
+        ]
       }
     ],
-    "greek_only": "\n1 Καὶ παράγων εἶδεν ἄνθρωπον τυφλὸν ἐκ γενετῆς. \n2 καὶ ἠρώτησαν αὐτὸν οἱ μαθηταὶ αὐτοῦ λέγοντες· Ῥαββί, τίς ἥμαρτεν, οὗτος ἢ οἱ γονεῖς αὐτοῦ, ἵνα τυφλὸς γεννηθῇ; \n3 ἀπεκρίθη Ἰησοῦς· Οὔτε οὗτος ἥμαρτεν οὔτε οἱ γονεῖς αὐτοῦ, ἀλλ’ ἵνα φανερωθῇ τὰ ἔργα τοῦ Θεοῦ ἐν αὐτῷ. \n4 ἐμὲ δεῖ ἐργάζεσθαι τὰ ἔργα τοῦ πέμψαντός με ἕως ἡμέρα ἐστίν· ἔρχεται νὺξ ὅτε οὐδεὶς δύναται ἐργάζεσθαι. \n5 ὅταν ἐν τῷ κόσμῳ ὦ, φῶς εἰμι τοῦ κόσμου. \n6 ταῦτα εἰπὼν ἔπτυσε χαμαὶ καὶ ἐποίησε πηλὸν ἐκ τοῦ πτύσματος, καὶ ἐπέχρισε τὸν πηλὸν ἐπὶ τοὺς ὀφθαλμοὺς τοῦ τυφλοῦ, \n7 καὶ εἶπεν αὐτῷ· Ὕπαγε νίψαι εἰς τὴν κολυμβήθραν τοῦ Σιλωάμ (ὃ ἑρμηνεύεται Ἀπεσταλμένος). ἀπῆλθεν οὖν καὶ ἐνίψατο, καὶ ἦλθε βλέπων. \n8 Οἱ οὖν γείτονες καὶ οἱ θεωροῦντες αὐτὸν τὸ πρότερον ὅτι προσαίτης ἦν, ἔλεγον· Οὐχ οὗτός ἐστιν ὁ καθήμενος καὶ προσαιτῶν; \n9 ἄλλοι ἔλεγον ὅτι Οὗτός ἐστιν· ἄλλοι ἔλεγον· Οὐχί, ἀλλ’ ὅμοιος αὐτῷ ἐστιν. ἐκεῖνος ἔλεγεν ὅτι Ἐγώ εἰμι. \n10 ἔλεγον οὖν αὐτῷ· Πῶς ἀνεῴχθησάν σου οἱ ὀφθαλμοί; \n11 ἀπεκρίθη ἐκεῖνος καὶ εἶπεν· Ἄνθρωπος λεγόμενος Ἰησοῦς πηλὸν ἐποίησε καὶ ἐπέχρισέ μου τοὺς ὀφθαλμοὺς καὶ εἶπέ μοι· Ὕπαγε εἰς τὸν Σιλωὰμ καὶ νίψαι· ἀπελθὼν δὲ καὶ νιψάμενος ἀνέβλεψα. \n12 εἶπον οὖν αὐτῷ· Ποῦ ἐστιν ἐκεῖνος; λέγει· Οὐκ οἶδα. \n13 Ἄγουσιν αὐτὸν πρὸς τοὺς Φαρισαίους, τόν ποτε τυφλόν. \n14 ἦν δὲ σάββατον ὅτε τὸν πηλὸν ἐποίησεν ὁ Ἰησοῦς καὶ ἀνέῳξεν αὐτοῦ τοὺς ὀφθαλμούς. \n15 πάλιν οὖν ἠρώτων αὐτὸν καὶ οἱ Φαρισαῖοι πῶς ἀνέβλεψεν. ὁ δὲ εἶπεν αὐτοῖς· Πηλὸν ἐπέθηκέ μου ἐπὶ τοὺς ὀφθαλμούς, καὶ ἐνιψάμην, καὶ βλέπω. \n16 ἔλεγον οὖν ἐκ τῶν Φαρισαίων τινές· Οὐκ ἔστιν οὗτος παρὰ Θεοῦ ὁ ἄνθρωπος, ὅτι τὸ σάββατον οὐ τηρεῖ. ἄλλοι ἔλεγον· Πῶς δύναται ἄνθρωπος ἁμαρτωλὸς τοιαῦτα σημεῖα ποιεῖν; καὶ σχίσμα ἦν ἐν αὐτοῖς. \n17 λέγουσι τῷ τυφλῷ πάλιν· Σὺ τί λέγεις περὶ αὐτοῦ, ὅτι ἤνοιξέ σου τοὺς ὀφθαλμούς; ὁ δὲ εἶπεν ὅτι Προφήτης ἐστίν. \n18 οὐκ ἐπίστευσαν οὖν οἱ Ἰουδαῖοι περὶ αὐτοῦ ὅτι τυφλὸς ἦν καὶ ἀνέβλεψεν, ἕως ὅτου ἐφώνησαν τοὺς γονεῖς αὐτοῦ τοῦ ἀναβλέψαντος, \n19 καὶ ἠρώτησαν αὐτοὺς λέγοντες· Οὗτός ἐστιν ὁ υἱὸς ὑμῶν, ὃν ὑμεῖς λέγετε ὅτι τυφλὸς ἐγεννήθη; πῶς οὖν ἄρτι βλέπει; \n20 ἀπεκρίθησαν δὲ αὐτοῖς οἱ γονεῖς αὐτοῦ καὶ εἶπον· Οἴδαμεν ὅτι οὗτός ἐστιν ὁ υἱὸς ἡμῶν καὶ ὅτι τυφλὸς ἐγεννήθη· \n21 πῶς δὲ νῦν βλέπει οὐκ οἴδαμεν, ἢ τίς ἤνοιξεν αὐτοῦ τοὺς ὀφθαλμοὺς ἡμεῖς οὐκ οἴδαμεν· αὐτὸν ἐρωτήσατε, ἡλικίαν ἔχει, αὐτὸς περὶ ἑαυτοῦ λαλήσει. \n22 ταῦτα εἶπον οἱ γονεῖς αὐτοῦ ὅτι ἐφοβοῦντο τοὺς Ἰουδαίους· ἤδη γὰρ συνετέθειντο οἱ Ἰουδαῖοι ἵνα ἐάν τις αὐτὸν ὁμολογήσῃ Χριστόν, ἀποσυνάγωγος γένηται. \n23 διὰ τοῦτο οἱ γονεῖς αὐτοῦ εἶπον ὅτι Ἡλικίαν ἔχει, αὐτὸν ἐρωτήσατε. \n24 Ἐφώνησαν οὖν ἐκ δευτέρου τὸν ἄνθρωπον ὃς ἦν τυφλός, καὶ εἶπον αὐτῷ· Δὸς δόξαν τῷ Θεῷ· ἡμεῖς οἴδαμεν ὅτι ὁ ἄνθρωπος οὗτος ἁμαρτωλός ἐστιν. \n25 ἀπεκρίθη οὖν ἐκεῖνος· Εἰ ἁμαρτωλός ἐστιν οὐκ οἶδα· ἓν οἶδα, ὅτι τυφλὸς ὢν ἄρτι βλέπω. \n26 εἶπον δὲ αὐτῷ πάλιν· Τί ἐποίησέ σοι; πῶς ἤνοιξέ σου τοὺς ὀφθαλμούς; \n27 ἀπεκρίθη αὐτοῖς· Εἶπον ὑμῖν ἤδη, καὶ οὐκ ἠκούσατε· τί πάλιν θέλετε ἀκούειν; μὴ καὶ ὑμεῖς θέλετε αὐτοῦ μαθηταὶ γενέσθαι; \n28 ἐλοιδόρησαν αὐτὸν καὶ εἶπον· Σὺ εἶ μαθητὴς ἐκείνου, ἡμεῖς δὲ τοῦ Μωϋσέως ἐσμὲν μαθηταί. \n29 ἡμεῖς οἴδαμεν ὅτι Μωϋσεῖ λελάληκεν ὁ Θεός, τοῦτον δὲ οὐκ οἴδαμεν πόθεν ἐστίν. \n30 ἀπεκρίθη ὁ ἄνθρωπος καὶ εἶπεν αὐτοῖς· Ἐν τούτῳ γὰρ τὸ θαυμαστόν ἐστιν, ὅτι ὑμεῖς οὐκ οἴδατε πόθεν ἐστίν, καὶ ἤνοιξέ μου τοὺς ὀφθαλμούς. \n31 οἴδαμεν δὲ ὅτι ἁμαρτωλῶν ὁ Θεὸς οὐκ ἀκούει, ἀλλ’ ἐάν τις θεοσεβὴς ᾖ καὶ τὸ θέλημα αὐτοῦ ποιῇ, τούτου ἀκούει. \n32 ἐκ τοῦ αἰῶνος οὐκ ἠκούσθη ὅτι ἤνοιξέ τις ὀφθαλμοὺς τυφλοῦ γεγεννημένου. \n33 εἰ μὴ ἦν οὗτος παρὰ Θεοῦ, οὐκ ἠδύνατο ποιεῖν οὐδέν. \n34 ἀπεκρίθησαν καὶ εἶπον αὐτῷ· Ἐν ἁμαρτίαις σὺ ἐγεννήθης ὅλος, καὶ σὺ διδάσκεις ἡμᾶς; καὶ ἐξέβαλον αὐτὸν ἔξω. \n35 Ἤκουσεν ὁ Ἰησοῦς ὅτι ἐξέβαλον αὐτὸν ἔξω, καὶ εὑρὼν αὐτὸν εἶπεν αὐτῷ· Σὺ πιστεύεις εἰς τὸν υἱὸν τοῦ Θεοῦ; \n36 ἀπεκρίθη ἐκεῖνος καὶ εἶπε· Καὶ τίς ἐστι, Κύριε, ἵνα πιστεύσω εἰς αὐτόν; \n37 εἶπε δὲ αὐτῷ ὁ Ἰησοῦς· Καὶ ἑώρακας αὐτὸν καὶ ὁ λαλῶν μετὰ σοῦ ἐκεῖνός ἐστιν. \n38 ὁ δὲ ἔφη· Πιστεύω, Κύριε· καὶ προσεκύνησεν αὐτῷ.",
-    "french_only": "\n1 Jésus vit, en passant, un homme aveugle de naissance. \n2 Ses disciples lui firent cette question : Rabbi, qui a péché, cet homme ou ses parents, pour qu'il soit né aveugle ? \n3 Jésus répondit : Ce n'est pas que lui ou ses parents aient péché ; mais c'est afin que les oeuvres de Dieu soient manifestées en lui. \n4 Il faut que je fasse, tandis qu'il est jour, les oeuvres de celui qui m'a envoyé ; la nuit vient, où personne ne peut travailler. \n5 Pendant que je suis dans le monde, je suis la lumière du monde. \n6 Après avoir dit cela, il cracha à terre, et fit de la boue avec sa salive. Puis il appliqua cette boue sur les yeux de l'aveugle, \n7 et lui dit : Va, et lave-toi au réservoir de Siloé (nom qui signifie Envoyé). Il y alla, se lava, et s'en retourna voyant clair. \n8 Ses voisins, et ceux qui l'avaient connu auparavant comme un mendiant, disaient : N'est-ce pas là celui qui se tenait assis et qui mendiait ? \n9 Les uns disaient : C'est lui. D'autres disaient : Non, mais il lui ressemble. Et lui-même disait : C'est moi. \n10 Ils lui dirent donc : Comment tes yeux ont-ils été ouverts ? \n11 Il répondit : L'homme qu'on appelle Jésus a fait de la boue, a oint mes yeux, et m'a dit : Va au réservoir de Siloé, et lave-toi. J'y suis allé, je me suis lavé, et j'ai recouvré la vue. \n12 Ils lui dirent : Où est cet homme ? Il répondit : Je ne sais. \n13 Ils menèrent vers les Pharisiens celui qui avait été aveugle. \n14 Or, c'était un jour de sabbat que Jésus avait fait de la boue et lui avait ouvert les yeux. \n15 De nouveau, les Pharisiens lui demandèrent aussi comment il avait recouvré la vue. Et il leur dit : Il a appliqué de la boue sur mes yeux, je me suis lavé, et je vois. \n16 Sur quoi quelques-uns des Pharisiens dirent : Cet homme ne vient pas de Dieu, car il ne observe pas le sabbat. D'autres dirent : Comment un homme pécheur peut-il faire de tels miracles ? Et il y eut division parmi eux. \n17 Ils dirent encore à l'aveugle : Toi, que dis-tu de lui, sur ce qu'il t'a ouvert les yeux ? Il répondit : C'est un prophète. \n18 Les Juifs ne crurent point qu'il eût été aveugle et qu'il eût recouvré la vue, jusqu'à ce qu'ils eussent fait venir ses parents. \n19 Et ils les interrogèrent, disant : Est-ce là votre fils, que vous dites être né aveugle ? Comment donc voit-il maintenant ? \n20 Ses parents répondirent : Nous savons que c'est notre fils, et qu'il est né aveugle ; \n21 mais comment il voit maintenant, nous ne le savons pas, ou qui lui a ouvert les yeux, nous ne le savons pas non plus. Interrogez-le lui-même, il a de l'âge, il parlera de ce qui le concerne. \n22 Ses parents dirent cela parce qu'ils craignaient les Juifs ; car les Juifs étaient déjà convenus que, si quelqu'un reconnaissait Jésus pour le Christ, il serait exclu de la synagogue. \n23 C'est pour cela que ses parents dirent : Il a de l'âge, interrogez-le lui-même. \n24 Les Pharisiens appelèrent une seconde fois l'homme qui avait été aveugle, et ils lui dirent : Donne gloire à Dieu ; nous savons que cet homme est un pécheur. \n25 Il répondit : S'il est un pécheur, je ne le sais pas ; je sais une chose, c'est que j'étais aveugle et que maintenant je vois. \n26 Ils lui dirent : Que t'a-t-il fait ? Comment t'a-t-il ouvert les yeux ? \n27 Il leur répondit : Je vous l'ai déjà dit, et vous n'avez pas écouté ; pourquoi voulez-vous l'entendre encore ? Voulez-vous aussi devenir ses disciples ? \n28 Ils l'injurièrent et dirent : C'est toi qui es son disciple ; nous, nous sommes disciples de Moïse. \n29 Nous savons que Dieu a parlé à Moïse ; mais celui-ci, nous ne savons d'où il est. \n30 Cet homme leur répondit : Il est étonnant que vous ne sachiez d'où il est ; et pourtant il m'a ouvert les yeux. \n31 Nous savons que Dieu n'exauce point les pécheurs ; mais, si quelqu'un l'honore et fait sa volonté, il l'exauce. \n32 Jamais on n'a ouï dire que quelqu'un ait ouvert les yeux d'un aveugle-né. \n33 Si cet homme ne venait pas de Dieu, il ne pourrait rien faire. \n34 Ils lui répondirent : Tu es né tout entier dans le péché, et tu nous enseignes ! Et ils le chassèrent. \n35 Jésus apprit qu'ils l'avaient chassé ; et, l'ayant trouvé, il lui dit : Crois-tu au Fils de Dieu ? \n36 Il répondit : Et qui est-il, Seigneur, afin que je croie en lui ? \n37 Tu l'as vu, lui dit Jésus, et celui qui te parle, c'est lui. \n38 Et il dit : Je crois, Seigneur. Et il se prosterna devant lui.",
-    "french_darby": "\n1 Et comme il passait, il vit un homme aveugle dès sa naissance. \n2 Et ses disciples lui demandèrent, disant : Rabbi, qui a péché : celui-ci, ou ses parents, pour qu’il soit né aveugle ? \n3 Jésus répondit : Ni celui-ci n’a péché, ni ses parents, mais c’est afin que les œuvres de Dieu fussent manifestées en lui. \n4 Il me faut faire les œuvres de celui qui m’a envoyé, tandis qu’il est jour ; la nuit vient, où nul ne peut travailler. \n5 Pendant que je suis dans le monde, je suis la lumière du monde. \n6 Ayant dit cela, il cracha en terre et fit de la boue de sa salive, et mit la boue comme un onguent sur les yeux de l’aveugle, \n7 et lui dit : Va, et lave-toi au réservoir de Siloé (ce qui est interprété : Envoyé). Il s’en alla donc, et se lava, et revint voyant. \n8 Les voisins donc, et ceux qui l’avaient vu auparavant, qu’il était un mendiant, disaient : N’est-ce pas celui-ci qui se tenait assis et qui mendiait ? \n9 Les uns disaient : C’est lui ; d’autres : Il lui ressemble. Lui disait : C’est moi-même. \n10 Ils lui dirent donc : Comment tes yeux ont-ils été ouverts ? \n11 Il répondit : Un homme appelé Jésus a fait de la boue, et a oint mes yeux, et m’a dit : Va au Siloé et lave-toi. Et y étant allé et m’étant lavé, j’ai vu. \n12 Ils lui dirent : Où est-il ? Il dit : Je ne sais. \n13 Ils mènent vers les Pharisiens celui qui auparavant avait été aveugle. \n14 Or c’était un sabbat quand Jésus avait fait la boue et avait ouvert ses yeux. \n15 Les Pharisiens donc lui demandèrent aussi encore comment il avait recouvré la vue. Et il leur dit : Il a mis de la boue sur mes yeux, et je me suis lavé, et je vois. \n16 Quelques-uns donc d’entre les Pharisiens disaient : Cet homme n’est pas de Dieu, car il ne garde pas le sabbat. D’autres disaient : Comment un homme pécheur peut-il faire de tels miracles ? Et il y avait une division parmi eux. \n17 Ils disent donc encore à l’aveugle : Toi, que dis-tu de lui, de ce qu’il t’a ouvert les yeux ? Et il dit : C’est un prophète. \n18 Les Juifs donc ne crurent pas à son égard, qu’il eût été aveugle et qu’il eût recouvré la vue, jusqu’à ce qu’ils eussent appelé les parents de celui qui avait recouvré la vue. \n19 Et ils les interrogèrent, disant : Celui-ci est-il votre fils que vous, vous dites être né aveugle ? Comment donc voit-il maintenant ? \n20 Ses parents répondirent et dirent : Nous savons que celui-ci est notre fils, et qu’il est né aveugle ; \n21 mais comment il voit maintenant, nous ne le savons pas ; ou qui lui a ouvert les yeux, nous ne le savons pas non plus ; interrogez-le, il a de l’âge, il parlera de ce qui le concerne. \n22 Ses parents dirent cela parce qu’ils craignaient les Juifs ; car les Juifs étaient déjà convenus que, si quelqu’un le confessait pour le Christ, il serait exclu de la synagogue. \n23 C’est pourquoi ses parents dirent : Il a de l’âge, interrogez-le. \n24 Ils appelèrent donc pour la seconde fois l’homme qui avait été aveugle, et lui dirent : Donne gloire à Dieu ; nous, nous savons que cet homme est un pécheur. \n25 Il répondit donc : S’il est un pécheur, je ne le sais pas ; je sais une chose, c’est que, ayant été aveugle, je vois maintenant. \n26 Ils lui dirent donc encore : Que t’a-t-il fait ? Comment t’a-t-il ouvert les yeux ? \n27 Il leur répondit : Je vous l’ai déjà dit, et vous n’avez pas écouté ; pourquoi voulez-vous encore l’entendre ? Voulez-vous aussi, vous, devenir ses disciples ? \n28 Ils l’injurièrent et dirent : Toi, tu es son disciple ; mais nous, nous sommes disciples de Moïse. \n29 Nous savons que Dieu a parlé à Moïse ; mais pour celui-ci, nous ne savons d’où il est. \n30 L’homme répondit et leur dit : En ceci pourtant est la chose étonnante, que vous, vous ne sachiez d’où il est, et il a ouvert mes yeux ! \n31 Or nous savons que Dieu n’écoute pas les pécheurs ; mais si quelqu’un est pieux envers Dieu et fait sa volonté, celui-là il l’écoute. \n32 Jamais on n’a ouï dire que quelqu’un ait ouvert les yeux d’un aveugle-né. \n33 Si celui-ci n’était pas de Dieu, il ne pourrait rien faire. \n34 Ils répondirent et lui dirent : Tu es entièrement né dans le péché, et tu nous enseignes ! Et ils le jetèrent dehors. \n35 Jésus apprit qu’ils l’avaient jeté dehors ; et l’ayant trouvé, il lui dit : Crois-tu au Fils de Dieu ? \n36 Il répondit et dit : Et qui est-il, Seigneur, afin que je croie en lui ? \n37 Et Jésus lui dit : Tu l’as vu, et celui qui te parle, c’est lui-même. \n38 Et il dit : Je crois, Seigneur ! Et il se prosterna devant lui.",
-    "personal_analysis": "La guérison de l'aveugle-né est une 'création nouvelle' : le Christ utilise la terre et sa salive comme Dieu utilisa la glaise pour façonner Adam. L'aveugle passe de l'obscurité physique à la vision spirituelle, osant affronter l'autorité des Pharisiens. Sa confession finale 'Je crois, Seigneur' et sa prosternation sont l'aboutissement du cheminement de tout chrétien : reconnaître dans le Fils de l'Homme la Lumière qui transfigure le monde."
-  },
+    "personal_analysis": "Analyse spirituelle globale (Les 3 parties) :\n\nLe récit de l'aveugle-né est la démonstration magistrale de la rupture entre le 'Monde duel' et le 'Royaume UN'. Le drame se joue sur le terrain de la vision : comment voir la vérité ?\n\n1. L'illusion du 'Savoir en plein' (Pharisiens) : Le 'Monde duel' ne supporte pas le miracle car il ne supporte pas l'Incréé. Les Pharisiens s'enferment dans leur
+ },
 "apostle": {
   "reference": "Actes 16, 16-34",
   "title": "Paul et Silas à Philippes : La Libération des Prisonniers",
