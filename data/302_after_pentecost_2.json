@@ -1,74 +1,361 @@
 {
   "gospel": {
     "reference": "Matthieu 4, 18-23",
-    "title": "L'Appel des Premiers Disciples : Suivez-moi",
+    "title": "L'appel des premiers disciples : Abandonner les filets pour suivre le Logos",
     "interlinear": [
       {
-        "verse_number": 18,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Περιπατῶν</span><span class='greek-word'>δὲ</span><span class='greek-word'>παρὰ</span><span class='greek-word'>τὴν</span><span class='greek-word'>θάλασσαν</span></p><p class='inter-segond'><span class='french-word'>Marchant</span><span class='french-word'>mais</span><span class='french-word'>le_long_de</span><span class='french-word'>la</span><span class='french-word'>mer</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>comme_il_marchait</span><span class='french-word'>le_long_de</span><span class='french-word'>la</span><span class='french-word'>mer</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τῆς</span><span class='greek-word'>Γαλιλαίας</span><span class='greek-word'>εἶδεν</span><span class='greek-word'>δύο</span><span class='greek-word'>ἀδελφούς,</span></p><p class='inter-segond'><span class='french-word'>de_la</span><span class='french-word'>Galilée,</span><span class='french-word'>il_vit</span><span class='french-word'>deux</span><span class='french-word'>frères,</span></p><p class='inter-darby'><span class='french-word'>de</span><span class='french-word'>Galilée,</span><span class='french-word'>il_vit</span><span class='french-word'>deux</span><span class='french-word'>frères,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Σίμωνα</span><span class='greek-word'>τὸν</span><span class='greek-word'>λεγόμενον</span><span class='greek-word'>Πέτρον</span><span class='greek-word'>καὶ</span><span class='greek-word'>Ἀνδρέαν</span></p><p class='inter-segond'><span class='french-word'>Simon</span><span class='french-word'>celui</span><span class='french-word'>appelé</span><span class='french-word'>Pierre,</span><span class='french-word'>et</span><span class='french-word'>André</span></p><p class='inter-darby'><span class='french-word'>Simon,</span><span class='french-word'>dit</span><span class='french-word'>Pierre,</span><span class='french-word'>et</span><span class='french-word'>André</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τὸν</span><span class='greek-word'>ἀδελφὸν</span><span class='greek-word'>αὐτοῦ,</span><span class='greek-word'>βάλλοντας</span><span class='greek-word'>ἀμφίβληστρον</span></p><p class='inter-segond'><span class='french-word'>le</span><span class='french-word'>frère</span><span class='french-word'>sien,</span><span class='french-word'>jetant</span><span class='french-word'>un_filet</span></p><p class='inter-darby'><span class='french-word'>son</span><span class='french-word'>frère,</span><span class='french-word'>qui_jetaient</span><span class='french-word'>un_filet</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>εἰς</span><span class='greek-word'>τὴν</span><span class='greek-word'>θάλασσαν·</span><span class='greek-word'>ἦσαν</span><span class='greek-word'>γὰρ</span><span class='greek-word'>ἁλιεῖς.</span></p><p class='inter-segond'><span class='french-word'>dans</span><span class='french-word'>la</span><span class='french-word'>mer ;</span><span class='french-word'>ils_étaient</span><span class='french-word'>car</span><span class='french-word'>pêcheurs.</span></p><p class='inter-darby'><span class='french-word'>dans</span><span class='french-word'>la</span><span class='french-word'>mer,</span><span class='french-word'>car</span><span class='french-word'>ils_étaient</span><span class='french-word'>pêcheurs.</span></p></div>"
+        "verse_number": "4, 18",
+        "translations": {
+          "segond": "Comme il marchait le long de la mer de Galilée, il vit deux frères, Simon, appelé Pierre, et André, son frère, qui jetaient un filet dans la mer; car ils étaient pêcheurs.",
+          "darby": "Et comme il marchait le long de la mer de Galilée, il vit deux frères, Simon, appelé Pierre, et André, son frère, jetant un filet dans la mer, car ils étaient pêcheurs."
+        },
+        "interlinear": [
+          { "greek": "περιπατῶν", "gloss": "marchant" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "παρὰ", "gloss": "le_long_de" },
+          { "greek": "τὴν", "gloss": "la" },
+          { "greek": "θάλασσαν", "gloss": "mer" },
+          { "greek": "τῆς", "gloss": "de_la" },
+          { "greek": "Γαλιλαίας", "gloss": "Galilée" },
+          { "greek": "εἶδεν", "gloss": "il_vit" },
+          { "greek": "δύο", "gloss": "deux" },
+          { "greek": "ἀδελφούς,", "gloss": "frères" },
+          { "greek": "Σίμωνα", "gloss": "Simon" },
+          { "greek": "τὸν", "gloss": "le" },
+          { "greek": "λεγόμενον", "gloss": "appelé" },
+          { "greek": "Πέτρον", "gloss": "Pierre" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "Ἀνδρέαν", "gloss": "André" },
+          { "greek": "τὸν", "gloss": "le" },
+          { "greek": "ἀδελφὸν", "gloss": "frère" },
+          { "greek": "αὐτοῦ,", "gloss": "de_lui" },
+          { "greek": "βάλλοντας", "gloss": "jetant/lancer" },
+          { "greek": "ἀμφίβληστρον", "gloss": "filet", "analyse": "Le filet (*amphiblēstron*), littéralement 'ce que l'on jette autour'. Objet de l'Avoir, il est l'outil par lequel le pêcheur capte la vie pour sa survie biologique. C'est l'extension de l'Ego dans le monde matériel : posséder, enfermer, tirer à soi." },
+          { "greek": "εἰς", "gloss": "dans" },
+          { "greek": "τὴν", "gloss": "la" },
+          { "greek": "θάλασσαν·", "gloss": "mer" },
+          { "greek": "ἦσαν", "gloss": "ils_étaient" },
+          { "greek": "γὰρ", "gloss": "car" },
+          { "greek": "ἁλεεῖς.", "gloss": "pêcheurs" }
+        ]
       },
       {
-        "verse_number": 19,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>λέγει</span><span class='greek-word'>αὐτοῖς·</span><span class='greek-word'>Δεῦτε</span><span class='greek-word'>ὀπίσω</span><span class='greek-word'>μου,</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>il_dit</span><span class='french-word'>à_eux :</span><span class='french-word'>Venez</span><span class='french-word'>après</span><span class='french-word'>moi,</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>il</span><span class='french-word'>leur</span><span class='french-word'>dit :</span><span class='french-word'>Venez</span><span class='french-word'>après</span><span class='french-word'>moi,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ποιήσω</span><span class='greek-word'>ὑμᾶς</span><span class='greek-word'>ἁλιεῖς</span><span class='greek-word'>ἀνθρώπων.</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>je_ferai</span><span class='french-word'>de_vous</span><span class='french-word'>des_pêcheurs</span><span class='french-word'>d'hommes.</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>je</span><span class='french-word'>vous</span><span class='french-word'>ferai</span><span class='french-word'>pêcheurs</span><span class='french-word'>d'hommes.</span></p></div>"
+        "verse_number": "4, 19",
+        "translations": {
+          "segond": "Il leur dit : Suivez-moi, et je vous ferai pêcheurs d'hommes.",
+          "darby": "Et il leur dit : Suivez-moi, et je vous ferai pêcheurs d'hommes."
+        },
+        "interlinear": [
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "λέγει", "gloss": "dit" },
+          { "greek": "αὐτοῖς·", "gloss": "à_eux" },
+          { "greek": "Δεῦτε", "gloss": "Venez" },
+          { "greek": "ὀπίσω", "gloss": "après/à_la_suite_de" },
+          { "greek": "μου,", "gloss": "moi" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ποιήσω", "gloss": "je_ferai" },
+          { "greek": "ὑμᾶς", "gloss": "vous" },
+          { "greek": "ἁλεεῖς", "gloss": "pêcheurs" },
+          { "greek": "ἀνθρώπων.", "gloss": "d'hommes" }
+        ]
       },
       {
-        "verse_number": 20,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>οἱ</span><span class='greek-word'>δὲ</span><span class='greek-word'>εὐθέως</span><span class='greek-word'>ἀφέντες</span><span class='greek-word'>τὰ</span><span class='greek-word'>δίκτυα</span></p><p class='inter-segond'><span class='french-word'>eux</span><span class='french-word'>mais</span><span class='french-word'>aussitôt</span><span class='french-word'>ayant_laissé</span><span class='french-word'>les</span><span class='french-word'>filets</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>eux,</span><span class='french-word'>quittant</span><span class='french-word'>aussitôt</span><span class='french-word'>leurs</span><span class='french-word'>filets,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἠκολούθησαν</span><span class='greek-word'>αὐτῷ.</span></p><p class='inter-segond'><span class='french-word'>suivirent</span><span class='french-word'>lui.</span></p><p class='inter-darby'><span class='french-word'>le</span><span class='french-word'>suivirent.</span></p></div>"
+        "verse_number": "4, 20",
+        "translations": {
+          "segond": "Aussitôt, ils laissèrent les filets, et le suivirent.",
+          "darby": "Et aussitôt, ayant laissé les filets, ils le suivirent."
+        },
+        "interlinear": [
+          { "greek": "οἱ", "gloss": "Eux" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "εὐθέως", "gloss": "aussitôt" },
+          { "greek": "ἀφέντες", "gloss": "ayant_laissé/quitté", "analyse": "Du verbe *aphiēmi* (*apo* + *hiēmi* : envoyer au loin). Le geste kénotique par excellence. Ils lâchent l'outil de leur survie (le filet). En se dépossédant de l'instrument de leur 'Avoir', ils créent le 'creux' nécessaire pour devenir des 'Sujets' appelés par le Logos." },
+          { "greek": "τὰ", "gloss": "les" },
+          { "greek": "δίκτυα", "gloss": "filets" },
+          { "greek": "ἠκολούθησαν", "gloss": "ils_suivirent" },
+          { "greek": "αὐτῷ.", "gloss": "lui" }
+        ]
       },
       {
-        "verse_number": 21,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>προβὰς</span><span class='greek-word'>ἐκεῖθεν</span><span class='greek-word'>εἶδεν</span><span class='greek-word'>ἄλλους</span><span class='greek-word'>δύο</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>allant_plus_loin</span><span class='french-word'>de_là</span><span class='french-word'>il_vit</span><span class='french-word'>autres</span><span class='french-word'>deux</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>passant</span><span class='french-word'>de_là</span><span class='french-word'>plus_avant,</span><span class='french-word'>il_vit</span><span class='french-word'>deux</span><span class='french-word'>autres</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀδελφούς,</span><span class='greek-word'>Ἰάκωβον</span><span class='greek-word'>τὸν</span><span class='greek-word'>τοῦ</span><span class='greek-word'>Ζεβεδαίου</span></p><p class='inter-segond'><span class='french-word'>frères,</span><span class='french-word'>Jacques</span><span class='french-word'>celui</span><span class='french-word'>de</span><span class='french-word'>Zébédée</span></p><p class='inter-darby'><span class='french-word'>frères,</span><span class='french-word'>Jacques,</span><span class='french-word'>le_fils_de</span><span class='french-word'>Zébédée,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>Ἰωάννην</span><span class='greek-word'>τὸν</span><span class='greek-word'>ἀδελφὸν</span><span class='greek-word'>αὐτοῦ,</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>Jean</span><span class='french-word'>le</span><span class='french-word'>frère</span><span class='french-word'>sien,</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>Jean</span><span class='french-word'>son</span><span class='french-word'>frère,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐν</span><span class='greek-word'>τῷ</span><span class='greek-word'>πλοίῳ</span><span class='greek-word'>μετὰ</span><span class='greek-word'>Ζεβεδαίου</span><span class='greek-word'>τοῦ</span><span class='greek-word'>πατρὸς</span><span class='greek-word'>αὐτῶν</span></p><p class='inter-segond'><span class='french-word'>dans</span><span class='french-word'>la</span><span class='french-word'>barque</span><span class='french-word'>avec</span><span class='french-word'>Zébédée</span><span class='french-word'>le</span><span class='french-word'>père</span><span class='french-word'>leur</span></p><p class='inter-darby'><span class='french-word'>dans</span><span class='french-word'>la</span><span class='french-word'>nacelle</span><span class='french-word'>avec</span><span class='french-word'>Zébédée</span><span class='french-word'>leur</span><span class='french-word'>père,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καταρτίζοντας</span><span class='greek-word'>τὰ</span><span class='greek-word'>δίκτυα</span><span class='greek-word'>αὐτῶν,</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἐκάλεσεν</span><span class='greek-word'>αὐτούς.</span></p><p class='inter-segond'><span class='french-word'>réparant</span><span class='french-word'>les</span><span class='french-word'>filets</span><span class='french-word'>leurs,</span><span class='french-word'>et</span><span class='french-word'>il_appela</span><span class='french-word'>eux.</span></p><p class='inter-darby'><span class='french-word'>raccommodant</span><span class='french-word'>leurs</span><span class='french-word'>filets ;</span><span class='french-word'>et</span><span class='french-word'>il</span><span class='french-word'>les</span><span class='french-word'>appela.</span></p></div>"
+        "verse_number": "4, 21",
+        "translations": {
+          "segond": "De là étant allé plus loin, il vit deux autres frères, Jacques, fils de Zébédée, et Jean, son frère, qui étaient dans une barque avec Zébédée, leur père, et qui réparaient leurs filets. Il les appela,",
+          "darby": "Et étant passé de là, il vit deux autres frères, Jacques, fils de Zébédée, et Jean, son frère, dans la barque avec Zébédée leur père, raccommodant leurs filets ; et il les appela."
+        },
+        "interlinear": [
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "προβὰς", "gloss": "étant_allé_plus_loin/ayant_avancé" },
+          { "greek": "ἐκεῖθεν", "gloss": "de_là" },
+          { "greek": "εἶδεν", "gloss": "il_vit" },
+          { "greek": "ἄλλους", "gloss": "d'autres" },
+          { "greek": "δύο", "gloss": "deux" },
+          { "greek": "ἀδελφούς,", "gloss": "frères" },
+          { "greek": "Ἰάκωβον", "gloss": "Jacques" },
+          { "greek": "τὸν", "gloss": "le" },
+          { "greek": "τοῦ", "gloss": "de" },
+          { "greek": "Ζεβεδαίου", "gloss": "Zébédée" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "Ἰωάννην", "gloss": "Jean" },
+          { "greek": "τὸν", "gloss": "le" },
+          { "greek": "ἀδελφὸν", "gloss": "frère" },
+          { "greek": "αὐτοῦ,", "gloss": "de_lui" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "τῷ", "gloss": "la" },
+          { "greek": "πλοίῳ", "gloss": "barque" },
+          { "greek": "μετὰ", "gloss": "avec" },
+          { "greek": "Ζεβεδαίου", "gloss": "Zébédée" },
+          { "greek": "τοῦ", "gloss": "le" },
+          { "greek": "πατρὸς", "gloss": "père" },
+          { "greek": "αὐτῶν", "gloss": "d'eux" },
+          { "greek": "καταρτίζοντας", "gloss": "réparant/ajustant", "analyse": "Du verbe *katartizō* (ajuster, remettre en état, équilibrer). Le travail du monde est une réparation perpétuelle de ce qui se déchire (la survie). Le Christ les appelle à sortir de cette maintenance cyclique pour une œuvre qui demeure." },
+          { "greek": "τὰ", "gloss": "les" },
+          { "greek": "δίκτυα", "gloss": "filets" },
+          { "greek": "αὐτῶν,", "gloss": "d'eux" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἐκάλεσεν", "gloss": "il_appela" },
+          { "greek": "αὐτούς.", "gloss": "eux" }
+        ]
       },
       {
-        "verse_number": 22,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>οἱ</span><span class='greek-word'>δὲ</span><span class='greek-word'>εὐθέως</span><span class='greek-word'>ἀφέντες</span><span class='greek-word'>τὸ</span><span class='greek-word'>πλοῖον</span></p><p class='inter-segond'><span class='french-word'>eux</span><span class='french-word'>mais</span><span class='french-word'>aussitôt</span><span class='french-word'>ayant_laissé</span><span class='french-word'>la</span><span class='french-word'>barque</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>eux,</span><span class='french-word'>quittant</span><span class='french-word'>aussitôt</span><span class='french-word'>la</span><span class='french-word'>nacelle</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>τὸν</span><span class='greek-word'>πατέρα</span><span class='greek-word'>αὐτῶν</span><span class='greek-word'>ἠκολούθησαν</span><span class='greek-word'>αὐτῷ.</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>le</span><span class='french-word'>père</span><span class='french-word'>leur</span><span class='french-word'>suivirent</span><span class='french-word'>lui.</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>leur</span><span class='french-word'>père,</span><span class='french-word'>le</span><span class='french-word'>suivirent.</span></p></div>"
+        "verse_number": "4, 22",
+        "translations": {
+          "segond": "et aussitôt ils laissèrent la barque et leur père, et le suivirent.",
+          "darby": "Et aussitôt, ayant laissé la barque et leur père, ils le suivirent."
+        },
+        "interlinear": [
+          { "greek": "οἱ", "gloss": "Eux" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "εὐθέως", "gloss": "aussitôt" },
+          { "greek": "ἀφέντες", "gloss": "ayant_laissé" },
+          { "greek": "τὸ", "gloss": "la" },
+          { "greek": "πλοῖον", "gloss": "barque" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "τὸν", "gloss": "le" },
+          { "greek": "πατέρα", "gloss": "père" },
+          { "greek": "αὐτῶν", "gloss": "d'eux" },
+          { "greek": "ἠκολούθησαν", "gloss": "ils_suivirent" },
+          { "greek": "αὐτῷ.", "gloss": "lui" }
+        ]
       },
       {
-        "verse_number": 23,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Καὶ</span><span class='greek-word'>περιῆγεν</span><span class='greek-word'>ὅλην</span><span class='greek-word'>τὴν</span><span class='greek-word'>Γαλιλαίαν</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>il_parcourait</span><span class='french-word'>toute</span><span class='french-word'>la</span><span class='french-word'>Galilée,</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>Jésus</span><span class='french-word'>parcourait</span><span class='french-word'>toute</span><span class='french-word'>la</span><span class='french-word'>Galilée,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>διδάσκων</span><span class='greek-word'>ἐν</span><span class='greek-word'>ταῖς</span><span class='greek-word'>συναγωγαῖς</span><span class='greek-word'>αὐτῶν</span></p><p class='inter-segond'><span class='french-word'>enseignant</span><span class='french-word'>dans</span><span class='french-word'>les</span><span class='french-word'>synagogues</span><span class='french-word'>leurs</span></p><p class='inter-darby'><span class='french-word'>enseignant</span><span class='french-word'>dans</span><span class='french-word'>leurs</span><span class='french-word'>synagogues,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>κηρύσσων</span><span class='greek-word'>τὸ</span><span class='greek-word'>εὐαγγέλιον</span><span class='greek-word'>τῆς</span><span class='greek-word'>βασιλείας</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>prêchant</span><span class='french-word'>la</span><span class='french-word'>bonne_nouvelle</span><span class='french-word'>du</span><span class='french-word'>royaume,</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>prêchant</span><span class='french-word'>l'évangile</span><span class='french-word'>du</span><span class='french-word'>royaume,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>θεραπεύων</span><span class='greek-word'>πᾶσαν</span><span class='greek-word'>νόσον</span><span class='greek-word'>καὶ</span><span class='greek-word'>πᾶσαν</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>guérissant</span><span class='french-word'>toute</span><span class='french-word'>maladie</span><span class='french-word'>et</span><span class='french-word'>toute</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>guérissant</span><span class='french-word'>toute</span><span class='french-word'>maladie</span><span class='french-word'>et</span><span class='french-word'>toute</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>μαλακίαν</span><span class='greek-word'>ἐν</span><span class='greek-word'>τῷ</span><span class='greek-word'>λαῷ.</span></p><p class='inter-segond'><span class='french-word'>infirmité</span><span class='french-word'>parmi</span><span class='french-word'>le</span><span class='french-word'>peuple.</span></p><p class='inter-darby'><span class='french-word'>langueur</span><span class='french-word'>parmi</span><span class='french-word'>le</span><span class='french-word'>peuple.</span></p></div>"
+        "verse_number": "4, 23",
+        "translations": {
+          "segond": "Jésus parcourait toute la Galilée, enseignant dans les synagogues, prêchant la bonne nouvelle du royaume, et guérissant toute maladie et toute infirmité parmi le peuple.",
+          "darby": "Et Jésus parcourait toute la Galilée, enseignant dans leurs synagogues, et prêchant la bonne nouvelle du royaume, et guérissant toute maladie et toute infirmité parmi le peuple."
+        },
+        "interlinear": [
+          { "greek": "Καὶ", "gloss": "Et" },
+          { "greek": "περιῆγεν", "gloss": "il_parcourait" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "ὅλῃ", "gloss": "toute" },
+          { "greek": "τῇ", "gloss": "la" },
+          { "greek": "Γαλιλαίᾳ,", "gloss": "Galilée" },
+          { "greek": "διδάσκων", "gloss": "enseignant" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "ταῖς", "gloss": "les" },
+          { "greek": "συναγωγαῖς", "gloss": "synagogues" },
+          { "greek": "αὐτῶν", "gloss": "de_eux" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "κηρύσσων", "gloss": "prêchant" },
+          { "greek": "τὸ", "gloss": "la" },
+          { "greek": "εὐαγγέλιον", "gloss": "bonne_nouvelle" },
+          { "greek": "τῆς", "gloss": "du" },
+          { "greek": "βασιλείας", "gloss": "royaume" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "θεραπεύων", "gloss": "guérissant" },
+          { "greek": "πᾶσαν", "gloss": "toute" },
+          { "greek": "νόσον", "gloss": "maladie" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "πᾶσαν", "gloss": "toute" },
+          { "greek": "μαλακίαν", "gloss": "infirmité/faiblesse" },
+          { "greek": "ἐν", "gloss": "parmi" },
+          { "greek": "τῷ", "gloss": "le" },
+          { "greek": "λαῷ.", "gloss": "peuple" }
+        ]
       }
     ],
-    "greek_only": "\n18 Περιπατῶν δὲ παρὰ τὴν θάλασσαν τῆς Γαλιλαίας εἶδεν δύο ἀδελφούς, Σίμωνα τὸν λεγόμενον Πέτρον καὶ Ἀνδρέαν τὸν ἀδελφὸν αὐτοῦ, βάλλοντας ἀμφίβληστρον εἰς τὴν θάλασσαν· ἦσαν γὰρ ἁλιεῖς. \n19 καὶ λέγει αὐτοῖς· Δεῦτε ὀπίσω μου, καὶ ποιήσω ὑμᾶς ἁλιεῖς ἀνθρώπων. \n20 οἱ δὲ εὐθέως ἀφέντες τὰ δίκτυα ἠκολούθησαν αὐτῷ. \n21 Καὶ προβὰς ἐκεῖθεν εἶδεν ἄλλους δύο ἀδελφούς, Ἰάκωβον τὸν τοῦ Ζεβεδαίου καὶ Ἰωάννην τὸν ἀδελφὸν αὐτοῦ, ἐν τῷ πλοίῳ μετὰ Ζεβεδαίου τοῦ πατρὸς αὐτῶν καταρτίζοντας τὰ δίκτυα αὐτῶν, καὶ ἐκάλεσεν αὐτούς. \n22 οἱ δὲ εὐθέως ἀφέντες τὸ πλοῖον καὶ τὸν πατέρα αὐτῶν ἠκολούθησαν αὐτῷ. \n23 Καὶ περιῆγεν ὅλην τὴν Γαλιλαίαν διδάσκων ἐν ταῖς συναγωγαῖς αὐτῶν καὶ κηρύσσων τὸ εὐαγγέλιον τῆς βασιλείας καὶ θεραπεύων πᾶσαν νόσον καὶ πᾶσαν μαλακίαν ἐν τῷ λαῷ.",
-    "french_only": "\n18 Comme il marchait le long de la mer de Galilée, il vit deux frères, Simon, appelé Pierre, et André, son frère, qui jetaient un filet dans la mer ; car ils étaient pêcheurs. \n19 Il leur dit : Suivez-moi, et je vous ferai pêcheurs d'hommes. \n20 Aussitôt, ils laissèrent les filets, et le suivirent. \n21 De là étant allé plus loin, il vit deux autres frères, Jacques, fils de Zébédée, et Jean, son frère, qui étaient dans une barque avec Zébédée, leur père, et qui réparaient leurs filets. Il les appela, \n22 et aussitôt ils laissèrent la barque et leur père, et le suivirent. \n23 Jésus parcourait toute la Galilée, enseignant dans les synagogues, prêchant la bonne nouvelle du royaume, et guérissant toute maladie et toute infirmité parmi le peuple.",
-    "french_darby": "\n18 Et comme il marchait le long de la mer de Galilée, il vit deux frères, Simon, dit Pierre, et André son frère, qui jetaient un filet dans la mer, car ils étaient pêcheurs. \n19 Et il leur dit : Venez après moi, et je vous ferai pêcheurs d'hommes. \n20 Et eux, quittant aussitôt leurs filets, le suivirent. \n21 Et passant de là plus avant, il vit deux autres frères, Jacques, le fils de Zébédée, et Jean son frère, dans la nacelle avec Zébédée leur père, raccommodant leurs filets ; et il les appela. \n22 Et eux, quittant aussitôt la nacelle et leur père, le suivirent. \n23 Et Jésus parcourait toute la Galilée, enseignant dans leurs synagogues, et prêchant l'évangile du royaume, et guérissant toute maladie et toute langueur parmi le peuple.",
-    "personal_analysis": "Le 2ème dimanche de Matthieu nous montre l'acte fondateur de l'Église : l'appel. Les saints que nous honorons aujourd'hui sont précisément ceux qui, à l'instar de Pierre, André, Jacques et Jean, ont entendu la voix du Christ et ont tout quitté 'aussitôt' (Eutheos). La sainteté commence par cette disponibilité immédiate à suivre la Lumière, transformant une profession terrestre (pêcheurs) en une mission divine (pêcheurs d'hommes) qui guérit l'humanité de ses infirmités."
+    "personal_analysis": "Analyse spirituelle :\n\nCe passage marque le commencement du Cycle de Matthieu. Il contraste violemment la vie des pêcheurs de Galilée, entièrement captés par la survie et le maintien de leur équipement (les filets, la barque), avec l'appel de l'Incréé. \n\n1. La sortie de la saturation : Le travail des filets\nLes disciples sont occupés à 'jeter' (*ballontes*) et 'réparer' (*katartizontas*). Le Monde duel est ce cycle répétitif où l'on colmate les brèches pour maintenir un 'Avoir' fragile. Le Christ les appelle à sortir de cette boucle. C'est l'appel du Sujet : il ne s'agit plus de capturer pour soi, mais de devenir 'pêcheurs d'hommes', c'est-à-dire de laisser l'Esprit travailler à travers eux pour libérer l'autre de la masse.\n\n2. Le geste eucharistique : L'abandon (Aphiēmi)\nL'acte de laisser les filets et la barque (v. 20, 22) est l'acte fondateur du Sujet chrétien. Ce 'lâcher-prise' n'est pas un suicide social, c'est une kénose. Ils abandonnent leurs outils de préhension et leur lignée patriarcale (leur père Zébédée) pour s'engager dans la suite (*akoloutheō*) du Logos. Ils acceptent de perdre le poids de leurs identités héritées pour devenir des Sujets en mouvement, disponibles pour le Royaume UN.\n\n3. La guérison du peuple : La Lumière qui traverse\nLe récit se conclut sur l'action de Jésus parcourant la Galilée. Le contraste est ici entre la synagogue (lieu du savoir 'en plein' et figé) et la marche du Christ qui guérit toute infirmité (*malakia*, faiblesse, mollesse). Le Christ libère le peuple de sa passivité, le remet debout, le rend capable de devenir à son tour acteur de la Bonne Nouvelle."
   },
 "apostle": {
-  "reference": "Romains 2, 10-16",
-  "title": "L'Impartialité de Dieu et la Loi du Cœur",
-  "interlinear": [
-    {
-      "verse_number": 10,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>δόξα</span><span class='greek-word'>δὲ</span><span class='greek-word'>καὶ</span><span class='greek-word'>τιμὴ</span><span class='greek-word'>καὶ</span><span class='greek-word'>εἰρήνη</span></p><p class='inter-segond'><span class='french-word'>gloire</span><span class='french-word'>mais</span><span class='french-word'>et</span><span class='french-word'>honneur</span><span class='french-word'>et</span><span class='french-word'>paix</span></p><p class='inter-darby'><span class='french-word'>mais</span><span class='french-word'>gloire,</span><span class='french-word'>et</span><span class='french-word'>honneur,</span><span class='french-word'>et</span><span class='french-word'>paix</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>παντὶ</span><span class='greek-word'>τῷ</span><span class='greek-word'>ἐργαζομένῳ</span><span class='greek-word'>τὸ</span><span class='greek-word'>ἀγαθόν,</span></p><p class='inter-segond'><span class='french-word'>à_quiconque</span><span class='french-word'>le</span><span class='french-word'>faisant</span><span class='french-word'>le</span><span class='french-word'>bien,</span></p><p class='inter-darby'><span class='french-word'>à</span><span class='french-word'>tout</span><span class='french-word'>homme</span><span class='french-word'>qui</span><span class='french-word'>fait</span><span class='french-word'>le</span><span class='french-word'>bien,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Ἰουδαίῳ</span><span class='greek-word'>τε</span><span class='greek-word'>πρῶτον</span><span class='greek-word'>καὶ</span><span class='greek-word'>Ἕλληνι·</span></p><p class='inter-segond'><span class='french-word'>au_Juif</span><span class='french-word'>d'abord</span><span class='french-word'>et</span><span class='french-word'>puis_au_Grec ;</span></p><p class='inter-darby'><span class='french-word'>au</span><span class='french-word'>Juif</span><span class='french-word'>premièrement,</span><span class='french-word'>et</span><span class='french-word'>aussi</span><span class='french-word'>au</span><span class='french-word'>Grec ;</span></p></div>"
-    },
-    {
-      "verse_number": 11,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>οὐ</span><span class='greek-word'>γάρ</span><span class='greek-word'>ἐστιν</span><span class='greek-word'>προσωπολημψία</span><span class='greek-word'>παρὰ</span><span class='greek-word'>τῷ</span><span class='greek-word'>Θεῷ.</span></p><p class='inter-segond'><span class='french-word'>pas</span><span class='french-word'>car</span><span class='french-word'>il_y_a</span><span class='french-word'>d'acception_de_personnes</span><span class='french-word'>devant</span><span class='french-word'>le</span><span class='french-word'>Dieu.</span></p><p class='inter-darby'><span class='french-word'>car</span><span class='french-word'>il</span><span class='french-word'>n'y_a</span><span class='french-word'>pas</span><span class='french-word'>d'acception_de_personnes</span><span class='french-word'>auprès_de</span><span class='french-word'>Dieu.</span></p></div>"
-    },
-    {
-      "verse_number": 12,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Ὅσοι</span><span class='greek-word'>γὰρ</span><span class='greek-word'>ἀνόμως</span><span class='greek-word'>ἥμαρτον,</span></p><p class='inter-segond'><span class='french-word'>Tous_ceux</span><span class='french-word'>car</span><span class='french-word'>sans_loi</span><span class='french-word'>ont_péché,</span></p><p class='inter-darby'><span class='french-word'>Car</span><span class='french-word'>tous</span><span class='french-word'>ceux</span><span class='french-word'>qui</span><span class='french-word'>ont_péché</span><span class='french-word'>sans_loi,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀνόμως</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἀπολοῦνται·</span></p><p class='inter-segond'><span class='french-word'>sans_loi</span><span class='french-word'>aussi</span><span class='french-word'>périront ;</span></p><p class='inter-darby'><span class='french-word'>périront</span><span class='french-word'>aussi</span><span class='french-word'>sans_loi ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ὅσοι</span><span class='greek-word'>ἐν</span><span class='greek-word'>νόμῳ</span><span class='greek-word'>ἥμαρτον,</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>tous_ceux</span><span class='french-word'>avec_la</span><span class='french-word'>loi</span><span class='french-word'>ont_péché,</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>tous</span><span class='french-word'>ceux</span><span class='french-word'>qui</span><span class='french-word'>ont_péché</span><span class='french-word'>sous_la</span><span class='french-word'>loi,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>διὰ</span><span class='greek-word'>νόμου</span><span class='greek-word'>κριθήσονται·</span></p><p class='inter-segond'><span class='french-word'>par</span><span class='french-word'>la_loi</span><span class='french-word'>seront_jugés.</span></p><p class='inter-darby'><span class='french-word'>seront_jugés</span><span class='french-word'>par</span><span class='french-word'>la</span><span class='french-word'>loi.</span></p></div>"
-    },
-    {
-      "verse_number": 13,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>οὐ</span><span class='greek-word'>γὰρ</span><span class='greek-word'>οἱ</span><span class='greek-word'>ἀκροαταὶ</span><span class='greek-word'>νόμου</span><span class='greek-word'>δίκαιοι</span></p><p class='inter-segond'><span class='french-word'>pas</span><span class='french-word'>car</span><span class='french-word'>les</span><span class='french-word'>auditeurs</span><span class='french-word'>de_la_loi</span><span class='french-word'>sont_justes</span></p><p class='inter-darby'><span class='french-word'>(Car</span><span class='french-word'>ce</span><span class='french-word'>ne</span><span class='french-word'>sont</span><span class='french-word'>pas</span><span class='french-word'>ceux</span><span class='french-word'>qui</span><span class='french-word'>écoutent</span><span class='french-word'>la</span><span class='french-word'>loi</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>παρὰ</span><span class='greek-word'>τῷ</span><span class='greek-word'>Θεῷ,</span><span class='greek-word'>ἀλλ’</span><span class='greek-word'>οἱ</span><span class='greek-word'>ποιηταὶ</span><span class='greek-word'>νόμου</span></p><p class='inter-segond'><span class='french-word'>devant</span><span class='french-word'>le</span><span class='french-word'>Dieu,</span><span class='french-word'>mais</span><span class='french-word'>les</span><span class='french-word'>observateurs</span><span class='french-word'>de_la_loi</span></p><p class='inter-darby'><span class='french-word'>qui</span><span class='french-word'>sont</span><span class='french-word'>justes</span><span class='french-word'>devant</span><span class='french-word'>Dieu,</span><span class='french-word'>mais</span><span class='french-word'>ce</span><span class='french-word'>sont</span><span class='french-word'>ceux</span><span class='french-word'>qui</span><span class='french-word'>font</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>δικαιωθήσονται.</span></p><p class='inter-segond'><span class='french-word'>seront_justifiés.</span></p><p class='inter-darby'><span class='french-word'>la</span><span class='french-word'>loi</span><span class='french-word'>qui</span><span class='french-word'>seront</span><span class='french-word'>justifiés.</span></p></div>"
-    },
-    {
-      "verse_number": 14,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ὅταν</span><span class='greek-word'>γὰρ</span><span class='greek-word'>ἔθνη</span><span class='greek-word'>τὰ</span><span class='greek-word'>μὴ</span><span class='greek-word'>νόμον</span><span class='greek-word'>ἔχοντα</span></p><p class='inter-segond'><span class='french-word'>Quand</span><span class='french-word'>car</span><span class='french-word'>des_païens</span><span class='french-word'>qui</span><span class='french-word'>pas</span><span class='french-word'>la_loi</span><span class='french-word'>n'ayant,</span></p><p class='inter-darby'><span class='french-word'>Car</span><span class='french-word'>quand</span><span class='french-word'>les</span><span class='french-word'>nations</span><span class='french-word'>qui</span><span class='french-word'>n'ont</span><span class='french-word'>pas</span><span class='french-word'>de</span><span class='french-word'>loi,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>φύσει</span><span class='greek-word'>τὰ</span><span class='greek-word'>τοῦ</span><span class='greek-word'>νόμου</span><span class='greek-word'>ποιῶσιν,</span></p><p class='inter-segond'><span class='french-word'>naturellement</span><span class='french-word'>les_prescriptions</span><span class='french-word'>de_la</span><span class='french-word'>loi</span><span class='french-word'>accomplissent,</span></p><p class='inter-darby'><span class='french-word'>font</span><span class='french-word'>naturellement</span><span class='french-word'>les</span><span class='french-word'>choses</span><span class='french-word'>de</span><span class='french-word'>la</span><span class='french-word'>loi,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>οὗτοι</span><span class='greek-word'>νόμον</span><span class='greek-word'>μὴ</span><span class='greek-word'>ἔχοντες</span><span class='greek-word'>ἑαυτοῖς</span><span class='greek-word'>εἰσιν</span><span class='greek-word'>νόμος·</span></p><p class='inter-segond'><span class='french-word'>ceux-ci</span><span class='french-word'>la_loi</span><span class='french-word'>pas</span><span class='french-word'>ayant</span><span class='french-word'>pour_eux-mêmes</span><span class='french-word'>sont</span><span class='french-word'>une_loi ;</span></p><p class='inter-darby'><span class='french-word'>n'ayant</span><span class='french-word'>pas</span><span class='french-word'>de</span><span class='french-word'>loi,</span><span class='french-word'>elles</span><span class='french-word'>sont</span><span class='french-word'>une</span><span class='french-word'>loi</span><span class='french-word'>à</span><span class='french-word'>elles-mêmes,</span></p></div>"
-    },
-    {
-      "verse_number": 15,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>οἵτινες</span><span class='greek-word'>ἐνδείκνυνται</span><span class='greek-word'>τὸ</span><span class='greek-word'>ἔργον</span><span class='greek-word'>τοῦ</span><span class='greek-word'>νόμου</span></p><p class='inter-segond'><span class='french-word'>lesquels</span><span class='french-word'>montrent</span><span class='french-word'>l'</span><span class='french-word'>oeuvre</span><span class='french-word'>de_la</span><span class='french-word'>loi</span></p><p class='inter-darby'><span class='french-word'>elles</span><span class='french-word'>qui</span><span class='french-word'>montrent</span><span class='french-word'>l'œuvre</span><span class='french-word'>de</span><span class='french-word'>la</span><span class='french-word'>loi</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>γραπτὸν</span><span class='greek-word'>ἐν</span><span class='greek-word'>ταῖς</span><span class='greek-word'>καρδίαις</span><span class='greek-word'>αὐτῶν,</span></p><p class='inter-segond'><span class='french-word'>écrite</span><span class='french-word'>dans</span><span class='french-word'>les</span><span class='french-word'>coeurs</span><span class='french-word'>leurs,</span></p><p class='inter-darby'><span class='french-word'>écrite</span><span class='french-word'>dans</span><span class='french-word'>leurs</span><span class='french-word'>cœurs,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>συμμαρτυρούσης</span><span class='greek-word'>αὐτῶν</span><span class='greek-word'>τῆς</span><span class='greek-word'>συνειδήσεως</span></p><p class='inter-segond'><span class='french-word'>rendant_témoignage</span><span class='french-word'>leur</span><span class='french-word'>la</span><span class='french-word'>conscience</span></p><p class='inter-darby'><span class='french-word'>leur</span><span class='french-word'>conscience</span><span class='french-word'>en</span><span class='french-word'>rendant</span><span class='french-word'>témoignage,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>μεταξὺ</span><span class='greek-word'>ἀλλήλων</span><span class='greek-word'>τῶν</span><span class='greek-word'>λογισμῶν</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>entre</span><span class='french-word'>elles</span><span class='french-word'>les</span><span class='french-word'>pensées</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>leurs</span><span class='french-word'>raisonnements</span><span class='french-word'>s'accusant</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>κατηγορούντων</span><span class='greek-word'>ἢ</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἀπολογουμένων,</span></p><p class='inter-segond'><span class='french-word'>s'accusant</span><span class='french-word'>ou</span><span class='french-word'>aussi</span><span class='french-word'>se_défendant,</span></p><p class='inter-darby'><span class='french-word'>entre</span><span class='french-word'>eux,</span><span class='french-word'>ou</span><span class='french-word'>aussi</span><span class='french-word'>s'excusant)</span></p></div>"
-    },
-    {
-      "verse_number": 16,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἐν</span><span class='greek-word'>ᾗ</span><span class='greek-word'>ἡμέρᾳ</span><span class='greek-word'>κρίνει</span><span class='greek-word'>ὁ</span><span class='greek-word'>Θεὸς</span><span class='greek-word'>τὰ</span><span class='greek-word'>κρυπτὰ</span></p><p class='inter-segond'><span class='french-word'>au</span><span class='french-word'>lequel</span><span class='french-word'>jour</span><span class='french-word'>jugera</span><span class='french-word'>le</span><span class='french-word'>Dieu</span><span class='french-word'>les_choses</span><span class='french-word'>secrètes</span></p><p class='inter-darby'><span class='french-word'>au</span><span class='french-word'>jour</span><span class='french-word'>où</span><span class='french-word'>Dieu</span><span class='french-word'>jugera</span><span class='french-word'>les</span><span class='french-word'>secrets</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τῶν</span><span class='greek-word'>ἀνθρώπων</span><span class='greek-word'>κατὰ</span><span class='greek-word'>τὸ</span><span class='greek-word'>εὐαγγέλιόν</span><span class='greek-word'>μου</span></p><p class='inter-segond'><span class='french-word'>des</span><span class='french-word'>hommes</span><span class='french-word'>selon</span><span class='french-word'>mon</span><span class='french-word'>l'évangile</span></p><p class='inter-darby'><span class='french-word'>des</span><span class='french-word'>hommes,</span><span class='french-word'>par</span><span class='french-word'>Jésus</span><span class='french-word'>Christ,</span><span class='french-word'>selon</span><span class='french-word'>mon</span><span class='french-word'>évangile.</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>διὰ</span><span class='greek-word'>Χριστοῦ</span><span class='greek-word'>Ἰησοῦ.</span></p><p class='inter-segond'><span class='french-word'>par</span><span class='french-word'>Christ</span><span class='french-word'>Jésus.</span></p><p class='inter-darby'></p></div>"
-    }
-  ],
-  "greek_only": "\n10 δόξα δὲ καὶ τιμὴ καὶ εἰρήνη παντὶ τῷ ἐργαζομένῳ τὸ ἀγαθόν, Ἰουδαίῳ τε πρῶτον καὶ Ἕλληνι· \n11 οὐ γάρ ἐστιν προσωπολημψία παρὰ τῷ Θεῷ. \n12 Ὅσοι γὰρ ἀνόμως ἥμαρτον, ἀνόμως καὶ ἀπολοῦνται· καὶ ὅσοι ἐν νόμῳ ἥμαρτον, διὰ νόμου κριθήσονται· \n13 οὐ γὰρ οἱ ἀκροαταὶ νόμου δίκαιοι παρὰ τῷ Θεῷ, ἀλλ’ οἱ ποιηταὶ νόμου δικαιωθήσονται. \n14 ὅταν γὰρ ἔθνη τὰ μὴ νόμον ἔχοντα φύσει τὰ τοῦ νόμου ποιῶσιν, οὗτοι νόμον μὴ ἔχοντες ἑαυτοῖς εἰσιν νόμος· \n15 οἵτινες ἐνδείκνυνται τὸ ἔργον τοῦ νόμου γραπτὸν ἐν ταῖς καρδίαις αὐτῶν, συμμαρτυρούσης αὐτῶν τῆς συνειδήσεως καὶ μεταξὺ ἀλλήλων τῶν λογισμῶν κατηγορούντων ἢ καὶ ἀπολογουμένων, \n16 ἐν ᾗ ἡμέρᾳ κρίνει ὁ Θεὸς τὰ κρυπτὰ τῶν ἀνθρώπων κατὰ τὸ εὐαγγέλιόν μου διὰ Χριστοῦ Ἰησοῦ.",
-  "french_only": "\n10 Gloire, honneur et paix pour quiconque fait le bien, pour le Juif d'abord, puis pour le Grec ! \n11 Car devant Dieu il n'y a point d'acception de personnes. \n12 Tous ceux qui ont péché sans la loi périront aussi sans la loi, et tous ceux qui ont péché avec la loi seront jugés par la loi. \n13 Ce ne sont pas, en effet, ceux qui écoutent la loi qui sont justes devant Dieu, mais ce sont ceux qui la mettent en pratique qui seront justifiés. \n14 Quand des païens, qui n'ont point la loi, font naturellement ce que prescrit la loi, ils sont, eux qui n'ont point la loi, une loi pour eux-mêmes ; \n15 ils montrent que l'oeuvre de la loi est écrite dans leurs coeurs, leur conscience en rendant témoignage, et leurs pensées s'accusant ou se défendant tour à tour. \n16 C'est ce qui paraîtra au jour où, selon mon Évangile, Dieu jugera par Jésus-Christ les actions secrètes des hommes.",
-  "french_darby": "\n10 mais gloire, et honneur, et paix à tout homme qui fait le bien, au Juif premièrement, et aussi au Grec ; \n11 car il n'y a pas d'acception de personnes auprès de Dieu. \n12 Car tous ceux qui ont péché sans loi, périront aussi sans loi ; et tous ceux qui ont péché sous la loi, seront jugés par la loi \n13 (car ce ne sont pas ceux qui écoutent la loi qui sont justes devant Dieu, mais ce sont ceux qui font la loi qui seront justifiés. \n14 Car quand les nations qui n'ont pas de loi, font naturellement les choses de la loi, n'ayant pas de loi, elles sont une loi à elles-mêmes, \n15 elles qui montrent l'œuvre de la loi écrite dans leurs cœurs, leur conscience en rendant témoignage, et leurs raisonnements s'accusant entre eux, ou aussi s'excusant) ; \n16 au jour où Dieu jugera les secrets des hommes, par Jésus Christ, selon mon évangile.",
-  "personal_analysis": "En ce dimanche des Saints de la Terre, Paul souligne que la sainteté n'est pas le monopole d'un groupe, mais le fruit de l'obéissance à la 'Loi du cœur'. Dieu ne regarde pas l'étiquette (Juif ou Grec), mais la réalité de l'action. Cette péricope fonde la possibilité d'une 'Loi Naturelle' et rappelle que les saints sont ceux dont la conscience et les actes ont été transfigurés par l'Esprit, devenant eux-mêmes une loi vivante pour le monde."
-}
-}  
+    "reference": "Romains 2, 10-16",
+    "title": "La Loi inscrite dans le cœur : L'universalité du Sujet",
+    "interlinear": [
+      {
+        "verse_number": "2, 10",
+        "translations": {
+          "segond": "Gloire, honneur et paix pour quiconque fait le bien, pour le Juif premièrement, puis pour le Grec !",
+          "darby": "mais gloire, honneur et paix, à quiconque fait le bien, au Juif premièrement, et au Grec ;"
+        },
+        "interlinear": [
+          { "greek": "δόξα", "gloss": "gloire", "analyse": "Le radical *dok-* (accueillir). La gloire ici n'est pas la célébrité mondaine, mais la capacité du Sujet à accueillir en lui la manifestation de l'Incréé." },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "τιμὴ", "gloss": "honneur" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "εἰρήνη", "gloss": "paix" },
+          { "greek": "παντὶ", "gloss": "à_tout_homme" },
+          { "greek": "τῷ", "gloss": "qui" },
+          { "greek": "ἐργαζομένῳ", "gloss": "travaille/accomplit", "analyse": "Du verbe *ergazomai* (travailler, agir). Le salut n'est pas une passivité, c'est l'engagement actif du Sujet dans le bien, par opposition à l'agitation mimétique du monde." },
+          { "greek": "τὸ", "gloss": "le" },
+          { "greek": "ἀγαθόν,", "gloss": "bien" },
+          { "greek": "Ἰουδαίῳ", "gloss": "au_Juif" },
+          { "greek": "τε", "gloss": "et" },
+          { "greek": "πρῶτον", "gloss": "premièrement" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "Ἕλληνι·", "gloss": "au_Grec" }
+        ]
+      },
+      {
+        "verse_number": "2, 11",
+        "translations": {
+          "segond": "Car devant Dieu il n'y a point d'acception de personnes.",
+          "darby": "car il n'y a pas d'acception de personnes auprès de Dieu."
+        },
+        "interlinear": [
+          { "greek": "οὐ", "gloss": "Non" },
+          { "greek": "γάρ", "gloss": "car" },
+          { "greek": "ἐστιν", "gloss": "il_est" },
+          { "greek": "προσωπολημψία", "gloss": "acception_de_personnes", "analyse": "Composé de *prosōpon* (visage, masque, personne) et *lēpsis* (prendre, recevoir). Dieu ne regarde pas le 'masque' social ou le rôle que nous jouons dans le théâtre du Monde duel. Il regarde le Sujet dans sa nudité kénotique." },
+          { "greek": "παρὰ", "gloss": "auprès_de" },
+          { "greek": "τῷ", "gloss": "le" },
+          { "greek": "θεῷ.", "gloss": "Dieu" }
+        ]
+      },
+      {
+        "verse_number": "2, 12",
+        "translations": {
+          "segond": "Tous ceux qui ont péché sans la loi périront sans la loi, et tous ceux qui ont péché avec la loi seront jugés par la loi.",
+          "darby": "Car tous ceux qui ont péché sans loi périront aussi sans loi ; et tous ceux qui ont péché sous la loi seront jugés par la loi ;"
+        },
+        "interlinear": [
+          { "greek": "ὅσοι", "gloss": "Tous_ceux_qui" },
+          { "greek": "γὰρ", "gloss": "car" },
+          { "greek": "ἀνόμως", "gloss": "sans_loi/en_dehors_de_la_loi" },
+          { "greek": "ἥμαρτον,", "gloss": "ont_péché" },
+          { "greek": "ἀνόμως", "gloss": "sans_loi" },
+          { "greek": "καὶ", "gloss": "aussi" },
+          { "greek": "ἀπολοῦνται,", "gloss": "périront" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ὅσοι", "gloss": "tous_ceux_qui" },
+          { "greek": "ἐν", "gloss": "sous/dans" },
+          { "greek": "νόμῳ", "gloss": "la_loi" },
+          { "greek": "ἥμαρτον,", "gloss": "ont_péché" },
+          { "greek": "διὰ", "gloss": "par" },
+          { "greek": "νόμου", "gloss": "la_loi" },
+          { "greek": "κριθήσονται·", "gloss": "seront_jugés" }
+        ]
+      },
+      {
+        "verse_number": "2, 13",
+        "translations": {
+          "segond": "Ce ne sont pas, en effet, ceux qui écoutent la loi qui sont justes devant Dieu, mais ce sont ceux qui la mettent en pratique qui seront justifiés.",
+          "darby": "car ce ne sont pas les auditeurs de la loi qui sont justes devant Dieu, mais ceux qui pratiquent la loi seront justifiés."
+        },
+        "interlinear": [
+          { "greek": "οὐ", "gloss": "Non" },
+          { "greek": "γὰρ", "gloss": "car" },
+          { "greek": "οἱ", "gloss": "les" },
+          { "greek": "ἀκροαταὶ", "gloss": "auditeurs", "analyse": "L'auditeur passif. C'est l'homme qui se contente de la Loi comme objet intellectuel ('en plein'). Il écoute mais ne laisse pas la Parole le transformer. Il reste dans l'aliénation de l'Ego." },
+          { "greek": "νόμου", "gloss": "de_la_loi" },
+          { "greek": "δίκαιοι", "gloss": "justes" },
+          { "greek": "παρὰ", "gloss": "auprès_de" },
+          { "greek": "τῷ", "gloss": "le" },
+          { "greek": "θεῷ,", "gloss": "Dieu" },
+          { "greek": "ἀλλ’", "gloss": "mais" },
+          { "greek": "οἱ", "gloss": "les" },
+          { "greek": "ποιηταὶ", "gloss": "pratiquants/doers" },
+          { "greek": "νόμου", "gloss": "de_la_loi" },
+          { "greek": "δικαιωθήσονται.", "gloss": "seront_justifiés" }
+        ]
+      },
+      {
+        "verse_number": "2, 14",
+        "translations": {
+          "segond": "Quand les païens, qui n'ont point la loi, font naturellement ce que prescrit la loi, ils sont, eux qui n'ont point la loi, une loi pour eux-mêmes;",
+          "darby": "car quand les nations qui n'ont pas de loi, font naturellement les choses de la loi, n'ayant pas de loi, elles sont loi pour elles-mêmes ;"
+        },
+        "interlinear": [
+          { "greek": "ὅταν", "gloss": "Quand" },
+          { "greek": "γὰρ", "gloss": "car" },
+          { "greek": "ἔθνη", "gloss": "les_nations/païens" },
+          { "greek": "τὰ", "gloss": "les" },
+          { "greek": "μὴ", "gloss": "ne...pas" },
+          { "greek": "νόμον", "gloss": "loi" },
+          { "greek": "ἔχοντα", "gloss": "ayant" },
+          { "greek": "φύσει", "gloss": "par_nature" },
+          { "greek": "τὰ", "gloss": "les" },
+          { "greek": "τοῦ", "gloss": "du" },
+          { "greek": "νόμου", "gloss": "loi" },
+          { "greek": "ποιῶσιν,", "gloss": "font" },
+          { "greek": "οὗτοι", "gloss": "ceux-ci" },
+          { "greek": "νόμον", "gloss": "une_loi" },
+          { "greek": "μὴ", "gloss": "n'ayant_pas" },
+          { "greek": "ἔχοντες", "gloss": "ayant" },
+          { "greek": "ἑαυτοῖς", "gloss": "pour_eux-mêmes" },
+          { "greek": "εἰσὶν", "gloss": "sont" },
+          { "greek": "νόμος·", "gloss": "une_loi" }
+        ]
+      },
+      {
+        "verse_number": "2, 15",
+        "translations": {
+          "segond": "ils montrent que l'œuvre de la loi est écrite dans leurs cœurs, leur conscience en rendant témoignage, et leurs pensées s'accusant ou se défendant tour à tour.",
+          "darby": "lesquelles montrent l'œuvre de la loi écrite dans leurs cœurs, leur conscience rendant témoignage, et leurs pensées s'accusant, ou aussi se défendant, entre elles,"
+        },
+        "interlinear": [
+          { "greek": "οἵτινες", "gloss": "lesquels" },
+          { "greek": "ἐνδείκνυνται", "gloss": "montrent" },
+          { "greek": "τὸ", "gloss": "l'" },
+          { "greek": "ἔργον", "gloss": "œuvre" },
+          { "greek": "τοῦ", "gloss": "de_la" },
+          { "greek": "νόμου", "gloss": "loi" },
+          { "greek": "γραπτὸν", "gloss": "écrit" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "ταῖς", "gloss": "les" },
+          { "greek": "καρδίαις", "gloss": "cœurs" },
+          { "greek": "αὐτῶν,", "gloss": "d'eux" },
+          { "greek": "συμμαρτυρούσης", "gloss": "rendant_témoignage_avec", "analyse": "Le *syn-martyreō* (témoigner avec). La conscience n'est pas un juge extérieur, c'est l'Énergie incréée qui résonne en profondeur. Elle est le 'creux' intérieur où le Sujet rencontre la Vérité sans médiation mondaine." },
+          { "greek": "αὐτῶν", "gloss": "d'eux" },
+          { "greek": "τῆς", "gloss": "la" },
+          { "greek": "συνειδήσεως", "gloss": "conscience" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "μεταξὺ", "gloss": "entre" },
+          { "greek": "ἀλλήλων", "gloss": "elles" },
+          { "greek": "τῶν", "gloss": "des" },
+          { "greek": "λογισμῶν", "gloss": "pensées" },
+          { "greek": "κατηγορούντων", "gloss": "accusant" },
+          { "greek": "ἢ", "gloss": "ou" },
+          { "greek": "καὶ", "gloss": "aussi" },
+          { "greek": "ἀπολογουμένων,", "gloss": "défendant" }
+        ]
+      },
+      {
+        "verse_number": "2, 16",
+        "translations": {
+          "segond": "C'est ce qui paraîtra au jour où, selon mon Évangile, Dieu jugera par Jésus-Christ les actions secrètes des hommes.",
+          "darby": "au jour où Dieu jugera les choses secrètes des hommes, selon mon évangile, par Jésus Christ."
+        },
+        "interlinear": [
+          { "greek": "ἐν", "gloss": "au" },
+          { "greek": "ἡμέρᾳ", "gloss": "jour" },
+          { "greek": "ᾗ", "gloss": "où" },
+          { "greek": "κρινεῖ", "gloss": "jugera" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "θεὸς", "gloss": "Dieu" },
+          { "greek": "τὰ", "gloss": "les_choses" },
+          { "greek": "κρυπτὰ", "gloss": "cachées/secrètes" },
+          { "greek": "τῶν", "gloss": "des" },
+          { "greek": "ἀνθρώπων", "gloss": "hommes" },
+          { "greek": "κατὰ", "gloss": "selon" },
+          { "greek": "τὸ", "gloss": "l'" },
+          { "greek": "εὐαγγέλιόν", "gloss": "évangile" },
+          { "greek": "μου", "gloss": "de_moi" },
+          { "greek": "διὰ", "gloss": "par" },
+          { "greek": "Χριστοῦ", "gloss": "Christ" },
+          { "greek": "Ἰησοῦ.", "gloss": "Jésus" }
+        ]
+      }
+    ],
+    "personal_analysis": "Analyse spirituelle :\n\nDans le sillage de la Pentecôte, le texte aux Romains opère une déconstruction radicale de l'Ego religieux 'en plein'. Paul s'adresse ici à ceux qui, comme les Pharisiens du dimanche précédent, pensent que la possession intellectuelle de la Loi (le savoir 'en plein' de l'Arbre de la Connaissance) suffit pour être justifié devant Dieu. Il leur oppose la vérité du Sujet.\n\n1. La fin des masques sociaux (Prosopolēmpsia) :\nPaul affirme qu'il n'y a aucune acception de personnes auprès de Dieu. L'étymologie de *prosōpolēmpsia* (prendre le masque) est ici centrale : Dieu ne juge pas le masque social ou le rôle que l'homme joue dans le théâtre du Monde duel. Il regarde le Sujet dans la nudité de son être intérieur, là où la Loi ne s'ajoute pas de l'extérieur, mais est écrite dans le cœur. \n\n2. L'intériorité comme Arbre de Vie :\nLe Royaume UN est cette Loi inscrite 'en creux' dans le cœur. Les nations qui n'ont pas reçu la Loi extérieure la font naturellement, car leur conscience (*syneidēsis* : co-naissance) rend témoignage avec l'Esprit. Le vrai 'pratiquant' de la Loi n'est pas celui qui la récite comme un objet extérieur, mais celui qui, en devenant un Sujet, se laisse conduire par la présence de l'Incréé en lui. \n\n3. Le jugement comme manifestation :\nEnfin, le 'jugement' (v. 16) n'est pas un verdict arbitraire, mais une manifestation. Les choses 'secrètes' (*krypta*), c'est-à-dire tout ce qui était caché dans le creux du cœur, seront portées à la Lumière de la Vie. Être justifié, c'est passer du masque (celui qui écoute sans faire) à la vérité du Sujet (celui qui incarne la Loi par amour). La sainteté de tous les Saints, c'est précisément cela : avoir déposé les masques de l'Ego pour laisser la Parole du Père habiter pleinement leur être."
+  }
+  }
