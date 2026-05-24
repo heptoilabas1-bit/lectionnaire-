@@ -172,7 +172,7 @@ main {
     flex-direction: column;
     align-items: center;
     text-align: center;
-    min-width: 80px; /* Légèrement réduit pour être plus compact, ajuste si besoin */
+    min-width: 80px; /* Légèrement réduit pour être plus compact, a ajuster si besoin */
 }
 
 .greek-word {
