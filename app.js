@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const activeBtn = document.getElementById('btn-' + version);
         if (activeBtn) activeBtn.classList.add('active');
 
-        // 2. On rafraîchit l'affichage pour mettre à jour le panneau latéral
+        // 2. rafraichissement de  l'affichage pour mettre à jour le panneau latéral
         loadTextContext(currentSundayKey, currentReadingType);
     };
 
@@ -128,11 +128,11 @@ document.addEventListener('DOMContentLoaded', () => {
                 reading.interlinear.forEach(verset => {
                     let wordsHtml = "";
                     
-                    // NOUVELLE MÉTHODE (SainteBible.com - Mot-à-Mot)
+                    // Nvlle MÉTHODE ( - Mot-à-Mot)
                     if (Array.isArray(verset.interlinear)) {
                         verset.interlinear.forEach(word => {
                             
-                            // NOUVEAUTÉ : Gestion des bulles d'info
+                            //  Gestion des bulles d'info
                             const infoClass = word.analyse ? 'mot-info' : '';
                             const dataAttr = word.analyse ? `data-analyse="${word.analyse.replace(/"/g, '&quot;')}"` : '';
 
