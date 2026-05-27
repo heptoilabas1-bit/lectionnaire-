@@ -3,108 +3,546 @@
     "reference": "Matthieu 14, 22-34",
     "title": "Jésus marche sur les eaux : La Foi victorieuse de la peur",
     "interlinear": [
-      {
-        "verse_number": 22,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Καὶ</span><span class='greek-word'>εὐθέως</span><span class='greek-word'>ἠνάγκασεν</span><span class='greek-word'>τοὺς</span><span class='greek-word'>μαθητὰς</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>aussitôt</span><span class='french-word'>il_obligea</span><span class='french-word'>les</span><span class='french-word'>disciples</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>aussitôt</span><span class='french-word'>il</span><span class='french-word'>contraignit</span><span class='french-word'>ses</span><span class='french-word'>disciples</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐμβῆναι</span><span class='greek-word'>εἰς</span><span class='greek-word'>τὸ</span><span class='greek-word'>πλοῖον</span><span class='greek-word'>καὶ</span><span class='greek-word'>προάγειν</span></p><p class='inter-segond'><span class='french-word'>de_monter</span><span class='french-word'>dans</span><span class='french-word'>la</span><span class='french-word'>barque</span><span class='french-word'>et</span><span class='french-word'>de_précéder</span></p><p class='inter-darby'><span class='french-word'>de_monter</span><span class='french-word'>dans</span><span class='french-word'>la</span><span class='french-word'>nacelle</span><span class='french-word'>et</span><span class='french-word'>de_passer</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>αὐτὸν</span><span class='greek-word'>εἰς</span><span class='greek-word'>τὸ</span><span class='greek-word'>πέραν,</span><span class='greek-word'>ἕως</span><span class='greek-word'>οὗ</span><span class='greek-word'>ἀπολύσῃ</span></p><p class='inter-segond'><span class='french-word'>lui</span><span class='french-word'>à</span><span class='french-word'>l'autre_bord,</span><span class='french-word'>pendant_que</span><span class='french-word'>il_renverrait</span></p><p class='inter-darby'><span class='french-word'>avant</span><span class='french-word'>lui</span><span class='french-word'>à_l'autre_rive,</span><span class='french-word'>jusqu'à_ce_qu'il</span><span class='french-word'>eût_renvoyé</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τοὺς</span><span class='greek-word'>ὄχλους.</span></p><p class='inter-segond'><span class='french-word'>les</span><span class='french-word'>foules.</span></p><p class='inter-darby'><span class='french-word'>les</span><span class='french-word'>foules.</span></p></div>"
-      },
-      {
-        "verse_number": 23,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ἀπολύσας</span><span class='greek-word'>τοὺς</span><span class='greek-word'>ὄχλους</span><span class='greek-word'>ἀνέβη</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>ayant_renvoyé</span><span class='french-word'>les</span><span class='french-word'>foules,</span><span class='french-word'>il_monta</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>après_avoir</span><span class='french-word'>renvoyé</span><span class='french-word'>les</span><span class='french-word'>foules,</span><span class='french-word'>il_monta</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>εἰς</span><span class='greek-word'>τὸ</span><span class='greek-word'>ὄρος</span><span class='greek-word'>κατ’</span><span class='greek-word'>ἰδίαν</span><span class='greek-word'>προσεύξασθαι.</span></p><p class='inter-segond'><span class='french-word'>sur</span><span class='french-word'>la</span><span class='french-word'>montagne,</span><span class='french-word'>à_l'écart,</span><span class='french-word'>pour_prier.</span></p><p class='inter-darby'><span class='french-word'>sur</span><span class='french-word'>une</span><span class='french-word'>montagne</span><span class='french-word'>à_l'écart</span><span class='french-word'>pour_prier.</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὀψίας</span><span class='greek-word'>δὲ</span><span class='greek-word'>γενομένης</span><span class='greek-word'>μόνος</span><span class='greek-word'>ἦν</span><span class='greek-word'>ἐκεῖ.</span></p><p class='inter-segond'><span class='french-word'>Le_soir</span><span class='french-word'>mais</span><span class='french-word'>étant_venu,</span><span class='french-word'>seul</span><span class='french-word'>il_était</span><span class='french-word'>là.</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>le_soir</span><span class='french-word'>étant_venu,</span><span class='french-word'>il</span><span class='french-word'>était</span><span class='french-word'>là</span><span class='french-word'>seul.</span></p></div>"
-      },
-      {
-        "verse_number": 24,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>τὸ</span><span class='greek-word'>δὲ</span><span class='greek-word'>πλοῖον</span><span class='greek-word'>ἤδη</span><span class='greek-word'>μέσον</span><span class='greek-word'>τῆς</span><span class='greek-word'>θαλάσσης</span></p><p class='inter-segond'><span class='french-word'>La</span><span class='french-word'>mais</span><span class='french-word'>barque</span><span class='french-word'>déjà</span><span class='french-word'>au_milieu</span><span class='french-word'>de_la</span><span class='french-word'>mer</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>la</span><span class='french-word'>nacelle</span><span class='french-word'>était</span><span class='french-word'>déjà</span><span class='french-word'>au_milieu</span><span class='french-word'>de_la</span><span class='french-word'>mer,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἦν</span><span class='greek-word'>βασανιζόμενον</span><span class='greek-word'>ὑπὸ</span><span class='greek-word'>τῶν</span><span class='greek-word'>κυμάτων·</span></p><p class='inter-segond'><span class='french-word'>était</span><span class='french-word'>battue</span><span class='french-word'>par</span><span class='french-word'>les</span><span class='french-word'>vagues ;</span></p><p class='inter-darby'><span class='french-word'>battue</span><span class='french-word'>par</span><span class='french-word'>les</span><span class='french-word'>vagues,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἦν</span><span class='greek-word'>γὰρ</span><span class='greek-word'>ἐναντίος</span><span class='greek-word'>ὁ</span><span class='greek-word'>ἄνεμος.</span></p><p class='inter-segond'><span class='french-word'>était</span><span class='french-word'>car</span><span class='french-word'>contraire</span><span class='french-word'>le</span><span class='french-word'>vent.</span></p><p class='inter-darby'><span class='french-word'>car</span><span class='french-word'>le</span><span class='french-word'>vent</span><span class='french-word'>était</span><span class='french-word'>contraire.</span></p></div>"
-      },
-      {
-        "verse_number": 25,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>τετάρτῃ</span><span class='greek-word'>δὲ</span><span class='greek-word'>φυλακῇ</span><span class='greek-word'>τῆς</span><span class='greek-word'>νυκτὸς</span></p><p class='inter-segond'><span class='french-word'>À_la_quatrième</span><span class='french-word'>mais</span><span class='french-word'>veille</span><span class='french-word'>de_la</span><span class='french-word'>nuit</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>à</span><span class='french-word'>la</span><span class='french-word'>quatrième</span><span class='french-word'>veille</span><span class='french-word'>de</span><span class='french-word'>la</span><span class='french-word'>nuit,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἦλθε</span><span class='greek-word'>πρὸς</span><span class='greek-word'>αὐτοὺς</span><span class='greek-word'>περιπατῶν</span><span class='greek-word'>ἐπὶ</span><span class='greek-word'>τῆς</span><span class='greek-word'>θαλάσσης.</span></p><p class='inter-segond'><span class='french-word'>il_alla</span><span class='french-word'>vers</span><span class='french-word'>eux,</span><span class='french-word'>marchant</span><span class='french-word'>sur</span><span class='french-word'>la</span><span class='french-word'>mer.</span></p><p class='inter-darby'><span class='french-word'>il</span><span class='french-word'>s'en_alla</span><span class='french-word'>vers</span><span class='french-word'>eux,</span><span class='french-word'>marchant</span><span class='french-word'>sur</span><span class='french-word'>la</span><span class='french-word'>mer.</span></p></div>"
-      },
-      {
-        "verse_number": 26,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ἰδόντες</span><span class='greek-word'>αὐτὸν</span><span class='greek-word'>οἱ</span><span class='greek-word'>μαθηταὶ</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>voyant</span><span class='french-word'>lui</span><span class='french-word'>les</span><span class='french-word'>disciples</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>les</span><span class='french-word'>disciples,</span><span class='french-word'>le</span><span class='french-word'>voyant</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐπὶ</span><span class='greek-word'>τῆς</span><span class='greek-word'>θαλάσσης</span><span class='greek-word'>περιπατοῦντα</span></p><p class='inter-segond'><span class='french-word'>sur</span><span class='french-word'>la</span><span class='french-word'>mer</span><span class='french-word'>marcher</span></p><p class='inter-darby'><span class='french-word'>marchant</span><span class='french-word'>sur</span><span class='french-word'>la</span><span class='french-word'>mer,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐταράχθησαν</span><span class='greek-word'>λέγοντες</span><span class='greek-word'>ὅτι</span><span class='greek-word'>Φάντασμά</span><span class='greek-word'>ἐστι,</span></p><p class='inter-segond'><span class='french-word'>furent_troublés</span><span class='french-word'>disant :</span><span class='french-word'>C'est_un_fantôme !</span></p><p class='inter-darby'><span class='french-word'>furent</span><span class='french-word'>troublés,</span><span class='french-word'>disant :</span><span class='french-word'>C'est</span><span class='french-word'>un</span><span class='french-word'>fantôme !</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ἀπὸ</span><span class='greek-word'>τοῦ</span><span class='greek-word'>φόβου</span><span class='greek-word'>ἔκραξαν.</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>par</span><span class='french-word'>la</span><span class='french-word'>peur</span><span class='french-word'>ils_poussèrent_des_cris.</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>ils</span><span class='french-word'>poussèrent_des_cris</span><span class='french-word'>de</span><span class='french-word'>peur.</span></p></div>"
-      },
-      {
-        "verse_number": 27,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>εὐθέως</span><span class='greek-word'>δὲ</span><span class='greek-word'>ἐλάλησεν</span><span class='greek-word'>αὐτοῖς</span><span class='greek-word'>ὁ</span><span class='greek-word'>Ἰησοῦς</span></p><p class='inter-segond'><span class='french-word'>Aussitôt</span><span class='french-word'>mais</span><span class='french-word'>parla</span><span class='french-word'>à_eux</span><span class='french-word'>le</span><span class='french-word'>Jésus</span></p><p class='inter-darby'><span class='french-word'>Mais</span><span class='french-word'>aussitôt</span><span class='french-word'>Jésus</span><span class='french-word'>leur</span><span class='french-word'>parla,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>λέγων·</span><span class='greek-word'>Θαρσεῖτε,</span><span class='greek-word'>ἐγώ</span><span class='greek-word'>εἰμι·</span><span class='greek-word'>μὴ</span><span class='greek-word'>φοβεῖσθε.</span></p><p class='inter-segond'><span class='french-word'>disant :</span><span class='french-word'>Rassurez-vous,</span><span class='french-word'>c'est_moi ;</span><span class='french-word'>n'ayez_pas_peur.</span></p><p class='inter-darby'><span class='french-word'>disant :</span><span class='french-word'>Ayez_bon_courage ;</span><span class='french-word'>c'est</span><span class='french-word'>moi,</span><span class='french-word'>n'ayez_point_de_peur.</span></p></div>"
-      },
-      {
-        "verse_number": 28,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἀποκριθεὶς</span><span class='greek-word'>δὲ</span><span class='greek-word'>αὐτῷ</span><span class='greek-word'>ὁ</span><span class='greek-word'>Πέτρος</span><span class='greek-word'>εἶπε·</span></p><p class='inter-segond'><span class='french-word'>Répondant</span><span class='french-word'>mais</span><span class='french-word'>à_lui</span><span class='french-word'>le</span><span class='french-word'>Pierre</span><span class='french-word'>dit :</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>Pierre,</span><span class='french-word'>lui</span><span class='french-word'>répondant,</span><span class='french-word'>dit :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Κύριε,</span><span class='greek-word'>εἰ</span><span class='greek-word'>σὺ</span><span class='greek-word'>εἶ,</span><span class='greek-word'>κέλευσόν</span><span class='greek-word'>με</span></p><p class='inter-segond'><span class='french-word'>Seigneur,</span><span class='french-word'>si</span><span class='french-word'>c'est_toi,</span><span class='french-word'>ordonne-</span><span class='french-word'>moi</span></p><p class='inter-darby'><span class='french-word'>Seigneur,</span><span class='french-word'>si</span><span class='french-word'>c'est</span><span class='french-word'>toi,</span><span class='french-word'>ordonne-moi</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐλθεῖν</span><span class='greek-word'>πρὸς</span><span class='greek-word'>σὲ</span><span class='greek-word'>ἐπὶ</span><span class='greek-word'>τὰ</span><span class='greek-word'>ὕδατα.</span></p><p class='inter-segond'><span class='french-word'>de_venir</span><span class='french-word'>vers</span><span class='french-word'>toi</span><span class='french-word'>sur</span><span class='french-word'>les</span><span class='french-word'>eaux.</span></p><p class='inter-darby'><span class='french-word'>d'aller</span><span class='french-word'>à</span><span class='french-word'>toi</span><span class='french-word'>sur</span><span class='french-word'>les</span><span class='french-word'>eaux.</span></p></div>"
-      },
-      {
-        "verse_number": 29,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ὁ</span><span class='greek-word'>δὲ</span><span class='greek-word'>εἶπεν·</span><span class='greek-word'>Ἐλθέ.</span><span class='greek-word'>καὶ</span><span class='greek-word'>καταβὰς</span></p><p class='inter-segond'><span class='french-word'>Et_il</span><span class='french-word'>dit :</span><span class='french-word'>Viens !</span><span class='french-word'>Et</span><span class='french-word'>étant_descendu</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>il</span><span class='french-word'>dit :</span><span class='french-word'>Viens.</span><span class='french-word'>Et</span><span class='french-word'>Pierre,</span><span class='french-word'>étant_descendu</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀπὸ</span><span class='greek-word'>τοῦ</span><span class='greek-word'>πλοίου</span><span class='greek-word'>ὁ</span><span class='greek-word'>Πέτρος</span><span class='greek-word'>περιεπάτησεν</span></p><p class='inter-segond'><span class='french-word'>de</span><span class='french-word'>la</span><span class='french-word'>barque,</span><span class='french-word'>le</span><span class='french-word'>Pierre</span><span class='french-word'>marcha</span></p><p class='inter-darby'><span class='french-word'>de</span><span class='french-word'>la</span><span class='french-word'>nacelle,</span><span class='french-word'>marcha</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐπὶ</span><span class='greek-word'>τὰ</span><span class='greek-word'>ὕδατα</span><span class='greek-word'>ἐλθεῖν</span><span class='greek-word'>πρὸς</span><span class='greek-word'>τὸν</span><span class='greek-word'>Ἰησοῦν.</span></p><p class='inter-segond'><span class='french-word'>sur</span><span class='french-word'>les</span><span class='french-word'>eaux</span><span class='french-word'>pour_aller</span><span class='french-word'>vers</span><span class='french-word'>le</span><span class='french-word'>Jésus.</span></p><p class='inter-darby'><span class='french-word'>sur</span><span class='french-word'>les</span><span class='french-word'>eaux</span><span class='french-word'>pour_aller</span><span class='french-word'>à</span><span class='french-word'>Jésus.</span></p></div>"
-      },
-      {
-        "verse_number": 30,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>βλέπων</span><span class='greek-word'>δὲ</span><span class='greek-word'>τὸν</span><span class='greek-word'>ἄνεμον</span><span class='greek-word'>ἰσχυρὸν</span></p><p class='inter-segond'><span class='french-word'>Voyant</span><span class='french-word'>mais</span><span class='french-word'>le</span><span class='french-word'>vent</span><span class='french-word'>fort,</span></p><p class='inter-darby'><span class='french-word'>Mais,</span><span class='french-word'>voyant</span><span class='french-word'>que</span><span class='french-word'>le</span><span class='french-word'>vent</span><span class='french-word'>était_fort,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐφοβήθη,</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἀρξάμενος</span><span class='greek-word'>καταποντίζεσθαι</span></p><p class='inter-segond'><span class='french-word'>il_eut_peur ;</span><span class='french-word'>et</span><span class='french-word'>commençant</span><span class='french-word'>à_s'enfoncer,</span></p><p class='inter-darby'><span class='french-word'>il</span><span class='french-word'>eut_peur ;</span><span class='french-word'>et</span><span class='french-word'>commençant</span><span class='french-word'>à_enfoncer,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἔκραξε</span><span class='greek-word'>λέγων·</span><span class='greek-word'>Κύριε,</span><span class='greek-word'>σῶσόν</span><span class='greek-word'>με.</span></p><p class='inter-segond'><span class='french-word'>il_s'écria</span><span class='french-word'>disant :</span><span class='french-word'>Seigneur,</span><span class='french-word'>sauve-</span><span class='french-word'>moi !</span></p><p class='inter-darby'><span class='french-word'>il</span><span class='french-word'>s'écria,</span><span class='french-word'>disant :</span><span class='french-word'>Seigneur,</span><span class='french-word'>sauve-moi !</span></p></div>"
-      },
-      {
-        "verse_number": 31,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>εὐθέως</span><span class='greek-word'>δὲ</span><span class='greek-word'>ὁ</span><span class='greek-word'>Ἰησοῦς</span><span class='greek-word'>ἐκτείνας</span></p><p class='inter-segond'><span class='french-word'>Aussitôt</span><span class='french-word'>mais</span><span class='french-word'>le</span><span class='french-word'>Jésus</span><span class='french-word'>ayant_étendu</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>aussitôt</span><span class='french-word'>Jésus,</span><span class='french-word'>étendant</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τὴν</span><span class='greek-word'>χεῖρα</span><span class='greek-word'>ἐπελάβετο</span><span class='greek-word'>αὐτοῦ</span><span class='greek-word'>καὶ</span></p><p class='inter-segond'><span class='french-word'>la</span><span class='french-word'>main</span><span class='french-word'>saisit</span><span class='french-word'>lui</span><span class='french-word'>et</span></p><p class='inter-darby'><span class='french-word'>la</span><span class='french-word'>main,</span><span class='french-word'>le</span><span class='french-word'>saisit</span><span class='french-word'>et</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>λέγει</span><span class='greek-word'>αὐτῷ·</span><span class='greek-word'>Ὀλιγόπιστε,</span><span class='greek-word'>εἰς</span><span class='greek-word'>τί</span><span class='greek-word'>ἐδίστασας;</span></p><p class='inter-segond'><span class='french-word'>dit</span><span class='french-word'>à_lui :</span><span class='french-word'>Homme_de_peu_de_foi,</span><span class='french-word'>pourquoi</span><span class='french-word'>as-tu_douté ?</span></p><p class='inter-darby'><span class='french-word'>lui</span><span class='french-word'>dit :</span><span class='french-word'>Gens_de_petite_foi,</span><span class='french-word'>pourquoi</span><span class='french-word'>as-tu_douté ?</span></p></div>"
-      },
-      {
-        "verse_number": 32,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ἐμβάντων</span><span class='greek-word'>αὐτῶν</span><span class='greek-word'>εἰς</span><span class='greek-word'>τὸ</span><span class='greek-word'>πλοῖον</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>quand_ils_furent_montés</span><span class='french-word'>dans</span><span class='french-word'>la</span><span class='french-word'>barque,</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>quand</span><span class='french-word'>ils_furent_montés</span><span class='french-word'>dans</span><span class='french-word'>la</span><span class='french-word'>nacelle,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐκόπασεν</span><span class='greek-word'>ὁ</span><span class='greek-word'>ἄνεμος.</span></p><p class='inter-segond'><span class='french-word'>cessa</span><span class='french-word'>le</span><span class='french-word'>vent.</span></p><p class='inter-darby'><span class='french-word'>le</span><span class='french-word'>vent</span><span class='french-word'>tomba.</span></p></div>"
-      },
-      {
-        "verse_number": 33,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>οἱ</span><span class='greek-word'>δὲ</span><span class='greek-word'>ἐν</span><span class='greek-word'>τῷ</span><span class='greek-word'>πλοίῳ</span><span class='greek-word'>ἐλθόντες</span></p><p class='inter-segond'><span class='french-word'>Ceux</span><span class='french-word'>mais</span><span class='french-word'>dans</span><span class='french-word'>la</span><span class='french-word'>barque</span><span class='french-word'>vinrent</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>ceux</span><span class='french-word'>qui</span><span class='french-word'>étaient</span><span class='french-word'>dans</span><span class='french-word'>la</span><span class='french-word'>nacelle</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>προσεκύνησαν</span><span class='greek-word'>αὐτῷ</span><span class='greek-word'>λέγοντες·</span></p><p class='inter-segond'><span class='french-word'>se_prosternèrent_devant</span><span class='french-word'>lui</span><span class='french-word'>disant :</span></p><p class='inter-darby'><span class='french-word'>vinrent</span><span class='french-word'>et</span><span class='french-word'>se_prosternèrent_devant</span><span class='french-word'>lui,</span><span class='french-word'>disant :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Ἀληθῶς</span><span class='greek-word'>Θεοῦ</span><span class='greek-word'>υἱὸς</span><span class='greek-word'>εἶ.</span></p><p class='inter-segond'><span class='french-word'>Véritablement</span><span class='french-word'>de_Dieu</span><span class='french-word'>fils</span><span class='french-word'>tu_es.</span></p><p class='inter-darby'><span class='french-word'>Tu</span><span class='french-word'>es</span><span class='french-word'>véritablement</span><span class='french-word'>le</span><span class='french-word'>Fils</span><span class='french-word'>de</span><span class='french-word'>Dieu.</span></p></div>"
-      },
-      {
-        "verse_number": 34,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Καὶ</span><span class='greek-word'>διαπεράσαντες</span><span class='greek-word'>ἦλθον</span><span class='greek-word'>εἰς</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>ayant_traversé</span><span class='french-word'>ils_vinrent</span><span class='french-word'>vers</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>ayant</span><span class='french-word'>traversé,</span><span class='french-word'>ils_vinrent</span><span class='french-word'>au</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τὴν</span><span class='greek-word'>γῆν</span><span class='greek-word'>Γεννησαρέτ.</span></p><p class='inter-segond'><span class='french-word'>la</span><span class='french-word'>terre</span><span class='french-word'>de_Gennésaret.</span></p><p class='inter-darby'><span class='french-word'>pays</span><span class='french-word'>de</span><span class='french-word'>Gennésaret.</span></p></div>"
-      }
-    ],
-    "greek_only": "\n22 Καὶ εὐθέως ἠνάγκασεν τοὺς μαθητὰς ἐμβῆναι εἰς τὸ πλοῖον καὶ προάγειν αὐτὸν εἰς τὸ πέραν, ἕως οὗ ἀπολύσῃ τοὺς ὄχλους. \n23 καὶ ἀπολύσας τοὺς ὄχλους ἀνέβη εἰς τὸ ὄρος κατ’ ἰδίαν προσεύξασθαι. ὀψίας δὲ γενομένης μόνος ἦν ἐκεῖ. \n24 τὸ δὲ πλοῖον ἤδη μέσον τῆς θαλάσσης ἦν βασανιζόμενον ὑπὸ τῶν κυμάτων· ἦν γὰρ ἐναντίος ὁ ἄνεμος. \n25 τετάρτῃ δὲ φυλακῇ τῆς νυκτὸς ἦλθε πρὸς αὐτοὺς περιπατῶν ἐπὶ τῆς θαλάσσης. \n26 καὶ ἰδόντες αὐτὸν οἱ μαθηταὶ ἐπὶ τῆς θαλάσσης περιπατοῦντα ἐταράχθησαν λέγοντες ὅτι Φάντασμά ἐστι, καὶ ἀπὸ τοῦ φόβου ἔκραξαν. \n27 εὐθέως δὲ ἐλάλησεν αὐτοῖς ὁ Ἰησοῦς λέγων· Θαρσεῖτε, ἐγώ εἰμι· μὴ φοβεῖσθε. \n28 ἀποκριθεὶς δὲ αὐτῷ ὁ Πέτρος εἶπε· Κύριε, εἰ σὺ εἶ, κέλευσόν με ἐλθεῖν πρὸς σὲ ἐπὶ τὰ ὕδατα. \n29 ὁ δὲ εἶπεν· Ἐλθέ. καὶ καταβὰς ἀπὸ τοῦ πλοίου ὁ Πέτρος περιεπάτησεν ἐπὶ τὰ ὕδατα ἐλθεῖν πρὸς τὸν Ἰησοῦν. \n30 βλέπων δὲ τὸν ἄνεμον ἰσχυρὸν ἐφοβήθη, καὶ ἀρξάμενος καταποντίζεσθαι ἔκραξε λέγων· Κύριε, σῶσόν με. \n31 εὐθέως δὲ ὁ Ἰησοῦς ἐκτείνας τὴν χεῖρα ἐπελάβετο αὐτοῦ καὶ λέγει αὐτῷ· Ὀλιγόπιστε, εἰς τί ἐδίστασας; \n32 καὶ ἐμβάντων αὐτῶν εἰς τὸ πλοῖον ἐκόπασεν ὁ ἄνεμος. \n33 οἱ δὲ ἐν τῷ πλοίῳ ἐλθόντες προσεκύνησαν αὐτῷ λέγοντες· Ἀληθῶς Θεοῦ υἱὸς εἶ. \n34 Καὶ διαπεράσαντες ἦλθον εἰς τὴν γῆν Γεννησαρέτ.",
-    "french_only": "\n22 Aussitôt après, il obligea les disciples à monter dans la barque et à passer avant lui de l'autre côté, pendant qu'il renverrait la foule. \n23 Quand il l'eut renvoyée, il monta sur la montagne, pour prier à l'écart ; et, comme le soir était venu, il était là seul. \n24 La barque, au milieu de la mer, était battue par les flots ; car le vent était contraire. \n25 À la quatrième veille de la nuit, Jésus alla vers eux, marchant sur la mer. \n26 Quand les disciples le virent marcher sur la mer, ils furent troublés, et dirent : C'est un fantôme ! Et, dans leur frayeur, ils poussèrent des cris. \n27 Jésus leur dit aussitôt : Rassurez-vous, c'est moi ; n'ayez pas peur ! \n28 Pierre lui répondit : Seigneur, si c'est toi, ordonne que j'aille vers toi sur les eaux. \n29 Et il dit : Viens ! Pierre sortit de la barque, et marcha sur les eaux, pour aller vers Jésus. \n30 Mais, voyant que le vent était fort, il eut peur ; et, comme il commençait à s'enfoncer, il s'écria : Seigneur, sauve-moi ! \n31 Aussitôt Jésus étendit la main, le saisit, et lui dit : Homme de peu de foi, pourquoi as-tu douté ? \n32 Et ils montèrent dans la barque, et le vent cessa. \n33 Ceux qui étaient dans la barque vinrent se prosterner devant Jésus, et dirent : Tu es véritablement le Fils de Dieu. \n34 Après avoir traversé la mer, ils vinrent dans le pays de Gennésaret.",
-    "french_darby": "\n22 Et aussitôt il contraignit ses disciples de monter dans la nacelle et de passer avant lui à l'autre rive, jusqu'à ce qu'il eût renvoyé les foules. \n23 Et après avoir renvoyé les foules, il monta sur une montagne à l'écart pour prier. Et le soir étant venu, il était là seul. \n24 Et la nacelle était déjà au milieu de la mer, battue par les vagues, car le vent était contraire. \n25 Et à la quatrième veille de la nuit, il s'en alla vers eux, marchant sur la mer. \n26 Et les disciples, le voyant marchant sur la mer, furent troublés, disant : C'est un fantôme ! Et ils poussèrent des cris de peur. \n27 Mais aussitôt Jésus leur parla, disant : Ayez bon courage ; c'est moi, n'ayez point de peur. \n28 Et Pierre, lui répondant, dit : Seigneur, si c'est toi, ordonne-moi d'aller à toi sur les eaux. \n29 Et il dit : Viens. Et Pierre, étant descendu de la nacelle, marcha sur les eaux pour aller à Jésus. \n30 Mais, voyant que le vent était fort, il eut peur ; et commençant à enfoncer, il s'écria, disant : Seigneur, sauve-moi ! \n31 Et aussitôt Jésus, étendant la main, le saisit et lui dit : Gens de petite foi, pourquoi as-tu douté ? \n32 Et quand ils furent montés dans la nacelle, le vent tomba. \n33 Et ceux qui étaient dans la nacelle vinrent et se prosternèrent devant lui, disant : Tu es véritablement le Fils de Dieu. \n34 Et ayant traversé, ils vinrent au pays de Gennésaret.",
-    "personal_analysis": "La marche sur les eaux est une théophanie majeure. En marchant sur la mer, Jésus montre sa domination sur le chaos et la mort (symbolisés par les eaux sombres). L'épisode de Pierre souligne que la foi permet de participer à la victoire du Christ sur les lois de la nature, mais que cette participation dépend du 'regard' : tant que Pierre regarde le Christ, il marche ; dès qu'il regarde le vent (l'obstacle), il coule. Le 'Seigneur sauve-moi' (Kyrie soson me) est le cri liturgique universel de l'homme qui reconnaît sa propre finitude face à la tempête."
+  {
+    "verse_number": 22,
+    "translations": {
+      "segond": "Aussitôt après, il obligea les disciples à monter dans la barque et à passer avant lui de l'autre côté, pendant qu'il renverrait la foule.",
+      "darby": "Et aussitôt il contraignit les disciples de monter dans la nacelle et de le précéder à l'autre bord, jusqu'à ce qu'il eût renvoyé les foules."
+    },
+    "interlinear": [
+      { "greek": "Καὶ", "gloss": "Et" },
+      { "greek": "εὐθέως", "gloss": "aussitôt" },
+      { "greek": "ἠνάγκασεν", "gloss": "il_obligea" },
+      { "greek": "τοὺς", "gloss": "les" },
+      { "greek": "μαθηταὺς", "gloss": "disciples" },
+      { "greek": "ἐμβῆναι", "gloss": "de_monter" },
+      { "greek": "εἰς", "gloss": "dans" },
+      { "greek": "τὸ", "gloss": "la" },
+      { "greek": "πλοῖον", "gloss": "barque" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "προάγειν", "gloss": "de_précéder" },
+      { "greek": "αὐτὸν", "gloss": "lui" },
+      { "greek": "εἰς", "gloss": "vers" },
+      { "greek": "τὸ", "gloss": "l'" },
+      { "greek": "πέραν,", "gloss": "autre_bord" },
+      { "greek": "ἕως", "gloss": "jusqu'à_ce_que" },
+      { "greek": "οὗ", "gloss": "—" },
+      { "greek": "ἀπολύσῃ", "gloss": "il_renvoie" },
+      { "greek": "τοὺς", "gloss": "les" },
+      { "greek": "ὄχλους.", "gloss": "foules" }
+    ]
   },
-"apostle": {
+  {
+    "verse_number": 23,
+    "translations": {
+      "segond": "Quand il l'eut renvoyée, il monta sur la montagne, pour prier à l'écart; et, comme le soir était venu, il était là seul.",
+      "darby": "Et quand il eut renvoyé les foules, il monta sur la montagne, à l'écart, pour prier ; et le soir étant venu, il était là seul."
+    },
+    "interlinear": [
+      { "greek": "καὶ", "gloss": "Et" },
+      { "greek": "ἀπολύσας", "gloss": "ayant_renvoyé" },
+      { "greek": "τοὺς", "gloss": "les" },
+      { "greek": "ὄχλους", "gloss": "foules" },
+      { "greek": "ἀνέβη", "gloss": "il_monta" },
+      { "greek": "εἰς", "gloss": "sur" },
+      { "greek": "τὸ", "gloss": "la" },
+      { "greek": "ὄρος", "gloss": "montagne" },
+      { "greek": "κατ’", "gloss": "à" },
+      { "greek": "ἰδίαν", "gloss": "l'écart", "analyse": "L'expression *kat' idian* (en propre, à l'écart). Le Christ vient de nourrir 5000 hommes, mais Il ne se laisse pas absorber par la fusion collective. Pour que le Sujet subsiste dans le Royaume UN, il doit constamment se ressourcer dans la verticalité de la prière solitaire avec le Père, loin de la rumeur de la foule." },
+      { "greek": "προσεύξασθαι.", "gloss": "pour_prier" },
+      { "greek": "ὀψίας", "gloss": "Le_soir" },
+      { "greek": "δὲ", "gloss": "or" },
+      { "greek": "γενομένης", "gloss": "étant_venu" },
+      { "greek": "μόνος", "gloss": "seul" },
+      { "greek": "ἦν", "gloss": "il_était" },
+      { "greek": "ἐκεῖ.", "gloss": "là" }
+    ]
+  },
+  {
+    "verse_number": 24,
+    "translations": {
+      "segond": "La barque, déjà au milieu de la mer, était battue par les flots; car le vent était contraire.",
+      "darby": "Et la nacelle était déjà au milieu de la mer, tourmentée par les vagues ; car le vent était contraire."
+    },
+    "interlinear": [
+      { "greek": "τὸ", "gloss": "La" },
+      { "greek": "δὲ", "gloss": "or" },
+      { "greek": "πλοῖον", "gloss": "barque" },
+      { "greek": "ἤδη", "gloss": "déjà" },
+      { "greek": "σταδίους", "gloss": "stades" },
+      { "greek": "πολλοὺς", "gloss": "nombreux" },
+      { "greek": "ἀπὸ", "gloss": "de" },
+      { "greek": "τῆς", "gloss": "la" },
+      { "greek": "γῆς", "gloss": "terre" },
+      { "greek": "ἀπεῖχεν,", "gloss": "était_éloignée" },
+      { "greek": "βασανιζόμενον", "gloss": "étant_tourmentée/battue", "analyse": "Le verbe *basanizo* (torturer, tourmenter). Séparée de l'Axe vertical, l'humanité (la barque) se retrouve à la merci des éléments du Monde duel. L'eau (symbole des forces de mort et de l'inconscient) et le vent contraire soumettent les disciples à la panique de la survie." },
+      { "greek": "ὑπὸ", "gloss": "par" },
+      { "greek": "τῶν", "gloss": "les" },
+      { "greek": "κυμάτων·", "gloss": "vagues" },
+      { "greek": "ἦν", "gloss": "était" },
+      { "greek": "γὰρ", "gloss": "car" },
+      { "greek": "ἐναντίος", "gloss": "contraire" },
+      { "greek": "ὁ", "gloss": "le" },
+      { "greek": "ἄνεμος.", "gloss": "vent" }
+    ]
+  },
+  {
+    "verse_number": 25,
+    "translations": {
+      "segond": "À la quatrième veille de la nuit, Jésus alla vers eux, marchant sur la mer.",
+      "darby": "Et à la quatrième veille de la nuit, il s'en alla vers eux, marchant sur la mer."
+    },
+    "interlinear": [
+      { "greek": "τετάρτῃ", "gloss": "À_la_quatrième" },
+      { "greek": "δὲ", "gloss": "or" },
+      { "greek": "φυλακῇ", "gloss": "veille" },
+      { "greek": "τῆς", "gloss": "de_la" },
+      { "greek": "νυκτὸς", "gloss": "nuit" },
+      { "greek": "ἦλθεν", "gloss": "il_vint" },
+      { "greek": "πρὸς", "gloss": "vers" },
+      { "greek": "αὐτοὺς", "gloss": "eux" },
+      { "greek": "περιπατῶν", "gloss": "marchant", "analyse": "Marcher sur la mer n'est pas une simple infraction spectaculaire aux lois physiques. C'est la démonstration que le Sujet incréé (le Christ) n'est soumis à aucune fatalité du Monde duel. Il domine le chaos, Il n'est pas englouti par la gravité du monde." },
+      { "greek": "ἐπὶ", "gloss": "sur" },
+      { "greek": "τὴν", "gloss": "la" },
+      { "greek": "θάλασσαν.", "gloss": "mer" }
+    ]
+  },
+  {
+    "verse_number": 26,
+    "translations": {
+      "segond": "Quand les disciples le virent marcher sur la mer, ils furent troublés, et dirent: C'est un fantôme! Et, dans leur frayeur, ils poussèrent des cris.",
+      "darby": "Et les disciples, le voyant marcher sur la mer, furent troublés, disant : C'est un fantôme ! Et ils crièrent de peur."
+    },
+    "interlinear": [
+      { "greek": "οἱ", "gloss": "Les" },
+      { "greek": "δὲ", "gloss": "or" },
+      { "greek": "μαθηταὶ", "gloss": "disciples" },
+      { "greek": "ἰδόντες", "gloss": "ayant_vu" },
+      { "greek": "αὐτὸν", "gloss": "lui" },
+      { "greek": "ἐπὶ", "gloss": "sur" },
+      { "greek": "τῆς", "gloss": "la" },
+      { "greek": "θαλάσσης", "gloss": "mer" },
+      { "greek": "περιπατοῦντα", "gloss": "marchant" },
+      { "greek": "ἐταράχθησαν", "gloss": "furent_troublés/terrifiés" },
+      { "greek": "λέγοντες", "gloss": "disant" },
+      { "greek": "ὅτι", "gloss": "que" },
+      { "greek": "Φάντασμά", "gloss": "Un_fantôme", "analyse": "Le mot *Phantasma* (illusion, apparition effrayante). L'Ego est incapable d'interpréter la Grâce. Face à l'irruption de la dimension divine, l'intelligence horizontale ne voit qu'une anomalie terrifiante. C'est l'aveuglement fondamental de la peur." },
+      { "greek": "ἐστιν,", "gloss": "c'est" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "ἀπὸ", "gloss": "de" },
+      { "greek": "τοῦ", "gloss": "la" },
+      { "greek": "φόβου", "gloss": "peur" },
+      { "greek": "ἔκραξαν.", "gloss": "ils_crièrent" }
+    ]
+  },
+  {
+    "verse_number": 27,
+    "translations": {
+      "segond": "Jésus leur dit aussitôt: Rassurez-vous, c'est moi; n'ayez pas peur!",
+      "darby": "Mais Jésus leur parla aussitôt, disant : Ayez bon courage ; c'est moi, n'ayez point de peur."
+    },
+    "interlinear": [
+      { "greek": "εὐθὺς", "gloss": "Aussitôt" },
+      { "greek": "δὲ", "gloss": "or" },
+      { "greek": "ἐλάλησεν", "gloss": "parla" },
+      { "greek": "ὁ", "gloss": "le" },
+      { "greek": "Ἰησοῦς", "gloss": "Jésus" },
+      { "greek": "αὐτοῖς", "gloss": "à_eux" },
+      { "greek": "λέγων·", "gloss": "disant" },
+      { "greek": "Θαρσεῖτε,", "gloss": "Prenez_courage" },
+      { "greek": "ἐγώ", "gloss": "Moi" },
+      { "greek": "εἰμι·", "gloss": "Je_suis", "analyse": "La formule absolue de l'identité divine : *Ego eimi* (Je Suis), le nom révélé à Moïse. Le Christ dissipe l'illusion du fantôme en imposant la Présence pure du Sujet incréé. Là où est le 'Je Suis', la peur du Monde duel n'a plus aucune légitimité." },
+      { "greek": "μὴ", "gloss": "ne...pas" },
+      { "greek": "φοβεῖσθε.", "gloss": "ayez_peur" }
+    ]
+  },
+  {
+    "verse_number": 28,
+    "translations": {
+      "segond": "Pierre lui répondit: Seigneur, si c'est toi, ordonne que j'aille vers toi sur les eaux.",
+      "darby": "Et Pierre, lui répondant, dit : Seigneur, si c'est toi, ordonne-moi d'aller vers toi sur les eaux."
+    },
+    "interlinear": [
+      { "greek": "ἀποκριθεὶς", "gloss": "Ayant_répondu" },
+      { "greek": "δὲ", "gloss": "or" },
+      { "greek": "αὐτῷ", "gloss": "à_lui" },
+      { "greek": "ὁ", "gloss": "le" },
+      { "greek": "Πέτρος", "gloss": "Pierre" },
+      { "greek": "εἶπεν·", "gloss": "dit" },
+      { "greek": "Κύριε,", "gloss": "Seigneur" },
+      { "greek": "εἰ", "gloss": "si" },
+      { "greek": "σὺ", "gloss": "toi" },
+      { "greek": "εἶ,", "gloss": "tu_es" },
+      { "greek": "κέλευσόν", "gloss": "ordonne" },
+      { "greek": "με", "gloss": "moi" },
+      { "greek": "ἐλθεῖν", "gloss": "d'aller" },
+      { "greek": "πρὸς", "gloss": "vers" },
+      { "greek": "σὲ", "gloss": "toi" },
+      { "greek": "ἐπὶ", "gloss": "sur" },
+      { "greek": "τὰ", "gloss": "les" },
+      { "greek": "ὕδατα.", "gloss": "eaux" }
+    ]
+  },
+  {
+    "verse_number": 29,
+    "translations": {
+      "segond": "Et il dit: Viens! Pierre sortit de la barque, et marcha sur les eaux, pour aller vers Jésus.",
+      "darby": "Et il dit : Viens. Et Pierre, étant descendu de la nacelle, marcha sur les eaux pour aller à Jésus."
+    },
+    "interlinear": [
+      { "greek": "ὁ", "gloss": "Il" },
+      { "greek": "δὲ", "gloss": "or" },
+      { "greek": "εἶπεν·", "gloss": "dit" },
+      { "greek": "Ἐλθέ.", "gloss": "Viens" },
+      { "greek": "καὶ", "gloss": "Et" },
+      { "greek": "καταβὰς", "gloss": "étant_descendu" },
+      { "greek": "ἀπὸ", "gloss": "de" },
+      { "greek": "τοῦ", "gloss": "la" },
+      { "greek": "πλοίου", "gloss": "barque" },
+      { "greek": "Πέτρος", "gloss": "Pierre" },
+      { "greek": "περιεπάτησεν", "gloss": "marcha" },
+      { "greek": "ἐπὶ", "gloss": "sur" },
+      { "greek": "τὰ", "gloss": "les" },
+      { "greek": "ὕδατα", "gloss": "eaux", "analyse": "Tant que le regard de Pierre est captivé par l'Axe vertical (le Christ), il participe à la *dynamis* (l'Énergie) divine. Il devient lui-même un Sujet capable de transgresser les lois de la pesanteur mortelle. L'homme unifié à Dieu ne coule pas." },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "ἦλθεν", "gloss": "vint" },
+      { "greek": "πρὸς", "gloss": "vers" },
+      { "greek": "τὸν", "gloss": "le" },
+      { "greek": "Ἰησοῦν.", "gloss": "Jésus" }
+    ]
+  },
+  {
+    "verse_number": 30,
+    "translations": {
+      "segond": "Mais, voyant que le vent était fort, il eut peur; et, comme il commençait à enfoncer, il s'écria: Seigneur, sauve-moi!",
+      "darby": "Mais, voyant le vent fort, il eut peur ; et comme il commençait à enfoncer, il s'écria, disant : Seigneur, sauve-moi !"
+    },
+    "interlinear": [
+      { "greek": "βλέπων", "gloss": "Voyant" },
+      { "greek": "δὲ", "gloss": "or" },
+      { "greek": "τὸν", "gloss": "le" },
+      { "greek": "ἄνεμον", "gloss": "vent" },
+      { "greek": "ἐφοβήθη,", "gloss": "il_eut_peur" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "ἀρξάμενος", "gloss": "commençant" },
+      { "greek": "καταποντίζεσθαι", "gloss": "à_s'enfoncer/couler", "analyse": "Le basculement tragique. Pierre détourne son regard de la Présence incréée pour analyser son environnement (le vent). L'Ego reprend le contrôle : il calcule le danger, se sépare de la Grâce, et instantanément la gravité du Monde duel le rattrape. La peur (*phobos*) le fait couler." },
+      { "greek": "ἔκραξεν", "gloss": "il_cria" },
+      { "greek": "λέγων·", "gloss": "disant" },
+      { "greek": "Κύριε,", "gloss": "Seigneur" },
+      { "greek": "σῶσόν", "gloss": "sauve" },
+      { "greek": "με.", "gloss": "moi" }
+    ]
+  },
+  {
+    "verse_number": 31,
+    "translations": {
+      "segond": "Aussitôt Jésus étendit la main, le saisit, et lui dit: Homme de peu de foi, pourquoi as-tu douté?",
+      "darby": "Et aussitôt Jésus, étendant la main, le prit et lui dit : Homme de petite foi, pourquoi as-tu douté ?"
+    },
+    "interlinear": [
+      { "greek": "εὐθέως", "gloss": "Aussitôt" },
+      { "greek": "δὲ", "gloss": "or" },
+      { "greek": "ὁ", "gloss": "le" },
+      { "greek": "Ἰησοῦς", "gloss": "Jésus" },
+      { "greek": "ἐκτείνας", "gloss": "ayant_étendu" },
+      { "greek": "τὴν", "gloss": "la" },
+      { "greek": "χεῖρα", "gloss": "main" },
+      { "greek": "ἐπελάβετο", "gloss": "saisit" },
+      { "greek": "αὐτοῦ", "gloss": "de_lui" },
+      { "greek": "καὶ", "gloss": "et" },
+      { "greek": "λέγει", "gloss": "dit" },
+      { "greek": "αὐτῷ·", "gloss": "à_lui" },
+      { "greek": "Ὀλιγόπιστε,", "gloss": "Homme_de_peu_de_foi" },
+      { "greek": "εἰς", "gloss": "pour" },
+      { "greek": "τί", "gloss": "quoi" },
+      { "greek": "ἐδίστασας;", "gloss": "as-tu_douté", "analyse": "Le verbe *distazo* vient de *dis* (deux). Le doute, ce n'est pas le manque de certitude intellectuelle, c'est la 'duplicité' ontologique. C'est l'âme qui se fragmente entre deux visions (le Christ et la tempête). Le doute est l'essence même du Monde duel qui déchire le Sujet." }
+    ]
+  },
+  {
+    "verse_number": 32,
+    "translations": {
+      "segond": "Et ils montèrent dans la barque, et le vent cessa.",
+      "darby": "Et quand ils furent montés dans la nacelle, le vent tomba."
+    },
+    "interlinear": [
+      { "greek": "καὶ", "gloss": "Et" },
+      { "greek": "ἀναβάντων", "gloss": "étant_montés" },
+      { "greek": "αὐτῶν", "gloss": "eux" },
+      { "greek": "εἰς", "gloss": "dans" },
+      { "greek": "τὸ", "gloss": "la" },
+      { "greek": "πλοῖον", "gloss": "barque" },
+      { "greek": "ἐκόπασεν", "gloss": "s'apaisa/tomba" },
+      { "greek": "ὁ", "gloss": "le" },
+      { "greek": "ἄνεμος.", "gloss": "vent" }
+    ]
+  },
+  {
+    "verse_number": 33,
+    "translations": {
+      "segond": "Ceux qui étaient dans la barque vinrent se prosterner devant Jésus, et dirent: Tu es véritablement le Fils de Dieu.",
+      "darby": "Et ceux qui étaient dans la nacelle vinrent et lui rendirent hommage, disant : Véritablement tu es le Fils de Dieu."
+    },
+    "interlinear": [
+      { "greek": "οἱ", "gloss": "Ceux" },
+      { "greek": "δὲ", "gloss": "or" },
+      { "greek": "ἐν", "gloss": "dans" },
+      { "greek": "τῷ", "gloss": "la" },
+      { "greek": "πλοίῳ", "gloss": "barque" },
+      { "greek": "προσεκύνησαν", "gloss": "se_prosternèrent" },
+      { "greek": "αὐτῷ", "gloss": "à_lui" },
+      { "greek": "λέγοντες·", "gloss": "disant" },
+      { "greek": "Ἀληθῶς", "gloss": "Véritablement" },
+      { "greek": "θεοῦ", "gloss": "de_Dieu" },
+      { "greek": "υἱὸς", "gloss": "fils" },
+      { "greek": "εἶ.", "gloss": "tu_es" }
+    ]
+  },
+  {
+    "verse_number": 34,
+    "translations": {
+      "segond": "Après avoir traversé la mer, ils vinrent dans le pays de Génésareth.",
+      "darby": "Et ayant passé à l'autre bord, ils vinrent dans la contrée de Génésareth."
+    },
+    "interlinear": [
+      { "greek": "Καὶ", "gloss": "Et" },
+      { "greek": "διαπεράσαντες", "gloss": "ayant_traversé" },
+      { "greek": "ἦλθον", "gloss": "ils_vinrent" },
+      { "greek": "ἐπὶ", "gloss": "sur" },
+      { "greek": "τὴν", "gloss": "la" },
+      { "greek": "γῆν", "gloss": "terre" },
+      { "greek": "εἰς", "gloss": "à" },
+      { "greek": "Γεννησαρέτ.", "gloss": "Génésareth" }
+    ]
+  }
+],
+"personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 26 - Φάντασμά : Segond et Darby s'accordent sur 'fantôme'. Ce choix est pertinent pour le contexte, mais il est crucial de comprendre la racine grecque *phantazo* (rendre visible, s'imaginer). Le fantôme n'est pas qu'une figure folklorique ; c'est une projection de l'esprit effrayé. Les disciples, enfermés dans le Monde duel, projettent leur propre angoisse de la mort sur la manifestation de la Grâce.\n• Verset 31 - ἐδίστασας : 'As-tu douté'. Le grec *distazo* est d'une richesse absolue. Ce n'est pas le doute intellectuel du philosophe (comme on dirait aujourd'hui 'je doute que cela soit vrai'). La racine est *dis* (deux fois, double). Douter, au sens biblique, c'est être fragmenté intérieurement, c'est perdre son unité de Sujet pour osciller entre deux maîtres ou deux visions du réel.\n\nAnalyse spirituelle :\nCe péricope est une leçon de physique spirituelle magistrale. Dans la mer démontée du Monde duel, l'Ego humain s'agite et panique pour assurer sa survie (la barque battue par les vagues). Le Christ vient à eux en marchant sur les eaux : Il prouve que la *dynamis* (l'Énergie divine) n'est pas soumise aux lois de l'entropie et de la gravité. \n\nL'expérience de Pierre est le cœur du drame. Le Christ l'invite à devenir un Sujet participant à cette souveraineté : 'Viens'. Pierre sort et marche. À cet instant, il est soulevé par la Grâce parce que tout son être est unifié dans le regard porté sur le Christ. Il n'est plus soumis au Monde duel. \n\nPuis vient la chute (v. 30) : 'voyant que le vent était fort'. L'Ego de Pierre reprend ses droits. Il cesse de regarder la Source de sa vie pour analyser l'obstacle. Cette simple 'distraction' le fragmente (*distazo*). Dès qu'il réintègre la logique de la peur et du calcul, les lois physiques reprennent le dessus, et la gravité l'engloutit. La restauration immédiate du Christ qui lui tend la main prouve que le Salut n'est pas une récompense pour une performance ininterrompue, mais une communion offerte à celui qui, même en coulant, crie : 'Seigneur, sauve-moi'."
+},
+    "apostle": {
   "reference": "1 Corinthiens 3, 9-17",
   "title": "L'Église comme Édifice de Dieu et Temple de l'Esprit",
+  "interlinear": "apostle": {
   "interlinear": [
     {
       "verse_number": 9,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Θεοῦ</span><span class='greek-word'>γάρ</span><span class='greek-word'>ἐσμεν</span><span class='greek-word'>συνεργοί·</span></p><p class='inter-segond'><span class='french-word'>De_Dieu</span><span class='french-word'>car</span><span class='french-word'>nous_sommes</span><span class='french-word'>les_ouvriers ;</span></p><p class='inter-darby'><span class='french-word'>Car</span><span class='french-word'>nous_sommes</span><span class='french-word'>les_compagnons_d'oeuvre</span><span class='french-word'>de_Dieu ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Θεοῦ</span><span class='greek-word'>γεώργιον,</span><span class='greek-word'>Θεοῦ</span><span class='greek-word'>οἰκοδομή</span><span class='greek-word'>ἐστε.</span></p><p class='inter-segond'><span class='french-word'>de_Dieu</span><span class='french-word'>le_champ,</span><span class='french-word'>de_Dieu</span><span class='french-word'>l'édifice</span><span class='french-word'>vous_êtes.</span></p><p class='inter-darby'><span class='french-word'>vous_êtes</span><span class='french-word'>le_labourage</span><span class='french-word'>de_Dieu,</span><span class='french-word'>l'édifice</span><span class='french-word'>de_Dieu.</span></p></div>"
+      "translations": {
+        "segond": "Car nous sommes ouvriers avec Dieu. Vous êtes le champ de Dieu, l'édifice de Dieu.",
+        "darby": "Car nous sommes collaborateurs de Dieu ; vous êtes le champ de Dieu, l'édifice de Dieu."
+      },
+      "interlinear": [
+        { "greek": "Θεοῦ", "gloss": "De_Dieu" },
+        { "greek": "γάρ", "gloss": "car" },
+        { "greek": "ἐσμεν", "gloss": "nous_sommes" },
+        { "greek": "συνεργοί·", "gloss": "co-ouvriers/collaborateurs", "analyse": "Le mot-clé *synergoi* pose le fondement de la synergie orthodoxe. Le salut et la déification ne sont ni une performance de l'Ego humain ni un décret arbitraire d'un Dieu lointain. C'est la co-opération amoureuse et libre de la volonté humaine avec l'Énergie divine incréée." },
+        { "greek": "Θεοῦ", "gloss": "de_Dieu" },
+        { "greek": "γεώργιον,", "gloss": "champ_cultivé" },
+        { "greek": "Θεοῦ", "gloss": "de_Dieu" },
+        { "greek": "οἰκοδομή", "gloss": "édifice/construction", "analyse": "L'*oikodomē* (l'édifice). Nous retrouvons la racine de l'*oikos* (la maison). L'Église et le sujet humain ne sont pas des réalités vagues, mais une architecture sacrée en cours de construction." },
+        { "greek": "ἐστε.", "gloss": "vous_êtes" }
+      ]
     },
     {
       "verse_number": 10,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Κατὰ</span><span class='greek-word'>τὴν</span><span class='greek-word'>χάριν</span><span class='greek-word'>τοῦ</span><span class='greek-word'>Θεοῦ</span></p><p class='inter-segond'><span class='french-word'>Selon</span><span class='french-word'>la</span><span class='french-word'>grâce</span><span class='french-word'>de</span><span class='french-word'>Dieu</span></p><p class='inter-darby'><span class='french-word'>Selon</span><span class='french-word'>la</span><span class='french-word'>grâce</span><span class='french-word'>de</span><span class='french-word'>Dieu</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τὴν</span><span class='greek-word'>δοθεῖσάν</span><span class='greek-word'>μοι</span><span class='greek-word'>ὡς</span><span class='greek-word'>σοφὸς</span><span class='greek-word'>ἀρχιτέκτων</span></p><p class='inter-segond'><span class='french-word'>la</span><span class='french-word'>donnée</span><span class='french-word'>à_moi</span><span class='french-word'>comme</span><span class='french-word'>un_sage</span><span class='french-word'>architecte</span></p><p class='inter-darby'><span class='french-word'>qui_m'a_été_donnée,</span><span class='french-word'>comme</span><span class='french-word'>un_sage</span><span class='french-word'>architecte,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>θεμέλιον</span><span class='greek-word'>ἔθηκα,</span><span class='greek-word'>ἄλλος</span><span class='greek-word'>δὲ</span><span class='greek-word'>ἐποικοδομεῖ·</span></p><p class='inter-segond'><span class='french-word'>le_fondement</span><span class='french-word'>j'ai_posé,</span><span class='french-word'>un_autre</span><span class='french-word'>mais</span><span class='french-word'>bâtit_dessus ;</span></p><p class='inter-darby'><span class='french-word'>j'ai_posé</span><span class='french-word'>le_fondement,</span><span class='french-word'>et</span><span class='french-word'>un_autre</span><span class='french-word'>édifie_dessus ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἕκαστος</span><span class='greek-word'>δὲ</span><span class='greek-word'>βλεπέτω</span><span class='greek-word'>πῶς</span><span class='greek-word'>ἐποικοδομεῖ.</span></p><p class='inter-segond'><span class='french-word'>que_chacun</span><span class='french-word'>mais</span><span class='french-word'>prenne_garde</span><span class='french-word'>comment</span><span class='french-word'>il_bâtit_dessus.</span></p><p class='inter-darby'><span class='french-word'>mais</span><span class='french-word'>que_chacun</span><span class='french-word'>considère</span><span class='french-word'>comment</span><span class='french-word'>il_édifie_dessus.</span></p></div>"
+      "translations": {
+        "segond": "Selon la grâce de Dieu qui m'a été donnée, j'ai posé le fondement comme un sage architecte, et un autre bâtit dessus. Mais que chacun prenne garde à la manière dont il bâtit dessus.",
+        "darby": "Selon la grâce de Dieu qui m'a été donnée, comme un sage architecte, j'ai posé le fondement, et un autre bâtit dessus ; mais que chacun prenne garde comment il bâtit dessus."
+      },
+      "interlinear": [
+        { "greek": "Κατὰ", "gloss": "Selon" },
+        { "greek": "τὴν", "gloss": "la" },
+        { "greek": "χάριν", "gloss": "grâce" },
+        { "greek": "τοῦ", "gloss": "de" },
+        { "greek": "θεοῦ", "gloss": "Dieu" },
+        { "greek": "τὴν", "gloss": "—" },
+        { "greek": "δοθεῖσάν", "gloss": "ayant_été_donnée" },
+        { "greek": "μοι", "gloss": "à_moi" },
+        { "greek": "ὡς", "gloss": "comme" },
+        { "greek": "σοφὸς", "gloss": "un_sage" },
+        { "greek": "ἀρχιτέκτων", "gloss": "architecte/maître_d'œuvre" },
+        { "greek": "θεμέλιον", "gloss": "fondement" },
+        { "greek": "ἔθηκα,", "gloss": "j'ai_posé" },
+        { "greek": "ἄλλος", "gloss": "un_autre" },
+        { "greek": "δὲ", "gloss": "or/mais" },
+        { "greek": "ἐποικοδομεῖ·", "gloss": "bâtit_dessus" },
+        { "greek": "ἕκαστος", "gloss": "chacun" },
+        { "greek": "δὲ", "gloss": "or" },
+        { "greek": "βλεπέτω", "gloss": "qu'il_prenne_garde" },
+        { "greek": "πῶς", "gloss": "comment" },
+        { "greek": "ἐποικοδομεῖ.", "gloss": "il_bâtit_dessus" }
+      ]
     },
     {
       "verse_number": 11,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>θεμέλιον</span><span class='greek-word'>γὰ8</span><span class='greek-word'>ἄλλον</span><span class='greek-word'>οὐδεὶς</span><span class='greek-word'>δύναται</span></p><p class='inter-segond'><span class='french-word'>fondement</span><span class='french-word'>car</span><span class='french-word'>autre</span><span class='french-word'>personne</span><span class='french-word'>ne_peut</span></p><p class='inter-darby'><span class='french-word'>Car</span><span class='french-word'>personne</span><span class='french-word'>ne_peut</span><span class='french-word'>poser</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>θεῖναι</span><span class='greek-word'>παρὰ</span><span class='greek-word'>τὸν</span><span class='greek-word'>κείμενον,</span></p><p class='inter-segond'><span class='french-word'>poser</span><span class='french-word'>que</span><span class='french-word'>celui</span><span class='french-word'>étant_posé,</span></p><p class='inter-darby'><span class='french-word'>d'autre_fondement</span><span class='french-word'>que</span><span class='french-word'>celui_qui_est_posé,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὅς</span><span class='greek-word'>ἐστιν</span><span class='greek-word'>Ἰησοῦς</span><span class='greek-word'>Χριστός.</span></p><p class='inter-segond'><span class='french-word'>lequel</span><span class='french-word'>est</span><span class='french-word'>Jésus</span><span class='french-word'>Christ.</span></p><p class='inter-darby'><span class='french-word'>lequel</span><span class='french-word'>est</span><span class='french-word'>Jésus</span><span class='french-word'>Christ.</span></p></div>"
+      "translations": {
+        "segond": "Car personne ne peut poser un autre fondement que celui qui a été posé, savoir Jésus Christ.",
+        "darby": "Car personne ne peut poser d'autre fondement que celui qui est posé, lequel est Jésus Christ."
+      },
+      "interlinear": [
+        { "greek": "θεμέλιον", "gloss": "fondement", "analyse": "Le *themelion*. C'est le point d'ancrage fixe. Face à l'instabilité de la mer du Monde duel, le Christ est la seule réalité immuable. Hors de ce fondement vertical, toute construction de l'Ego finit invariablement par être engloutie par la tempête." },
+        { "greek": "γὰρ", "gloss": "car" },
+        { "greek": "ἄλλον", "gloss": "autre" },
+        { "greek": "οὐδεὶς", "gloss": "personne" },
+        { "greek": "δύναται", "gloss": "ne_peut" },
+        { "greek": "θεῖναι", "gloss": "poser" },
+        { "greek": "παρὰ", "gloss": "outre/à_côté_de" },
+        { "greek": "τὸν", "gloss": "celui" },
+        { "greek": "κείμενον,", "gloss": "étant_posé" },
+        { "greek": "ὅς", "gloss": "qui" },
+        { "greek": "ἐστιν", "gloss": "est" },
+        { "greek": "Ἰησοῦς", "gloss": "Jésus" },
+        { "greek": "Χριστός.", "gloss": "Christ" }
+      ]
     },
     {
       "verse_number": 12,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>εἰ</span><span class='greek-word'>δέ</span><span class='greek-word'>τις</span><span class='greek-word'>ἐποικοδομεῖ</span><span class='greek-word'>ἐπὶ</span><span class='greek-word'>τὸν</span><span class='greek-word'>θεμέλιον</span></p><p class='inter-segond'><span class='french-word'>Si</span><span class='french-word'>mais</span><span class='french-word'>quelqu'un</span><span class='french-word'>bâtit_dessus</span><span class='french-word'>sur</span><span class='french-word'>ce</span><span class='french-word'>fondement</span></p><p class='inter-darby'><span class='french-word'>Or,</span><span class='french-word'>si</span><span class='french-word'>quelqu'un</span><span class='french-word'>édifie</span><span class='french-word'>sur</span><span class='french-word'>ce</span><span class='french-word'>fondement</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>χρυσόν,</span><span class='greek-word'>ἄργυρον,</span><span class='greek-word'>λίθους</span><span class='greek-word'>τιμίους,</span></p><p class='inter-segond'><span class='french-word'>de_l'or,</span><span class='french-word'>de_l'argent,</span><span class='french-word'>des_pierres</span><span class='french-word'>précieuses,</span></p><p class='inter-darby'><span class='french-word'>de_l'or,</span><span class='french-word'>de_l'argent,</span><span class='french-word'>des_pierres</span><span class='french-word'>précieuses,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ξύλα,</span><span class='greek-word'>χόρτον,</span><span class='greek-word'>καλάμην,</span></p><p class='inter-segond'><span class='french-word'>du_bois,</span><span class='french-word'>du_foin,</span><span class='french-word'>du_chaume,</span></p><p class='inter-darby'><span class='french-word'>du_bois,</span><span class='french-word'>du_foin,</span><span class='french-word'>du_chaume,</span></p></div>"
+      "translations": {
+        "segond": "Or, si quelqu'un bâtit sur ce fondement avec de l'or, de l'argent, des pierres précieuses, du bois, du foin, du chaume,",
+        "darby": "Et si quelqu'un bâtit sur ce fondement, de l'or, de l'argent, des pierres précieuses, du bois, du foin, du chaume,"
+      },
+      "interlinear": [
+        { "greek": "εἰ", "gloss": "si" },
+        { "greek": "δέ", "gloss": "or" },
+        { "greek": "τις", "gloss": "quelqu'un" },
+        { "greek": "ἐποικοδομεῖ", "gloss": "bâtit_dessus" },
+        { "greek": "ἐπὶ", "gloss": "sur" },
+        { "greek": "τὸν", "gloss": "le" },
+        { "greek": "θεμέλιον", "gloss": "fondement" },
+        { "greek": "τοῦτον", "gloss": "ce" },
+        { "greek": "χρυσόν,", "gloss": "de_l'or" },
+        { "greek": "ἄργυρον,", "gloss": "de_l'argent" },
+        { "greek": "λίθους", "gloss": "des_pierres" },
+        { "greek": "τιμίους,", "gloss": "précieuses" },
+        { "greek": "ξύλα,", "gloss": "du_bois" },
+        { "greek": "χόρτον,", "gloss": "du_foin" },
+        { "greek": "καλάμην,", "gloss": "du_chaume" }
+      ]
     },
     {
       "verse_number": 13,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἑκάστου</span><span class='greek-word'>τὸ</span><span class='greek-word'>ἔργον</span><span class='greek-word'>φανερὸν</span><span class='greek-word'>γενήσεται·</span></p><p class='inter-segond'><span class='french-word'>de_chacun</span><span class='french-word'>l'</span><span class='french-word'>oeuvre</span><span class='french-word'>manifeste</span><span class='french-word'>deviendra ;</span></p><p class='inter-darby'><span class='french-word'>l'oeuvre</span><span class='french-word'>de_chacun</span><span class='french-word'>sera</span><span class='french-word'>mise_en_évidence ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἡ</span><span class='greek-word'>γὰρ</span><span class='greek-word'>ἡμέρα</span><span class='greek-word'>δηλώσει,</span><span class='greek-word'>ὅτι</span><span class='greek-word'>ἐν</span><span class='greek-word'>πυρὶ</span></p><p class='inter-segond'><span class='french-word'>le</span><span class='french-word'>car</span><span class='french-word'>jour</span><span class='french-word'>la_fera_connaître,</span><span class='french-word'>car</span><span class='french-word'>par</span><span class='french-word'>le_feu</span></p><p class='inter-darby'><span class='french-word'>car</span><span class='french-word'>le</span><span class='french-word'>jour</span><span class='french-word'>la_fera_connaître,</span><span class='french-word'>parce_qu'elle</span><span class='french-word'>est_révélée</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀποκαλύπτεται·</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἑκάστου</span><span class='greek-word'>τὸ</span><span class='greek-word'>ἔργον</span></p><p class='inter-segond'><span class='french-word'>elle_est_révélée ;</span><span class='french-word'>et</span><span class='french-word'>de_chacun</span><span class='french-word'>l'</span><span class='french-word'>oeuvre</span></p><p class='inter-darby'><span class='french-word'>en_feu ;</span><span class='french-word'>et</span><span class='french-word'>le</span><span class='french-word'>feu</span><span class='french-word'>éprouvera</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὁποῖόν</span><span class='greek-word'>ἐστι</span><span class='greek-word'>τὸ</span><span class='greek-word'>πῦρ</span><span class='greek-word'>δοκιμάσει.</span></p><p class='inter-segond'><span class='french-word'>quelle_qu'elle_soit</span><span class='french-word'>le</span><span class='french-word'>feu</span><span class='french-word'>éprouvera.</span></p><p class='inter-darby'><span class='french-word'>quelle_est</span><span class='french-word'>l'oeuvre</span><span class='french-word'>de_chacun.</span></p></div>"
+      "translations": {
+        "segond": "l'œuvre de chacun sera manifestée ; car le jour la fera connaître, parce qu'elle se révélera dans le feu, et le feu éprouvera ce qu'est l'œuvre de chacun.",
+        "darby": "l'œuvre de chacun deviendra manifeste, car le jour la déclarera, parce qu'elle est révélée en feu ; et le feu éprouvera de quelle sorte est l'œuvre de chacun."
+      },
+      "interlinear": [
+        { "greek": "ἑκάστου", "gloss": "de_chacun" },
+        { "greek": "τὸ", "gloss": "l'" },
+        { "greek": "ἔργον", "gloss": "œuvre" },
+        { "greek": "φανερὸν", "gloss": "manifeste/visible" },
+        { "greek": "γενήσεται·", "gloss": "deviendra" },
+        { "greek": "ἡ", "gloss": "le" },
+        { "greek": "γὰρ", "gloss": "car" },
+        { "greek": "ἡμέρα", "gloss": "jour" },
+        { "greek": "δηλώσει,", "gloss": "fera_connaître" },
+        { "greek": "ὅτι", "gloss": "parce_que" },
+        { "greek": "ἐν", "gloss": "dans" },
+        { "greek": "πυρὶ", "gloss": "le_feu", "analyse": "Le Feu (*pyr*). Dans l'ecclésiologie du Père Pascal, le feu divin n'est pas un châtiment matériel futur, mais l'irruption de la Lumière et de l'Amour incréé. Ce feu consume instantanément les illusions du Monde duel (le bois, le foin) et illumine la pureté du Sujet unifié (l'or, l'argent)." },
+        { "greek": "ἀποκαλύπτεται·", "gloss": "elle_se_révèle" },
+        { "greek": "καὶ", "gloss": "et" },
+        { "greek": "ἑκάστου", "gloss": "de_chacun" },
+        { "greek": "τὸ", "gloss": "l'" },
+        { "greek": "ἔργον", "gloss": "œuvre" },
+        { "greek": "ὁποῖόν", "gloss": "de_quelle_nature" },
+        { "greek": "ἐστιν", "gloss": "elle_est" },
+        { "greek": "τὸ", "gloss": "le" },
+        { "greek": "πῦρ", "gloss": "feu" },
+        { "greek": "αὐτὸ", "gloss": "lui-même" },
+        { "greek": "δοκιμάσει.", "gloss": "éprouvera/testera" }
+      ]
     },
     {
       "verse_number": 14,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>εἴ</span><span class='greek-word'>τινος</span><span class='greek-word'>τὸ</span><span class='greek-word'>ἔργον</span><span class='greek-word'>μενεῖ</span></p><p class='inter-segond'><span class='french-word'>Si</span><span class='french-word'>de_quelqu'un</span><span class='french-word'>l'</span><span class='french-word'>oeuvre</span><span class='french-word'>subsiste</span></p><p class='inter-darby'><span class='french-word'>Si</span><span class='french-word'>l'oeuvre</span><span class='french-word'>de_quelqu'un,</span><span class='french-word'>qu'il_aura_édifiée_dessus,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὃ</span><span class='greek-word'>ἐπῳκοδόμησε,</span><span class='greek-word'>μισθὸν</span><span class='greek-word'>λήψεται·</span></p><p class='inter-segond'><span class='french-word'>qu'il_a_bâtie_dessus,</span><span class='french-word'>une_récompense</span><span class='french-word'>il_recevra ;</span></p><p class='inter-darby'><span class='french-word'>subsiste,</span><span class='french-word'>il_recevra_une_récompense ;</span></p></div>"
+      "translations": {
+        "segond": "Si l'œuvre bâtie par quelqu'un subsiste, il recevra une récompense.",
+        "darby": "Si l'œuvre de quelqu'un, qu'il aura bâtie dessus, subsiste, il recevra un salaire."
+      },
+      "interlinear": [
+        { "greek": "εἴ", "gloss": "Si" },
+        { "greek": "τινος", "gloss": "de_quelqu'un" },
+        { "greek": "τὸ", "gloss": "l'" },
+        { "greek": "ἔργον", "gloss": "œuvre" },
+        { "greek": "μενεῖ", "gloss": "subsistera/restera" },
+        { "greek": "ὃ", "gloss": "qu'" },
+        { "greek": "ἐποικοδόμησεν,", "gloss": "il_a_bâtit_dessus" },
+        { "greek": "μισθὸν", "gloss": "une_récompense/salaire" },
+        { "greek": "λήμψεται·", "gloss": "il_recevra" }
+      ]
     },
     {
       "verse_number": 15,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>εἴ</span><span class='greek-word'>τινος</span><span class='greek-word'>τὸ</span><span class='greek-word'>ἔργον</span><span class='greek-word'>κατακαήσεται,</span></p><p class='inter-segond'><span class='french-word'>si</span><span class='french-word'>de_quelqu'un</span><span class='french-word'>l'</span><span class='french-word'>oeuvre</span><span class='french-word'>est_consumée,</span></p><p class='inter-darby'><span class='french-word'>si</span><span class='french-word'>l'oeuvre</span><span class='french-word'>de_quelqu'un</span><span class='french-word'>vient_à_être_consumée,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ζημιωθήσεται,</span><span class='greek-word'>αὐτὸς</span><span class='greek-word'>δὲ</span><span class='greek-word'>σωθήσεται,</span></p><p class='inter-segond'><span class='french-word'>il_perdra_sa_récompense,</span><span class='french-word'>lui</span><span class='french-word'>mais</span><span class='french-word'>sera_sauvé,</span></p><p class='inter-darby'><span class='french-word'>il_en_éprouvera_une_perte,</span><span class='french-word'>mais</span><span class='french-word'>lui-même</span><span class='french-word'>il_sera_sauvé,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>οὕτως</span><span class='greek-word'>δὲ</span><span class='greek-word'>ὡς</span><span class='greek-word'>διὰ</span><span class='greek-word'>πυρός.</span></p><p class='inter-segond'><span class='french-word'>toutefois</span><span class='french-word'>comme</span><span class='french-word'>au_travers_du</span><span class='french-word'>feu.</span></p><p class='inter-darby'><span class='french-word'>toutefois</span><span class='french-word'>comme</span><span class='french-word'>à_travers_le_feu.</span></p></div>"
+      "translations": {
+        "segond": "Si l'œuvre de quelqu'un est consumée, il perdra sa récompense ; pour lui, il sera sauvé, mais comme au travers du feu.",
+        "darby": "Si l'œuvre de quelqu'un vient à être consumée, il en éprouvera de la perte ; mais pour lui, il sera sauvé, toutefois comme à travers le feu."
+      },
+      "interlinear": [
+        { "greek": "εἴ", "gloss": "si" },
+        { "greek": "τινος", "gloss": "de_quelqu'un" },
+        { "greek": "τὸ", "gloss": "l'" },
+        { "greek": "ἔργον", "gloss": "œuvre" },
+        { "greek": "κατακαήσεται,", "gloss": "sera_consumée" },
+        { "greek": "ζημιωθήσεται,", "gloss": "il_subira_une_perte" },
+        { "greek": "αὐτὸς", "gloss": "lui" },
+        { "greek": "δὲ", "gloss": "or/mais" },
+        { "greek": "σωθήσεται,", "gloss": "sera_sauvé" },
+        { "greek": "οὕτως", "gloss": "ainsi" },
+        { "greek": "δὲ", "gloss": "toutefois" },
+        { "greek": "ὡς", "gloss": "comme" },
+        { "greek": "διὰ", "gloss": "à_travers" },
+        { "greek": "πυρός.", "gloss": "du_feu", "analyse": "L'expression *os dia pyros* (comme à travers le feu). C'est la kénose de l'Ego. L'homme qui a bâti sur de fausses certitudes voit ses structures psychologiques et égoïstes détruites par la Vérité divine. Il est sauvé, mais nu, dépouillé de ses masques." }
+      ]
     },
     {
       "verse_number": 16,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Οὐκ</span><span class='greek-word'>οἴδατε</span><span class='greek-word'>ὅτι</span><span class='greek-word'>ναὸς</span><span class='greek-word'>Θεοῦ</span><span class='greek-word'>ἐστε</span></p><p class='inter-segond'><span class='french-word'>Ne</span><span class='french-word'>savez-vous_pas</span><span class='french-word'>que</span><span class='french-word'>le_temple</span><span class='french-word'>de_Dieu</span><span class='french-word'>vous_êtes,</span></p><p class='inter-darby'><span class='french-word'>Ne_savez-vous_pas</span><span class='french-word'>que</span><span class='french-word'>vous_êtes</span><span class='french-word'>le_temple</span><span class='french-word'>de_Dieu,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>τὸ</span><span class='greek-word'>Πνεῦμα</span><span class='greek-word'>τοῦ</span><span class='greek-word'>Θεοῦ</span><span class='greek-word'>οἰκεῖ</span><span class='greek-word'>ἐν</span><span class='greek-word'>ὑμῖν;</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>le</span><span class='french-word'>Esprit</span><span class='french-word'>de</span><span class='french-word'>Dieu</span><span class='french-word'>habite</span><span class='french-word'>en</span><span class='french-word'>vous ?</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>que</span><span class='french-word'>l'Esprit</span><span class='french-word'>de</span><span class='french-word'>Dieu</span><span class='french-word'>habite</span><span class='french-word'>en</span><span class='french-word'>vous ?</span></p></div>"
+      "translations": {
+        "segond": "Ne savez-vous pas que vous êtes le temple de Dieu, et que l'Esprit de Dieu habite en vous ?",
+        "darby": "Ne savez-vous pas que vous êtes le temple de Dieu et que l'Esprit de Dieu habite en vous ?"
+      },
+      "interlinear": [
+        { "greek": "Οὐκ", "gloss": "Ne...pas" },
+        { "greek": "οἴδατε", "gloss": "savez-vous" },
+        { "greek": "ὅτι", "gloss": "que" },
+        { "greek": "ναὸς", "gloss": "temple/sanctuaire", "analyse": "Le terme *naos* désigne précisément le Saint des Saints, la crypte la plus intérieure où réside la Présence. L'être humain n'est pas un spectateur du divin, il en est le contenant sacré. C'est l'unification absolue de l'être dans le Royaume UN." },
+        { "greek": "θεοῦ", "gloss": "de_Dieu" },
+        { "greek": "ἐστε", "gloss": "vous_êtes" },
+        { "greek": "καὶ", "gloss": "et" },
+        { "greek": "τὸ", "gloss": "l'" },
+        { "greek": "πνεῦμα", "gloss": "Esprit" },
+        { "greek": "τοῦ", "gloss": "de" },
+        { "greek": "θεοῦ", "gloss": "Dieu" },
+        { "greek": "οἰκεῖ", "gloss": "habite/demeure" },
+        { "greek": "en", "gloss": "en" },
+        { "greek": "ὑμῖν;", "gloss": "vous" }
+      ]
     },
     {
       "verse_number": 17,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>εἴ</span><span class='greek-word'>τις</span><span class='greek-word'>τὸν</span><span class='greek-word'>ναὸν</span><span class='greek-word'>τοῦ</span><span class='greek-word'>Θεοῦ</span><span class='greek-word'>φθείρει,</span></p><p class='inter-segond'><span class='french-word'>Si</span><span class='french-word'>quelqu'un</span><span class='french-word'>le</span><span class='french-word'>temple</span><span class='french-word'>de</span><span class='french-word'>Dieu</span><span class='french-word'>détruit,</span></p><p class='inter-darby'><span class='french-word'>Si</span><span class='french-word'>quelqu'un</span><span class='french-word'>corrompt</span><span class='french-word'>le</span><span class='french-word'>temple</span><span class='french-word'>de_Dieu,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>φθερεῖ</span><span class='greek-word'>τοῦτον</span><span class='greek-word'>ὁ</span><span class='greek-word'>Θεός·</span><span class='greek-word'>ὁ</span><span class='greek-word'>γὰρ</span><span class='greek-word'>ναὸς</span></p><p class='inter-segond'><span class='french-word'>détruira</span><span class='french-word'>celui-là</span><span class='french-word'>le</span><span class='french-word'>Dieu ;</span><span class='french-word'>le</span><span class='french-word'>car</span><span class='french-word'>temple</span></p><p class='inter-darby'><span class='french-word'>Dieu</span><span class='french-word'>le_perdra ;</span><span class='french-word'>car</span><span class='french-word'>le</span><span class='french-word'>temple</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τοῦ</span><span class='greek-word'>Θεοῦ</span><span class='greek-word'>ἅγιός</span><span class='greek-word'>ἐστιν,</span><span class='greek-word'>οἵτινές</span><span class='greek-word'>ἐστε</span><span class='greek-word'>ὑμεῖς.</span></p><p class='inter-segond'><span class='french-word'>de</span><span class='french-word'>Dieu</span><span class='french-word'>saint</span><span class='french-word'>est,</span><span class='french-word'>lequel</span><span class='french-word'>êtes</span><span class='french-word'>vous.</span></p><p class='inter-darby'><span class='french-word'>de_Dieu</span><span class='french-word'>est</span><span class='french-word'>saint,</span><span class='french-word'>et</span><span class='french-word'>tels</span><span class='french-word'>vous_êtes.</span></p></div>"
+      "translations": {
+        "segond": "Si quelqu'un détruit le temple de Dieu, Dieu le détruira ; car le temple de Dieu est saint, et c'est ce que vous êtes.",
+        "darby": "Si quelqu'un corrompt le temple de Dieu, Dieu le détruira ; car le temple de Dieu est saint, et tels vous êtes."
+      },
+      "interlinear": [
+        { "greek": "εἴ", "gloss": "si" },
+        { "greek": "τις", "gloss": "quelqu'un" },
+        { "greek": "τὸν", "gloss": "le" },
+        { "greek": "ναὸν", "gloss": "temple" },
+        { "greek": "τοῦ", "gloss": "de" },
+        { "greek": "θεοῦ", "gloss": "Dieu" },
+        { "greek": "φθείρει,", "gloss": "détruit/corrompt", "analyse": "Le verbe *phtheiro* signifie corrompre, profaner, altérer la pureté par un mélange. Introduire la fragmentation du Monde duel (les clans, les jugements) à l'intérieur du temple, c'est briser l'unité du Sujet et saboter la Demeure divine." },
+        { "greek": "φθερεῖ", "gloss": "détruira/perdra" },
+        { "greek": "τοῦτον", "gloss": "celui-ci" },
+        { "greek": "ὁ", "gloss": "—" },
+        { "greek": "θεός·", "gloss": "Dieu" },
+        { "greek": "ὁ", "gloss": "le" },
+        { "greek": "γὰρ", "gloss": "car" },
+        { "greek": "ναὸς", "gloss": "temple" },
+        { "greek": "τοῦ", "gloss": "de" },
+        { "greek": "θεοῦ", "gloss": "Dieu" },
+        { "greek": "ἅγιός", "gloss": "saint" },
+        { "greek": "ἐστιν,", "gloss": "est" },
+        { "greek": "οἵτινές", "gloss": "lesquels" },
+        { "greek": "ἐστε", "gloss": "êtes" },
+        { "greek": "ὑμεῖς.", "gloss": "vous" }
+      ]
     }
   ],
-  "greek_only": "\n9 Θεοῦ γάρ ἐσμεν συνεργοί· Θεοῦ γεώργιον, Θεοῦ οἰκοδομή ἐστε. \n10 Κατὰ τὴν χάριν τοῦ Θεοῦ τὴν δοθεῖσάν μοι ὡς σοφὸς ἀρχιτέκτων θεμέλιον ἔθηκα, ἄλλος δὲ ἐποικοδομεῖ· ἕκαστος δὲ βλεπέτω πῶς ἐποικοδομεῖ. \n11 θεμέλιον γὰρ ἄλλον οὐδεὶς δύναται θεῖναι παρὰ τὸν κείμενον, ὅς ἐστιν Ἰησοῦς Χριστός. \n12 εἰ δέ τις ἐποικοδομεῖ ἐπὶ τὸν θεμέλιον χρυσόν, ἄργυρον, λίθους τιμίους, ξύλα, χόρτον, καλάμην, \n13 ἑκάστου τὸ ἔργον φανερὸν γενήσεται· ἡ γὰρ ἡμέρα δηλώσει, ὅτι ἐν πυρὶ ἀποκαλύπτεται· καὶ ἑκάστου τὸ ἔργον ὁποῖόν ἐστι τὸ πῦρ δοκιμάσει. \n14 εἴ τινος τὸ ἔργον μενεῖ ὃ ἐπῳκοδόμησε, μισθὸν λήψεται· \n15 εἴ τινος τὸ ἔργον κατακαήσεται, ζημιωθήσεται, αὐτὸς δὲ σωθήσεται, οὕτως δὲ ὡς διὰ πυρός. \n16 Οὐκ οἴδατε ὅτι ναὸς Θεοῦ ἐστε καὶ τὸ Πνεῦμα τοῦ Θεοῦ οἰκεῖ ἐν ὑμῖν; \n17 εἴ τις τὸν ναὸν τοῦ Θεοῦ φθείρει, φθερεῖ τοῦτον ὁ Θεός· ὁ γὰρ ναὸς τοῦ Θεοῦ ἅγιός ἐστιν, οἵτινές ἐστε ὑμεῖς.",
-  "french_only": "\n9 Car nous sommes ouvriers avec Dieu. Vous êtes le champ de Dieu, l'édifice de Dieu. \n10 Selon la grâce de Dieu qui m'a été donnée, j'ai posé le fondement comme un sage architecte, et un autre bâtit dessus. Mais que chacun prenne garde à la manière dont il bâtit dessus. \n11 Car personne ne peut poser un autre fondement que celui qui a été posé, savoir Jésus-Christ. \n12 Or, si quelqu'un bâtit sur ce fondement avec de l'or, de l'argent, des pierres précieuses, du bois, du foin, du chaume, \n13 l'oeuvre de chacun sera manifestée ; car le jour la fera connaître, parce qu'elle se révélera dans le feu, et le feu éprouvera ce qu'est l'oeuvre de chacun. \n14 Si l'oeuvre bâtie par quelqu'un sur le fondement subsiste, il recevra une récompense. \n15 Si l'oeuvre de quelqu'un est consumée, il perdra sa récompense ; pour lui, il sera sauvé, mais comme au travers du feu. \n16 Ne savez-vous pas que vous êtes le temple de Dieu, et que l'Esprit de Dieu habite en vous ? \n17 Si quelqu'un détruit le temple de Dieu, Dieu le détruira ; car le temple de Dieu est saint, et c'est ce que vous êtes.",
-  "french_darby": "\n9 Car nous sommes les compagnons d'oeuvre de Dieu ; vous êtes le labourage de Dieu, l'édifice de Dieu. \n10 Selon la grâce de Dieu qui m'a été donnée, comme un sage architecte, j'ai posé le fondement, et un autre édifie dessus ; mais que chacun considère comment il édifie dessus. \n11 Car personne ne peut poser d'autre fondement que celui qui est posé, lequel est Jésus Christ. \n12 Or, si quelqu'un édifie sur ce fondement de l'or, de l'argent, des pierres précieuses, du bois, du foin, du chaume, \n13 l'oeuvre de chacun sera mise en évidence, car le jour la fera connaître, parce qu'elle est révélée en feu ; et le feu éprouvera quelle est l'oeuvre de chacun. \n14 Si l'oeuvre de quelqu'un, qu'il aura édifiée dessus, subsiste, il recevra une récompense ; \n15 si l'oeuvre de quelqu'un vient à être consumée, il en éprouvera une perte, mais lui-même il sera sauvé, toutefois comme à travers le feu. \n16 Ne savez-vous pas que vous êtes le temple de Dieu et que l'Esprit de Dieu habite en vous ? \n17 Si quelqu'un corrompt le temple de Dieu, Dieu le perdra ; car le temple de Dieu est saint, et tels vous êtes.",
-  "personal_analysis": "Paul passe ici d'une image agricole à une image architecturale pour souligner la responsabilité des bâtisseurs de l'Église. Le Christ est l'unique fondement (Themelios), mais la qualité des matériaux utilisés (vertus précieuses ou paille vaine) dépend de notre synergie avec la grâce. Le 'feu' de l'épreuve n'est pas une punition mais un révélateur de vérité. L'aboutissement théologique est saisissant : la communauté n'est plus seulement un chantier, elle est le Temple (Naos) vivant où Dieu demeure. Détruire l'unité ou la sainteté de ce Temple, c'est s'attaquer à la demeure même de l'Esprit."
+  "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 9 - συνεργοί : Traduit par 'ouvriers avec Dieu' (Segond) ou 'collaborateurs' (Darby). Le terme grec contient l'idée de synergie, une action conjointe et simultanée. C'est l'effacement de l'Ego pour laisser agir l'Énergie divine à travers le travail humain.\n• Verset 15 - σῳζομένοις / σωθήσεται : Le Salut n'est pas une simple évasion juridique de l'enfer, mais un processus de guérison ontologique. Traverser le feu de la Vérité dépouille l'homme de ses œuvres mortes de paille pour révéler le noyau incorruptible du Sujet.\n• Verset 17 - φθείρει : Segond choisit 'détruit', tandis que Darby opte pour 'corrompt'. La corruption est plus proche de l'étymologie. Profaner le temple, c'est y introduire la dualité, le mensonge et la division, ce qui dénature la sainteté de l'espace intérieur.\n\nAnalyse spirituelle :\nDans la vision profonde du Père Pascal, cet Apôtre répond point par point au drame de la marche sur les eaux lu dans l'Évangile. Pierre commence à couler parce que ses fondations psychologiques s'effondrent sous la pression du vent horizontal. Saint Paul vient ici révéler l'ingénierie spirituelle capable de stabiliser le chrétien : la construction sur le Fondement unique (*themelion*), qui est le Christ.\n\nL'être humain est invité à devenir un maître d'œuvre en pleine synergie avec Dieu. Cependant, Paul met en garde contre l'utilisation de mauvais matériaux (le bois, le foin, le chaume), métaphores des constructions intellectuelles et superficielles de l'Ego religieux. Lorsque l'Énergie incréée se manifeste sous forme de Feu (*pyr*), tout ce qui appartient aux illusions horizontales du Monde duel est impitoyablement consumé.\n\nLe sommet théologique est atteint aux versets 16 et 17 : nous sommes le *naos*, le sanctuaire intime de Dieu. Le Sujet restauré n'est plus un mendiant ballotté par les vagues ; il devient le gardien de la Demeure. Corrompre ce temple par les divisions et l'égocentrisme revient à détruire sa propre structure existentielle. Seul l'homme unifié, conscient de sa nature de temple saint, peut marcher sur les eaux du monde sans jamais sombrer."
 }
- } 
+}  
