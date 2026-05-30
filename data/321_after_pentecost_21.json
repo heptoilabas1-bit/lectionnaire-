@@ -1,99 +1,526 @@
 {
   "gospel": {
     "reference": "Luc 8, 5-15",
-    "title": "La Parabole du Semeur : Les Mystères du Royaume et les Terrains de l'Âme",
+    "title": "La Parabole du Semeur : La Réception du Logos et le Combat des Matrices",
     "interlinear": [
       {
         "verse_number": 5,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Ἐξῆλθεν</span><span class='greek-word'>ὁ</span><span class='greek-word'>σπείρων</span><span class='greek-word'>τοῦ</span></p><p class='inter-segond'><span class='french-word'>Sortit</span><span class='french-word'>le</span><span class='french-word'>semeur</span><span class='french-word'>pour</span></p><p class='inter-darby'><span class='french-word'>Le</span><span class='french-word'>semeur</span><span class='french-word'>sortit</span><span class='french-word'>pour</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>σπεῖραι</span><span class='greek-word'>τὸν</span><span class='greek-word'>σπόρον</span><span class='greek-word'>αὐτοῦ.</span></p><p class='inter-segond'><span class='french-word'>semer</span><span class='french-word'>la</span><span class='french-word'>semence</span><span class='french-word'>sienne.</span></p><p class='inter-darby'><span class='french-word'>semer</span><span class='french-word'>sa</span><span class='french-word'>semence ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ἐν</span><span class='greek-word'>τῷ</span><span class='greek-word'>σπείρειν</span><span class='greek-word'>αὐτὸν</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>pendant_qu'</span><span class='french-word'>il</span><span class='french-word'>semait</span><span class='french-word'>lui,</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>comme</span><span class='french-word'>il</span><span class='french-word'>semait,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὃ</span><span class='greek-word'>μὲν</span><span class='greek-word'>ἔπεσε</span><span class='greek-word'>παρὰ</span><span class='greek-word'>τὴν</span><span class='greek-word'>ὁδόν,</span></p><p class='inter-segond'><span class='french-word'>une_partie</span><span class='french-word'>certes</span><span class='french-word'>tomba</span><span class='french-word'>le_long_de</span><span class='french-word'>le</span><span class='french-word'>chemin,</span></p><p class='inter-darby'><span class='french-word'>quelque_grain</span><span class='french-word'>tomba</span><span class='french-word'>le_long_du</span><span class='french-word'>chemin,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>κατεπατήθη,</span><span class='greek-word'>καὶ</span><span class='greek-word'>τὰ</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>elle_fut_foulée_aux_pieds,</span><span class='french-word'>et</span><span class='french-word'>les</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>il_fut_foulé_aux_pieds,</span><span class='french-word'>et</span><span class='french-word'>les</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πετεινὰ</span><span class='greek-word'>τοῦ</span><span class='greek-word'>οὐρανοῦ</span><span class='greek-word'>κατέφαγεν</span><span class='greek-word'>αὐτό.</span></p><p class='inter-segond'><span class='french-word'>oiseaux</span><span class='french-word'>du</span><span class='french-word'>ciel</span><span class='french-word'>mangèrent</span><span class='french-word'>la.</span></p><p class='inter-darby'><span class='french-word'>oiseaux</span><span class='french-word'>du</span><span class='french-word'>ciel</span><span class='french-word'>le_mangèrent.</span></p></div>"
+        "translations": {
+          "segond": "Un semeur sortit pour semer sa semence. Comme il semait, une partie de la semence tomba le long du chemin: elle fut foulée aux pieds, et les oiseaux du ciel la mangèrent.",
+          "darby": "Le semeur sortit pour semer sa semence ; et comme il semait, quelques grains tombèrent le long du chemin ; et ils furent foulés aux pieds, et les oiseaux du ciel les dévorèrent."
+        },
+        "interlinear": [
+          { "greek": "Ἐξῆλθεν", "gloss": "Il_sortit" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "σπείρων", "gloss": "semeur" },
+          { "greek": "τοῦ", "gloss": "pour" },
+          { "greek": "σπεῖραι", "gloss": "semer" },
+          { "greek": "τὸν", "gloss": "la" },
+          { "greek": "σπόρον", "gloss": "semence" },
+          { "greek": "αὐτοῦ.", "gloss": "de_lui" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἐν", "gloss": "pendant" },
+          { "greek": "τῷ", "gloss": "le" },
+          { "greek": "σπείρειν", "gloss": "fait_de_semer" },
+          { "greek": "αὐτὸν", "gloss": "lui" },
+          { "greek": "ὃ", "gloss": "une_partie" },
+          { "greek": "μὲν", "gloss": "certes" },
+          { "greek": "ἔπεσεν", "gloss": "tomba" },
+          { "greek": "παρὰ", "gloss": "le_long_de" },
+          { "greek": "τὴν", "gloss": "la" },
+          { "greek": "ὁδόν,", "gloss": "route" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "κατεπατήθη", "gloss": "fut_foulée_aux_pieds", "analyse": "Composé de *kata-* (vers le bas, écrasement) et *pateō* (piétiner). Le *kata-* indique ici la force descendante et nivelante du Monde duel. La semence restée à la surface est écrasée par le trafic horizontal des pensées et des conditionnements humains." },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "τὰ", "gloss": "les" },
+          { "greek": "πετεινὰ", "gloss": "oiseaux" },
+          { "greek": "τοῦ", "gloss": "du" },
+          { "greek": "οὐρανοῦ", "gloss": "ciel" },
+          { "greek": "κατέφαγεν", "gloss": "dévorèrent" },
+          { "greek": "αὐτό.", "gloss": "elle" }
+        ]
       },
       {
         "verse_number": 6,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ἕτερον</span><span class='greek-word'>κατέπεσεν</span><span class='greek-word'>ἐπὶ</span><span class='greek-word'>τὴν</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>une_autre</span><span class='french-word'>tomba</span><span class='french-word'>sur</span><span class='french-word'>le</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>un_autre</span><span class='french-word'>tomba</span><span class='french-word'>sur</span><span class='french-word'>le</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πέτραν,</span><span class='greek-word'>καὶ</span><span class='greek-word'>φυὲν</span><span class='greek-word'>ἐξηράνθη</span></p><p class='inter-segond'><span class='french-word'>roc,</span><span class='french-word'>et</span><span class='french-word'>ayant_poussé</span><span class='french-word'>elle_sécha</span></p><p class='inter-darby'><span class='french-word'>roc ;</span><span class='french-word'>et</span><span class='french-word'>ayant_levé,</span><span class='french-word'>il_se_sécha,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>διὰ</span><span class='greek-word'>τὸ</span><span class='greek-word'>μὴ</span><span class='greek-word'>ἔχειν</span><span class='greek-word'>ἰκμάδα.</span></p><p class='inter-segond'><span class='french-word'>parce_qu'</span><span class='french-word'>elle</span><span class='french-word'>pas</span><span class='french-word'>n'avait_pas_d'</span><span class='french-word'>humidité.</span></p><p class='inter-darby'><span class='french-word'>parce_qu'il</span><span class='french-word'>n'avait_pas</span><span class='french-word'>d'humidité.</span></p></div>"
+        "translations": {
+          "segond": "Une autre partie tomba sur le roc: quand elle fut levée, elle sécha, parce qu'elle n'avait point d'humidité.",
+          "darby": "Et d'autres tombèrent sur le roc ; et ayant levé, ils séchèrent, parce qu'ils n'avaient pas d'humidité."
+        },
+        "interlinear": [
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἕτερον", "gloss": "une_autre" },
+          { "greek": "κατέπεσεν", "gloss": "tomba" },
+          { "greek": "ἐπὶ", "gloss": "sur" },
+          { "greek": "τὴν", "gloss": "la" },
+          { "greek": "πέτραν,", "gloss": "roche" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "φυὲν", "gloss": "ayant_poussé" },
+          { "greek": "ἐξηράνθη", "gloss": "fut_desséchée" },
+          { "greek": "διὰ", "gloss": "à_cause_de" },
+          { "greek": "τὸ", "gloss": "le" },
+          { "greek": "μὴ", "gloss": "ne_pas" },
+          { "greek": "ἔχειν", "gloss": "avoir" },
+          { "greek": "ἰκμάδα.", "gloss": "d'humidité/de_sève", "analyse": "Le terme *ikmas* (sève, humidité vitale) évoque l'eau matricielle. Le roc représente l'Ego superficiel : il peut recevoir l'impulsion verticale (l'enthousiasme intellectuel), mais il manque de profondeur ontologique (l'eau de la matrice) pour permettre la gestation de l'Incréé." }
+        ]
       },
       {
         "verse_number": 7,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ἕτερον</span><span class='greek-word'>ἔπεσεν</span><span class='greek-word'>ἐν</span><span class='greek-word'>μέσῳ</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>une_autre</span><span class='french-word'>tomba</span><span class='french-word'>au</span><span class='french-word'>milieu</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>un_autre</span><span class='french-word'>tomba</span><span class='french-word'>au</span><span class='french-word'>milieu</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τῶν</span><span class='greek-word'>ἀκανθῶν,</span><span class='greek-word'>καὶ</span><span class='greek-word'>συμφυεῖσαι</span></p><p class='inter-segond'><span class='french-word'>des</span><span class='french-word'>épines,</span><span class='french-word'>et</span><span class='french-word'>ayant_poussé_ensemble</span></p><p class='inter-darby'><span class='french-word'>des</span><span class='french-word'>épines,</span><span class='french-word'>et</span><span class='french-word'>les</span><span class='french-word'>épines</span><span class='french-word'>ayant_levé_avec_lui,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>αἱ</span><span class='greek-word'>ἄκανθαι</span><span class='greek-word'>ἀπέπνιξαν</span><span class='greek-word'>αὐτό.</span></p><p class='inter-segond'><span class='french-word'>les</span><span class='french-word'>épines</span><span class='french-word'>étouffèrent</span><span class='french-word'>la.</span></p><p class='inter-darby'><span class='french-word'>l'étouffèrent.</span></p></div>"
+        "translations": {
+          "segond": "Une autre partie tomba au milieu des épines: les épines crûrent avec elle, et l'étouffèrent.",
+          "darby": "Et d'autres tombèrent au milieu des épines ; et les épines, levant avec eux, les étouffèrent."
+        },
+        "interlinear": [
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἕτερον", "gloss": "une_autre" },
+          { "greek": "ἔπεσεν", "gloss": "tomba" },
+          { "greek": "ἐν", "gloss": "au" },
+          { "greek": "μέσῳ", "gloss": "milieu" },
+          { "greek": "τῶν", "gloss": "des" },
+          { "greek": "ἀκανθῶν,", "gloss": "épines" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "συμφυεῖσαι", "gloss": "ayant_poussé_ensemble" },
+          { "greek": "αἱ", "gloss": "les" },
+          { "greek": "ἄκανθαι", "gloss": "épines" },
+          { "greek": "ἀπέπνιξαν", "gloss": "étouffèrent/étranglèrent", "analyse": "Composé de *apo-* (complètement) et *pnigō* (étrangler, suffoquer). L'étouffement est une privation du *pneuma* (le souffle). La prolifération des épines symbolise la multiplicité des préoccupations horizontales qui viennent littéralement étrangler l'axe respiratoire et vertical de l'âme." },
+          { "greek": "αὐτό.", "gloss": "elle" }
+        ]
       },
       {
         "verse_number": 8,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ἕτερον</span><span class='greek-word'>ἔπεσεν</span><span class='greek-word'>εἰς</span><span class='greek-word'>τὴν</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>une_autre</span><span class='french-word'>tomba</span><span class='french-word'>dans</span><span class='french-word'>la</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>un_autre</span><span class='french-word'>tomba</span><span class='french-word'>dans</span><span class='french-word'>la</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>γῆν</span><span class='greek-word'>τὴν</span><span class='greek-word'>ἀγαθήν,</span><span class='greek-word'>καὶ</span><span class='greek-word'>φυὲν</span></p><p class='inter-segond'><span class='french-word'>terre</span><span class='french-word'>la</span><span class='french-word'>bonne,</span><span class='french-word'>et</span><span class='french-word'>ayant_poussé</span></p><p class='inter-darby'><span class='french-word'>bonne</span><span class='french-word'>terre,</span><span class='french-word'>et</span><span class='french-word'>ayant_levé,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐποίησε</span><span class='greek-word'>καρπὸν</span><span class='greek-word'>ἑκατονταπλασίονα.</span></p><p class='inter-segond'><span class='french-word'>elle_donna</span><span class='french-word'>du_fruit</span><span class='french-word'>au_centuple.</span></p><p class='inter-darby'><span class='french-word'>il_produisit</span><span class='french-word'>du_fruit</span><span class='french-word'>au_centuple.</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Ταῦτα</span><span class='greek-word'>λέγων</span><span class='greek-word'>ἐφώνει·</span><span class='greek-word'>Ὁ</span></p><p class='inter-segond'><span class='french-word'>Ces_choses</span><span class='french-word'>disant</span><span class='french-word'>il_s'écria :</span><span class='french-word'>Celui</span></p><p class='inter-darby'><span class='french-word'>En_disant</span><span class='french-word'>ces_choses,</span><span class='french-word'>il_criait :</span><span class='french-word'>« Qui</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἔχων</span><span class='greek-word'>ὦτα</span><span class='greek-word'>ἀκούειν</span><span class='greek-word'>ἀκουέτω.</span></p><p class='inter-segond'><span class='french-word'>ayant</span><span class='french-word'>des_oreilles</span><span class='french-word'>pour_entendre</span><span class='french-word'>qu'il_entende !</span></p><p class='inter-darby'><span class='french-word'>a</span><span class='french-word'>des_oreilles</span><span class='french-word'>pour_entendre,</span><span class='french-word'>qu'il_entende ».</span></p></div>"
+        "translations": {
+          "segond": "Une autre partie tomba dans la bonne terre: quand elle fut levée, elle donna du fruit au centuple. Après avoir ainsi parlé, Jésus dit à haute voix: Que celui qui a des oreilles pour entendre entende!",
+          "darby": "Et d'autres tombèrent dans la bonne terre ; et ayant levé, ils produisirent du fruit au centuple. En disant ces choses, il criait : Qui a des oreilles pour entendre, qu'il entende."
+        },
+        "interlinear": [
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἕτερον", "gloss": "une_autre" },
+          { "greek": "ἔπεσεν", "gloss": "tomba" },
+          { "greek": "εἰς", "gloss": "dans" },
+          { "greek": "τὴν", "gloss": "la" },
+          { "greek": "γῆν", "gloss": "terre" },
+          { "greek": "τὴν", "gloss": "la" },
+          { "greek": "ἀγαθήν,", "gloss": "bonne" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "φυὲν", "gloss": "ayant_poussé" },
+          { "greek": "ἐποίησεν", "gloss": "produisit" },
+          { "greek": "καρπὸν", "gloss": "du_fruit" },
+          { "greek": "ἑκατονταπλασίονα.", "gloss": "au_centuple" },
+          { "greek": "Ταῦτα", "gloss": "Ces_choses" },
+          { "greek": "λέγων", "gloss": "disant" },
+          { "greek": "ἐφώνει·", "gloss": "il_criait" },
+          { "greek": "Ὁ", "gloss": "Celui" },
+          { "greek": "ἔχων", "gloss": "ayant" },
+          { "greek": "ὦτα", "gloss": "des_oreilles" },
+          { "greek": "ἀκούειν", "gloss": "pour_entendre" },
+          { "greek": "ἀκουέτω.", "gloss": "qu'il_entende" }
+        ]
       },
       {
         "verse_number": 9,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Ἐπηρώτων</span><span class='greek-word'>δὲ</span><span class='greek-word'>αὐτὸν</span><span class='greek-word'>οἱ</span></p><p class='inter-segond'><span class='french-word'>Interrogèrent</span><span class='french-word'>mais</span><span class='french-word'>lui</span><span class='french-word'>les</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>ses</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>μαθηταὶ</span><span class='greek-word'>αὐτοῦ</span><span class='greek-word'>τίς</span><span class='greek-word'>αὕτη</span><span class='greek-word'>εἴη</span></p><p class='inter-segond'><span class='french-word'>disciples</span><span class='french-word'>siens</span><span class='french-word'>quel</span><span class='french-word'>ceci</span><span class='french-word'>était_le_sens_de</span></p><p class='inter-darby'><span class='french-word'>disciples</span><span class='french-word'>lui_demandèrent</span><span class='french-word'>ce_que</span><span class='french-word'>pouvait_être</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἡ</span><span class='greek-word'>παραβολή.</span></p><p class='inter-segond'><span class='french-word'>la</span><span class='french-word'>parabole.</span></p><p class='inter-darby'><span class='french-word'>cette</span><span class='french-word'>parabole.</span></p></div>"
+        "translations": {
+          "segond": "Ses disciples lui demandèrent ce que signifiait cette parabole.",
+          "darby": "Et ses disciples lui demandèrent, disant : Quelle est cette parabole ?"
+        },
+        "interlinear": [
+          { "greek": "Ἐπηρώτων", "gloss": "Interrogeaient" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "αὐτὸν", "gloss": "lui" },
+          { "greek": "οἱ", "gloss": "les" },
+          { "greek": "μαθηταὶ", "gloss": "disciples" },
+          { "greek": "αὐτοῦ", "gloss": "de_lui" },
+          { "greek": "τίς", "gloss": "quelle" },
+          { "greek": "εἴη", "gloss": "pourrait_être" },
+          { "greek": "ἡ", "gloss": "la" },
+          { "greek": "παραβολὴ", "gloss": "parabole" },
+          { "greek": "αὕτη.", "gloss": "cette" }
+        ]
       },
       {
         "verse_number": 10,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ὁ</span><span class='greek-word'>δὲ</span><span class='greek-word'>εἶπεν·</span><span class='greek-word'>Ὑμῖν</span><span class='greek-word'>δέδοται</span></p><p class='inter-segond'><span class='french-word'>Il</span><span class='french-word'>mais</span><span class='french-word'>dit :</span><span class='french-word'>À_vous</span><span class='french-word'>il_a_été_donné</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>il</span><span class='french-word'>dit :</span><span class='french-word'>« À_vous</span><span class='french-word'>il_est_donné</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>γνῶναι</span><span class='greek-word'>τὰ</span><span class='greek-word'>μυστήρια</span><span class='greek-word'>τῆς</span></p><p class='inter-segond'><span class='french-word'>de_connaître</span><span class='french-word'>les</span><span class='french-word'>mystères</span><span class='french-word'>de</span></p><p class='inter-darby'><span class='french-word'>de_connaître</span><span class='french-word'>les</span><span class='french-word'>mystères</span><span class='french-word'>du</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>βασιλείας</span><span class='greek-word'>τοῦ</span><span class='greek-word'>Θεοῦ,</span><span class='greek-word'>τοῖς</span></p><p class='inter-segond'><span class='french-word'>le_royaume</span><span class='french-word'>de_le</span><span class='french-word'>Dieu ;</span><span class='french-word'>pour_les</span></p><p class='inter-darby'><span class='french-word'>royaume</span><span class='french-word'>de</span><span class='french-word'>Dieu ;</span><span class='french-word'>mais</span><span class='french-word'>pour_les</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>δὲ</span><span class='greek-word'>λοιποῖς</span><span class='greek-word'>ἐν</span><span class='greek-word'>παραβολαῖς,</span><span class='greek-word'>ἵνα</span></p><p class='inter-segond'><span class='french-word'>mais</span><span class='french-word'>autres</span><span class='french-word'>par</span><span class='french-word'>paraboles,</span><span class='french-word'>afin_que</span></p><p class='inter-darby'><span class='french-word'>autres,</span><span class='french-word'>elles_sont_dites_en</span><span class='french-word'>paraboles,</span><span class='french-word'>afin_qu'</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>βλέποντες</span><span class='greek-word'>μὴ</span><span class='greek-word'>βλέπωσι</span><span class='greek-word'>καὶ</span></p><p class='inter-segond'><span class='french-word'>voyant</span><span class='french-word'>ils_ne</span><span class='french-word'>voient_pas</span><span class='french-word'>et</span></p><p class='inter-darby'><span class='french-word'>en_voyant</span><span class='french-word'>ils_ne</span><span class='french-word'>voient_pas,</span><span class='french-word'>et_qu'</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀκούοντες</span><span class='greek-word'>μὴ</span><span class='greek-word'>συνιῶσιν.</span></p><p class='inter-segond'><span class='french-word'>entendant</span><span class='french-word'>ils_ne</span><span class='french-word'>comprennent_pas.</span></p><p class='inter-darby'><span class='french-word'>en_entendant</span><span class='french-word'>ils_ne</span><span class='french-word'>comprennent_pas ».</span></p></div>"
+        "translations": {
+          "segond": "Il répondit: Il vous a été donné de connaître les mystères du royaume de Dieu; mais pour les autres, cela leur est dit en paraboles, afin qu'en voyant ils ne voient point, et qu'en entendant ils ne comprennent point.",
+          "darby": "Et il dit : À vous il est donné de connaître les mystères du royaume de Dieu ; mais aux autres, en paraboles, afin que voyant ils ne voient pas, et qu'entendant ils ne comprennent pas."
+        },
+        "interlinear": [
+          { "greek": "ὁ", "gloss": "Il" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "εἶπεν·", "gloss": "dit" },
+          { "greek": "Ὑμῖν", "gloss": "À_vous" },
+          { "greek": "δέδοται", "gloss": "il_a_été_donné" },
+          { "greek": "γνῶναι", "gloss": "de_connaître" },
+          { "greek": "τὰ", "gloss": "les" },
+          { "greek": "μυστήρια", "gloss": "mystères" },
+          { "greek": "τῆς", "gloss": "du" },
+          { "greek": "βασιλείας", "gloss": "royaume" },
+          { "greek": "τοῦ", "gloss": "de" },
+          { "greek": "θεοῦ,", "gloss": "Dieu" },
+          { "greek": "τοῖς", "gloss": "aux" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "λοιποῖς", "gloss": "autres/restants" },
+          { "greek": "ἐν", "gloss": "en" },
+          { "greek": "παραβολαῖς,", "gloss": "paraboles" },
+          { "greek": "ἵνα", "gloss": "afin_que" },
+          { "greek": "βλέποντες", "gloss": "voyant" },
+          { "greek": "μὴ", "gloss": "ne_pas" },
+          { "greek": "βλέπωσιν", "gloss": "ils_voient" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἀκούοντες", "gloss": "entendant" },
+          { "greek": "μὴ", "gloss": "ne_pas" },
+          { "greek": "συνιῶσιν.", "gloss": "ils_comprennent", "analyse": "Du verbe *syniēmi*, composé de *syn-* (avec/ensemble) et *hiēmi* (envoyer, mettre). Comprendre spirituellement (*syniōsin*), ce n'est pas accumuler des données, c'est 'mettre ensemble', synthétiser. L'Ego non-éveillé perçoit des fragments séparés (dualité), tandis que la Conscience unifiée relie les signes pour saisir l'Axe vertical." }
+        ]
       },
       {
         "verse_number": 11,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Ἔστι</span><span class='greek-word'>δὲ</span><span class='greek-word'>αὕτη</span><span class='greek-word'>ἡ</span><span class='greek-word'>παραβολή·</span></p><p class='inter-segond'><span class='french-word'>Voici</span><span class='french-word'>mais</span><span class='french-word'>ce_que</span><span class='french-word'>la</span><span class='french-word'>parabole :</span></p><p class='inter-darby'><span class='french-word'>« Or</span><span class='french-word'>voici_ce_qu'est</span><span class='french-word'>la</span><span class='french-word'>parabole :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Ὁ</span><span class='greek-word'>σπόρος</span><span class='greek-word'>ἐστὶν</span><span class='greek-word'>ὁ</span><span class='greek-word'>λόγος</span></p><p class='inter-segond'><span class='french-word'>La</span><span class='french-word'>semence</span><span class='french-word'>est</span><span class='french-word'>la</span><span class='french-word'>parole</span></p><p class='inter-darby'><span class='french-word'>la</span><span class='french-word'>semence</span><span class='french-word'>est</span><span class='french-word'>la</span><span class='french-word'>parole</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τοῦ</span><span class='greek-word'>Θεοῦ.</span></p><p class='inter-segond'><span class='french-word'>de_le</span><span class='french-word'>Dieu.</span></p><p class='inter-darby'><span class='french-word'>de</span><span class='french-word'>Dieu.</span></p></div>"
+        "translations": {
+          "segond": "Voici ce que signifie cette parabole: La semence, c'est la parole de Dieu.",
+          "darby": "Or voici ce qu'est la parabole : la semence est la parole de Dieu."
+        },
+        "interlinear": [
+          { "greek": "Ἔστιν", "gloss": "Est" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "αὕτη", "gloss": "celle-ci/voici" },
+          { "greek": "ἡ", "gloss": "la" },
+          { "greek": "παραβολή·", "gloss": "parabole" },
+          { "greek": "ὁ", "gloss": "la" },
+          { "greek": "σπόρος", "gloss": "semence", "analyse": "Le mot *sporos* indique le principe séminal. La 'Parole' (*Logos*) n'est pas un discours moral ou un texte à analyser intellectuellement. C'est le code génétique de l'Incréé, une information pure dotée d'une dynamique de croissance, destinée à féconder la matrice humaine." },
+          { "greek": "ἐστὶν", "gloss": "est" },
+          { "greek": "ὁ", "gloss": "la" },
+          { "greek": "λόγος", "gloss": "Parole" },
+          { "greek": "τοῦ", "gloss": "de" },
+          { "greek": "θεοῦ.", "gloss": "Dieu" }
+        ]
       },
       {
         "verse_number": 12,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>οἱ</span><span class='greek-word'>δὲ</span><span class='greek-word'>παρὰ</span><span class='greek-word'>τὴν</span><span class='greek-word'>ὁδόν</span></p><p class='inter-segond'><span class='french-word'>Ceux</span><span class='french-word'>mais</span><span class='french-word'>le_long_de</span><span class='french-word'>le</span><span class='french-word'>chemin</span></p><p class='inter-darby'><span class='french-word'>Ceux</span><span class='french-word'>qui_sont</span><span class='french-word'>le_long_du</span><span class='french-word'>chemin,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>εἰσιν</span><span class='greek-word'>οἱ</span><span class='greek-word'>ἀκούσαντες,</span><span class='greek-word'>εἶτα</span></p><p class='inter-segond'><span class='french-word'>sont</span><span class='french-word'>ceux</span><span class='french-word'>ayant_entendu ;</span><span class='french-word'>ensuite</span></p><p class='inter-darby'><span class='french-word'>ce_sont</span><span class='french-word'>ceux</span><span class='french-word'>qui_entendent ;</span><span class='french-word'>ensuite</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἔρχεται</span><span class='greek-word'>ὁ</span><span class='greek-word'>διάβολος</span><span class='greek-word'>καὶ</span><span class='greek-word'>αἴρει</span></p><p class='inter-segond'><span class='french-word'>vient</span><span class='french-word'>le</span><span class='french-word'>diable</span><span class='french-word'>et</span><span class='french-word'>enlève</span></p><p class='inter-darby'><span class='french-word'>vient</span><span class='french-word'>le</span><span class='french-word'>diable</span><span class='french-word'>et</span><span class='french-word'>ôte</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τὸν</span><span class='greek-word'>λόγον</span><span class='greek-word'>ἀπὸ</span><span class='greek-word'>τῆς</span><span class='greek-word'>καρδίας</span></p><p class='inter-segond'><span class='french-word'>la</span><span class='french-word'>parole</span><span class='french-word'>de</span><span class='french-word'>le</span><span class='french-word'>cœur</span></p><p class='inter-darby'><span class='french-word'>la</span><span class='french-word'>parole</span><span class='french-word'>de</span><span class='french-word'>leur</span><span class='french-word'>cœur,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>αὐτῶν,</span><span class='greek-word'>ἵνα</span><span class='greek-word'>μὴ</span><span class='greek-word'>πιστεύσαντες</span></p><p class='inter-segond'><span class='french-word'>leur,</span><span class='french-word'>afin_qu'ils</span><span class='french-word'>ne</span><span class='french-word'>ayant_cru</span></p><p class='inter-darby'><span class='french-word'>de_peur_qu'en</span><span class='french-word'>croyant</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>σωθῶσιν.</span></p><p class='inter-segond'><span class='french-word'>soient_sauvés.</span></p><p class='inter-darby'><span class='french-word'>ils_ne_soient_sauvés.</span></p></div>"
+        "translations": {
+          "segond": "Ceux qui sont le long du chemin, ce sont ceux qui entendent; puis le diable vient, et enlève de leur cœur la parole, de peur qu'ils ne croient et soient sauvés.",
+          "darby": "Et ceux qui sont le long du chemin, sont ceux qui entendent ; ensuite vient le diable et il ôte la parole de leur cœur, de peur qu'en croyant ils ne soient sauvés."
+        },
+        "interlinear": [
+          { "greek": "οἱ", "gloss": "Ceux" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "παρὰ", "gloss": "le_long_de" },
+          { "greek": "τὴν", "gloss": "la" },
+          { "greek": "ὁδόν", "gloss": "route" },
+          { "greek": "εἰσιν", "gloss": "sont" },
+          { "greek": "οἱ", "gloss": "ceux" },
+          { "greek": "ἀκούσαντες,", "gloss": "ayant_entendu" },
+          { "greek": "εἶτα", "gloss": "ensuite" },
+          { "greek": "ἔρχεται", "gloss": "vient" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "διάβολος", "gloss": "diable", "analyse": "Composé de *dia-* (à travers, séparer) et *ballō* (jeter). Le Diabolos n'est pas un personnage mythologique, mais la force entropique de division. C'est l'énergie du mental dispersif qui 'jette en travers' de l'axe vertical, fragmentant l'attention pour empêcher le germe de se fixer." },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "αἴρει", "gloss": "enlève" },
+          { "greek": "τὸν", "gloss": "la" },
+          { "greek": "λόγον", "gloss": "parole" },
+          { "greek": "ἀπὸ", "gloss": "de" },
+          { "greek": "τῆς", "gloss": "la" },
+          { "greek": "καρδίας", "gloss": "cœur" },
+          { "greek": "αὐτῶν,", "gloss": "d'eux" },
+          { "greek": "ἵνα", "gloss": "afin_que" },
+          { "greek": "μὴ", "gloss": "ne_pas" },
+          { "greek": "πιστεύσαντες", "gloss": "ayant_cru" },
+          { "greek": "σωθῶσιν.", "gloss": "ils_soient_sauvés" }
+        ]
       },
       {
         "verse_number": 13,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>οἱ</span><span class='greek-word'>δὲ</span><span class='greek-word'>ἐπὶ</span><span class='greek-word'>τῆς</span><span class='greek-word'>πέτρας</span><span class='greek-word'>οἳ</span></p><p class='inter-segond'><span class='french-word'>Ceux</span><span class='french-word'>mais</span><span class='french-word'>sur</span><span class='french-word'>le</span><span class='french-word'>roc</span><span class='french-word'>sont_ceux_qui,</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>ceux</span><span class='french-word'>qui_sont</span><span class='french-word'>sur</span><span class='french-word'>le</span><span class='french-word'>roc,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὅταν</span><span class='greek-word'>ἀκούσωσι</span><span class='greek-word'>μετὰ</span><span class='greek-word'>χαρᾶς</span></p><p class='inter-segond'><span class='french-word'>lorsqu'</span><span class='french-word'>ils_entendent,</span><span class='french-word'>avec</span><span class='french-word'>joie</span></p><p class='inter-darby'><span class='french-word'>lorsqu'</span><span class='french-word'>ils_ont_entendu_la_parole,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>δέχονται</span><span class='greek-word'>τὸν</span><span class='greek-word'>λόγον,</span><span class='greek-word'>καὶ</span></p><p class='inter-segond'><span class='french-word'>reçoivent</span><span class='french-word'>la</span><span class='french-word'>parole ;</span><span class='french-word'>et</span></p><p class='inter-darby'><span class='french-word'>la</span><span class='french-word'>reçoivent</span><span class='french-word'>avec</span><span class='french-word'>joie ;</span><span class='french-word'>et</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>οὗτοι</span><span class='greek-word'>ῥίζαν</span><span class='greek-word'>οὐκ</span><span class='greek-word'>ἔχουσιν,</span></p><p class='inter-segond'><span class='french-word'>ceux-ci</span><span class='french-word'>racine</span><span class='french-word'>pas</span><span class='french-word'>n'ont_pas ;</span></p><p class='inter-darby'><span class='french-word'>ceux-ci</span><span class='french-word'>n'ont</span><span class='french-word'>pas</span><span class='french-word'>de_racine :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>οἳ</span><span class='greek-word'>πρὸς</span><span class='greek-word'>καιρὸν</span><span class='greek-word'>πιστεύουσι</span></p><p class='inter-segond'><span class='french-word'>qui</span><span class='french-word'>pour</span><span class='french-word'>un_temps</span><span class='french-word'>croient</span></p><p class='inter-darby'><span class='french-word'>ils_ne_croient</span><span class='french-word'>que</span><span class='french-word'>pour</span><span class='french-word'>un_temps,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ἐν</span><span class='greek-word'>καιρῷ</span><span class='greek-word'>πειρασμοῦ</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>en</span><span class='french-word'>temps</span><span class='french-word'>de_tentation</span></p><p class='inter-darby'><span class='french-word'>et,</span><span class='french-word'>au</span><span class='french-word'>temps</span><span class='french-word'>de_la</span><span class='french-word'>tentation,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀφίστανται.</span></p><p class='inter-segond'><span class='french-word'>ils_s'éloignent.</span></p><p class='inter-darby'><span class='french-word'>ils_se_retirent.</span></p></div>"
+        "translations": {
+          "segond": "Ceux qui sont sur le roc, ce sont ceux qui, lorsqu'ils entendent la parole, la reçoivent avec joie; mais ils n'ont point de racine, ils croient pour un temps, et ils succombent au moment de la tentation.",
+          "darby": "Et ceux qui sont sur le roc, sont ceux qui, lorsqu'ils entendent, reçoivent la parole avec joie ; et ceux-ci n'ont pas de racine : ils croient pour un temps, et au temps de la tentation ils se retirent."
+        },
+        "interlinear": [
+          { "greek": "οἱ", "gloss": "Ceux" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "ἐπὶ", "gloss": "sur" },
+          { "greek": "τῆς", "gloss": "la" },
+          { "greek": "πέτρας", "gloss": "roche" },
+          { "greek": "οἳ", "gloss": "qui" },
+          { "greek": "ὅταν", "gloss": "lorsqu'" },
+          { "greek": "ἀκούσωσιν", "gloss": "ils_entendent" },
+          { "greek": "μετὰ", "gloss": "avec" },
+          { "greek": "χαρᾶς", "gloss": "joie" },
+          { "greek": "δέχονται", "gloss": "reçoivent" },
+          { "greek": "τὸν", "gloss": "la" },
+          { "greek": "λόγον,", "gloss": "parole" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "οὗτοι", "gloss": "ceux-ci" },
+          { "greek": "ῥίζαν", "gloss": "racine" },
+          { "greek": "οὐκ", "gloss": "non" },
+          { "greek": "ἔχουσιν,", "gloss": "ils_ont" },
+          { "greek": "οἳ", "gloss": "lesquels" },
+          { "greek": "πρὸς", "gloss": "pour" },
+          { "greek": "καιρὸν", "gloss": "un_temps" },
+          { "greek": "πιστεύουσιν", "gloss": "croient" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἐν", "gloss": "en" },
+          { "greek": "καιρῷ", "gloss": "un_temps" },
+          { "greek": "πειρασμοῦ", "gloss": "de_tentation/d'épreuve" },
+          { "greek": "ἀφίστανται.", "gloss": "ils_se_retirent/tombent", "analyse": "Composé de *apo-* (loin de, séparation) et *histēmi* (se tenir debout). Faute de racine (*rhiza*), l'Ego superficiel, malgré son euphorie émotionnelle temporaire, ne peut maintenir l'ancrage vertical. Face à l'épreuve du Monde duel, il s'éloigne (*apo*) de sa stature verticale (*histēmi*) pour s'effondrer." }
+        ]
       },
       {
         "verse_number": 14,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>τὸ</span><span class='greek-word'>δὲ</span><span class='greek-word'>εἰς</span><span class='greek-word'>τὰς</span><span class='greek-word'>ἀκάνθας</span></p><p class='inter-segond'><span class='french-word'>Ce</span><span class='french-word'>mais</span><span class='french-word'>dans</span><span class='french-word'>les</span><span class='french-word'>épines</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>ce</span><span class='french-word'>qui_est</span><span class='french-word'>tombé</span><span class='french-word'>dans</span><span class='french-word'>les</span><span class='french-word'>épines,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πεσόν,</span><span class='greek-word'>οὗτοί</span><span class='greek-word'>εἰσιν</span><span class='greek-word'>οἱ</span></p><p class='inter-segond'><span class='french-word'>étant_tombé,</span><span class='french-word'>ceux-ci</span><span class='french-word'>sont</span><span class='french-word'>ceux</span></p><p class='inter-darby'><span class='french-word'>ce_sont</span><span class='french-word'>ceux</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀκούσαντες,</span><span class='greek-word'>καὶ</span><span class='greek-word'>ὑπὸ</span></p><p class='inter-segond'><span class='french-word'>ayant_entendu,</span><span class='french-word'>et</span><span class='french-word'>par</span></p><p class='inter-darby'><span class='french-word'>qui_ont_entendu,</span><span class='french-word'>et_qui,</span><span class='french-word'>en_s'en_allant,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>μεριμνῶν</span><span class='greek-word'>καὶ</span><span class='greek-word'>πλούτου</span><span class='greek-word'>καὶ</span></p><p class='inter-segond'><span class='french-word'>les_soucis</span><span class='french-word'>et</span><span class='french-word'>les_richesses</span><span class='french-word'>et</span></p><p class='inter-darby'><span class='french-word'>sont_étouffés</span><span class='french-word'>par</span><span class='french-word'>les_soucis</span><span class='french-word'>et</span><span class='french-word'>les_richesses</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἡδονῶν</span><span class='greek-word'>τοῦ</span><span class='greek-word'>βίου</span></p><p class='inter-segond'><span class='french-word'>les_plaisirs</span><span class='french-word'>de_la</span><span class='french-word'>vie</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>les_voluptés</span><span class='french-word'>de_la_vie,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πορευόμενοι</span><span class='greek-word'>συμπνίγονται</span><span class='greek-word'>καὶ</span></p><p class='inter-segond'><span class='french-word'>poursuivant_leur_route</span><span class='french-word'>ils_sont_étouffés</span><span class='french-word'>et</span></p><p class='inter-darby'><span class='french-word'>et</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>οὐ</span><span class='greek-word'>τελεσφοροῦσι.</span></p><p class='inter-segond'><span class='french-word'>ne</span><span class='french-word'>portent_pas_de_fruit_à_maturité.</span></p><p class='inter-darby'><span class='french-word'>ils_ne_portent_pas_de_fruit_à_maturité.</span></p></div>"
+        "translations": {
+          "segond": "Ce qui est tombé parmi les épines, ce sont ceux qui, ayant entendu la parole, s'en vont, et la laissent étouffer par les soucis, les richesses et les plaisirs de la vie, et ils ne portent point de fruit qui vienne à maturité.",
+          "darby": "Et ce qui est tombé dans les épines, ce sont ceux qui, ayant entendu et s'en étant allés, sont étouffés par les soucis et par les richesses et par les voluptés de la vie, et ils ne portent pas de fruit à maturité."
+        },
+        "interlinear": [
+          { "greek": "τὸ", "gloss": "Ce" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "εἰς", "gloss": "dans" },
+          { "greek": "τὰς", "gloss": "les" },
+          { "greek": "ἀκάνθας", "gloss": "épines" },
+          { "greek": "πεσόν,", "gloss": "étant_tombé" },
+          { "greek": "οὗτοί", "gloss": "ceux-ci" },
+          { "greek": "εἰσιν", "gloss": "sont" },
+          { "greek": "οἱ", "gloss": "ceux" },
+          { "greek": "ἀκούσαντες,", "gloss": "ayant_entendu" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ὑπὸ", "gloss": "par" },
+          { "greek": "μεριμνῶν", "gloss": "des_soucis" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "πλούτου", "gloss": "de_la_richesse" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἡδονῶν", "gloss": "des_voluptés/plaisirs" },
+          { "greek": "τοῦ", "gloss": "de_la" },
+          { "greek": "βίου", "gloss": "vie_biologique" },
+          { "greek": "πορευόμενοι", "gloss": "faisant_route/s'en_allant" },
+          { "greek": "συμπνίγονται", "gloss": "sont_étouffés" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "οὐ", "gloss": "non" },
+          { "greek": "τελεσφοροῦσιν.", "gloss": "ne_portent_à_maturité", "analyse": "Composé de *telos* (le but, la perfection, l'achèvement) et *pherō* (porter). Le but de la semence est l'engendrement divin. Ici, l'énergie est dispersée par les sollicitations horizontales du monde (soucis, richesses). Le développement est avorté : la graine pousse mais échoue à atteindre son *Telos*." }
+        ]
       },
       {
         "verse_number": 15,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>τὸ</span><span class='greek-word'>δὲ</span><span class='greek-word'>ἐν</span><span class='greek-word'>τῇ</span><span class='greek-word'>καλῇ</span><span class='greek-word'>γῇ,</span></p><p class='inter-segond'><span class='french-word'>Ce</span><span class='french-word'>mais</span><span class='french-word'>dans</span><span class='french-word'>la</span><span class='french-word'>bonne</span><span class='french-word'>terre,</span></p><p class='inter-darby'><span class='french-word'>Mais</span><span class='french-word'>ce</span><span class='french-word'>qui_est</span><span class='french-word'>dans_la</span><span class='french-word'>bonne</span><span class='french-word'>terre,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>οὗτοί</span><span class='greek-word'>εἰσιν</span><span class='greek-word'>οἵτινες</span><span class='greek-word'>ἐν</span></p><p class='inter-segond'><span class='french-word'>ceux-ci</span><span class='french-word'>sont</span><span class='french-word'>ceux_qui</span><span class='french-word'>dans</span></p><p class='inter-darby'><span class='french-word'>ce_sont</span><span class='french-word'>ceux_qui,</span><span class='french-word'>ayant_entendu_la_parole</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καρδίᾳ</span><span class='greek-word'>καλῇ</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἀγαθῇ</span></p><p class='inter-segond'><span class='french-word'>un_cœur</span><span class='french-word'>beau</span><span class='french-word'>et</span><span class='french-word'>bon</span></p><p class='inter-darby'><span class='french-word'>dans_un_cœur</span><span class='french-word'>honnête</span><span class='french-word'>et</span><span class='french-word'>bon,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀκούσαντες</span><span class='greek-word'>τὸν</span><span class='greek-word'>λόγον</span><span class='greek-word'>κατέχουσι</span></p><p class='inter-segond'><span class='french-word'>ayant_entendu</span><span class='french-word'>la</span><span class='french-word'>parole</span><span class='french-word'>la_retiennent</span></p><p class='inter-darby'><span class='french-word'>la</span><span class='french-word'>retiennent,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>καρποφοροῦσιν</span><span class='greek-word'>ἐν</span><span class='greek-word'>ὑπομονῇ.</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>portent_du_fruit</span><span class='french-word'>avec</span><span class='french-word'>persévérance.</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>portent_du_fruit</span><span class='french-word'>avec</span><span class='french-word'>patience.</span></p></div>"
+        "translations": {
+          "segond": "Ce qui est tombé dans la bonne terre, ce sont ceux qui, ayant entendu la parole avec un cœur honnête et bon, la retiennent, et portent du fruit avec persévérance.",
+          "darby": "Et ce qui est dans la bonne terre, ce sont ceux qui, ayant entendu la parole, la retiennent dans un cœur honnête et bon, et portent du fruit avec patience."
+        },
+        "interlinear": [
+          { "greek": "τὸ", "gloss": "Ce" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "τῇ", "gloss": "la" },
+          { "greek": "καλῇ", "gloss": "belle/honnête" },
+          { "greek": "γῇ,", "gloss": "terre" },
+          { "greek": "οὗτοί", "gloss": "ceux-ci" },
+          { "greek": "εἰσιν", "gloss": "sont" },
+          { "greek": "οἵτινες", "gloss": "lesquels" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "καρδίᾳ", "gloss": "un_cœur" },
+          { "greek": "καλῇ", "gloss": "beau" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἀγαθῇ", "gloss": "bon" },
+          { "greek": "ἀκούσαντες", "gloss": "ayant_entendu" },
+          { "greek": "τὸν", "gloss": "la" },
+          { "greek": "λόγον", "gloss": "Parole" },
+          { "greek": "κατέχουσιν", "gloss": "la_retiennent/conservent" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "καρποφοροῦσιν", "gloss": "portent_du_fruit" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "ὑπομονῇ.", "gloss": "la_persévérance/patience", "analyse": "Composé de *hypo-* (sous) et *menō* (demeurer, rester). L'*hypomonē* n'est pas une simple attente passive. C'est la capacité de 'demeurer sous' la tension, de maintenir activement la polarité verticale au sein de la pression de la matrice matérielle. C'est le creuset (l'athanor) indispensable pour que le *Logos* accomplisse sa transmutation et porte son fruit." }
+        ]
       }
     ],
-    "greek_only": "\n5 Ἐξῆλθεν ὁ σπείρων τοῦ σπεῖραι τὸν σπόρον αὐτοῦ. καὶ ἐν τῷ σπείρειν αὐτὸν ὃ μὲν ἔπεσε παρὰ τὴν ὁδόν, καὶ κατεπατήθη, καὶ τὰ πετεινὰ τοῦ οὐρανοῦ κατέφαγεν αὐτό. \n6 καὶ ἕτερον κατέπεσεν ἐπὶ τὴν πέτραν, καὶ φυὲν ἐξηράνθη διὰ τὸ μὴ ἔχειν ἰκμάδα. \n7 καὶ ἕτερον ἔπεσεν ἐν μέσῳ τῶν ἀκανθῶν, καὶ συμφυεῖσαι αἱ ἄκανθαι ἀπέπνιξαν αὐτό. \n8 καὶ ἕτερον ἔπεσεν εἰς τὴν γῆν τὴν ἀγαθήν, καὶ φυὲν ἐποίησε καρπὸν ἑκατονταπλασίονα. Ταῦτα λέγων ἐφώνει· Ὁ ἔχων ὦτα ἀκούειν ἀκουέτω. \n9 Ἐπηρώτων δὲ αὐτὸν οἱ μαθηταὶ αὐτοῦ τίς αὕτη εἴη ἡ παραβολή. \n10 ὁ δὲ εἶπεν· Ὑμῖν δέδοται γνῶναι τὰ μυστήρια τῆς βασιλείας τοῦ Θεοῦ, τοῖς δὲ λοιποῖς ἐν παραβολαῖς, ἵνα βλέποντες μὴ βλέπωσι καὶ ἀκούοντες μὴ συνιῶσιν. \n11 Ἔστι δὲ αὕτη ἡ παραβολή· Ὁ σπόρος ἐστὶν ὁ λόγος τοῦ Θεοῦ. \n12 οἱ δὲ παρὰ τὴν ὁδόν εἰσιν οἱ ἀκούσαντες, εἶτα ἔρχεται ὁ διάβολος καὶ αἴρει τὸν λόγον ἀπὸ τῆς καρδίας αὐτῶν, ἵνα μὴ πιστεύσαντες σωθῶσιν. \n13 οἱ δὲ ἐπὶ τῆς πέτρας οἳ ὅταν ἀκούσωσι μετὰ χαρᾶς δέχονται τὸν λόγον, καὶ οὗτοι ῥίζαν οὐκ ἔχουσιν, οἳ πρὸς καιρὸν πιστεύουσι καὶ ἐν καιρῷ πειρασμοῦ ἀφίστανται. \n14 τὸ δὲ εἰς τὰς ἀκάνθας πεσόν, οὗτοί εἰσιν οἱ ἀκούσαντες, καὶ ὑπὸ μεριμνῶν καὶ πλούτου καὶ ἡδονῶν τοῦ βίου πορευόμενοι συμπνίγονται καὶ οὐ τελεσφοροῦσι. \n15 τὸ δὲ ἐν τῇ καλῇ γῇ, οὗτοί εἰσιν οἵτινες ἐν καρδίᾳ καλῇ καὶ ἀγαθῇ ἀκούσαντες τὸν λόγον κατέχουσι καὶ καρποφοροῦσιν ἐν ὑπομονῇ.",
-    "french_only": "\n5 Un semeur sortit pour semer sa semence. Comme il semait, une partie de la semence tomba le long du chemin : elle fut foulée aux pieds, et les oiseaux du ciel la mangèrent. \n6 Une autre partie tomba sur le roc : quand elle fut levée, elle sécha, parce qu'elle n'avait point d'humidité. \n7 Une autre partie tomba au milieu des épines : les épines crûrent avec elle, et l'étouffèrent. \n8 Une autre partie tomba dans la bonne terre : quand elle fut levée, elle donna du fruit au centuple. Après avoir ainsi parlé, Jésus dit à haute voix : Que celui qui a des oreilles pour entendre entende ! \n9 Ses disciples lui demandèrent ce que signifiait cette parabole. \n10 Il répondit : Il vous a été donné de connaître les mystères du royaume de Dieu ; mais pour les autres, cela est dit en paraboles, afin qu'en voyant ils ne voient point, et qu'en entendant ils ne comprennent point. \n11 Voici ce que signifie cette parabole : La semence, c'est la parole de Dieu. \n12 Ceux qui sont le long du chemin, ce sont ceux qui entendent ; puis le diable vient, et enlève de leur coeur la parole, de peur qu'ils ne croient et soient sauvés. \n13 Ceux qui sont sur le roc, ce sont ceux qui, lorsqu'ils entendent la parole, la reçoivent avec joie ; mais ils n'ont point de racine, ils croient pour un temps, et ils succombent au moment de la tentation. \n14 Ce qui est tombé parmi les épines, ce sont ceux qui, ayant entendu la parole, s'en vont, et la laissent étouffer par les soucis, les richesses et les plaisirs de la vie, et ils ne portent point de fruit qui vienne à maturité. \n15 Ce qui est tombé dans la bonne terre, ce sont ceux qui, ayant entendu la parole avec un coeur honnête et bon, la retiennent, et portent du fruit avec persévérance.",
-    "french_darby": "\n5 Le semeur sortit pour semer sa semence ; et comme il semait, quelque grain tomba le long du chemin, et il fut foulé aux pieds, et les oiseaux du ciel le mangèrent. \n6 Et un autre tomba sur le roc ; et ayant levé, il se sécha, parce qu'il n'avait pas d'humidité. \n7 Et un autre tomba au milieu des épines ; et les épines ayant levé avec lui, l'étouffèrent. \n8 Et un autre tomba dans la bonne terre ; et ayant levé, il produisit du fruit au centuple. En disant ces choses, il criait : « Qui a des oreilles pour entendre, qu'il entende ». \n9 Et ses disciples lui demandèrent ce que pouvait être cette parabole. \n10 Et il dit : « À vous il est donné de connaître les mystères du royaume de Dieu ; mais pour les autres, elles sont dites en paraboles, afin qu'en voyant ils ne voient pas, et qu'en entendant ils ne comprennent pas. \n11 Or voici ce qu'est la parabole : la semence est la parole de Dieu. \n12 Ceux qui sont le long du chemin, ce sont ceux qui entendent ; ensuite vient le diable et ôte la parole de leur cœur, de peur qu'en croyant ils ne soient sauvés. \n13 Et ceux qui sont sur le roc, ce sont ceux qui, lorsqu'ils ont entendu la parole, la reçoivent avec joie ; et ceux-ci n'ont pas de racine : ils ne croient que pour un temps, et, au temps de la tentation, ils se retirent. \n14 Et ce qui est tombé dans les épines, ce sont ceux qui ont entendu, et qui, en s'en allant, sont étouffés par les soucis et les richesses et les voluptés de la vie, et ils ne portent pas de fruit à maturité. \n15 Mais ce qui est dans la bonne terre, ce sont ceux qui, ayant entendu la parole dans un cœur honnête et bon, la retiennent, et portent du fruit avec patience ».",
-    "personal_analysis": "Cette parabole est le miroir de l'âme. Le Semeur (le Christ) est prodigue : il jette la semence partout, sans distinction de mérite préalable. La différence de récolte ne vient pas de la qualité de la semence, qui est le Logos divin, mais de l'état du terrain. Le chemin représente la distraction ; le roc, le manque de profondeur émotionnelle et spirituelle ; les épines, l'encombrement par les passions mondaines. Le 'cœur beau et bon' (Kardia kale kai agathe) est celui qui parvient à la 'retention' (katechousin) de la Parole. Notez le mot final : 'hypomonè' (persévérance/patience). Le fruit spirituel n'est pas magique, il est le résultat d'une durée vécue dans la fidélité, malgré les tempêtes et les sècheresses."
+    "personal_analysis": "Analyse spirituelle :\nCette parabole décode le drame de l'engendrement de la conscience face aux forces du Monde duel. Le *Logos* (la semence) est constant et universel, mais c'est la structure réceptrice (la « terre », figurant les états de conscience de l'Ego) qui détermine l'issue. \n\nLes trois premiers terrains illustrent les stratégies de sabotage du Monde horizontal :\n1. L'écrasement (*katapateo*) et la division diabolique (*diabolos*) : l'information divine rebondit sur l'Ego aveuglé par les conditionnements de la masse.\n2. L'Ego émotionnel : la graine suscite un élan mental superficiel (la joie), mais sans eau matricielle (*ikmas*) ni profondeur ontologique, l'Ego s'effondre (*aphistantai*) dès que l'élan demande de quitter sa zone de confort.\n3. L'étouffement (*apopnigō*) : la multiplicité des désirs et des angoisses psychologiques crée un bruit de fond qui asphyxie la respiration (*pneuma*) de l'Esprit. La dynamique d'éveil est avortée avant son achèvement (*telos*).\n\nLe quatrième terrain révèle la mécanique de l'Éveil. Il requiert l'intégration du principe séminal dans un espace intérieur nettoyé (le cœur 'beau et bon'). La clé se trouve dans l'*hypomonē* : le courage de 'demeurer sous' la tension vibratoire sans fuir dans les réactions égotiques, permettant ainsi à la matrice humaine de porter le germe divin jusqu'à son incarnation totale."
   },
-"apostle": {
+ "apostle": {
     "reference": "Tite 3, 8-15",
-    "title": "La Pratique des Bonnes Œuvres et l'Unité de la Foi",
+    "title": "L'Ancrage Vertical face au Labyrinthe du Mental Duel",
     "interlinear": [
       {
         "verse_number": 8,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Πιστὸς</span><span class='greek-word'>ὁ</span><span class='greek-word'>λόγος,</span><span class='greek-word'>καὶ</span><span class='greek-word'>περὶ</span></p><p class='inter-segond'><span class='french-word'>Certe</span><span class='french-word'>est_la</span><span class='french-word'>parole,</span><span class='french-word'>et</span><span class='french-word'>sur</span></p><p class='inter-darby'><span class='french-word'>Cette</span><span class='french-word'>est_la</span><span class='french-word'>parole_est_certaine,</span><span class='french-word'>et</span><span class='french-word'>je_veux</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τούτων</span><span class='greek-word'>βούλομαί</span><span class='greek-word'>σε</span><span class='greek-word'>διαβεβαιοῦσθαι,</span></p><p class='inter-segond'><span class='french-word'>ces_choses</span><span class='french-word'>je_veux</span><span class='french-word'>que_tu</span><span class='french-word'>affirmes_fortement,</span></p><p class='inter-darby'><span class='french-word'>que_tu_insistes_sur</span><span class='french-word'>ces_choses,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἵνα</span><span class='greek-word'>φροντίζωσιν</span><span class='greek-word'>καλῶν</span><span class='greek-word'>ἔργων</span></p><p class='inter-segond'><span class='french-word'>afin_que</span><span class='french-word'>s'appliquent</span><span class='french-word'>de_bonnes</span><span class='french-word'>œuvres</span></p><p class='inter-darby'><span class='french-word'>afin_que</span><span class='french-word'>ceux</span><span class='french-word'>qui_ont_cru</span><span class='french-word'>à_Dieu</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>προΐστασθαι</span><span class='greek-word'>οἱ</span><span class='greek-word'>πεπιστευκότες</span><span class='greek-word'>Θεῷ.</span></p><p class='inter-segond'><span class='french-word'>à_pratiquer</span><span class='french-word'>ceux</span><span class='french-word'>ayant_cru</span><span class='french-word'>à_Dieu.</span></p><p class='inter-darby'><span class='french-word'>s'appliquent_à_être_les_premiers</span><span class='french-word'>dans_les_bonnes</span><span class='french-word'>œuvres.</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ταῦτά</span><span class='greek-word'>ἐστιν</span><span class='greek-word'>καλὰ</span><span class='greek-word'>καὶ</span><span class='greek-word'>ὠφέλιμα</span></p><p class='inter-segond'><span class='french-word'>Ces_choses</span><span class='french-word'>sont</span><span class='french-word'>bonnes</span><span class='french-word'>et</span><span class='french-word'>utiles</span></p><p class='inter-darby'><span class='french-word'>Ces_choses</span><span class='french-word'>sont</span><span class='french-word'>bonnes</span><span class='french-word'>et</span><span class='french-word'>profitables</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τοῖς</span><span class='greek-word'>ἀνθρώποις·</span></p><p class='inter-segond'><span class='french-word'>aux</span><span class='french-word'>hommes.</span></p><p class='inter-darby'><span class='french-word'>aux</span><span class='french-word'>hommes.</span></p></div>"
+        "translations": {
+          "segond": "Cette parole est certaine, et je veux que tu affirmes ces choses, afin que ceux qui ont cru en Dieu s'appliquent à pratiquer de bonnes œuvres. Voilà ce qui est bon et utile aux hommes.",
+          "darby": "Cette parole est certaine, et je veux que tu insistes fortement sur ces choses, afin que ceux qui ont cru Dieu s'étudient à exceller dans les bonnes œuvres. Ces choses sont bonnes et utiles aux hommes."
+        },
+        "interlinear": [
+          { "greek": "Πιστὸς", "gloss": "Fidèle/Certaine" },
+          { "greek": "ὁ", "gloss": "la" },
+          { "greek": "λόγος,", "gloss": "parole" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "περὶ", "gloss": "au_sujet_de" },
+          { "greek": "τούτων", "gloss": "ces_choses" },
+          { "greek": "βούλομαί", "gloss": "je_veux" },
+          { "greek": "σε", "gloss": "que_tu" },
+          { "greek": "διαβεβαιοῦσθαι,", "gloss": "affirmes_fortement" },
+          { "greek": "ἵνα", "gloss": "afin_que" },
+          { "greek": "φροντίζωσιν", "gloss": "ils_s'appliquent" },
+          { "greek": "καλῶν", "gloss": "aux_belles/bonnes" },
+          { "greek": "ἔργων", "gloss": "œuvres" },
+          { "greek": "προΐστασθαι", "gloss": "à_exceller/à_se_tenir_au_premier_rang", "analyse": "Composé de *pro-* (devant) et *histēmi* (se tenir debout). Il ne s'agit pas d'un simple activisme moral ('faire' des bonnes actions), mais d'une posture ontologique. La foi en Dieu redresse l'homme qui se 'tient debout au premier rang' (*pro-histēmi*). L'action lumineuse (*kala erga*) est la conséquence directe de ce ré-ancrage vertical." },
+          { "greek": "οἱ", "gloss": "ceux" },
+          { "greek": "πεπιστευκότες", "gloss": "ayant_cru" },
+          { "greek": "θεῷ.", "gloss": "en_Dieu" },
+          { "greek": "Ταῦτά", "gloss": "Ces_choses" },
+          { "greek": "ἐστιν", "gloss": "sont" },
+          { "greek": "καλὰ", "gloss": "bonnes" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ὠφέλιμα", "gloss": "utiles" },
+          { "greek": "τοῖς", "gloss": "aux" },
+          { "greek": "ἀνθρώποις·", "gloss": "hommes" }
+        ]
       },
       {
         "verse_number": 9,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>μωρὰς</span><span class='greek-word'>δὲ</span><span class='greek-word'>ζητήσεις</span><span class='greek-word'>καὶ</span></p><p class='inter-segond'><span class='french-word'>folles</span><span class='french-word'>mais</span><span class='french-word'>recherches</span><span class='french-word'>et</span></p><p class='inter-darby'><span class='french-word'>Mais</span><span class='french-word'>évite</span><span class='french-word'>les_folles</span><span class='french-word'>questions,</span><span class='french-word'>et</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>γενεαλογίας</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἔρεις</span><span class='greek-word'>καὶ</span></p><p class='inter-segond'><span class='french-word'>généalogies</span><span class='french-word'>et</span><span class='french-word'>disputes</span><span class='french-word'>et</span></p><p class='inter-darby'><span class='french-word'>les_généalogies,</span><span class='french-word'>et</span><span class='french-word'>les_querelles,</span><span class='french-word'>et</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>μάχας</span><span class='greek-word'>νομικὰς</span><span class='greek-word'>περιίστασο·</span></p><p class='inter-segond'><span class='french-word'>combats</span><span class='french-word'>sur_la_loi</span><span class='french-word'>évite ;</span></p><p class='inter-darby'><span class='french-word'>les_disputes</span><span class='french-word'>sur_la_loi ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>εἰσὶν</span><span class='greek-word'>γὰρ</span><span class='greek-word'>ἀνωφελεῖς</span><span class='greek-word'>καὶ</span><span class='greek-word'>μάταιοι.</span></p><p class='inter-segond'><span class='french-word'>sont</span><span class='french-word'>car</span><span class='french-word'>inutiles</span><span class='french-word'>et</span><span class='french-word'>vaines.</span></p><p class='inter-darby'><span class='french-word'>car</span><span class='french-word'>elles_sont</span><span class='french-word'>sans_profit</span><span class='french-word'>et</span><span class='french-word'>vaines.</span></p></div>"
+        "translations": {
+          "segond": "Mais évite les discussions folles, les généalogies, les querelles, les disputes relatives à la loi; car elles sont inutiles et vaines.",
+          "darby": "Mais évite les folles questions, et les généalogies, et les contestations, et les disputes touchant la loi ; car elles sont inutiles et vaines."
+        },
+        "interlinear": [
+          { "greek": "μωρὰς", "gloss": "Folles/Stupides" },
+          { "greek": "δὲ", "gloss": "mais" },
+          { "greek": "ζητήσεις", "gloss": "discussions/recherches" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "γενεαλογίας", "gloss": "généalogies" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἔρεις", "gloss": "querelles" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "μάχας", "gloss": "combats/disputes" },
+          { "greek": "νομικὰς", "gloss": "relatives_à_la_loi" },
+          { "greek": "περιΐστασο,", "gloss": "tiens-toi_à_l'écart/contourne", "analyse": "Composé de *peri-* (autour) et *histēmi* (se tenir debout). Littéralement : 'se tenir debout à l'écart/autour'. Contraste absolu avec le *pro-histēmi* du verset 8. L'Apôtre demande de maintenir sa stature verticale face au labyrinthe du mental intellectuel. Le Moi doit contourner l'engrenage des débats duellistes pour ne pas y perdre son ancrage énergétique." },
+          { "greek": "εἰσὶν", "gloss": "elles_sont" },
+          { "greek": "γὰρ", "gloss": "car" },
+          { "greek": "ἀνωφελεῖς", "gloss": "inutiles" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "μάταιοι.", "gloss": "vaines/vides", "analyse": "Le mot *mataios* désigne ce qui est frappé de vacuité, dénué de fruit spirituel. Le bouillonnement du mental horizontal produit beaucoup de bruit (disputes, généalogies) mais accouche d'un vide ontologique total." }
+        ]
       },
       {
         "verse_number": 10,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>αἱρετικὸν</span><span class='greek-word'>ἄνθρωπον</span><span class='greek-word'>μετὰ</span><span class='greek-word'>μίαν</span></p><p class='inter-segond'><span class='french-word'>hérétique</span><span class='french-word'>homme</span><span class='french-word'>après</span><span class='french-word'>une</span></p><p class='inter-darby'><span class='french-word'>Rejette</span><span class='french-word'>l'homme</span><span class='french-word'>sectaire</span><span class='french-word'>après</span><span class='french-word'>un</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>δευτέραν</span><span class='greek-word'>νουθεσίαν</span><span class='greek-word'>παραιτοῦ,</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>seconde</span><span class='french-word'>avertissement</span><span class='french-word'>éloigne ;</span></p><p class='inter-darby'><span class='french-word'>premier</span><span class='french-word'>et</span><span class='french-word'>un_second</span><span class='french-word'>avertissement,</span></p></div>"
+        "translations": {
+          "segond": "Éloigne de toi, après un premier et un second avertissement, celui qui provoque des divisions,",
+          "darby": "Rejette l'homme hérétique, après une première et une seconde admonestation,"
+        },
+        "interlinear": [
+          { "greek": "Αἱρετικὸν", "gloss": "Hérétique/Factieux", "analyse": "Dérivé du verbe *haireomai* (choisir, prendre pour soi). L'hérésie, étymologiquement, n'est pas d'abord une erreur dogmatique. C'est l'acte du mental égotique qui 'choisit', trie, s'isole et sépare. C'est l'esprit de faction, la pathologie ultime de la dualité, qui brise l'Unité du divin pour s'enfermer dans l'opinion partielle." },
+          { "greek": "ἄνθρωπον", "gloss": "L'homme" },
+          { "greek": "μετὰ", "gloss": "après" },
+          { "greek": "μίαν", "gloss": "une_première" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "δευτέραν", "gloss": "une_seconde" },
+          { "greek": "νουθεσίαν", "gloss": "admonestation", "analyse": "Composé de *nous* (l'intellect, la pensée supérieure) et *tithēmi* (placer, poser). Le but de l'avertissement est de 'poser l'esprit', de tenter de réaligner la conscience dans son axe vertical. Si après deux tentatives, l'Ego s'obstine dans la fragmentation, le contact doit être rompu." },
+          { "greek": "παραιτοῦ,", "gloss": "rejette/éloigne-toi" }
+        ]
       },
       {
         "verse_number": 11,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>εἰδὼς</span><span class='greek-word'>ὅτι</span><span class='greek-word'>ἐξέστραπται</span><span class='greek-word'>ὁ</span></p><p class='inter-segond'><span class='french-word'>sachant</span><span class='french-word'>que</span><span class='french-word'>est_perverti</span><span class='french-word'>un</span></p><p class='inter-darby'><span class='french-word'>sachant</span><span class='french-word'>qu'un</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τοιοῦτος</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἁμαρτάνει</span><span class='greek-word'>ὢν</span></p><p class='inter-segond'><span class='french-word'>tel_homme</span><span class='french-word'>et</span><span class='french-word'>pèche,</span><span class='french-word'>étant</span></p><p class='inter-darby'><span class='french-word'>tel_homme</span><span class='french-word'>est_voyé,</span><span class='french-word'>et_pèche,</span><span class='french-word'>étant</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>αὐτοκατάκριτος.</span></p><p class='inter-segond'><span class='french-word'>condamné_par_lui-même.</span></p><p class='inter-darby'><span class='french-word'>condamné_par_lui-même.</span></p></div>"
+        "translations": {
+          "segond": "sachant qu'un homme de cette espèce est perverti, et qu'il pèche, en se condamnant lui-même.",
+          "darby": "sachant qu'un tel homme est perverti et pèche, étant condamné par lui-même."
+        },
+        "interlinear": [
+          { "greek": "εἰδὼς", "gloss": "sachant" },
+          { "greek": "ὅτι", "gloss": "qu'" },
+          { "greek": "ἐξέστραπται", "gloss": "est_perverti/renversé", "analyse": "Composé de *ek-* (hors de) et *strepho* (tourner, tordre). Il s'agit d'un renversement total, d'une torsion hors de l'Axe de l'Être. L'homme factieux s'est désaxé, retourné sur lui-même dans une inversion de la nature spirituelle." },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "τοιοῦτος", "gloss": "tel_homme" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἁμαρτάνει,", "gloss": "pèche/manque_le_but" },
+          { "greek": "ὢν", "gloss": "étant" },
+          { "greek": "αὐτοκατάκριτος.", "gloss": "condamné_par_lui-même", "analyse": "Concept spirituel foudroyant composé de *auto-* (soi-même), *kata-* (vers le bas, contre) et *krino* (juger/séparer). Le jugement n'est pas la punition d'un Dieu vengeur et extérieur. L'Ego est *auto-katakritos* : en s'obstinant dans la division (*hairetikos*), il devient la source de sa propre condamnation et déclenche sa dynamique de descente (*kata*). Il s'enferme de l'intérieur dans son circuit morbide." }
+        ]
       },
-      {
+   {
         "verse_number": 12,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Ὅταν</span><span class='greek-word'>πέμψω</span><span class='greek-word'>Ἀρτεμᾶν</span><span class='greek-word'>πρός</span></p><p class='inter-segond'><span class='french-word'>Quand</span><span class='french-word'>j'enverrai</span><span class='french-word'>Artémas</span><span class='french-word'>vers</span></p><p class='inter-darby'><span class='french-word'>Quand</span><span class='french-word'>j'enverrai</span><span class='french-word'>Artémas</span><span class='french-word'>vers</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>σε</span><span class='greek-word'>ἢ</span><span class='greek-word'>Τυχικόν,</span><span class='greek-word'>σπούδασον</span></p><p class='inter-segond'><span class='french-word'>toi</span><span class='french-word'>ou</span><span class='french-word'>Tychique,</span><span class='french-word'>hâte-toi</span></p><p class='inter-darby'><span class='french-word'>toi,</span><span class='french-word'>ou</span><span class='french-word'>Tychique,</span><span class='french-word'>efforce-toi</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐλθεῖν</span><span class='greek-word'>πρός</span><span class='greek-word'>με</span><span class='greek-word'>εἰς</span><span class='greek-word'>Νικόπολιν,</span></p><p class='inter-segond'><span class='french-word'>de_venir</span><span class='french-word'>vers</span><span class='french-word'>moi</span><span class='french-word'>à</span><span class='french-word'>Nicopolis,</span></p><p class='inter-darby'><span class='french-word'>de_venir</span><span class='french-word'>auprès_de_moi</span><span class='french-word'>à</span><span class='french-word'>Nicopolis,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐκεῖ</span><span class='greek-word'>γὰρ</span><span class='greek-word'>κέκρικα</span><span class='greek-word'>παραχειμάσαι.</span></p><p class='inter-segond'><span class='french-word'>là</span><span class='french-word'>car</span><span class='french-word'>j'ai_résolu</span><span class='french-word'>de_passer_l'hiver.</span></p><p class='inter-darby'><span class='french-word'>car</span><span class='french-word'>j'ai_résolu</span><span class='french-word'>d'y_passer_l'hiver.</span></p></div>"
+        "translations": {
+          "segond": "Lorsque j'enverrai vers toi Artémas ou Tychique, hâte-toi de venir me rejoindre à Nicopolis; car c'est là que j'ai résolu de passer l'hiver.",
+          "darby": "Quand j'enverrai Artémas auprès de toi, ou Tychique, empresse-toi de venir me joindre à Nicopolis ; car j'ai résolu de passer l'hiver là."
+        },
+        "interlinear": [
+          { "greek": "Ὅταν", "gloss": "Quand" },
+          { "greek": "πέμψω", "gloss": "j'enverrai" },
+          { "greek": "Ἀρτεμᾶν", "gloss": "Artémas" },
+          { "greek": "πρὸς", "gloss": "vers" },
+          { "greek": "σὲ", "gloss": "toi" },
+          { "greek": "ἢ", "gloss": "ou" },
+          { "greek": "Τυχικόν,", "gloss": "Tychique" },
+          { "greek": "σπούδασον", "gloss": "hâte-toi/empresse-toi", "analyse": "Du verbe *spoudazō* (se hâter, s'empresser, agir avec zèle). Le zèle n'est pas ici une agitation mondaine, mais une célérité spirituelle. C'est le dynamisme de la Grâce qui met le Sujet en mouvement sans le laisser stagner dans l'inertie du Monde duel." },
+          { "greek": "ἐλθεῖν", "gloss": "de_venir" },
+          { "greek": "πρός", "gloss": "vers" },
+          { "greek": "με", "gloss": "moi" },
+          { "greek": "εἰς", "gloss": "à" },
+          { "greek": "Νικόπολιν,", "gloss": "Nicopolis" },
+          { "greek": "ἐκεῖ", "gloss": "là" },
+          { "greek": "γὰρ", "gloss": "car" },
+          { "greek": "κέκρικα", "gloss": "j'ai_jugé/décidé" },
+          { "greek": "παραχειμάσαι.", "gloss": "de_passer_l'hiver" }
+        ]
       },
       {
         "verse_number": 13,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Ζηνᾶν</span><span class='greek-word'>τὸν</span><span class='greek-word'>νομικὸν</span><span class='greek-word'>καὶ</span></p><p class='inter-segond'><span class='french-word'>Zénas</span><span class='french-word'>le</span><span class='french-word'>docteur_de_la_loi</span><span class='french-word'>et</span></p><p class='inter-darby'><span class='french-word'>Zénas,</span><span class='french-word'>le_docteur_de_la_loi,</span><span class='french-word'>et</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Ἀπολλὼν</span><span class='greek-word'>σπουδαίως</span><span class='greek-word'>πρόπεμψον,</span></p><p class='inter-segond'><span class='french-word'>Apollos</span><span class='french-word'>soigneusement</span><span class='french-word'>aide_dans_leur_voyage,</span></p><p class='inter-darby'><span class='french-word'>Apollos,</span><span class='french-word'>accompagne-les_avec_soin,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἵνα</span><span class='greek-word'>μηδὲν</span><span class='greek-word'>αὐτοῖς</span><span class='greek-word'>λείπῃ.</span></p><p class='inter-segond'><span class='french-word'>afin_que</span><span class='french-word'>rien</span><span class='french-word'>à_eux</span><span class='french-word'>ne_manque.</span></p><p class='inter-darby'><span class='french-word'>afin_que</span><span class='french-word'>rien</span><span class='french-word'>ne_leur</span><span class='french-word'>manque.</span></p></div>"
+        "translations": {
+          "segond": "Aie soin de pourvoir au voyage de Zénas, le docteur de la loi, et d'Apollos, en sorte que rien ne leur manque.",
+          "darby": "Fais la conduite avec soin à Zénas le docteur de la loi, et à Apollos, afin que rien ne leur manque ;"
+        },
+        "interlinear": [
+          { "greek": "Ζηνᾶν", "gloss": "Zénas" },
+          { "greek": "τὸν", "gloss": "le" },
+          { "greek": "νομικὸν", "gloss": "docteur_de_la_loi" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "Ἀπολλῶν", "gloss": "Apollos" },
+          { "greek": "σπουδαίως", "gloss": "avec_empressement/soin" },
+          { "greek": "πρόπεμψον,", "gloss": "fais_avancer/pourvois_au_voyage", "analyse": "Composé de *pro-* (en avant) et *pempō* (envoyer). Littéralement : 'envoyer en avant'. La solidarité matérielle dans l'Église primitive obéit à ce principe : propulser l'Axe vertical (les messagers) en avant pour que la Parole continue de percer le tissu horizontal du monde." },
+          { "greek": "ἵνα", "gloss": "afin_que" },
+          { "greek": "μηδὲν", "gloss": "rien" },
+          { "greek": "αὐτοῖς", "gloss": "à_eux" },
+          { "greek": "λείπῃ.", "gloss": "ne_manque/fasse_défaut" }
+        ]
       },
       {
         "verse_number": 14,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>μανθανέτωσαν</span><span class='greek-word'>δὲ</span><span class='greek-word'>καὶ</span><span class='greek-word'>οἱ</span></p><p class='inter-segond'><span class='french-word'>Qu'ils_apprennent</span><span class='french-word'>mais</span><span class='french-word'>aussi</span><span class='french-word'>les</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>que</span><span class='french-word'>les_nôtres</span><span class='french-word'>aussi</span><span class='french-word'>apprennent</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἡμέτεροι</span><span class='greek-word'>καλῶν</span><span class='greek-word'>ἔργων</span></p><p class='inter-segond'><span class='french-word'>nôtres</span><span class='french-word'>de_bonnes</span><span class='french-word'>œuvres</span></p><p class='inter-darby'><span class='french-word'>à_être_les_premiers</span><span class='french-word'>dans_les_bonnes</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>προΐστασθαι</span><span class='greek-word'>εἰς</span><span class='greek-word'>τὰς</span></p><p class='inter-segond'><span class='french-word'>à_pratiquer</span><span class='french-word'>pour</span><span class='french-word'>les</span></p><p class='inter-darby'><span class='french-word'>œuvres</span><span class='french-word'>pour</span><span class='french-word'>les</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀναγκαίας</span><span class='greek-word'>χρείας,</span><span class='greek-word'>ἵνα</span><span class='greek-word'>μὴ</span></p><p class='inter-segond'><span class='french-word'>besoins</span><span class='french-word'>pressants,</span><span class='french-word'>afin_que</span><span class='french-word'>ne_pas</span></p><p class='inter-darby'><span class='french-word'>besoins</span><span class='french-word'>nécessaires,</span><span class='french-word'>afin_qu'ils</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὦσιν</span><span class='greek-word'>ἄκαρποι.</span></p><p class='inter-segond'><span class='french-word'>ils_soient</span><span class='french-word'>sans_fruits.</span></p><p class='inter-darby'><span class='french-word'>ne_soient_pas</span><span class='french-word'>sans_fruit.</span></p></div>"
+        "translations": {
+          "segond": "Il faut que les nôtres aussi apprennent à pratiquer de bonnes œuvres pour subvenir aux besoins pressants, afin qu'ils ne soient pas sans produire des fruits.",
+          "darby": "et que les nôtres aussi apprennent à exceller dans les bonnes œuvres pour les besoins nécessaires, afin qu'ils ne soient pas sans fruit."
+        },
+        "interlinear": [
+          { "greek": "μανθανέτωσαν", "gloss": "Qu'apprennent" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "καὶ", "gloss": "aussi" },
+          { "greek": "οἱ", "gloss": "les" },
+          { "greek": "ἡμέτεροι", "gloss": "nôtres" },
+          { "greek": "καλῶν", "gloss": "aux_belles" },
+          { "greek": "ἔργων", "gloss": "œuvres" },
+          { "greek": "προΐστασθαι", "gloss": "à_exceller/à_se_tenir_au_premier_rang", "analyse": "On retrouve le *pro-histēmi* (se tenir debout devant) du verset 8. L'injonction est répétée pour clôturer l'épître : l'ancrage vertical dans l'Être doit se traduire par une stature prééminente dans l'action juste, qui vient percer la matière ('les besoins nécessaires')." },
+          { "greek": "εἰς", "gloss": "pour" },
+          { "greek": "τὰς", "gloss": "les" },
+          { "greek": "ἀναγκαίας", "gloss": "nécessaires/pressantes" },
+          { "greek": "χρείας,", "gloss": "nécessités/besoins" },
+          { "greek": "ἵνα", "gloss": "afin_que" },
+          { "greek": "μὴ", "gloss": "ne_pas" },
+          { "greek": "ὦσιν", "gloss": "ils_soient" },
+          { "greek": "ἄκαρποι.", "gloss": "sans_fruit", "analyse": "Le *alpha* privatif (*a-*) lié à *karpos* (le fruit). L'arbre sans fruit (l'homme désaxé) reçoit l'énergie mais ne parvient pas à la cristalliser, il ne rend rien à la matrice incréée. L'action juste est la concrétion, la manifestation tangible (*le fruit*) de l'Esprit descendant dans la matière." }
+        ]
       },
       {
         "verse_number": 15,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Ἀσπάζονταί</span><span class='greek-word'>σε</span><span class='greek-word'>οἱ</span><span class='greek-word'>μετ’</span></p><p class='inter-segond'><span class='french-word'>Saluent</span><span class='french-word'>toi</span><span class='french-word'>ceux</span><span class='french-word'>avec</span></p><p class='inter-darby'><span class='french-word'>Tous</span><span class='french-word'>ceux</span><span class='french-word'>qui_sont</span><span class='french-word'>avec</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐμοῦ</span><span class='greek-word'>πάντες.</span><span class='greek-word'>Ἄσπασαι</span><span class='greek-word'>τοὺς</span></p><p class='inter-segond'><span class='french-word'>moi</span><span class='french-word'>tous.</span><span class='french-word'>Salue</span><span class='french-word'>ceux</span></p><p class='inter-darby'><span class='french-word'>moi</span><span class='french-word'>te_saluent.</span><span class='french-word'>Salue</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>φιλοῦντας</span><span class='greek-word'>ἡμᾶς</span><span class='greek-word'>ἐν</span><span class='greek-word'>πίστει.</span></p><p class='inter-segond'><span class='french-word'>aimant</span><span class='french-word'>nous</span><span class='french-word'>dans</span><span class='french-word'>la_foi.</span></p><p class='inter-darby'><span class='french-word'>ceux</span><span class='french-word'>qui_nous_aiment</span><span class='french-word'>dans_la_foi.</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἡ</span><span class='greek-word'>χάρις</span><span class='greek-word'>μετὰ</span><span class='greek-word'>πάντων</span><span class='greek-word'>ὑμῶν.</span></p><p class='inter-segond'><span class='french-word'>Que_la</span><span class='french-word'>grâce</span><span class='french-word'>soit_avec</span><span class='french-word'>tous</span><span class='french-word'>vous.</span></p><p class='inter-darby'><span class='french-word'>Que_la</span><span class='french-word'>grâce</span><span class='french-word'>soit_avec</span><span class='french-word'>vous_tous !</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀμήν.</span></p><p class='inter-segond'><span class='french-word'>Amen.</span></p><p class='inter-darby'><span class='french-word'>Amen.</span></p></div>"
+        "translations": {
+          "segond": "Tous ceux qui sont avec moi te saluent. Salue ceux qui nous aiment dans la foi. Que la grâce soit avec vous tous!",
+          "darby": "Tous ceux qui sont avec moi te saluent. Salue ceux qui nous aiment dans la foi. Que la grâce soit avec vous tous !"
+        },
+        "interlinear": [
+          { "greek": "Ἀσπάζονταί", "gloss": "Saluent" },
+          { "greek": "σε", "gloss": "toi" },
+          { "greek": "οἱ", "gloss": "ceux" },
+          { "greek": "μετ’", "gloss": "avec" },
+          { "greek": "ἐμοῦ", "gloss": "moi" },
+          { "greek": "πάντες.", "gloss": "tous" },
+          { "greek": "ἄσπασαι", "gloss": "Salue" },
+          { "greek": "τοὺς", "gloss": "ceux" },
+          { "greek": "φιλοῦντας", "gloss": "aimant" },
+          { "greek": "ἡμᾶς", "gloss": "nous" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "πίστει.", "gloss": "la_foi" },
+          { "greek": "Ἡ", "gloss": "La" },
+          { "greek": "χάρις", "gloss": "grâce" },
+          { "greek": "μετὰ", "gloss": "avec" },
+          { "greek": "πάντων", "gloss": "tous" },
+          { "greek": "ὑμῶν.", "gloss": "vous" }
+        ]
       }
     ],
-    "greek_only": "\n8 Πιστὸς ὁ λόγος, καὶ περὶ τούτων βούλομαί σε διαβεβαιοῦσθαι, ἵνα φροντίζωσιν καλῶν ἔργων προΐστασθαι οἱ πεπιστευκότες Θεῷ. ταῦτά ἐστιν καλὰ καὶ ὠφέλιμα τοῖς ἀνθρώποις· \n9 μωρὰς δὲ ζητήσεις καὶ γενεαλογίας καὶ ἔρεις καὶ μάχας νομικὰς περιίστασο· εἰσὶν γὰρ ἀνωφελεῖς καὶ μάταιοι. \n10 αἱρετικὸν ἄνθρωπον μετὰ μίαν καὶ δευτέραν νουθεσίαν παραιτοῦ, \n11 εἰδὼς ὅτι ἐξέστραπται ὁ τοιοῦτος καὶ ἁμαρτάνει ὢν αὐτοκατάκριτος. \n12 Ὅταν πέμψω Ἀρτεμᾶν πρός σε ἢ Τυχικόν, σπούδασον ἐλθεῖν πρός με εἰς Νικόπολιν, ἐκεῖ γὰρ κέκρικα παραχειμάσαι. \n13 Ζηνᾶν τὸν νομικὸν καὶ Ἀπολλὼν σπουδαίως πρόπεμψον, ἵνα μηδὲν αὐτοῖς λείπῃ. \n14 μανθανέτωσαν δὲ καὶ οἱ ἡμέτεροι καλῶν ἔργων προΐστασθαι εἰς τὰς ἀναγκαίας χρείας, ἵνα μὴ ὦσιν ἄκαρποι. \n15 Ἀσπάζονταί σε οἱ μετ’ ἐμοῦ πάντες. Ἄσπασαι τοὺς φιλοῦντας ἡμᾶς ἐν πίστει. ἡ χάρις μετὰ πάντων ὑμῶν. ἀμήν.",
-    "french_only": "\n8 Cette parole est certaine, et je veux que tu affirmes ces choses, afin que ceux qui ont cru en Dieu s'appliquent à pratiquer de bonnes oeuvres. Voilà ce qui est bon et utile aux hommes. \n9 Mais évite les folles recherches, les généalogies, les querelles, les disputes relatives à la loi ; car elles sont inutiles et vaines. \n10 Éloigne de toi, après un premier et un second avertissement, celui qui provoque des divisions, \n11 sachant qu'un tel homme est perverti, et qu'il pèche, en se condamnant lui-même. \n12 Lorsque je t'aurai envoyé Artémas ou Tychique, hâte-toi de venir me rejoindre à Nicopolis ; car c'est là que j'ai résolu de passer l'hiver. \n13 Aie soin de pourvoir au voyage de Zénas, le docteur de la loi, et d'Apollos, en sorte que rien ne leur manque. \n14 Il faut que les nôtres aussi apprennent à pratiquer de bonnes oeuvres pour subvenir aux besoins pressants, afin qu'ils ne soient pas sans fruit. \n15 Tous ceux qui sont avec moi te saluent. Salue ceux qui nous aiment dans la foi. Que la grâce soit avec vous tous ! Amen.",
-    "french_darby": "\n8 Cette parole est certaine, et je veux que tu insistes sur ces choses, afin que ceux qui ont cru à Dieu s'appliquent à être les premiers dans les bonnes oeuvres : ces choses sont bonnes et profitables aux hommes. \n9 Mais évite les folles questions, et les généalogies, et les querelles, et les disputes sur la loi, car elles sont sans profit et vaines. \n10 Rejette l'homme sectaire après un premier et un second avertissement, \n11 sachant qu'un tel homme est dévoyé et pèche, étant condamné par lui-même. \n12 Quand j'aurai envoyé vers toi Artémas ou Tychique, efforce-toi de venir auprès de moi à Nicopolis, car j'ai résolu d'y passer l'hiver. \n13 Accompagne avec soin Zénas, le docteur de la loi, et Apollos, afin que rien ne leur manque. \n14 Et que les nôtres aussi apprennent à être les premiers dans les bonnes oeuvres pour les besoins nécessaires, afin qu'ils ne soient pas sans fruit. \n15 Tous ceux qui sont avec moi te saluent. Salue ceux qui nous aiment dans la foi. Que la grâce soit avec vous tous !",
-    "personal_analysis": "Ce passage, lu lors de la mémoire des Pères des Conciles, souligne que l'orthodoxie (la foi droite) est inséparable de l'orthopraxie (l'action droite). Paul met en garde contre les « disputes vaines » qui ne sont que de l'orgueil intellectuel. Le terme « hairetikon » (v.10), qui a donné « hérétique », désigne originellement celui qui choisit de se diviser, qui préfère son opinion propre à l'unité de l'Église. L'apôtre oppose ces divisions stériles à la fécondité des « bonnes œuvres » (Kalon ergon), qui sont les véritables fruits de la foi. La finale insiste sur la solidarité concrète entre les membres de la communauté : aider Zénas et Apollos n'est pas une option, c'est l'exercice même de la charité qui rend la foi vivante."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 14 - προΐστασθαι (*proïstasthai*) : Segond choisit de traduire par « pratiquer » de bonnes œuvres, ce qui horizontalise et moralise le texte (comme s'il s'agissait d'une liste de tâches). Darby, en traduisant par « exceller », capte mieux le préfixe spatial *pro-* (devant) et la racine *histēmi* (se tenir). Il ne s'agit pas juste de 'faire', mais d'assumer une posture d'avant-garde, de 'se tenir debout au premier rang' de la manifestation divine.\n• Verset 14 - ἄκαρποι (*akarpoi*) : Segond dilue l'impact du mot en le périphrasant par « sans produire des fruits ». Darby reste d'une fidélité chirurgicale avec son adjectif sec « sans fruit ». La construction grecque (*a-* privatif) est un état d'être, une carence ontologique. Ce n'est pas une simple absence d'action, c'est l'impuissance matricielle.\n\nAnalyse spirituelle :\nCette conclusion épistolaire, d'apparence banale et très logistique, renferme en réalité le secret de l'incarnation spirituelle. \nPaul, après avoir exigé que l'Ego se coupe de l'agitation mentale (versets 9-11), commande ici l'inverse sur le plan pratique : un zèle absolu (*spoudason*, *spoudaiōs*). L'Axe vertical ne conduit pas à la passivité éthérée. Parce que l'homme de foi s'est tenu 'à l'écart' (*peri-histēmi*) des vaines disputes, il a conservé l'énergie nécessaire pour se tenir 'au premier rang' (*pro-histēmi*) de la matière.\n\nLe but spirituel ultime est de ne pas rester *akarpos* (privé de fruit). Le fruit n'est pas la récompense de la bonne action, il en est la cristallisation. C'est l'instant où le *Logos*, l'énergie verticale, coagule dans la matière (répondant aux « nécessités pressantes ») pour modifier la réalité du Monde duel. L'épître se clôt sur le seul mot capable de soutenir toute cette architecture : la *charis* (Grâce), l'influx incréé qui alimente toute la mécanique."
   }
 }
- 
