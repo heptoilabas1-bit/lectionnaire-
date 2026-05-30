@@ -344,4 +344,154 @@
           { "greek": "ἀνθρώπῳ", "gloss": "à_un_homme" },
           { "greek": "λαλῆσαι.", "gloss": "de_dire" }
         ]
+      },
+{
+        "verse_number": 5,
+        "translations": {
+          "segond": "Je me glorifierai d'un tel homme, mais de moi-même je ne me glorifierai pas, sinon de mes faiblesses.",
+          "darby": "Pour un tel homme je me glorifierai ; mais pour moi-même je ne me glorifierai pas, sinon dans mes infirmités."
+        },
+        "interlinear": [
+          { "greek": "ὑπὲρ", "gloss": "pour/au_sujet_de" },
+          { "greek": "τοῦ", "gloss": "le" },
+          { "greek": "τοιούτου", "gloss": "tel_homme" },
+          { "greek": "καυχήσομαι,", "gloss": "je_me_glorifierai" },
+          { "greek": "ὑπὲρ", "gloss": "pour/au_sujet_de" },
+          { "greek": "δὲ", "gloss": "mais" },
+          { "greek": "ἐμαυτοῦ", "gloss": "moi-même" },
+          { "greek": "οὐ", "gloss": "non" },
+          { "greek": "καυχήσομαι", "gloss": "je_me_glorifierai" },
+          { "greek": "εἰ", "gloss": "si" },
+          { "greek": "μὴ", "gloss": "non/sinon" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "ταῖς", "gloss": "les" },
+          { "greek": "ἀσθενείαις.", "gloss": "faiblesses/infirmités", "analyse": "Construit avec le alpha privatif (*a-*) et *sthenos* (la force). L'astheneia n'est pas simplement une maladie physiologique, c'est l'état d'être fondamentalement vidé de sa capacité propre, sans-force. La privation de force de l'Ego devient l'espace creux indispensable pour accueillir l'Incréé. Le vide de soi appelle le plein divin." }
+        ]
+      },
+     {
+        "verse_number": 6,
+        "translations": {
+          "segond": "",
+          "darby": ""
+        },
+        "interlinear": [
+          { "greek": "ἐὰν", "gloss": "si" },
+          { "greek": "γὰρ", "gloss": "car/en_effet" },
+          { "greek": "θελήσω", "gloss": "je_veux" },
+          { "greek": "καυχήσασθαι,", "gloss": "me_glorifier" },
+          { "greek": "οὐκ", "gloss": "non" },
+          { "greek": "ἔσομαι", "gloss": "je_serai" },
+          { "greek": "ἄφρων,", "gloss": "insensé/déraisonnable" },
+          { "greek": "ἀλήθειαν", "gloss": "la_vérité" },
+          { "greek": "γὰρ", "gloss": "car" },
+          { "greek": "ἐρῶ·", "gloss": "je_dirai" },
+          { "greek": "φείδομαι", "gloss": "je_m'abstiens" },
+          { "greek": "δέ,", "gloss": "mais" },
+          { "greek": "μή", "gloss": "de_peur_que" },
+          { "greek": "τις", "gloss": "quelqu'un" },
+          { "greek": "εἰς", "gloss": "envers" },
+          { "greek": "ἐμὲ", "gloss": "moi" },
+          { "greek": "λογίσηται", "gloss": "n'estime" },
+          { "greek": "ὑπὲρ", "gloss": "au_delà_de" },
+          { "greek": "ὃ", "gloss": "ce_que" },
+          { "greek": "βλέπει", "gloss": "il_voit" },
+          { "greek": "με", "gloss": "de_moi" },
+          { "greek": "ἢ", "gloss": "ou" },
+          { "greek": "ἀκούει", "gloss": "il_entend" },
+          { "greek": "ἐξ", "gloss": "de_la_part_de" },
+          { "greek": "ἐμοῦ.", "gloss": "moi" }
+        ]
+      },
+      {
+        "verse_number": 7,
+        "translations": {
+          "segond": "",
+          "darby": ""
+        },
+        "interlinear": [
+          { "greek": "καὶ", "gloss": "Et" },
+          { "greek": "τῇ", "gloss": "par_la" },
+          { "greek": "ὑπερβολῇ", "gloss": "surabondance/l'excellence" },
+          { "greek": "τῶν", "gloss": "des" },
+          { "greek": "ἀποκαλύψεων.", "gloss": "révélations" },
+          { "greek": "διὸ", "gloss": "c'est_pourquoi" },
+          { "greek": "ἵνα", "gloss": "afin_que" },
+          { "greek": "μὴ", "gloss": "ne_pas" },
+          { "greek": "ὑπεραίρωμαι,", "gloss": "je_m'élève_trop" },
+          { "greek": "ἐδόθη", "gloss": "il_a_été_donné" },
+          { "greek": "μοι", "gloss": "à_moi" },
+          { "greek": "σκόλοψ", "gloss": "écharde/pieu", "analyse": "Le terme *skolops* désigne à l'origine tout objet pointu, un pal ou une épine acérée. Ce terme brutal, évoquant une douleur aiguë, sert d'ancrage charnel. Il agit comme un contrepoids à l'élévation (la montée) des révélations, ramenant violemment l'apôtre à la matière pour contrer la tentation d'orgueil." },
+          { "greek": "τῇ", "gloss": "dans_la" },
+          { "greek": "σαρκί,", "gloss": "chair" },
+          { "greek": "ἄγγελος", "gloss": "un_ange/messager" },
+          { "greek": "Σατανᾶ,", "gloss": "de_Satan" },
+          { "greek": "ἵνα", "gloss": "afin_qu'" },
+          { "greek": "με", "gloss": "me" },
+          { "greek": "κολαφίζῃ,", "gloss": "il_frappe/soufflette" },
+          { "greek": "ἵνα", "gloss": "afin_que" },
+          { "greek": "μὴ", "gloss": "ne_pas" },
+          { "greek": "ὑπεραίρωμαι.", "gloss": "je_m'élève_trop" }
+        ]
+      },
+      {
+        "verse_number": 8,
+        "translations": {
+          "segond": "",
+          "darby": ""
+        },
+        "interlinear": [
+          { "greek": "ὑπὲρ", "gloss": "au_sujet_de" },
+          { "greek": "τούτου", "gloss": "cela" },
+          { "greek": "τρὶς", "gloss": "trois_fois" },
+          { "greek": "τὸν", "gloss": "le" },
+          { "greek": "κύριον", "gloss": "Seigneur" },
+          { "greek": "παρεκάλεσα", "gloss": "j'ai_supplié" },
+          { "greek": "ἵνα", "gloss": "afin_qu'" },
+          { "greek": "ἀποστῇ", "gloss": "il_s'éloigne" },
+          { "greek": "ἀπ’", "gloss": "de" },
+          { "greek": "ἐμοῦ.", "gloss": "moi" }
+        ]
+      },
+      {
+        "verse_number": 9,
+        "translations": {
+          "segond": "",
+          "darby": ""
+        },
+        "interlinear": [
+          { "greek": "καὶ", "gloss": "Et" },
+          { "greek": "εἴρηκέν", "gloss": "il_a_dit" },
+          { "greek": "μοι·", "gloss": "à_moi" },
+          { "greek": "ἀρκεῖ", "gloss": "suffit" },
+          { "greek": "σοι", "gloss": "à_toi" },
+          { "greek": "ἡ", "gloss": "la" },
+          { "greek": "χάρις", "gloss": "grâce" },
+          { "greek": "μου·", "gloss": "de_moi" },
+          { "greek": "ἡ", "gloss": "car_la" },
+          { "greek": "γὰρ", "gloss": "en_effet" },
+          { "greek": "δύναμις", "gloss": "puissance", "analyse": "La *dynamis* est la puissance en acte, la force en mouvement (qui a donné le mot dynamique). Cette force incréée ne vient pas simplement suppléer ou compenser la faiblesse humaine de l'extérieur." },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "ἀσθενείᾳ", "gloss": "la_faiblesse" },
+          { "greek": "τελεῖται.", "gloss": "s'accomplit/atteint_son_but", "analyse": "Le verbe *teleioō* vient de *telos* (le but, l'accomplissement). La force divine s'accomplit dans le creux de la faiblesse (*astheneia*). La vulnérabilité totale est le seul réceptacle où la force de Dieu trouve son achèvement." },
+          { "greek": "ἥδιστα", "gloss": "Très_volontiers" },
+          { "greek": "οὖν", "gloss": "donc" },
+          { "greek": "μᾶλλον", "gloss": "plutôt" },
+          { "greek": "καυχήσομαι", "gloss": "je_me_glorifierai" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "ταῖς", "gloss": "les" },
+          { "greek": "ἀσθενείαις", "gloss": "faiblesses" },
+          { "greek": "μου,", "gloss": "de_moi" },
+          { "greek": "ἵνα", "gloss": "afin_que" },
+          { "greek": "ἐπισκηνώσῃ", "gloss": "repose/dresse_sa_tente", "analyse": "Composé de *epi* (sur) et *skēnē* (la tente). Littéralement : 'dresser sa tente sur'. Ce verbe renvoie à la Tente de la Rencontre au désert et à l'Incarnation. La faiblesse kénosée de Paul devient le nouveau tabernacle où le Christ vient habiter." },
+          { "greek": "ἐπ’", "gloss": "sur" },
+          { "greek": "ἐμὲ", "gloss": "moi" },
+          { "greek": "ἡ", "gloss": "la" },
+          { "greek": "δύναμις", "gloss": "puissance" },
+          { "greek": "τοῦ", "gloss": "du" },
+          { "greek": "Χριστοῦ.", "gloss": "Christ" }
+        ]
       }
+    ],
+    "personal_analysis": "Analyse spirituelle :\nCe texte illustre la tension fondamentale entre l'élévation mystique et l'ancrage charnel. Après avoir été ravi au troisième ciel, Paul reçoit une écharde (*skolops*), un rappel brutal à la gravité du Monde duel, pour éviter que son Ego spirituel ne s'enorgueillisse de cette ascension.\n\nLe renversement opéré au verset 9 est absolu. L'homme naturel prie pour que la difficulté s'éloigne (verset 8), cherchant une force qui viendrait réparer sa faiblesse. La réponse divine subvertit cette attente : 'Ma puissance s'accomplit dans la faiblesse'. L'Ego doit accepter d'être vidé de sa propre force (*a-stheneia*) pour que ce vide devienne la matrice de l'Incréé. La vulnérabilité n'est plus un défaut à gommer, elle devient le tabernacle (*episkēnoō*) où la présence divine peut s'installer."
+  }
+}
