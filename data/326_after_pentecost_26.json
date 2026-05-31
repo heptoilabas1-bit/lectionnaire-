@@ -1,94 +1,414 @@
 {
   "gospel": {
     "reference": "Luc 12, 16-21",
-    "title": "La Parabole du Riche Insensé : La Vraie Richesse devant Dieu",
+    "title": "Le Riche Insensé : La Rétention Égotique et l'Effondrement du Faux Centre",
     "interlinear": [
       {
         "verse_number": 16,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Εἶπε</span><span class='greek-word'>δὲ</span><span class='greek-word'>παραβολὴν</span><span class='greek-word'>πρὸς</span><span class='greek-word'>αὐτοὺς</span></p><p class='inter-segond'><span class='french-word'>Il_dit</span><span class='french-word'>et</span><span class='french-word'>une_parabole</span><span class='french-word'>vers</span><span class='french-word'>eux</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>il_leur_dit</span><span class='french-word'>une_parabole,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>λέγων·</span><span class='greek-word'>Ἀνθρώπου</span><span class='greek-word'>τινὸς</span><span class='greek-word'>πλουσίου</span></p><p class='inter-segond'><span class='french-word'>disant :</span><span class='french-word'>D'un_homme</span><span class='french-word'>un</span><span class='french-word'>riche</span></p><p class='inter-darby'><span class='french-word'>disant :</span><span class='french-word'>La_terre</span><span class='french-word'>d'un_homme</span><span class='french-word'>riche</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>εὐφόρησεν</span><span class='greek-word'>ἡ</span><span class='greek-word'>χώρα·</span></p><p class='inter-segond'><span class='french-word'>avaient_beaucoup_rapporté</span><span class='french-word'>les</span><span class='french-word'>terres ;</span></p><p class='inter-darby'><span class='french-word'>avait_abondamment</span><span class='french-word'>rapporté ;</span></p></div>"
+        "translations": {
+          "segond": "Il leur dit cette parabole : Les terres d'un certain homme riche avaient beaucoup rapporté.",
+          "darby": "Et il leur dit une parabole, disant : Les terres d'un certain homme riche avaient beaucoup rapporté."
+        },
+        "interlinear": [
+          { "greek": "Εἶπεν", "gloss": "Il_dit" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "παραβολὴν", "gloss": "une_parabole" },
+          { "greek": "πρὸς", "gloss": "vers/à" },
+          { "greek": "αὐτοὺς", "gloss": "eux" },
+          { "greek": "λέγων·", "gloss": "disant" },
+          { "greek": "Ἀνθρώπου", "gloss": "D'un_homme" },
+          { "greek": "τινὸς", "gloss": "certain" },
+          { "greek": "πλουσίου", "gloss": "riche" },
+          { "greek": "εὐφόρησεν", "gloss": "porta_abondamment/produisit_bien", "analyse": "Composé de *eu* (bien/bon) et *phoreo* (porter/produire). L'Ego perçoit l'abondance matérielle comme une validation de sa propre existence. Mais cette surabondance de la terre (l'horizontalité pure) va devenir le piège vibratoire dans lequel le Sujet va s'enfermer, confondant la fertilité de la matière avec la Plénitude de l'Être." },
+          { "greek": "ἡ", "gloss": "la" },
+          { "greek": "χώρα.", "gloss": "terre/domaine" }
+        ]
       },
       {
         "verse_number": 17,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>διελογίζετο</span><span class='greek-word'>ἐν</span><span class='greek-word'>ἑαυτῷ</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>il_raisonnait</span><span class='french-word'>en</span><span class='french-word'>lui-même</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>il_raisonnait</span><span class='french-word'>en</span><span class='french-word'>lui-même,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>λέγων·</span><span class='greek-word'>Τί</span><span class='greek-word'>ποιήσω,</span><span class='greek-word'>ὅτι</span><span class='greek-word'>οὐκ</span></p><p class='inter-segond'><span class='french-word'>disant :</span><span class='french-word'>Que</span><span class='french-word'>ferai-je,</span><span class='french-word'>car</span><span class='french-word'>pas</span></p><p class='inter-darby'><span class='french-word'>disant :</span><span class='french-word'>Que</span><span class='french-word'>ferai-je,</span><span class='french-word'>car</span><span class='french-word'>je_n'ai_pas</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἔχω</span><span class='greek-word'>ποῦ</span><span class='greek-word'>συνάξω</span><span class='greek-word'>τοὺς</span></p><p class='inter-segond'><span class='french-word'>je_n'ai_de_place</span><span class='french-word'>où</span><span class='french-word'>j'amasserai</span><span class='french-word'>mes</span></p><p class='inter-darby'><span class='french-word'>d'endroit</span><span class='french-word'>où</span><span class='french-word'>je_puisse_amasser</span><span class='french-word'>mes</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καρπούς</span><span class='greek-word'>μου;</span></p><p class='inter-segond'><span class='french-word'>récoltes ?</span></p><p class='inter-darby'><span class='french-word'>fruits ?</span></p></div>"
+        "translations": {
+          "segond": "Et il raisonnait en lui-même, disant : Que ferai-je ? car je n'ai pas de place pour amasser mes récoltes.",
+          "darby": "Et il raisonnait en lui-même, disant : Que ferai-je ? car je n'ai pas où assembler mes fruits."
+        },
+        "interlinear": [
+          { "greek": "καὶ", "gloss": "Et" },
+          { "greek": "διελογίζετο", "gloss": "il_raisonnait/dialoguait", "analyse": "Composé de *dia-* (à travers, séparation) et *logizomai* (calculer, raisonner). C'est le bruit de fond absolu de l'Ego : le dialogue intérieur stérile. Coupé de l'Axe de l'Incréé, l'homme ne prie pas, il converse avec lui-même dans un circuit fermé (*en heauto*), calculant la préservation de son petit domaine. Le mental est fragmenté (*dia*)." },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "ἑαυτῷ", "gloss": "lui-même" },
+          { "greek": "λέγων·", "gloss": "disant" },
+          { "greek": "Τί", "gloss": "Que" },
+          { "greek": "ποιήσω,", "gloss": "ferai-je" },
+          { "greek": "ὅτι", "gloss": "parce_que" },
+          { "greek": "οὐκ", "gloss": "ne...pas" },
+          { "greek": "ἔχω", "gloss": "j'ai" },
+          { "greek": "ποῦ", "gloss": "où" },
+          { "greek": "συνάξω", "gloss": "je_rassemblerai/amasserai", "analyse": "Composé de *syn-* (ensemble) et *ago* (conduire). L'Ego singe ici le mouvement d'unification du Christ (qui rassemble les dispersés). Mais l'Ego ne rassemble que de la matière morte (des fruits) pour les stocker, créant une force centripète d'accaparement qui l'isole au lieu de l'unifier." },
+          { "greek": "τοὺς", "gloss": "les" },
+          { "greek": "καρπούς", "gloss": "fruits/récoltes" },
+          { "greek": "μου;", "gloss": "de_moi" }
+        ]
       },
       {
         "verse_number": 18,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>εἶπε·</span><span class='greek-word'>Τοῦτο</span><span class='greek-word'>ποιήσω·</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>il_dit :</span><span class='french-word'>Voici_ce_que</span><span class='french-word'>je_ferai :</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>il_dit :</span><span class='french-word'>Voici_ce_que</span><span class='french-word'>je_ferai :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καθελῶ</span><span class='greek-word'>μου</span><span class='greek-word'>τὰς</span><span class='greek-word'>ἀποθήκας</span></p><p class='inter-segond'><span class='french-word'>j'abattrai</span><span class='french-word'>mes</span><span class='french-word'>les</span><span class='french-word'>greniers</span></p><p class='inter-darby'><span class='french-word'>j'abattrai</span><span class='french-word'>mes</span><span class='french-word'>greniers</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>μείζονας</span><span class='greek-word'>οἰκοδομήσω,</span><span class='greek-word'>καὶ</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>de_plus_grands</span><span class='french-word'>j'en_bâtirai,</span><span class='french-word'>et</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>j'en_bâtirai</span><span class='french-word'>de_plus_grands,</span><span class='french-word'>et</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>συνάξω</span><span class='greek-word'>ἐκεῖ</span><span class='greek-word'>πάντα</span><span class='greek-word'>τὰ</span></p><p class='inter-segond'><span class='french-word'>j'y_amasserai</span><span class='french-word'>là</span><span class='french-word'>toute</span><span class='french-word'>ma</span></p><p class='inter-darby'><span class='french-word'>j'y_amasserai</span><span class='french-word'>tous</span><span class='french-word'>mes</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>γενήματά</span><span class='greek-word'>μου</span><span class='greek-word'>καὶ</span><span class='greek-word'>τὰ</span><span class='greek-word'>ἀγαθά</span></p><p class='inter-segond'><span class='french-word'>récolte</span><span class='french-word'>ma</span><span class='french-word'>et</span><span class='french-word'>mes</span><span class='french-word'>biens ;</span></p><p class='inter-darby'><span class='french-word'>produits</span><span class='french-word'>et</span><span class='french-word'>mes</span><span class='french-word'>biens ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>μου,</span></p><p class='inter-segond'><span></span></p><p class='inter-darby'><span></span></p></div>"
+        "translations": {
+          "segond": "Voici, dit-il, ce que je ferai : j'abattrai mes greniers, j'en bâtirai de plus grands, j'y amasserai toute ma récolte et tous mes biens ;",
+          "darby": "Et il dit : Voici ce que je ferai : j'abattrai mes greniers et j'en bâtirai de plus grands, et j'y assemblerai tous mes produits et mes biens ;"
+        },
+        "interlinear": [
+          { "greek": "καὶ", "gloss": "Et" },
+          { "greek": "εἶπεν·", "gloss": "il_dit" },
+          { "greek": "Τοῦτο", "gloss": "Ceci" },
+          { "greek": "ποιήσω·", "gloss": "je_ferai" },
+          { "greek": "καθελῶ", "gloss": "j'abattrai/détruirai", "analyse": "Composé de *kata-* (vers le bas) et *haireo* (saisir/détruire). Le mouvement de rétention matérielle commence toujours par une destruction, un effondrement volontaire. L'Ego détruit ses propres structures pour en créer de plus vastes, enfermé dans une expansion horizontale infinie (la croissance pour la croissance), ignorant toute dimension verticale." },
+          { "greek": "μου", "gloss": "de_moi" },
+          { "greek": "τὰς", "gloss": "les" },
+          { "greek": "ἀποθήκας", "gloss": "greniers/réserves", "analyse": "Du préfixe *apo-* (à l'écart) et *tithemi* (poser). Un lieu de mise à l'écart. L'Ego refuse la circulation de l'énergie (le don/l'effusion), il veut 'mettre à l'écart' la vie pour s'en assurer la jouissance exclusive." },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "μείζονας", "gloss": "plus_grands" },
+          { "greek": "οἰκοδομήσω,", "gloss": "je_bâtirai" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "συνάξω", "gloss": "je_rassemblerai" },
+          { "greek": "ἐκεῖ", "gloss": "là" },
+          { "greek": "πάντα", "gloss": "tous" },
+          { "greek": "τὸν", "gloss": "le" },
+          { "greek": "σῖτον", "gloss": "blé" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "τὰ", "gloss": "les" },
+          { "greek": "ἀγαθά", "gloss": "biens", "analyse": "Le terme *agatha* (les bonnes choses, les biens). Une inversion sémantique dramatique. Pour la mystique, l'*Agathon* (le Bon/le Bien) est Dieu Lui-même, l'Incréé. Le riche réduit 'le bien' à des céréales empilées dans un coffre. C'est l'aveuglement ontologique parfait du Monde duel." },
+          { "greek": "μου,", "gloss": "de_moi" }
+        ]
       },
-      {
+{
         "verse_number": 19,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ἐρῶ</span><span class='greek-word'>τῇ</span><span class='greek-word'>ψυχῇ</span><span class='greek-word'>μου·</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>je_dirai</span><span class='french-word'>à_la</span><span class='french-word'>âme</span><span class='french-word'>ma :</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>je_dirai</span><span class='french-word'>à_mon</span><span class='french-word'>âme :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Ψυχή,</span><span class='greek-word'>ἔχεις</span><span class='greek-word'>πολλά</span><span class='greek-word'>ἀγαθὰ</span></p><p class='inter-segond'><span class='french-word'>Mon_âme,</span><span class='french-word'>tu_as</span><span class='french-word'>beaucoup</span><span class='french-word'>de_biens</span></p><p class='inter-darby'><span class='french-word'>« Mon_âme,</span><span class='french-word'>tu_as</span><span class='french-word'>beaucoup</span><span class='french-word'>de_biens</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>κείμενα</span><span class='greek-word'>εἰς</span><span class='greek-word'>ἔτη</span><span class='greek-word'>πολλά·</span></p><p class='inter-segond'><span class='french-word'>en_réserve</span><span class='french-word'>pour</span><span class='french-word'>années</span><span class='french-word'>plusieurs ;</span></p><p class='inter-darby'><span class='french-word'>amassés</span><span class='french-word'>pour</span><span class='french-word'>beaucoup</span><span class='french-word'>d'années ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀναπαύου,</span><span class='greek-word'>φάγε,</span><span class='greek-word'>πίε,</span></p><p class='inter-segond'><span class='french-word'>repose-toi,</span><span class='french-word'>mange,</span><span class='french-word'>bois,</span></p><p class='inter-darby'><span class='french-word'>repose-toi,</span><span class='french-word'>mange,</span><span class='french-word'>bois,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>εὐφραίνου.</span></p><p class='inter-segond'><span class='french-word'>réjouis-toi.</span></p><p class='inter-darby'><span class='french-word'>fais_joyeuse_chère ».</span></p></div>"
+        "translations": {
+          "segond": "et je dirai à mon âme : Mon âme, tu as beaucoup de biens en réserve pour plusieurs années ; repose-toi, mange, bois, et réjouis-toi.",
+          "darby": "et je dirai à mon âme : Mon âme, tu as beaucoup de biens assemblés pour beaucoup d'années ; repose-toi, mange, bois, fais grande chère."
+        },
+        "interlinear": [
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἐρῶ", "gloss": "je_dirai" },
+          { "greek": "τῇ", "gloss": "à_l'" },
+          { "greek": "ψυχῇ", "gloss": "âme/vie" },
+          { "greek": "μου·", "gloss": "de_moi" },
+          { "greek": "Ψυχή,", "gloss": "Âme", "analyse": "Le paroxysme de la folie égotique. L'Ego se dédouble et s'adresse à sa propre *psyche* comme s'il en était le maître souverain. Il confond l'étincelle vitale (qui appartient à l'Incréé) avec un tube digestif psychologique qu'il doit nourrir de matières mortes." },
+          { "greek": "ἔχεις", "gloss": "tu_as" },
+          { "greek": "πολλὰ", "gloss": "beaucoup_de" },
+          { "greek": "ἀγαθὰ", "gloss": "biens" },
+          { "greek": "κείμενα", "gloss": "posés/gisants" },
+          { "greek": "εἰς", "gloss": "pour" },
+          { "greek": "ἔτη", "gloss": "années" },
+          { "greek": "πολλά·", "gloss": "beaucoup" },
+          { "greek": "ἀναπαύου,", "gloss": "repose-toi", "analyse": "Composé de *ana-* (en haut/en arrière) et *pauo* (cesser). Le riche singe le repos divin (le Sabbat mystique). Mais son repos est fondé sur l'accumulation horizontale, c'est une inertie mortifère, alors que le véritable repos non-duel est une paix vibratoire suspendue à l'Axe vertical." },
+          { "greek": "φάγε,", "gloss": "mange" },
+          { "greek": "πίε,", "gloss": "bois" },
+          { "greek": "εὐφραίνου.", "gloss": "réjouis-toi" }
+        ]
       },
       {
         "verse_number": 20,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>εἶπε</span><span class='greek-word'>δὲ</span><span class='greek-word'>αὐτῷ</span><span class='greek-word'>ὁ</span><span class='greek-word'>Θεός·</span></p><p class='inter-segond'><span class='french-word'>Dit</span><span class='french-word'>mais</span><span class='french-word'>à_lui</span><span class='french-word'>le</span><span class='french-word'>Dieu :</span></p><p class='inter-darby'><span class='french-word'>Mais</span><span class='french-word'>Dieu</span><span class='french-word'>lui</span><span class='french-word'>dit :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Ἄφρων,</span><span class='greek-word'>ταύτῃ</span><span class='greek-word'>τῇ</span><span class='greek-word'>νυκτὶ</span></p><p class='inter-segond'><span class='french-word'>Insensé !</span><span class='french-word'>cette</span><span class='french-word'>la</span><span class='french-word'>nuit_même</span></p><p class='inter-darby'><span class='french-word'>« Insensé !</span><span class='french-word'>cette</span><span class='french-word'>nuit</span><span class='french-word'>même</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τὴν</span><span class='greek-word'>ψυχήν</span><span class='greek-word'>σου</span><span class='greek-word'>ἀπαιτοῦσιν</span></p><p class='inter-segond'><span class='french-word'>la</span><span class='french-word'>âme</span><span class='french-word'>ta</span><span class='french-word'>on_redemandera</span></p><p class='inter-darby'><span class='french-word'>ton</span><span class='french-word'>âme</span><span class='french-word'>te_sera_redemandée ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀπὸ</span><span class='greek-word'>σοῦ·</span><span class='greek-word'>ἃ</span><span class='greek-word'>δὲ</span><span class='greek-word'>ἡτοίμασας,</span></p><p class='inter-segond'><span class='french-word'>de</span><span class='french-word'>toi ;</span><span class='french-word'>ce_que</span><span class='french-word'>mais</span><span class='french-word'>tu_as_préparé,</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>les_choses_que</span><span class='french-word'>tu_as_préparées,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τίνι</span><span class='greek-word'>ἔσται;</span></p><p class='inter-segond'><span class='french-word'>pour_qui</span><span class='french-word'>sera-ce ?</span></p><p class='inter-darby'><span class='french-word'>pour_qui</span><span class='french-word'>seront-elles ? »</span></p></div>"
+        "translations": {
+          "segond": "Mais Dieu lui dit : Insensé ! cette nuit même ton âme te sera redemandée ; et ce que tu as préparé, pour qui cela sera-t-il ?",
+          "darby": "Mais Dieu lui dit : Insensé ! cette nuit même ton âme te sera redemandée ; et les choses que tu as préparées, à qui seront-elles ?"
+        },
+        "interlinear": [
+          { "greek": "εἶπεν", "gloss": "Dit" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "αὐτῷ", "gloss": "à_lui" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "θεός·", "gloss": "Dieu", "analyse": "L'irruption verticale foudroyante de l'Incréé qui vient briser le soliloque stérile (*dia-logizomai*) du Monde duel. L'Axe tranche le cercle vicieux de l'Ego." },
+          { "greek": "Ἄφρων,", "gloss": "Insensé", "analyse": "Le mot capital de la péricope : *a-phron*. Composé du préfixe privatif *a-* (sans) et de *phren* (l'intellect, le centre de la conscience/diaphragme). L'homme se croyait le sommet de la rationalité prévoyante ; Dieu lui révèle qu'il est 'sans-centre', décapité ontologiquement. Son Ego a dévoré son Sujet." },
+          { "greek": "ταύτῃ", "gloss": "cette" },
+          { "greek": "τῇ", "gloss": "la" },
+          { "greek": "νυκτὶ", "gloss": "nuit", "analyse": "La nuit (*nyx*) représente l'obscurcissement total de la conscience. C'est le moment de l'entropie maximale, là où les illusions solaires de l'Ego s'effondrent." },
+          { "greek": "τὴν", "gloss": "l'" },
+          { "greek": "ψυχήν", "gloss": "âme/vie" },
+          { "greek": "σου", "gloss": "de_toi" },
+          { "greek": "ἀπαιτοῦσιν", "gloss": "ils_redemandent/exigent", "analyse": "Composé de *apo-* (mouvement d'éloignement/arrachement) et *aiteo* (demander). L'Ego croyait posséder sa vie. Or, la vie ne lui est que prêtée. Le verbe est au pluriel impersonnel : les lois cosmiques de la mortalité viennent arracher (*apo*) l'énergie vitale au parasite égotique qui voulait la retenir." },
+          { "greek": "ἀπὸ", "gloss": "de/loin_de" },
+          { "greek": "σοῦ·", "gloss": "toi" },
+          { "greek": "ἃ", "gloss": "ce_que" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "ἡτοίμασας,", "gloss": "tu_as_préparé" },
+          { "greek": "τίνι", "gloss": "à_qui" },
+          { "greek": "ἔσται;", "gloss": "sera-t-il" }
+        ]
       },
       {
         "verse_number": 21,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>οὕτως</span><span class='greek-word'>ὁ</span><span class='greek-word'>θησαυρίζων</span><span class='greek-word'>ἑαυτῷ</span></p><p class='inter-segond'><span class='french-word'>Il_en_est_ainsi</span><span class='french-word'>de_celui</span><span class='french-word'>amassant_des_trésors</span><span class='french-word'>pour_lui-même</span></p><p class='inter-darby'><span class='french-word'>Ainsi</span><span class='french-word'>est_celui</span><span class='french-word'>qui_amasse_des_trésors</span><span class='french-word'>pour_lui-même,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>μὴ</span><span class='greek-word'>εἰς</span><span class='greek-word'>Θεὸν</span><span class='greek-word'>πλουτῶν.</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>ne...pas</span><span class='french-word'>pour</span><span class='french-word'>Dieu</span><span class='french-word'>étant_riche.</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>qui_n'est_pas</span><span class='french-word'>riche</span><span class='french-word'>pour</span><span class='french-word'>Dieu.</span></p></div>"
+        "translations": {
+          "segond": "Il en est ainsi de celui qui amasse des trésors pour lui-même, et qui n'est pas riche pour Dieu.",
+          "darby": "Il en est ainsi de celui qui amasse des trésors pour lui-même et qui n'est pas riche quant à Dieu."
+        },
+        "interlinear": [
+          { "greek": "Οὕτως", "gloss": "Ainsi" },
+          { "greek": "ὁ", "gloss": "celui" },
+          { "greek": "θησαυρίζων", "gloss": "amassant_des_trésors/thésaurisant", "analyse": "La thésaurisation est la définition même du péché structurel du Monde duel : la rétention de l'énergie. L'être refuse de devenir un canal pour l'Incréé et transforme l'Énergie vivante en stock mort." },
+          { "greek": "ἑαυτῷ", "gloss": "pour_lui-même", "analyse": "Le circuit fermé de la boucle égotique. Il accumule 'vers lui-même' au lieu de s'ouvrir 'vers l'autre' ou 'vers le Haut'." },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "μὴ", "gloss": "ne...pas" },
+          { "greek": "εἰς", "gloss": "en/vers", "analyse": "La préposition spatiale *eis* (mouvement directionnel vers). La vraie richesse n'est pas un stock, c'est une trajectoire." },
+          { "greek": "θεὸν", "gloss": "Dieu" },
+          { "greek": "πλουτῶν.", "gloss": "étant_riche", "analyse": "L'antithèse foudroyante. Le Christ ne condamne pas la richesse en soi, il condamne sa géométrie. Être riche 'vers' (*eis*) Dieu, c'est vivre dans le flux de la Grâce, dans le don permanent et la kénose. C'est l'effusion verticale qui s'oppose à la rétention horizontale." }
+        ]
       }
     ],
-    "greek_only": "\n16 Εἶπεν δὲ παραβολὴν πρὸς αὐτοὺς λέγων· Ἀνθρώπου τινὸς πλουσίου εὐφόρησεν ἡ χώρα· \n17 καὶ διελογίζετο ἐν ἑαυτῷ λέγων· Τί ποιήσω, ὅτι οὐκ ἔχω ποῦ συνάξω τοὺς καρπούς μου; \n18 καὶ εἶπε· Τοῦτο ποιήσω· καθελῶ μου τὰς ἀποθήκας καὶ μείζονας οἰκοδομήσω, καὶ συνάξω ἐκεῖ πάντα τὰ γενήματά μου καὶ τὰ ἀγαθά μου, \n19 καὶ ἐρῶ τῇ ψυχῇ μου· Ψυχή, ἔχεις πολλὰ ἀγαθὰ κείμενα εἰς ἔτη πολλά· ἀναπαύου, φάγε, πίε, εὐφραίνου. \n20 εἶπε δὲ αὐτῷ ὁ Θεός· Ἄφρων, ταύτῃ τῇ νυκτὶ τὴν ψυχήν σου ἀπαιτοῦσιν ἀπὸ σοῦ· ἃ δὲ ἡτοίμασας, τίνι ἔσται; \n21 οὕτως ὁ θησαυρίζων ἑαυτῷ καὶ μὴ εἰς Θεὸν πλουτῶν.",
-    "french_only": "\n16 Et il leur dit cette parabole : Les terres d'un homme riche avaient beaucoup rapporté. \n17 Et il raisonnait en lui-même, disant : Que ferai-je ? car je n'ai pas de place pour amasser mes récoltes. \n18 Voici, dit-il, ce que je ferai : j'abattrai mes greniers, j'en bâtirai de plus grands, j'y amasserai toute ma récolte et mes biens ; \n19 et je dirai à mon âme : Mon âme, tu as beaucoup de biens en réserve pour plusieurs années ; repose-toi, mange, bois, et réjouis-toi. \n20 Mais Dieu lui dit : Insensé ! cette nuit même ton âme te sera redemandée ; et ce que tu as préparé, pour qui sera-ce ? \n21 Il en est ainsi de celui qui amasse des trésors pour lui-même, et qui n'est pas riche pour Dieu.",
-    "french_darby": "\n16 Et il leur dit une parabole, disant : La terre d'un homme riche avait abondamment rapporté ; \n17 et il raisonnait en lui-même, disant : Que ferai-je, car je n'ai pas d'endroit où je puisse amasser mes fruits ? \n18 Et il dit : Voici ce que je ferai : j'abattrai mes greniers et j'en bâtirai de plus grands, et j'y amasserai tous mes produits et mes biens ; \n19 et je dirai à mon âme : Mon âme, tu as beaucoup de biens amassés pour beaucoup d'années ; repose-toi, mange, bois, fais joyeuse chère. \n20 Mais Dieu lui dit : Insensé ! cette nuit même ton âme te sera redemandée ; et les choses que tu as préparées, pour qui seront-elles ? \n21 Ainsi est celui qui amasse des trésors pour lui-même, et qui n'est pas riche pour Dieu.",
-    "personal_analysis": "Cette parabole démonte le mécanisme psychologique de l'avarice et de l'illusion matérialiste. Le riche commet une erreur de langage fatale : il n'utilise que les possessifs ('mes récoltes', 'mes greniers', 'mes biens', 'mon âme'). Il oublie que la terre produit par la grâce de Dieu et que sa vie elle-même ne lui appartient pas. Le terme 'Aphron' (insensé/fou) qualifie dans la Bible celui qui vit comme si Dieu n'existait pas. Le verdict divin tombe : l'âme est 'redemandée' (*apaitousin*), un verbe technique qui évoque le remboursement d'une dette ou la restitution d'un dépôt. Le Christ oppose l'accumulation stérile pour soi-même au mouvement d'offrande qui rend l'homme 'riche pour Dieu' (*eis Theon plouton*)."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 20 - Ἄφρων : Segond et Darby traduisent par 'Insensé'. Le terme français a une connotation morale ou psychiatrique. En grec, l'*a-phron* est celui qui n'a plus de *phren* (le centre intellectuel et spirituel qui fait le lien entre le souffle et la raison). Il s'agit d'un anéantissement topographique : le riche a cru bâtir de vastes greniers pour s'y centraliser, mais il s'est en réalité vidé de son propre Centre. Il est décentré, éparpillé dans ses stocks.\n\nAnalyse spirituelle :\nCette parabole dresse la clinique implacable de l'Ego et de sa folie géométrique.\n\nFace à l'abondance (une bénédiction terrestre), la réaction du riche n'est ni l'action de grâce verticale (louange), ni l'effusion horizontale (charité, partage). Il se met à 'dialoguer en lui-même' (*dialogizeto en heauto*, v.17). C'est le symptôme majeur de l'Ego : la rumination solipsiste. Coupé de l'Incréé, le faux-sujet s'enferme dans un calcul stérile pour sécuriser sa propre existence qu'il sent intuitivement fragile.\n\nLa folie culmine au verset 19 lorsqu'il s'adresse à son 'âme' (*psyche*) pour lui promettre le repos par l'accumulation matérielle. C'est la plus grande arnaque du Monde duel : croire que la possession d'objets horizontaux peut apaiser l'angoisse ontologique d'un Sujet qui ne trouve sa paix que dans l'Axe vertical.\n\nL'intervention de Dieu vient foudroyer cette illusion. Dieu ne le juge pas sur sa morale, Il lui rappelle simplement la loi cosmique de l'entropie : la matière est périssable et le temps chronologique est un arrachement (*apaitousin*). Puisque le riche a fusionné son identité avec ses greniers, quand la mort réclamera son souffle d'emprunt, il ne restera rien de lui. L'avertissement final de Jésus (v.21) oppose deux dynamiques contraires : la rétention égotique, qui est un stockage vers soi (*heauto*), et la kénose éveillée, qui est une richesse directionnelle, un flux d'abondance éternelle orienté vers l'Incréé (*eis Theon*)."
   },
   "apostle": {
     "reference": "Éphésiens 5, 8-19",
-    "title": "Marcher comme des Enfants de Lumière et Être Remplis de l'Esprit",
+    "title": "La Transmutation par la Lumière : Du Sommeil Égotique à l'Ivresse de l'Esprit",
     "interlinear": [
       {
         "verse_number": 8,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Ἦτε</span><span class='greek-word'>γάρ</span><span class='greek-word'>ποτε</span><span class='greek-word'>σκότος,</span></p><p class='inter-segond'><span class='french-word'>Vous_étiez</span><span class='french-word'>car</span><span class='french-word'>autrefois</span><span class='french-word'>ténèbres,</span></p><p class='inter-darby'><span class='french-word'>Car</span><span class='french-word'>vous_étiez</span><span class='french-word'>autrefois</span><span class='french-word'>ténèbres,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>νῦν</span><span class='greek-word'>δὲ</span><span class='greek-word'>φῶς</span><span class='greek-word'>ἐν</span><span class='greek-word'>Κυρίῳ·</span></p><p class='inter-segond'><span class='french-word'>maintenant</span><span class='french-word'>mais</span><span class='french-word'>lumière</span><span class='french-word'>dans_le</span><span class='french-word'>Seigneur ;</span></p><p class='inter-darby'><span class='french-word'>mais</span><span class='french-word'>maintenant</span><span class='french-word'>lumière</span><span class='french-word'>dans_le</span><span class='french-word'>Seigneur ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὡς</span><span class='greek-word'>τέκνα</span><span class='greek-word'>φωτὸς</span><span class='greek-word'>περιπατεῖτε,</span></p><p class='inter-segond'><span class='french-word'>comme</span><span class='french-word'>des_enfants</span><span class='french-word'>de_lumière</span><span class='french-word'>marchez,</span></p><p class='inter-darby'><span class='french-word'>marchez</span><span class='french-word'>comme</span><span class='french-word'>des_enfants</span><span class='french-word'>de_lumière</span></p></div>"
+        "translations": {
+          "segond": "Autrefois vous étiez ténèbres, et maintenant vous êtes lumière dans le Seigneur. Marchez comme des enfants de lumière !",
+          "darby": "Car vous étiez autrefois ténèbres, mais maintenant vous êtes lumière dans le Seigneur ; marchez comme des enfants de lumière"
+        },
+        "interlinear": [
+          { "greek": "Ἦτε", "gloss": "Vous_étiez" },
+          { "greek": "γάρ", "gloss": "car" },
+          { "greek": "ποτε", "gloss": "autrefois" },
+          { "greek": "σκότος,", "gloss": "ténèbres", "analyse": "Le *skotos*. Paul ne dit pas 'vous étiez DANS les ténèbres', il dit 'vous ÉTIEZ ténèbres'. C'est une identification ontologique. Les ténèbres ne sont pas une simple ignorance morale, c'est l'opacité absolue de l'Ego : une densité vibratoire fermée sur elle-même, qui refuse de laisser passer le flux de l'Incréé." },
+          { "greek": "νῦν", "gloss": "maintenant" },
+          { "greek": "δὲ", "gloss": "mais/or" },
+          { "greek": "φῶς", "gloss": "lumière", "analyse": "Le *Phos* (Lumière). Là encore, identification totale : 'vous êtes Lumière'. L'être éveillé devient lui-même le rayonnement transparent de l'Incréé. La kénose a détruit l'opacité de l'Ego pour faire du Sujet un vitrail." },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "κυρίῳ·", "gloss": "le_Seigneur" },
+          { "greek": "ὡς", "gloss": "comme" },
+          { "greek": "τέκνα", "gloss": "enfants" },
+          { "greek": "φωτὸς", "gloss": "de_lumière" },
+          { "greek": "περιπατεῖτε", "gloss": "marchez", "analyse": "Composé de *peri-* (autour) et *pateo* (marcher/fouler). L'action dans le Monde duel. Le Sujet devenu 'Lumière' ne fuit pas le monde ; il y déploie sa trajectoire horizontale (*peri-pateo*) en étant continuellement irrigué par l'Axe vertical." }
+        ]
       },
       {
         "verse_number": 9,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ὁ</span><span class='greek-word'>γὰρ</span><span class='greek-word'>καρπὸς</span><span class='greek-word'>τοῦ</span><span class='greek-word'>φωτὸς</span></p><p class='inter-segond'><span class='french-word'>car</span><span class='french-word'>le</span><span class='french-word'>fruit</span><span class='french-word'>de_la</span><span class='french-word'>lumière</span></p><p class='inter-darby'><span class='french-word'>car</span><span class='french-word'>le</span><span class='french-word'>fruit</span><span class='french-word'>de_la</span><span class='french-word'>lumière</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐν</span><span class='greek-word'>πάσῃ</span><span class='greek-word'>ἀγαθωσύνῃ</span><span class='greek-word'>καὶ</span></p><p class='inter-segond'><span class='french-word'>consiste_en</span><span class='french-word'>toute</span><span class='french-word'>bonté</span><span class='french-word'>et</span></p><p class='inter-darby'><span class='french-word'>est_en</span><span class='french-word'>toute</span><span class='french-word'>bonté</span><span class='french-word'>et</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>δικαιοσύνῃ</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἀληθείᾳ,</span></p><p class='inter-segond'><span class='french-word'>justice</span><span class='french-word'>et</span><span class='french-word'>vérité,</span></p><p class='inter-darby'><span class='french-word'>justice</span><span class='french-word'>et</span><span class='french-word'>vérité,</span></p></div>"
+        "translations": {
+          "segond": "Car le fruit de la lumière consiste en toute sorte de bonté, de justice et de vérité.",
+          "darby": "(car le fruit de la lumière consiste en toute bonté, et justice, et vérité),"
+        },
+        "interlinear": [
+          { "greek": "ὁ", "gloss": "Le" },
+          { "greek": "γὰρ", "gloss": "car" },
+          { "greek": "καρπὸς", "gloss": "fruit", "analyse": "Le *karpos*. Le Royaume UN ne produit pas des 'œuvres' (des fabrications mécaniques de l'Ego), il produit un 'fruit'. C'est une croissance organique, sans effort crispé, qui jaillit naturellement de la sève de l'Esprit." },
+          { "greek": "τοῦ", "gloss": "de_la" },
+          { "greek": "φωτὸς", "gloss": "lumière" },
+          { "greek": "ἐν", "gloss": "en/dans" },
+          { "greek": "πάσῃ", "gloss": "toute" },
+          { "greek": "ἀγαθωσύνῃ", "gloss": "bonté" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "δικαιοσύνῃ", "gloss": "justice", "analyse": "La *dikaiosyne* (justice/justesse). L'alignement topographique parfait. Le Sujet est ajusté à la fréquence divine, sans aucune distorsion." },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἀληθείᾳ,", "gloss": "vérité", "analyse": "L'*a-letheia*. Mot capital formé du préfixe privatif *a-* et de *lethe* (l'oubli, la dissimulation). La Vérité n'est pas un concept intellectuel : c'est le 'dé-voilement', la sortie hors de l'oubli. C'est l'Incréé qui sort de l'ombre pour se manifester dans la lucidité absolue du Sujet." }
+        ]
       },
       {
         "verse_number": 10,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>δοκιμάζοντες</span><span class='greek-word'>τί</span><span class='greek-word'>ἐστιν</span></p><p class='inter-segond'><span class='french-word'>examinez</span><span class='french-word'>ce_qui</span><span class='french-word'>est</span></p><p class='inter-darby'><span class='french-word'>éprouvant</span><span class='french-word'>ce_qui</span><span class='french-word'>est</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>εὐάρεστον</span><span class='greek-word'>τῷ</span><span class='greek-word'>Κυρίῳ·</span></p><p class='inter-segond'><span class='french-word'>agréable</span><span class='french-word'>à_le</span><span class='french-word'>Seigneur ;</span></p><p class='inter-darby'><span class='french-word'>agréable</span><span class='french-word'>au</span><span class='french-word'>Seigneur ;</span></p></div>"
+        "translations": {
+          "segond": "Examinez ce qui est agréable au Seigneur ;",
+          "darby": "éprouvant ce qui est agréable au Seigneur."
+        },
+        "interlinear": [
+          { "greek": "δοκιμάζοντες", "gloss": "examinant/éprouvant", "analyse": "Du verbe *dokimazo* (éprouver les métaux par le feu). L'éthique non-duelle n'est pas l'application aveugle d'un code de lois horizontales ; c'est un discernement vibratoire continu. Le Sujet éveillé doit 'tester' chaque situation pour voir si elle résonne avec la fréquence de l'Axe." },
+          { "greek": "τί", "gloss": "ce_qui" },
+          { "greek": "ἐστιν", "gloss": "est" },
+          { "greek": "εὐάρεστον", "gloss": "bien_agréable/plaisant", "analyse": "Composé de *eu* (bien) et *aresko* (plaire). Ce qui s'ajuste harmonieusement et parfaitement à la volonté du Centre." },
+          { "greek": "τῷ", "gloss": "à_le" },
+          { "greek": "κυρίῳ·", "gloss": "Seigneur" }
+        ]
       },
       {
         "verse_number": 11,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>μὴ</span><span class='greek-word'>συγκοινωνεῖτε</span><span class='greek-word'>τοῖς</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>ne</span><span class='french-word'>prenez_point_part</span><span class='french-word'>aux</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>n'ayez</span><span class='french-word'>aucune</span><span class='french-word'>communion_avec</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἔργοις</span><span class='greek-word'>τοῖς</span><span class='greek-word'>ἀκάρποις</span><span class='greek-word'>τοῦ</span></p><p class='inter-segond'><span class='french-word'>œuvres</span><span class='french-word'>les</span><span class='french-word'>infructueuses</span><span class='french-word'>des</span></p><p class='inter-darby'><span class='french-word'>les_œuvres</span><span class='french-word'>les</span><span class='french-word'>infructueuses</span><span class='french-word'>des</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>σκότους,</span><span class='greek-word'>μᾶλλον</span><span class='greek-word'>δὲ</span><span class='greek-word'>καὶ</span></p><p class='inter-segond'><span class='french-word'>ténèbres,</span><span class='french-word'>plutôt</span><span class='french-word'>mais</span><span class='french-word'>même</span></p><p class='inter-darby'><span class='french-word'>ténèbres,</span><span class='french-word'>mais</span><span class='french-word'>plutôt</span><span class='french-word'>reprenez-les</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐλέγχετε·</span></p><p class='inter-segond'><span class='french-word'>condamnez-les ;</span></p><p class='inter-darby'><span class='french-word'>aussi ;</span></p></div>"
+        "translations": {
+          "segond": "et ne prenez point part aux œuvres infructueuses des ténèbres, mais plutôt condamnez-les.",
+          "darby": "et n'ayez rien de commun avec les œuvres infructueuses des ténèbres, mais plutôt reprenez-les aussi ;"
+        },
+        "interlinear": [
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "μὴ", "gloss": "ne...pas" },
+          { "greek": "συγκοινωνεῖτε", "gloss": "prenez_part/soyez_co-communiants", "analyse": "Composé de *syn-* (avec) et *koinoneo* (communier/partager). L'interdit absolu de la fusion toxique. Le Sujet ne doit pas mélanger son champ énergétique (*koinonia*) avec les fréquences dégénératives (*syn-*) du Monde duel." },
+          { "greek": "τοῖς", "gloss": "aux" },
+          { "greek": "ἔργοις", "gloss": "œuvres", "analyse": "Les *erga* (œuvres). Opposé au 'fruit' du verset 9. Les ténèbres fabriquent, manipulent, forcent la matière, mais n'engendrent aucune vie organique." },
+          { "greek": "τοῖς", "gloss": "les" },
+          { "greek": "ἀκάρποις", "gloss": "infructueuses/sans_fruit", "analyse": "Composé du préfixe privatif *a-* et *karpos* (fruit). La définition clinique de la matrice du monde duel : une agitation mécanique permanente qui ne produit que du néant et de l'épuisement." },
+          { "greek": "τοῦ", "gloss": "des" },
+          { "greek": "σκότους,", "gloss": "ténèbres" },
+          { "greek": "μᾶλλον", "gloss": "plutôt" },
+          { "greek": "δὲ", "gloss": "mais" },
+          { "greek": "καὶ", "gloss": "aussi/même" },
+          { "greek": "ἐλέγχετε·", "gloss": "exposez/reprennez", "analyse": "Le verbe *elegcho* (mettre en lumière, convaincre, exposer). La Lumière ne se contente pas d'éviter les ténèbres ; elle les frappe de son rayon pour en dissoudre l'illusion. C'est l'acte thérapeutique d'amener le refoulé égotique à la Conscience." }
+        ]
       },
       {
         "verse_number": 12,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>τὰ</span><span class='greek-word'>γὰρ</span><span class='greek-word'>κρυφῇ</span><span class='greek-word'>γινόμενα</span></p><p class='inter-segond'><span class='french-word'>Car_les_choses</span><span class='french-word'>car</span><span class='french-word'>en_secret</span><span class='french-word'>se_faisant</span></p><p class='inter-darby'><span class='french-word'>Car</span><span class='french-word'>les_choses</span><span class='french-word'>qu'ils_font</span><span class='french-word'>en_secret,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὑπ’</span><span class='greek-word'>αὐτῶν</span><span class='greek-word'>αἰσχρόν</span><span class='greek-word'>ἐστι</span></p><p class='inter-segond'><span class='french-word'>par</span><span class='french-word'>eux</span><span class='french-word'>honteux</span><span class='french-word'>il_est</span></p><p class='inter-darby'><span class='french-word'>il_est</span><span class='french-word'>honteux</span><span class='french-word'>même</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>λέγειν·</span></p><p class='inter-segond'><span class='french-word'>même</span><span class='french-word'>de_dire ;</span></p><p class='inter-darby'><span class='french-word'>de_les_dire.</span></p></div>"
+        "translations": {
+          "segond": "Car il est honteux de dire ce qu'ils font en secret ;",
+          "darby": "car les choses qui sont faites par eux en secret, il est honteux même de les dire."
+        },
+        "interlinear": [
+          { "greek": "τὰ", "gloss": "Les_choses" },
+          { "greek": "γὰρ", "gloss": "car" },
+          { "greek": "κρυφῇ", "gloss": "en_secret/en_cachette", "analyse": "L'adverbe *kryphe*. La topographie de la dissimulation. L'Ego a viscéralement besoin d'angles morts et de zones d'ombre pour perpétuer ses illusions d'autosuffisance et de pouvoir. Le secret est l'oxygène de la dualité." },
+          { "greek": "γινόμενα", "gloss": "étant_faites/devenant" },
+          { "greek": "ὑπ’", "gloss": "par" },
+          { "greek": "αὐτῶν", "gloss": "eux" },
+          { "greek": "αἰσχρόν", "gloss": "honteux" },
+          { "greek": "ἐστιν", "gloss": "il_est" },
+          { "greek": "καὶ", "gloss": "même" },
+          { "greek": "λέγειν·", "gloss": "de_dire" }
+        ]
       },
       {
         "verse_number": 13,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>τὰ</span><span class='greek-word'>δὲ</span><span class='greek-word'>πάντα</span><span class='greek-word'>ἐλεγχόμενα</span></p><p class='inter-segond'><span class='french-word'>mais</span><span class='french-word'>toutes_choses</span><span class='french-word'>étant_condamnées</span></p><p class='inter-darby'><span class='french-word'>Mais</span><span class='french-word'>toutes_choses,</span><span class='french-word'>étant_reprises</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὑπὸ</span><span class='greek-word'>τοῦ</span><span class='greek-word'>φωτὸς</span><span class='greek-word'>φανεροῦται·</span></p><p class='inter-segond'><span class='french-word'>par</span><span class='french-word'>la</span><span class='french-word'>lumière</span><span class='french-word'>sont_manifestées ;</span></p><p class='inter-darby'><span class='french-word'>par</span><span class='french-word'>la</span><span class='french-word'>lumière,</span><span class='french-word'>sont_manifestées ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πᾶν</span><span class='greek-word'>γὰρ</span><span class='greek-word'>τὸ</span><span class='greek-word'>φανερούμενον</span></p><p class='inter-segond'><span class='french-word'>car_tout</span><span class='french-word'>car</span><span class='french-word'>ce_qui</span><span class='french-word'>est_manifesté</span></p><p class='inter-darby'><span class='french-word'>car</span><span class='french-word'>ce_qui</span><span class='french-word'>manifeste</span><span class='french-word'>tout,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>φῶς</span><span class='greek-word'>ἐστι.</span></p><p class='inter-segond'><span class='french-word'>lumière</span><span class='french-word'>est.</span></p><p class='inter-darby'><span class='french-word'>c'est_la_lumière.</span></p></div>"
+        "translations": {
+          "segond": "mais tout ce qui est condamné est manifesté par la lumière, car tout ce qui est manifesté est lumière.",
+          "darby": "mais toutes choses, quand elles sont reprises, sont manifestées par la lumière ; car ce qui manifeste tout, c'est la lumière."
+        },
+        "interlinear": [
+          { "greek": "τὰ", "gloss": "Les_choses" },
+          { "greek": "δὲ", "gloss": "or/mais" },
+          { "greek": "πάντα", "gloss": "toutes" },
+          { "greek": "ἐλεγχόμενα", "gloss": "étant_exposées/reprises" },
+          { "greek": "ὑπὸ", "gloss": "par/sous" },
+          { "greek": "τοῦ", "gloss": "la" },
+          { "greek": "φωτὸς", "gloss": "lumière" },
+          { "greek": "φανεροῦται,", "gloss": "sont_manifestées/rendues_visibles", "analyse": "Du verbe *phaneroo* (rendre visible, illuminer, révéler). L'action destructrice de l'Axe sur le voile de l'Ego. L'illusion n'a d'existence que parce qu'elle est cachée ; frappée par l'Incréé, elle perd instantanément sa substance." },
+          { "greek": "πᾶν", "gloss": "tout" },
+          { "greek": "γὰρ", "gloss": "car" },
+          { "greek": "τὸ", "gloss": "ce_qui" },
+          { "greek": "φανερούμενον", "gloss": "étant_manifesté", "analyse": "C'est la métaphysique de la transmutation. Paul ne dit pas que la lumière détruit les ténèbres pour laisser un espace vide. Il dit que la chose obscure, une fois transpercée et 'manifestée' par le rayonnement divin, devient elle-même lumière. La kénose transmute la boue en or spirituel." },
+          { "greek": "φῶς", "gloss": "lumière" },
+          { "greek": "ἐστιν.", "gloss": "est" }
+        ]
       },
-      {
+    {
         "verse_number": 14,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>διὸ</span><span class='greek-word'>λέγει·</span><span class='greek-word'>Ἔγειρε</span><span class='greek-word'>ὁ</span></p><p class='inter-segond'><span class='french-word'>C'est_pourquoi</span><span class='french-word'>il_est_dit :</span><span class='french-word'>Réveille-toi,</span><span class='french-word'>toi</span></p><p class='inter-darby'><span class='french-word'>C'est_pourquoi</span><span class='french-word'>il_dit :</span><span class='french-word'>« Réveille-toi,</span><span class='french-word'>toi</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καθεύδων</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἀνάστα</span><span class='greek-word'>ἐκ</span></p><p class='inter-segond'><span class='french-word'>qui_dors,</span><span class='french-word'>et</span><span class='french-word'>relève-toi</span><span class='french-word'>d'entre</span></p><p class='inter-darby'><span class='french-word'>qui_dors,</span><span class='french-word'>et</span><span class='french-word'>relève-toi</span><span class='french-word'>d'entre</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τῶν</span><span class='greek-word'>νεκρῶν,</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἐπιφαύσει</span></p><p class='inter-segond'><span class='french-word'>les</span><span class='french-word'>morts,</span><span class='french-word'>et</span><span class='french-word'>éclairera</span></p><p class='inter-darby'><span class='french-word'>les</span><span class='french-word'>morts,</span><span class='french-word'>et</span><span class='french-word'>le_Christ</span><span class='french-word'>luira</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>σοι</span><span class='greek-word'>ὁ</span><span class='greek-word'>Χριστός.</span></p><p class='inter-segond'><span class='french-word'>toi</span><span class='french-word'>le</span><span class='french-word'>Christ.</span></p><p class='inter-darby'><span class='french-word'>pour_toi ».</span></p></div>"
+        "translations": {
+          "segond": "C'est pour cela qu'il est dit : Réveille-toi, toi qui dors, Relève-toi d'entre les morts, Et Christ t'éclairera.",
+          "darby": "C'est pourquoi il dit : Réveille-toi, toi qui dors, et relève-toi d'entre les morts, et le Christ luira sur toi."
+        },
+        "interlinear": [
+          { "greek": "διὸ", "gloss": "C'est_pourquoi" },
+          { "greek": "λέγει·", "gloss": "il_dit" },
+          { "greek": "Ἔγειρε,", "gloss": "Éveille-toi/Lève-toi", "analyse": "Le cri fondamental de la mystique chrétienne (*Egeiro*). L'éveil n'est pas une simple prise de conscience psychologique, c'est un redressement physique et ontologique. C'est quitter la posture horizontale du sommeil pour se dresser sur l'Axe vertical." },
+          { "greek": "ὁ", "gloss": "celui" },
+          { "greek": "καθεύδων,", "gloss": "qui_dort", "analyse": "Le sommeil (*katheudo*) est la métaphore absolue de l'état de l'Ego dans le Monde duel. Le dormeur est physiquement vivant, mais sa Conscience est absorbée dans un monde d'illusions (le rêve), déconnectée du Réel." },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἀνάστα", "gloss": "relève-toi/ressuscite", "analyse": "Composé de *ana-* (vers le haut) et *histemi* (se tenir). La dynamique de la Résurrection (*anastasis*). Il faut rompre la gravité de la mort pour s'élancer vers le Haut." },
+          { "greek": "ἐκ", "gloss": "hors_de", "analyse": "Le préfixe *ek-* marque l'extraction spatiale. L'éveil exige de s'extraire de la matrice mortifère." },
+          { "greek": "τῶν", "gloss": "les" },
+          { "greek": "νεκρῶν,", "gloss": "morts" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἐπιφαύσει", "gloss": "luira_sur/illuminera", "analyse": "Composé de *epi-* (sur/d'en haut) et *phaos* (lumière). Une fois le Sujet redressé (*ana*), l'Incréé peut déverser sa clarté verticalement (*epi*) sur lui, dans une parfaite complétion géométrique." },
+          { "greek": "σοι", "gloss": "toi" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "Χριστός.", "gloss": "Christ" }
+        ]
       },
       {
         "verse_number": 15,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Βλέπετε</span><span class='greek-word'>οὖν</span><span class='greek-word'>ἀκριβῶς</span><span class='greek-word'>πῶς</span></p><p class='inter-segond'><span class='french-word'>Prenez_donc</span><span class='french-word'>garde</span><span class='french-word'>scrupuleusement</span><span class='french-word'>comment</span></p><p class='inter-darby'><span class='french-word'>Prenez</span><span class='french-word'>donc</span><span class='french-word'>garde</span><span class='french-word'>à_marcher</span><span class='french-word'>soigneusement,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>περιπατεῖτε,</span><span class='greek-word'>μὴ</span><span class='greek-word'>ὡς</span><span class='greek-word'>ἄσοφοι</span></p><p class='inter-segond'><span class='french-word'>vous_vous_conduisez,</span><span class='french-word'>non</span><span class='french-word'>comme</span><span class='french-word'>des_insensés</span></p><p class='inter-darby'><span class='french-word'>non_pas</span><span class='french-word'>comme</span><span class='french-word'>des_insensés,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀλλ’</span><span class='greek-word'>ὡς</span><span class='greek-word'>σοφοί,</span></p><p class='inter-segond'><span class='french-word'>mais</span><span class='french-word'>comme</span><span class='french-word'>des_sages ;</span></p><p class='inter-darby'><span class='french-word'>mais</span><span class='french-word'>comme</span><span class='french-word'>des_sages,</span></p></div>"
+        "translations": {
+          "segond": "Prenez donc garde de vous conduire avec circonspection, non comme des insensés, mais comme des sages ;",
+          "darby": "Prenez donc garde à marcher soigneusement, non pas comme étant dépourvus de sagesse, mais comme étant sages ;"
+        },
+        "interlinear": [
+          { "greek": "Βλέπετε", "gloss": "Regardez/Prenez_garde" },
+          { "greek": "οὖν", "gloss": "donc" },
+          { "greek": "ἀκριβῶς", "gloss": "avec_exactitude/rigoureusement", "analyse": "L'adverbe *akribos*. La Voie non-duelle n'est pas un mysticisme flou. C'est une discipline vibratoire d'une précision chirurgicale. Le moindre désalignement de l'Axe refait chuter le Sujet dans le sommeil." },
+          { "greek": "πῶς", "gloss": "comment" },
+          { "greek": "περιπατεῖτε,", "gloss": "vous_marchez", "analyse": "Nouvelle occurrence de *peri-pateo* (l'action horizontale). L'éveillé ne s'enfuit pas du monde, il y marche avec une 'exactitude' (*akribos*) qui maintient sa connexion à l'Axe." },
+          { "greek": "μὴ", "gloss": "non" },
+          { "greek": "ὡς", "gloss": "comme" },
+          { "greek": "ἄσοφοι", "gloss": "sans_sagesse/insensés", "analyse": "Composé du privatif *a-* et *sophos* (sage). L'insensé n'est pas idiot intellectuellement ; il est coupé de la *Sophia*, l'Intelligence divine de l'Incréé." },
+          { "greek": "ἀλλ’", "gloss": "mais" },
+          { "greek": "ὡς", "gloss": "comme" },
+          { "greek": "σοφοί,", "gloss": "sages" }
+        ]
       },
       {
         "verse_number": 16,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἐξαγοραζόμενοι</span><span class='greek-word'>τὸν</span><span class='greek-word'>καιρόν,</span></p><p class='inter-segond'><span class='french-word'>rachetant</span><span class='french-word'>le</span><span class='french-word'>temps,</span></p><p class='inter-darby'><span class='french-word'>saisissant</span><span class='french-word'>l'occasion,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὅτι</span><span class='greek-word'>αἱ</span><span class='greek-word'>ἡμέραι</span><span class='greek-word'>πονηραί</span></p><p class='inter-segond'><span class='french-word'>car</span><span class='french-word'>les</span><span class='french-word'>jours</span><span class='french-word'>mauvais</span></p><p class='inter-darby'><span class='french-word'>parce_que</span><span class='french-word'>les</span><span class='french-word'>jours</span><span class='french-word'>sont_mauvais.</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>εἰσι.</span></p><p class='inter-segond'><span class='french-word'>sont.</span></p><p class='inter-darby'><span></span></p></div>"
+        "translations": {
+          "segond": "rachetez le temps, car les jours sont mauvais.",
+          "darby": "saisissant l'occasion, car les jours sont mauvais."
+        },
+        "interlinear": [
+          { "greek": "ἐξαγοραζόμενοι", "gloss": "rachetant/extrayant_du_marché", "analyse": "Un concept vertigineux. Composé de *ex-* (hors de) et *agorazomai* (acheter sur l'agora/le marché public). Le temps chronologique du Monde duel est une marchandise entropique soumise aux transactions de l'Ego. 'Racheter' le temps, c'est l'extraire (*ex*) de la matrice marchande pour le re-sacraliser dans l'Éternel Présent." },
+          { "greek": "τὸν", "gloss": "le" },
+          { "greek": "καιρόν,", "gloss": "moment_opportun/temps_qualitatif", "analyse": "Le *Kairos*, non pas le *Chronos* (le temps qui s'écoule mécaniquement). Le *Kairos* est l'instant T de l'irruption de la Grâce, l'opportunité verticale qui déchire la ligne horizontale du temps." },
+          { "greek": "ὅτι", "gloss": "parce_que" },
+          { "greek": "αἱ", "gloss": "les" },
+          { "greek": "ἡμέραι", "gloss": "jours" },
+          { "greek": "πονηραί", "gloss": "mauvais/laborieux" },
+          { "greek": "εἰσιν.", "gloss": "sont" }
+        ]
       },
       {
         "verse_number": 17,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>διὰ</span><span class='greek-word'>τοῦτο</span><span class='greek-word'>μὴ</span><span class='greek-word'>γίνεσθε</span></p><p class='inter-segond'><span class='french-word'>C'est_pourquoi</span><span class='french-word'>ne</span><span class='french-word'>soyez</span><span class='french-word'>pas</span></p><p class='inter-darby'><span class='french-word'>C'est_pourquoi</span><span class='french-word'>ne</span><span class='french-word'>soyez</span><span class='french-word'>pas</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἄφρονες,</span><span class='greek-word'>ἀλλὰ</span><span class='greek-word'>συνιέντες</span></p><p class='inter-segond'><span class='french-word'>inconsidérés,</span><span class='french-word'>mais</span><span class='french-word'>comprenez</span></p><p class='inter-darby'><span class='french-word'>sans_intelligence,</span><span class='french-word'>mais</span><span class='french-word'>comprenez</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τί</span><span class='greek-word'>τὸ</span><span class='greek-word'>θέλημα</span><span class='greek-word'>τοῦ</span><span class='greek-word'>Κυρίου.</span></p><p class='inter-segond'><span class='french-word'>quelle</span><span class='french-word'>la</span><span class='french-word'>volonté</span><span class='french-word'>du</span><span class='french-word'>Seigneur.</span></p><p class='inter-darby'><span class='french-word'>quelle</span><span class='french-word'>est_la</span><span class='french-word'>volonté</span><span class='french-word'>du</span><span class='french-word'>Seigneur.</span></p></div>"
+        "translations": {
+          "segond": "C'est pourquoi ne soyez pas inconsidérés, mais comprenez quelle est la volonté du Seigneur.",
+          "darby": "C'est pourquoi ne soyez pas sans intelligence, mais comprenez quelle est la volonté du Seigneur."
+        },
+        "interlinear": [
+          { "greek": "διὰ", "gloss": "Pour" },
+          { "greek": "τοῦτο", "gloss": "cela" },
+          { "greek": "μὴ", "gloss": "ne" },
+          { "greek": "γίνεσθε", "gloss": "devenez/soyez" },
+          { "greek": "ἄφρονες,", "gloss": "sans_intelligence/inconsidérés", "analyse": "La même insulte ontologique (*a-phron*) que Dieu adresse au riche dans l'Évangile (Luc 12, 20). Ne devenez pas un être sans Centre, incapable de laisser respirer l'Esprit." },
+          { "greek": "ἀλλὰ", "gloss": "mais" },
+          { "greek": "συνίετε", "gloss": "comprenez/assemblez", "analyse": "Du verbe *syn-iemi* (assembler, réunir, comprendre). C'est l'acte de l'Intelligence unifiée. L'Ego divise et fragmente (le diabolique) ; l'Esprit assemble et connecte (*syn*) pour saisir le réel dans son Unité (le symbolique)." },
+          { "greek": "τί", "gloss": "quelle" },
+          { "greek": "τὸ", "gloss": "la" },
+          { "greek": "θέλημα", "gloss": "volonté" },
+          { "greek": "τοῦ", "gloss": "de_le" },
+          { "greek": "κυρίου.", "gloss": "Seigneur" }
+        ]
       },
       {
         "verse_number": 18,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>μὴ</span><span class='greek-word'>μεθύσκεσθε</span><span class='greek-word'>οἴνῳ,</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>ne_vous_enivrez</span><span class='french-word'>pas</span><span class='french-word'>de_vin :</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>ne_vous_enivrez</span><span class='french-word'>pas</span><span class='french-word'>de_vin,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐν</span><span class='greek-word'>ᾧ</span><span class='greek-word'>ἐστιν</span><span class='greek-word'>ἀσωτία,</span></p><p class='inter-segond'><span class='french-word'>en</span><span class='french-word'>lequel</span><span class='french-word'>est_la</span><span class='french-word'>débauche,</span></p><p class='inter-darby'><span class='french-word'>dans</span><span class='french-word'>lequel</span><span class='french-word'>il_y_a</span><span class='french-word'>de_la_dissolution,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀλλὰ</span><span class='greek-word'>πληροῦσθε</span><span class='greek-word'>ἐν</span><span class='greek-word'>Πνεύματι,</span></p><p class='inter-segond'><span class='french-word'>soyez</span><span class='french-word'>au_contraire_remplis</span><span class='french-word'>de_l'</span><span class='french-word'>Esprit,</span></p><p class='inter-darby'><span class='french-word'>mais</span><span class='french-word'>soyez</span><span class='french-word'>remplis</span><span class='french-word'>de_l'</span><span class='french-word'>Esprit,</span></p></div>"
+        "translations": {
+          "segond": "Ne vous enivrez pas de vin : c'est de la débauche. Soyez, au contraire, remplis de l'Esprit ;",
+          "darby": "Et ne vous enivrez pas de vin, en quoi il y a de la dissolution ; mais soyez remplis de l'Esprit,"
+        },
+        "interlinear": [
+          { "greek": "καὶ", "gloss": "Et" },
+          { "greek": "μὴ", "gloss": "ne...pas" },
+          { "greek": "μεθύσκεσθε", "gloss": "vous_enivrez" },
+          { "greek": "οἴνῳ,", "gloss": "de_vin", "analyse": "Le vin (*oinos*) représente ici le stimulus matériel et périphérique. L'Ego cherche perpétuellement des substances extérieures pour combler son vide intérieur et altérer son état de conscience par des moyens physiques, ce qui mène inévitablement à l'épuisement." },
+          { "greek": "ἐν", "gloss": "en" },
+          { "greek": "ᾧ", "gloss": "lequel" },
+          { "greek": "ἐστιν", "gloss": "est" },
+          { "greek": "ἀσωτία,", "gloss": "dissolution/débauche", "analyse": "Le terme *a-sotia*. Composé du préfixe privatif *a-* et du verbe *sozo* (sauver, maintenir entier). L'asotie n'est pas qu'une ivresse morale ; c'est l'incapacité absolue d'être sauvé, l'impossibilité de maintenir la structure du Sujet. C'est l'entropie maximale, l'effilochage de l'énergie vitale (*dissolution*)." },
+          { "greek": "ἀλλὰ", "gloss": "mais" },
+          { "greek": "πληροῦσθε", "gloss": "soyez_remplis", "analyse": "L'impératif passif *plerousthe*. Face au vide de la dissolution matérielle (*a-sotia*), Paul oppose le *Pleroma* (la Plénitude divine). Le Sujet ne doit plus chercher à se remplir par l'extérieur, il doit se laisser totalement inonder de l'intérieur par la Source." },
+          { "greek": "ἐν", "gloss": "dans/de" },
+          { "greek": "πνεύματι,", "gloss": "l'Esprit" }
+        ]
       },
       {
         "verse_number": 19,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>λαλοῦντες</span><span class='greek-word'>ἑαυτοῖς</span><span class='greek-word'>ψαλμοῖς</span></p><p class='inter-segond'><span class='french-word'>vous_entretenant</span><span class='french-word'>par_des</span><span class='french-word'>psaumes</span></p><p class='inter-darby'><span class='french-word'>vous_entretenant</span><span class='french-word'>par_des</span><span class='french-word'>psaumes</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ὕμνοις</span><span class='greek-word'>καὶ</span><span class='greek-word'>ᾠδαῖς</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>des_hymnes</span><span class='french-word'>et</span><span class='french-word'>des_cantiques</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>des_hymnes</span><span class='french-word'>et</span><span class='french-word'>des_cantiques</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πνευματικαῖς,</span><span class='greek-word'>ᾄδοντες</span><span class='greek-word'>καὶ</span></p><p class='inter-segond'><span class='french-word'>spirituels,</span><span class='french-word'>chantant</span><span class='french-word'>et</span></p><p class='inter-darby'><span class='french-word'>spirituels,</span><span class='french-word'>chantant</span><span class='french-word'>et</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ψάλλοντες</span><span class='greek-word'>τῇ</span><span class='greek-word'>καρδίᾳ</span><span class='greek-word'>ὑμῶν</span></p><p class='inter-segond'><span class='french-word'>célébrant</span><span class='french-word'>de_tout</span><span class='french-word'>votre</span><span class='french-word'>le_cœur</span></p><p class='inter-darby'><span class='french-word'>psalmodiant</span><span class='french-word'>de</span><span class='french-word'>votre</span><span class='french-word'>cœur</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τῷ</span><span class='greek-word'>Κυρίῳ,</span></p><p class='inter-segond'><span class='french-word'>au_Seigneur ;</span></p><p class='inter-darby'><span class='french-word'>au_Seigneur ;</span></p></div>"
+        "translations": {
+          "segond": "entretenez-vous par des psaumes, par des hymnes, et par des cantiques spirituels, chantant et célébrant de tout votre cœur les louanges du Seigneur ;",
+          "darby": "vous entretenant par des psaumes et des hymnes et des cantiques spirituels, chantant et psalmodiant de votre coeur au Seigneur ;"
+        },
+        "interlinear": [
+          { "greek": "λαλοῦντες", "gloss": "parlant" },
+          { "greek": "ἑαυτοῖς", "gloss": "à_vous-mêmes/les_uns_aux_autres" },
+          { "greek": "ψαλμοῖς", "gloss": "par_des_psaumes" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ὕμνοις", "gloss": "des_hymnes" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ᾠδαῖς", "gloss": "des_odes/cantiques" },
+          { "greek": "πνευματικαῖς,", "gloss": "spirituels", "analyse": "Les psaumes et odes 'pneumatiques' (de l'Esprit). Contrairement à l'ivresse du vin qui détruit le langage dans la vulgarité et la confusion (le borborygme de la dissolution), l'ivresse de l'Esprit s'exprime par le langage le plus structuré, le plus harmonieux et le plus vibratoire : la poésie et la musique sacrée." },
+          { "greek": "ᾄδοντες", "gloss": "chantant" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ψάλλοντες", "gloss": "psalmodiant" },
+          { "greek": "τῇ", "gloss": "dans_le" },
+          { "greek": "καρδίᾳ", "gloss": "cœur/centre", "analyse": "Le *Kardia*. Ce n'est pas le siège des émotions sentimentales, c'est le Centre de gravité de l'être. La vibration sonore (*psallontes*) ne doit pas rester sur les lèvres (l'extériorité), elle doit sourdre de l'Axe intérieur pour résonner avec l'Incréé." },
+          { "greek": "ὑμῶν", "gloss": "de_vous" },
+          { "greek": "τῷ", "gloss": "à_le" },
+          { "greek": "κυρίῳ,", "gloss": "Seigneur" }
+        ]
       }
     ],
-    "greek_only": "\n8 Ἦτε γάρ ποτε σκότος, νῦν δὲ φῶς ἐν Κυρίῳ· ὡς τέκνα φωτὸς περιπατεῖτε, \n9 — ὁ γὰρ καρπὸς τοῦ φωτὸς ἐν πάσῃ ἀγαθωσύνῃ καὶ δικαιοσύνῃ καὶ ἀληθείᾳ — \n10 δοκιμάζοντες τί ἐστιν εὐάρεστον τῷ Κυρίῳ. \n11 καὶ μὴ συγκοινωνεῖτε τοῖς ἔργοις τοῖς ἀκάρποις τοῦ σκότους, μᾶλλον δὲ καὶ ἐλέγχετε· \n12 τὰ γὰρ κρυφῇ γινόμενα ὑπ’ αὐτῶν αἰσχρόν ἐστι καὶ λέγειν· \n13 τὰ δὲ πάντα ἐλεγχόμενα ὑπὸ τοῦ φωτὸς φανεροῦται· πᾶν γὰρ τὸ φανερούμενον φῶς ἐστι. \n14 διὸ λέγει· Ἔγειρε ὁ καθεύδων καὶ ἀνάστα ἐκ τῶν νεκρῶν, καὶ ἐπιφαύσει σοι ὁ Χριστός. \n15 Βλέπετε οὖν ἀκριβῶς πῶς περιπατεῖτε, μὴ ὡς ἄσοφοι ἀλλ’ ὡς σοφοί, \n16 ἐξαγοραζόμενοι τὸν καιρόν, ὅτι αἱ ἡμέραι πονηραί εἰσι. \n17 διὰ τοῦτο μὴ γίνεσθε ἄφρονες, ἀλλὰ συνιέντες τί τὸ θέλημα τοῦ Κυρίου. \n18 καὶ μὴ μεθύσκεσθε οἴνῳ, ἐν ᾧ ἐστιν ἀσωτία, ἀλλὰ πληροῦσθε ἐν Πνεύματι, \n19 λαλοῦντες ἑαυτοῖς ψαλμοῖς καὶ ὕμνοις καὶ ᾠδαῖς πνευματικαῖς, ᾄδοντες καὶ ψάλλοντες τῇ καρδίᾳ ὑμῶν τῷ Κυρίῳ,",
-    "french_only": "\n8 Car autrefois vous étiez ténèbres, et maintenant vous êtes lumière dans le Seigneur. Marchez comme des enfants de lumière ! \n9 car le fruit de la lumière consiste en toute sorte de bonté, de justice et de vérité. \n10 Examinez ce qui est agréable au Seigneur ; \n11 et ne prenez point part aux œuvres infructueuses des ténèbres, mais plutôt condamnez-les. \n12 Car il est honteux de dire ce qu'ils font en secret ; \n13 mais tout ce qui est condamné est manifesté par la lumière, car tout ce qui est manifesté est lumière. \n14 C'est pour cela qu'il est dit : Réveille-toi, toi qui dors, Relève-toi d'entre les morts, Et Christ t'éclairera. \n15 Prenez donc garde de vous conduire avec circonspection, non comme des insensés, mais comme des sages ; \n16 rachetez le temps, car les jours sont mauvais. \n17 C'est pourquoi ne soyez pas inconsidérés, mais comprenez quelle est la volonté du Seigneur. \n18 Ne vous enivrez pas de vin : c'est de la débauche. Soyez, au contraire, remplis de l'Esprit ; \n19 entretenez-vous par des psaumes, par des hymnes, et par des cantiques spirituels, chantant et célébrant de tout votre cœur les louanges du Seigneur ;",
-    "french_darby": "\n8 Car vous étiez autrefois ténèbres, mais maintenant vous êtes lumière dans le Seigneur ; marchez comme des enfants de lumière \n9 (car le fruit de la lumière est en toute bonté, et justice, et vérité), \n10 éprouvant ce qui est agréable au Seigneur. \n11 Et n'ayez aucune communion avec les œuvres infructueuses des ténèbres, mais plutôt reprenez-les aussi ; \n12 car les choses qu'ils font en secret, il est honteux même de les dire. \n13 Mais toutes choses, étant reprises par la lumière, sont manifestées ; car ce qui manifeste tout, c'est la lumière. \n14 C'est pourquoi il dit : « Réveille-toi, toi qui dors, et relève-toi d'entre les morts, et le Christ luira pour toi ». \n15 Prenez donc garde à marcher soigneusement, non pas comme des insensés, mais comme des sages, \n16 saisissant l'occasion, parce que les jours sont mauvais. \n17 C'est pourquoi ne soyez pas sans intelligence, mais comprenez quelle est la volonté du Seigneur. \n18 Et ne vous enivrez pas de vin, dans lequel il y a de la dissolution, mais soyez remplis de l'Esprit, \n19 vous entretenant par des psaumes et des hymnes et des cantiques spirituels, chantant et psalmodiant de votre cœur au Seigneur ;",
-    "personal_analysis": "Paul utilise une métaphore ontologique radicale : les fidèles ne sont pas seulement « dans » la lumière, ils « sont » lumière (*phos en Kyrio*). Cette transformation exige un discernement actif (*dokimazontes*) de la volonté divine. L'apôtre oppose l'ivresse physique, source de dissipation et de perte de contrôle, à « l'ivresse spirituelle » qui consiste à se laisser remplir par le Saint-Esprit. Cette plénitude ne se traduit pas par le désordre, mais par une harmonie communautaire et intérieure manifestée à travers la louange eucharistique spontanée (psaumes, hymnes et cantiques spirituels)."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 16 - ἐξαγοραζόμενοι : Segond traduit 'rachetez le temps' et Darby 'saisissant l'occasion'. La force colossale du préfixe spatial *ex-* (hors de) alliée au marché (*agora*) est souvent lissée. Il s'agit littéralement d'extraire la vie de la place marchande. Sortir de la transaction pour entrer dans la contemplation.\n• Verset 18 - ἀσωτία : Segond dit 'débauche', Darby 'dissolution'. Le terme 'débauche' réduit cette notion à la simple luxure. Darby a une meilleure intuition avec 'dissolution', car l'*a-sotia* est précisément l'inverse métaphysique du salut (*sozo*). C'est la désintégration du Sujet, qui s'évapore dans la périphérie matérielle.\n\nAnalyse spirituelle :\nCette seconde partie de la péricope bascule de la métaphysique de la Lumière vers la phénoménologie de l'Éveil.\n\nLe verset 14 contient l'injonction la plus radicale du Nouveau Testament. Il décrit l'état naturel de l'humanité dans le Monde duel : le sommeil (*katheudon*) et la mort (*nekron*). L'homme non aligné ne vit pas, il est un somnambule englué dans l'opacité. L'éveil (*Egeire*) est un mouvement strictement vertical (*ana-stasis*) : s'arracher à l'horizontalité pour recevoir la foudre lumineuse de l'Incréé (*epi-phauso*). \n\nUne fois debout, l'éveillé ne doit plus se soumettre au chronomètre du système marchand (*agora*), il doit en extirper les instants qualitatifs (*kairos*) pour y faire descendre l'éternité (v.16). \n\nL'apothéose arrive aux versets 18 et 19 avec l'opposition de deux 'ivresses'. L'Ego, terrifié par son propre néant (le fameux *a-phron*, sans-centre, du verset 17), cherche l'ivresse du vin. Cette quête de remplissage horizontal mène inévitablement à l'*a-sotia*, l'impossibilité d'être rassemblé, la fuite de l'énergie vers le néant. Paul y oppose l'ivresse du *Pleroma* (le remplissage de l'Esprit). Cette ivresse divine ne détruit pas le Sujet, elle le sublime : elle transforme la peur en chant (*odais*) et la dissolution en un hymne vibratoire parfaitement ordonné, jaillissant du Centre absolu (*kardia*) vers le Seigneur."
   }
 }
