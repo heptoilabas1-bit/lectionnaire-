@@ -1,102 +1,509 @@
 {
   "gospel": {
     "reference": "Luc 10, 25-37",
-    "title": "La Parabole du Bon Samaritain : Devenir le Prochain",
+    "title": "Le Bon Samaritain : La Descente Entropique, l'Évitement Religieux et la Kénose Thérapeutique",
     "interlinear": [
       {
         "verse_number": 25,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Καὶ</span><span class='greek-word'>ἰδοὺ</span><span class='greek-word'>νομικός</span><span class='greek-word'>τις</span><span class='greek-word'>ἀνέστη</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>voici,</span><span class='french-word'>un_docteur_de_la_loi</span><span class='french-word'>un</span><span class='french-word'>se_leva</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>voici,</span><span class='french-word'>un_docteur_de_la_loi</span><span class='french-word'>se_leva</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐκπειράζων</span><span class='greek-word'>αὐτὸν</span><span class='greek-word'>καὶ</span><span class='greek-word'>λέγων·</span></p><p class='inter-segond'><span class='french-word'>éprouvant</span><span class='french-word'>lui</span><span class='french-word'>et</span><span class='french-word'>disant :</span></p><p class='inter-darby'><span class='french-word'>pour_l'éprouver,</span><span class='french-word'>et</span><span class='french-word'>disant :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Διδάσκαλε,</span><span class='greek-word'>τί</span><span class='greek-word'>ποιήσας</span><span class='greek-word'>ζωὴν</span></p><p class='inter-segond'><span class='french-word'>Maître,</span><span class='french-word'>que</span><span class='french-word'>dois-je_faire</span><span class='french-word'>la_vie</span></p><p class='inter-darby'><span class='french-word'>Maître,</span><span class='french-word'>que</span><span class='french-word'>ferai-je</span><span class='french-word'>de_la_vie</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>αἰώνιον</span><span class='greek-word'>κληρονομήσω;</span></p><p class='inter-segond'><span class='french-word'>éternelle</span><span class='french-word'>pour_hériter ?</span></p><p class='inter-darby'><span class='french-word'>éternelle</span><span class='french-word'>pour_hériter ?</span></p></div>"
+        "translations": {
+          "segond": "Un docteur de la loi se leva, et dit à Jésus, pour l'éprouver : Maître, que dois-je faire pour hériter la vie éternelle ?",
+          "darby": "Et voici, un docteur de la loi se leva, l'éprouvant et disant : Maître, que faut-il que j'aie fait pour hériter de la vie éternelle ?"
+        },
+        "interlinear": [
+          { "greek": "Καὶ", "gloss": "Et" },
+          { "greek": "ἰδοὺ", "gloss": "voici" },
+          { "greek": "νομικός", "gloss": "un_homme_de_loi" },
+          { "greek": "τις", "gloss": "un_certain" },
+          { "greek": "ἀνέστη", "gloss": "se_leva", "analyse": "Du verbe *ana-histemi* (se lever, se dresser vers le haut). C'est le verbe de la résurrection. Mais ici, le légiste singe la verticalité. Son redressement corporel n'est qu'une posture de l'Ego qui veut affronter le Christ d'égal à égal, sans véritable kénose intérieure." },
+          { "greek": "ἐκπειράζων", "gloss": "mettant_à_l'épreuve", "analyse": "Composé de *ek-* (hors de) et *peirazo* (tenter/éprouver). L'Ego interroge toujours depuis l'extérieur (*ek-*). Il ne cherche pas la vérité, il cherche la faille pour maintenir son propre système." },
+          { "greek": "αὐτὸν", "gloss": "lui" },
+          { "greek": "λέγων·", "gloss": "disant" },
+          { "greek": "Διδάσκαλε,", "gloss": "Maître" },
+          { "greek": "τί", "gloss": "quoi/que" },
+          { "greek": "ποιήσας", "gloss": "ayant_fait" },
+          { "greek": "ζωὴν", "gloss": "vie" },
+          { "greek": "αἰώνιον", "gloss": "éternelle" },
+          { "greek": "κληρονομήσω;", "gloss": "hériterai-je", "analyse": "Du verbe *kleronomeo* (recevoir en héritage/acquérir). La question trahit la maladie de l'Ego : la logique d'appropriation. Le légiste croit que l'Incréé ('la vie éternelle') est un bien horizontal que l'on peut acquérir par un contrat ou un acte ponctuel ('qu'ayant fait')." }
+        ]
       },
       {
         "verse_number": 26,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ὁ</span><span class='greek-word'>δὲ</span><span class='greek-word'>εἶπε</span><span class='greek-word'>πρὸς</span><span class='greek-word'>αὐτόν·</span></p><p class='inter-segond'><span class='french-word'>Il</span><span class='french-word'>mais</span><span class='french-word'>dit</span><span class='french-word'>vers</span><span class='french-word'>lui :</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>il</span><span class='french-word'>lui</span><span class='french-word'>dit :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Ἐν</span><span class='greek-word'>τῷ</span><span class='greek-word'>νόμῳ</span><span class='greek-word'>τί</span><span class='greek-word'>γέγραπται;</span></p><p class='inter-segond'><span class='french-word'>Dans</span><span class='french-word'>la</span><span class='french-word'>loi</span><span class='french-word'>qu'est-il_écrit ?</span></p><p class='inter-darby'><span class='french-word'>« Qu'est-il_écrit</span><span class='french-word'>dans</span><span class='french-word'>la</span><span class='french-word'>loi ?</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πῶς</span><span class='greek-word'>ἀναγινώσκεις;</span></p><p class='inter-segond'><span class='french-word'>Comment</span><span class='french-word'>lis-tu ?</span></p><p class='inter-darby'><span class='french-word'>Comment</span><span class='french-word'>lis-tu ? »</span></p></div>"
+        "translations": {
+          "segond": "Jésus lui dit : Qu'est-il écrit dans la loi ? Qu'y lis-tu ?",
+          "darby": "Et il lui dit : Qu'est-il écrit dans la loi ? comment lis-tu ?"
+        },
+        "interlinear": [
+          { "greek": "ὁ", "gloss": "Le" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "εἶπεν", "gloss": "dit" },
+          { "greek": "πρὸς", "gloss": "vers" },
+          { "greek": "αὐτόν·", "gloss": "lui" },
+          { "greek": "Ἐν", "gloss": "Dans" },
+          { "greek": "τῷ", "gloss": "la" },
+          { "greek": "νόμῳ", "gloss": "loi" },
+          { "greek": "τί", "gloss": "quoi" },
+          { "greek": "γέγραπται;", "gloss": "est_écrit" },
+          { "greek": "πῶς", "gloss": "comment" },
+          { "greek": "ἀναγινώσκεις;", "gloss": "lis-tu", "analyse": "Composé de *ana-* (vers le haut, à nouveau) et *ginosko* (connaître). Jésus ne lui demande pas s'il sait déchiffrer des lettres, mais s'il est capable d'une 're-connaissance' verticale (*ana*). La lettre tue si elle n'est pas lue depuis l'Axe de l'Esprit." }
+        ]
       },
       {
         "verse_number": 27,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ὁ</span><span class='greek-word'>δὲ</span><span class='greek-word'>ἀποκριθεῖς</span><span class='greek-word'>εἶπεν·</span></p><p class='inter-segond'><span class='french-word'>Il</span><span class='french-word'>mais</span><span class='french-word'>répondant</span><span class='french-word'>dit :</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>lui,</span><span class='french-word'>répondant,</span><span class='french-word'>dit :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Ἀγαπήσεις</span><span class='greek-word'>Κύριον</span><span class='greek-word'>τὸ</span><span class='greek-word'>ον</span><span class='greek-word'>Θεόν</span><span class='greek-word'>σου</span></p><p class='inter-segond'><span class='french-word'>Tu_aimeras</span><span class='french-word'>le_Seigneur</span><span class='french-word'>le</span><span class='french-word'>Dieu</span><span class='french-word'>ton</span></p><p class='inter-darby'><span class='french-word'>« Tu_aimeras</span><span class='french-word'>le_Seigneur</span><span class='french-word'>ton</span><span class='french-word'>Dieu</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐξ</span><span class='greek-word'>ὅλης</span><span class='greek-word'>τῆς</span><span class='greek-word'>καρδίας</span><span class='greek-word'>σου</span></p><p class='inter-segond'><span class='french-word'>de</span><span class='french-word'>tout</span><span class='french-word'>ton</span><span class='french-word'>le</span><span class='french-word'>cœur</span></p><p class='inter-darby'><span class='french-word'>de</span><span class='french-word'>tout</span><span class='french-word'>ton</span><span class='french-word'>cœur,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ἐξ</span><span class='greek-word'>ὅλης</span><span class='greek-word'>τῆς</span><span class='greek-word'>ψυχῆς</span><span class='greek-word'>σου</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>de</span><span class='french-word'>toute</span><span class='french-word'>ton</span><span class='french-word'>le</span><span class='french-word'>âme</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>de</span><span class='french-word'>toute</span><span class='french-word'>ton</span><span class='french-word'>âme,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ἐξ</span><span class='greek-word'>ὅλης</span><span class='greek-word'>τῆς</span><span class='greek-word'>ἰσχύος</span><span class='greek-word'>σου</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>de</span><span class='french-word'>toute</span><span class='french-word'>ton</span><span class='french-word'>le</span><span class='french-word'>force</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>de</span><span class='french-word'>toute</span><span class='french-word'>ta</span><span class='french-word'>force,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ἐξ</span><span class='greek-word'>ὅλης</span><span class='greek-word'>τῆς</span><span class='greek-word'>διανοίας</span><span class='greek-word'>σου,</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>de</span><span class='french-word'>toute</span><span class='french-word'>ta</span><span class='french-word'>le</span><span class='french-word'>pensée ;</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>de</span><span class='french-word'>toute</span><span class='french-word'>ta</span><span class='french-word'>pensée ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>τὸν</span><span class='greek-word'>πλησίον</span><span class='greek-word'>σου</span><span class='greek-word'>ὡς</span><span class='greek-word'>σεαυτόν.</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>ton</span><span class='french-word'>le</span><span class='french-word'>prochain</span><span class='french-word'>comme</span><span class='french-word'>toi-même.</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>ton</span><span class='french-word'>prochain</span><span class='french-word'>comme</span><span class='french-word'>toi-même ».</span></p></div>"
+        "translations": {
+          "segond": "Il répondit : Tu aimeras le Seigneur, ton Dieu, de tout ton cœur, de toute ton âme, de toute ta force, et de toute ta pensée ; et ton prochain comme toi-même.",
+          "darby": "Et lui, répondant, dit : Tu aimeras le Seigneur ton Dieu de tout ton coeur, et de toute ton âme, et de toute ta force, et de toute ta pensée ; et ton prochain comme toi-même."
+        },
+        "interlinear": [
+          { "greek": "ὁ", "gloss": "Celui-ci" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "ἀποκριθεὶς", "gloss": "ayant_répondu" },
+          { "greek": "εἶπεν·", "gloss": "dit" },
+          { "greek": "Ἀγαπήσεις", "gloss": "Tu_aimeras" },
+          { "greek": "κύριον", "gloss": "le_Seigneur" },
+          { "greek": "τὸν", "gloss": "le" },
+          { "greek": "θεόν", "gloss": "Dieu" },
+          { "greek": "σου", "gloss": "de_toi" },
+          { "greek": "ἐξ", "gloss": "hors_de/depuis", "analyse": "Le préfixe *ex-* (hors de) répété quatre fois. L'amour n'est pas un sentiment contenu à l'intérieur, c'est une extraction. L'être doit sortir 'hors de' son centre de gravité égotique (cœur, âme, force, pensée) pour s'aligner totalement sur l'Incréé." },
+          { "greek": "ὅλης", "gloss": "tout" },
+          { "greek": "τῆς", "gloss": "le" },
+          { "greek": "καρδίας", "gloss": "cœur" },
+          { "greek": "σου", "gloss": "de_toi" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἐν", "gloss": "dans/avec" },
+          { "greek": "ὅλῃ", "gloss": "toute" },
+          { "greek": "τῇ", "gloss": "l'" },
+          { "greek": "ψυχῇ", "gloss": "âme" },
+          { "greek": "σου", "gloss": "de_toi" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἐν", "gloss": "dans/avec" },
+          { "greek": "ὅλῃ", "gloss": "toute" },
+          { "greek": "τῇ", "gloss": "la" },
+          { "greek": "ἰσχύϊ", "gloss": "force" },
+          { "greek": "σου", "gloss": "de_toi" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἐν", "gloss": "dans/avec" },
+          { "greek": "ὅλῃ", "gloss": "toute" },
+          { "greek": "τῇ", "gloss": "la" },
+          { "greek": "διανοίᾳ", "gloss": "pensée" },
+          { "greek": "σου,", "gloss": "de_toi" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "τὸν", "gloss": "le" },
+          { "greek": "πλησίον", "gloss": "prochain/celui_qui_est_près", "analyse": "Adverbe spatial *plesion* (près de, voisin). Le légiste comprend théoriquement la topographie spirituelle : l'alignement absolu sur le divin efface la distance avec l'autre, qui n'est plus un objet extérieur mais une extension de soi ('comme toi-même')." },
+          { "greek": "σου", "gloss": "de_toi" },
+          { "greek": "ὡς", "gloss": "comme" },
+          { "greek": "σεαυτόν.", "gloss": "toi-même" }
+        ]
       },
       {
         "verse_number": 28,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>εἶπε</span><span class='greek-word'>δὲ</span><span class='greek-word'>αὐτῷ·</span><span class='greek-word'>Ὀρθῶς</span></p><p class='inter-segond'><span class='french-word'>Dit</span><span class='french-word'>mais_il</span><span class='french-word'>à_lui :</span><span class='french-word'>Tu_as_bien</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>il</span><span class='french-word'>lui</span><span class='french-word'>dit :</span><span class='french-word'>« Tu_as_bien</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀπεκρίθης·</span><span class='greek-word'>τοῦτο</span><span class='greek-word'>ποίει</span><span class='greek-word'>καὶ</span></p><p class='inter-segond'><span class='french-word'>répondu ;</span><span class='french-word'>ceci</span><span class='french-word'>fais</span><span class='french-word'>et</span></p><p class='inter-darby'><span class='french-word'>répondu ;</span><span class='french-word'>fais</span><span class='french-word'>cela,</span><span class='french-word'>et</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ζήσῃ.</span></p><p class='inter-segond'><span class='french-word'>tu_vivras.</span></p><p class='inter-darby'><span class='french-word'>tu_vivras ».</span></p></div>"
+        "translations": {
+          "segond": "Tu as bien répondu, lui dit Jésus ; fais cela, et tu vivras.",
+          "darby": "Et il lui dit : Tu as bien répondu ; fais cela, et tu vivras."
+        },
+        "interlinear": [
+          { "greek": "εἶπεν", "gloss": "Il_dit" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "αὐτῷ·", "gloss": "à_lui" },
+          { "greek": "Ὀρθῶς", "gloss": "Droitement/exactement", "analyse": "Adverbe de la rectitude spatiale (*orthos*, droit, redressé). Le Christ valide la géométrie du légiste : sur le plan théorique, l'alignement est correct." },
+          { "greek": "ἀπεκρίθης·", "gloss": "tu_as_répondu" },
+          { "greek": "τοῦτο", "gloss": "cela" },
+          { "greek": "ποίει", "gloss": "fais", "analyse": "Impératif présent actif. Ce n'est pas 'fais-le une fois' (ce que demandait le légiste au v.25), c'est 'pratique-le continuellement'. L'Incréé n'est pas une transaction ponctuelle, c'est une respiration permanente." },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ζήσῃ.", "gloss": "tu_vivras" }
+        ]
       },
       {
         "verse_number": 29,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ὁ</span><span class='greek-word'>δὲ</span><span class='greek-word'>θέλων</span><span class='greek-word'>δικαιοῦν</span><span class='greek-word'>ἑαυτὸν</span></p><p class='inter-segond'><span class='french-word'>Lui</span><span class='french-word'>mais</span><span class='french-word'>voulant</span><span class='french-word'>se_justifier</span><span class='french-word'>lui-même</span></p><p class='inter-darby'><span class='french-word'>Mais</span><span class='french-word'>lui,</span><span class='french-word'>voulant</span><span class='french-word'>se_justifier</span><span class='french-word'>lui-même,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>εἶπε</span><span class='greek-word'>πρὸς</span><span class='greek-word'>τὸν</span><span class='greek-word'>Ἰησοῦν·</span></p><p class='inter-segond'><span class='french-word'>dit</span><span class='french-word'>vers</span><span class='french-word'>le</span><span class='french-word'>Jésus :</span></p><p class='inter-darby'><span class='french-word'>dit</span><span class='french-word'>à</span><span class='french-word'>Jésus :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Καὶ</span><span class='greek-word'>τίς</span><span class='greek-word'>ἐστί</span><span class='greek-word'>μου</span><span class='greek-word'>πλησίον;</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>qui</span><span class='french-word'>est</span><span class='french-word'>mon</span><span class='french-word'>prochain ?</span></p><p class='inter-darby'><span class='french-word'>« Et</span><span class='french-word'>qui</span><span class='french-word'>est</span><span class='french-word'>mon</span><span class='french-word'>prochain ? »</span></p></div>"
+        "translations": {
+          "segond": "Mais lui, voulant se justifier, dit à Jésus : Et qui est mon prochain ?",
+          "darby": "Mais lui, voulant se justifier lui-même, dit à Jésus : Et qui est mon prochain ?"
+        },
+        "interlinear": [
+          { "greek": "ὁ", "gloss": "Le" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "θέλων", "gloss": "voulant" },
+          { "greek": "δικαιῶσαι", "gloss": "justifier", "analyse": "L'obsession de l'Ego religieux : la *dikaiosyne* (justification). Face au vertige de l'Amour infini qui demande une reddition totale, l'Ego panique. Il veut se justifier, c'est-à-dire refermer le système, poser des limites intellectuelles pour prouver qu'il est déjà en règle." },
+          { "greek": "ἑαυτὸν", "gloss": "lui-même" },
+          { "greek": "εἶπεν", "gloss": "dit" },
+          { "greek": "πρὸς", "gloss": "vers" },
+          { "greek": "τὸν", "gloss": "le" },
+          { "greek": "Ἰησοῦν·", "gloss": "Jésus" },
+          { "greek": "Καὶ", "gloss": "Et" },
+          { "greek": "τίς", "gloss": "qui" },
+          { "greek": "ἐστίν", "gloss": "est" },
+          { "greek": "μου", "gloss": "de_moi" },
+          { "greek": "πλησίον;", "gloss": "prochain/proche", "analyse": "En posant la question de l'identité du 'proche', le légiste veut tracer une frontière : 'Où commence le lointain que je n'ai pas l'obligation d'aimer ?'. Il demande au Christ de ratifier une topographie de la séparation." }
+        ]
       },
       {
         "verse_number": 30,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ὑπολαβὼν</span><span class='greek-word'>δὲ</span><span class='greek-word'>ὁ</span><span class='greek-word'>Ἰησοῦς</span></p><p class='inter-segond'><span class='french-word'>Reprenant_la_parole</span><span class='french-word'>mais</span><span class='french-word'>le</span><span class='french-word'>Jésus</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>Jésus,</span><span class='french-word'>répondant,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>εἶπεν·</span><span class='greek-word'>Ἄνθρωπός</span><span class='greek-word'>τις</span><span class='greek-word'>κατέβαινεν</span></p><p class='inter-segond'><span class='french-word'>dit :</span><span class='french-word'>Un_homme</span><span class='french-word'>un</span><span class='french-word'>descendait</span></p><p class='inter-darby'><span class='french-word'>dit :</span><span class='french-word'>Un_homme</span><span class='french-word'>descendait</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀπὸ</span><span class='greek-word'>Ἱερουσαλὴμ</span><span class='greek-word'>εἰς</span><span class='greek-word'>Ἱεριχὼ</span></p><p class='inter-segond'><span class='french-word'>de</span><span class='french-word'>Jérusalem</span><span class='french-word'>à</span><span class='french-word'>Jéricho,</span></p><p class='inter-darby'><span class='french-word'>de</span><span class='french-word'>Jérusalem</span><span class='french-word'>à</span><span class='french-word'>Jéricho,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>λῃσταῖς</span><span class='greek-word'>περιέπεσεν,</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>parmi_des_brigands</span><span class='french-word'>il_tomba,</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>tomba</span><span class='french-word'>entre_les_mains_des_brigands,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>οἳ</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἐκδύσαντες</span><span class='greek-word'>αὐτὸν</span></p><p class='inter-segond'><span class='french-word'>qui</span><span class='french-word'>aussi</span><span class='french-word'>ayant_dépouillé</span><span class='french-word'>lui</span></p><p class='inter-darby'><span class='french-word'>qui</span><span class='french-word'>aussi,</span><span class='french-word'>l'ayant_dépouillé</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>πληγὰς</span><span class='greek-word'>ἐπιθέντες</span><span class='greek-word'>ἀπῆλθον</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>de_coups</span><span class='french-word'>l'ayant_chargé</span><span class='french-word'>s'en_allèrent,</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>l'ayant_chargé_de_coups,</span><span class='french-word'>s'en_allèrent,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀφέντες</span><span class='greek-word'>ἡμιθανῆ</span><span class='greek-word'>τυγχάνοντα.</span></p><p class='inter-segond'><span class='french-word'>le_laissant</span><span class='french-word'>à_demi_mort</span><span class='french-word'>étant.</span></p><p class='inter-darby'><span class='french-word'>le_laissant</span><span class='french-word'>à_demi_mort.</span></p></div>"
+        "translations": {
+          "segond": "Jésus reprit la parole, et dit : Un homme descendait de Jérusalem à Jéricho. Il tomba au milieu des brigands, qui le dépouillèrent, le chargèrent de coups, et s'en allèrent, le laissant à demi mort.",
+          "darby": "Et Jésus, reprenant, dit : Un homme descendit de Jérusalem à Jéricho, et tomba entre les mains des voleurs, qui aussi, l'ayant dépouillé et l'ayant couvert de blessures, s'en allèrent, le laissant à demi mort."
+        },
+        "interlinear": [
+          { "greek": "ὑπολαβὼν", "gloss": "Ayant_pris_la_parole" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
+          { "greek": "εἶπεν·", "gloss": "dit" },
+          { "greek": "Ἄνθρωπός", "gloss": "Un_homme" },
+          { "greek": "τις", "gloss": "certain" },
+          { "greek": "κατέβαινεν", "gloss": "descendait", "analyse": "Le verbe de la Chute : *kata-baino* (aller vers le bas). Cet homme anonyme incarne toute l'humanité. Il quitte Jérusalem (la Cité de la Paix, l'altitude spirituelle, le lieu de la Présence) pour Jéricho (la ville la plus basse de la terre, dans la dépression de la Mer Morte, symbole du Monde duel entropique)." },
+          { "greek": "ἀπὸ", "gloss": "depuis/de" },
+          { "greek": "Ἰερουσαλὴμ", "gloss": "Jérusalem" },
+          { "greek": "εἰς", "gloss": "vers" },
+          { "greek": "Ἰεριχὼ", "gloss": "Jéricho" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "λῃσταῖς", "gloss": "à_des_brigands" },
+          { "greek": "περιέπεσεν,", "gloss": "tomba_au_milieu", "analyse": "Composé de *peri-* (autour) et *pipto* (tomber). La violence du monde duel n'est pas un simple accident frontal, c'est un encerclement. L'être déchu est enveloppé (*peri*) par la force de fragmentation." },
+          { "greek": "οἳ", "gloss": "qui" },
+          { "greek": "καὶ", "gloss": "aussi" },
+          { "greek": "ἐκδύσαντες", "gloss": "l'ayant_dépouillé/déshabillé", "analyse": "Composé de *ek-* (hors de) et *dyo* (plonger/vêtir). Le vol n'est pas que matériel. C'est le dépouillement ontologique (perte du 'vêtement de lumière'). L'Ego est laissé nu, sans protection spirituelle." },
+          { "greek": "αὐτὸν", "gloss": "lui" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "πληγὰς", "gloss": "des_coups/blessures" },
+          { "greek": "ἐπιθέντες", "gloss": "ayant_imposé" },
+          { "greek": "ἀπῆλθον", "gloss": "s'en_allèrent", "analyse": "Composé de *apo-* (loin de) et *erchomai* (aller). Le mouvement centrifuge des forces ténébreuses : après avoir détruit, elles s'éloignent, laissant le vide." },
+          { "greek": "ἀφέντες", "gloss": "l'ayant_laissé" },
+          { "greek": "ἡμιθανῆ.", "gloss": "à_demi-mort", "analyse": "Le mot *hemi-thanes*. Définition clinique de l'état de l'homme dans la matrice du Monde duel : ni tout à fait vivant (car déconnecté de l'Incréé), ni totalement mort, survivant dans les limbes de l'angoisse égotique." }
+        ]
       },
       {
         "verse_number": 31,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>κατὰ</span><span class='greek-word'>συγκυρίαν</span><span class='greek-word'>δὲ</span><span class='greek-word'>ἱερεύς</span></p><p class='inter-segond'><span class='french-word'>Par</span><span class='french-word'>hasard</span><span class='french-word'>mais</span><span class='french-word'>un_sacrificateur</span></p><p class='inter-darby'><span class='french-word'>Or,</span><span class='french-word'>par_aventure,</span><span class='french-word'>un_sacrificateur</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τις</span><span class='greek-word'>κατέβαινεν</span><span class='greek-word'>ἐν</span><span class='greek-word'>τῇ</span></p><p class='inter-segond'><span class='french-word'>un</span><span class='french-word'>descendait</span><span class='french-word'>par</span><span class='french-word'>la</span></p><p class='inter-darby'><span class='french-word'>descendait</span><span class='french-word'>par</span><span class='french-word'>ce</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὁδῷ</span><span class='greek-word'>ἐκείνῃ,</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἰδὼν</span></p><p class='inter-segond'><span class='french-word'>route</span><span class='french-word'>cette_la,</span><span class='french-word'>et</span><span class='french-word'>ayant_vu</span></p><p class='inter-darby'><span class='french-word'>chemin-là,</span><span class='french-word'>et,</span><span class='french-word'>l'ayant_vu,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>αὐτὸν</span><span class='greek-word'>ἀντιπαρῆλθεν.</span></p><p class='inter-segond'><span class='french-word'>cet_homme</span><span class='french-word'>passa_outre.</span></p><p class='inter-darby'><span class='french-word'>passa_outre</span><span class='french-word'>de_l'autre_côté.</span></p></div>"
-      },
-      {
+        "translations": {
+          "segond": "Un sacrificateur, qui par hasard descendait par le même chemin, ayant vu cet homme, passa outre.",
+          "darby": "Or, par rencontre, un certain sacrificateur descendait par ce chemin-là ; et le voyant, il passa outre de l'autre côté."
+        },
+        "interlinear": [
+          { "greek": "κατὰ", "gloss": "Selon/par" },
+          { "greek": "συγκυρίαν", "gloss": "coïncidence", "analyse": "Composé de *syn-* (ensemble) et *kyreo* (rencontrer, coïncider). Le pur carrefour horizontal. Le hasard du temps et de l'espace fait se croiser les trajectoires, mais sans connexion d'Esprit." },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "ἱερεύς", "gloss": "un_prêtre/sacrificateur" },
+          { "greek": "τις", "gloss": "certain" },
+          { "greek": "κατέβαινεν", "gloss": "descendait", "analyse": "Le même verbe *kata-baino*. Le prêtre, figure suprême de la religion institutionnelle, est pris dans la même force gravitationnelle que la victime. Son statut hiérarchique ne le protège pas de la descente vers le bas." },
+          { "greek": "ἐν", "gloss": "dans/par" },
+          { "greek": "τῇ", "gloss": "le" },
+          { "greek": "ὁδῷ", "gloss": "chemin" },
+          { "greek": "ἐκείνῃ,", "gloss": "ce...-là" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἰδὼν", "gloss": "l'ayant_vu" },
+          { "greek": "αὐτὸν", "gloss": "lui" },
+          { "greek": "ἀντιπαρῆλθεν·", "gloss": "il_passa_outre_du_côté_opposé", "analyse": "Un verbe à triple fondation d'une complexité géométrique effarante : *anti-* (contre, à l'opposé), *para-* (à côté de) et *erchomai* (aller). La topographie de l'évitement pur. L'Ego religieux s'approche (*para*), voit la souffrance, mais crée immédiatement un mur protecteur en passant sur la ligne parallèle opposée (*anti*). C'est la préservation de la pureté rituelle aux dépens de l'Être." }
+        ]
+      }
+ {
         "verse_number": 32,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ὁμοίως</span><span class='greek-word'>δὲ</span><span class='greek-word'>καὶ</span><span class='greek-word'>Λευΐτης</span></p><p class='inter-segond'><span class='french-word'>De_même</span><span class='french-word'>mais</span><span class='french-word'>aussi</span><span class='french-word'>un_Lévite</span></p><p class='inter-darby'><span class='french-word'>De_même</span><span class='french-word'>aussi</span><span class='french-word'>un_Lévite,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>γενόμενος</span><span class='greek-word'>κατὰ</span><span class='greek-word'>τὸν</span><span class='greek-word'>τόπον,</span></p><p class='inter-segond'><span class='french-word'>étant_arrivé</span><span class='french-word'>dans</span><span class='french-word'>ce</span><span class='french-word'>lieu,</span></p><p class='inter-darby'><span class='french-word'>étant_venu</span><span class='french-word'>dans</span><span class='french-word'>ce_lieu-là,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐλθὼν</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἰδὼν</span><span class='greek-word'>ἀντιπαρῆλθε.</span></p><p class='inter-segond'><span class='french-word'>étant_venu</span><span class='french-word'>et</span><span class='french-word'>ayant_vu</span><span class='french-word'>passa_outre.</span></p><p class='inter-darby'><span class='french-word'>s'avança,</span><span class='french-word'>et</span><span class='french-word'>l'ayant_vu,</span><span class='french-word'>passa_outre</span><span class='french-word'>de_l'autre_côté.</span></p></div>"
+        "translations": {
+          "segond": "Un Lévite, qui arriva aussi dans ce lieu, l'ayant vu, passa outre.",
+          "darby": "Et pareillement aussi un Lévite, étant arrivé à cet endroit, vint et le vit, et passa outre de l'autre côté."
+        },
+        "interlinear": [
+          { "greek": "ὁμοίως", "gloss": "Pareillement/de_même" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "καὶ", "gloss": "aussi" },
+          { "greek": "Λευίτης", "gloss": "un_Lévite" },
+          { "greek": "γενόμενος", "gloss": "étant_arrivé" },
+          { "greek": "κατὰ", "gloss": "selon/sur" },
+          { "greek": "τὸν", "gloss": "le" },
+          { "greek": "τόπον", "gloss": "lieu" },
+          { "greek": "ἐλθὼν", "gloss": "étant_venu" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἰδὼν", "gloss": "ayant_vu" },
+          { "greek": "ἀντιπαρῆλθεν.", "gloss": "passa_outre_du_côté_opposé", "analyse": "Répétition exacte du verbe géométrique *anti-para-erchomai*. La religion institutionnelle (le Prêtre puis le Lévite) est incapable de kénose. Elle constate la blessure ('ayant vu'), mais sa priorité absolue est la préservation de son propre statut rituel horizontal. Elle maintient la distance sanitaire (*anti-para*) pour ne pas être contaminée par la mort, s'enfermant ainsi dans sa propre mort spirituelle." }
+        ]
       },
       {
         "verse_number": 33,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Σαμαρείτης</span><span class='greek-word'>δέ</span><span class='greek-word'>τις</span><span class='greek-word'>ὁδεύων</span></p><p class='inter-segond'><span class='french-word'>Mais_un_Samaritain</span><span class='french-word'>un</span><span class='french-word'>qui_voyageait</span></p><p class='inter-darby'><span class='french-word'>Mais</span><span class='french-word'>un_Samaritain,</span><span class='french-word'>allant</span><span class='french-word'>son_chemin,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἦλθε</span><span class='greek-word'>κατ’</span><span class='greek-word'>αὐτὸν</span><span class='greek-word'>καὶ</span></p><p class='inter-segond'><span class='french-word'>vint</span><span class='french-word'>vers</span><span class='french-word'>lui</span><span class='french-word'>et</span></p><p class='inter-darby'><span class='french-word'>vint</span><span class='french-word'>là_où</span><span class='french-word'>il_était,</span><span class='french-word'>et,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἰδὼν</span><span class='greek-word'>αὐτὸν</span><span class='greek-word'>ἐσπλαγχνίσθη,</span></p><p class='inter-segond'><span class='french-word'>ayant_vu</span><span class='french-word'>lui</span><span class='french-word'>fut_ému_de_compassion,</span></p><p class='inter-darby'><span class='french-word'>l'ayant_vu,</span><span class='french-word'>fut_ému_de_compassion ;</span></p></div>"
+        "translations": {
+          "segond": "Mais un Samaritain, qui voyageait, étant venu là, fut ému de compassion lorsqu'il le vit.",
+          "darby": "Mais un certain Samaritain, faisant route, vint vers lui, et, le voyant, fut ému de compassion ;"
+        },
+        "interlinear": [
+          { "greek": "Σαμαρίτης", "gloss": "Un_Samaritain", "analyse": "La figure de l'hérétique, l'exclu du système religieux officiel. Dans la logique du Monde duel, il est l'ennemi. Le Christ choisit celui qui n'a aucun statut à défendre pour incarner l'irruption de la Grâce." },
+          { "greek": "δέ", "gloss": "or" },
+          { "greek": "τις", "gloss": "certain" },
+          { "greek": "ὁδεύων", "gloss": "faisant_route/voyageant", "analyse": "Du mot *hodos* (le chemin). Contrairement au blessé, au prêtre et au Lévite qui 'descendaient' (*kata-baino*, le mouvement de la chute), le Samaritain fait simplement route. Il est en mouvement constant, libre de la force gravitationnelle du péché." },
+          { "greek": "ἦλθεν", "gloss": "vint" },
+          { "greek": "κατ’", "gloss": "sur/contre" },
+          { "greek": "αὐτὸν", "gloss": "lui" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἰδὼν", "gloss": "ayant_vu" },
+          { "greek": "ἐσπλαγχνίσθη,", "gloss": "fut_ému_aux_entrailles", "analyse": "Le verbe viscéral : *splagchnizomai* (être remué dans ses viscères/*splagchna*). Ce n'est pas une émotion psychologique ou une compassion morale. C'est le tressaillement ontologique de l'Incréé face à la souffrance. Le Samaritain ne réfléchit pas au code pénal ou rituel, son Centre est touché : l'Ego éclate pour laisser jaillir l'amour pur." }
+        ]
       },
       {
         "verse_number": 34,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>προσελθὼν</span><span class='greek-word'>κατέδησε</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>s'approchant</span><span class='french-word'>il_banda</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>s'approchant,</span><span class='french-word'>banda</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τὰ</span><span class='greek-word'>τραύματα</span><span class='greek-word'>αὐτοῦ</span><span class='greek-word'>ἐπιχέων</span></p><p class='inter-segond'><span class='french-word'>les</span><span class='french-word'>plaies</span><span class='french-word'>ses</span><span class='french-word'>en_versant</span></p><p class='inter-darby'><span class='french-word'>ses</span><span class='french-word'>plaies,</span><span class='french-word'>y_versant</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἔλαιον</span><span class='greek-word'>καὶ</span><span class='greek-word'>οἶνον,</span><span class='greek-word'>ἐπιβιβάσας</span></p><p class='inter-segond'><span class='french-word'>de_l'huile</span><span class='french-word'>et</span><span class='french-word'>du_vin ;</span><span class='french-word'>ayant_mis</span></p><p class='inter-darby'><span class='french-word'>de_l'huile</span><span class='french-word'>et</span><span class='french-word'>du_vin ;</span><span class='french-word'>et_l'ayant_mis</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>δὲ</span><span class='greek-word'>αὐτὸν</span><span class='greek-word'>ἐπὶ</span><span class='greek-word'>τὸ</span><span class='greek-word'>ἴδιον</span></p><p class='inter-segond'><span class='french-word'>mais</span><span class='french-word'>lui</span><span class='french-word'>sur</span><span class='french-word'>sa</span><span class='french-word'>propre</span></p><p class='inter-darby'><span class='french-word'>sur</span><span class='french-word'>sa</span><span class='french-word'>propre</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>κτῆνος</span><span class='greek-word'>ἤγαγεν</span><span class='greek-word'>αὐτὸν</span><span class='greek-word'>εἰς</span></p><p class='inter-segond'><span class='french-word'>monture</span><span class='french-word'>le_conduisit</span><span class='french-word'>lui</span><span class='french-word'>dans</span></p><p class='inter-darby'><span class='french-word'>bête,</span><span class='french-word'>il_l'amena</span><span class='french-word'>dans</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πανδοχεῖον</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἐπεμελήθη</span></p><p class='inter-segond'><span class='french-word'>une_hôtellerie</span><span class='french-word'>et</span><span class='french-word'>prit_soin</span></p><p class='inter-darby'><span class='french-word'>une_hôtellerie</span><span class='french-word'>et</span><span class='french-word'>prit_soin</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>αὐτοῦ.</span></p><p class='inter-segond'><span class='french-word'>de_lui.</span></p><p class='inter-darby'><span class='french-word'>de_lui.</span></p></div>"
+        "translations": {
+          "segond": "Il s'approcha, et banda ses plaies, en y versant de l'huile et du vin ; puis il le mit sur sa propre monture, le conduisit à une hôtellerie, et prit soin de lui.",
+          "darby": "et s'approchant, il banda ses plaies, y versant de l'huile et du vin ; et l'ayant mis sur sa propre bête, il le mena dans l'hôtellerie et eut soin de lui."
+        },
+        "interlinear": [
+          { "greek": "καὶ", "gloss": "Et" },
+          { "greek": "προσελθὼν", "gloss": "s'étant_approché", "analyse": "Composé de *pros-* (vers, mouvement intime) et *erchomai*. Le mouvement inverse de l'*anti-para-erchomai* du prêtre. Le Samaritain brise la distance, annule la séparation protectrice et s'expose au contact direct avec la kénose de la victime." },
+          { "greek": "κατέδησεν", "gloss": "il_banda/lia" },
+          { "greek": "τὰ", "gloss": "les" },
+          { "greek": "τραύματα", "gloss": "plaies/blessures" },
+          { "greek": "αὐτοῦ", "gloss": "de_lui" },
+          { "greek": "ἐπιχέων", "gloss": "versant_sur", "analyse": "Composé de *epi-* (sur) et *cheo* (verser). Le mouvement d'effusion thérapeutique." },
+          { "greek": "ἔλαιον", "gloss": "huile" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "οἶνον,", "gloss": "vin", "analyse": "Les deux fluides symboliques de la restauration : l'huile (la Grâce, la douceur de l'Esprit qui apaise) et le vin (l'Eucharistie, le Sang qui purifie et vivifie). Le Sujet injecte la force de l'Incréé dans les brèches du Monde duel." },
+          { "greek": "ἐπιβιβάσας", "gloss": "l'ayant_fait_monter", "analyse": "Composé de *epi-* (sur, vers le haut) et *bibazo* (faire monter). L'homme 'descendait' (v. 30), il est maintenant tiré vers le haut, élevé sur la monture. C'est l'inversion de la chute entropique." },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "αὐτὸν", "gloss": "lui" },
+          { "greek": "ἐπὶ", "gloss": "sur" },
+          { "greek": "τὸ", "gloss": "la" },
+          { "greek": "ἴδιον", "gloss": "propre" },
+          { "greek": "κτῆνος", "gloss": "bête/monture" },
+          { "greek": "ἤγαγεν", "gloss": "il_conduisit" },
+          { "greek": "αὐτὸν", "gloss": "lui" },
+          { "greek": "εἰς", "gloss": "dans" },
+          { "greek": "πανδοχεῖον", "gloss": "une_hôtellerie", "analyse": "Un terme topographique vertigineux : *pan-docheion*. Composé de *pan-* (tout/tous) et *dechomai* (recevoir/accueillir). Littéralement 'le lieu qui reçoit tout le monde'. Par opposition au temple de Jérusalem qui exclut et sépare, l'hôtellerie symbolise l'Église (ou le Royaume UN) : l'espace de la non-dualité où toutes les fragmentations sont accueillies pour être unifiées." },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἐπεμελήθη", "gloss": "il_prit_soin" },
+          { "greek": "αὐτοῦ.", "gloss": "de_lui" }
+        ]
       },
       {
         "verse_number": 35,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ἐπὶ</span><span class='greek-word'>τὴν</span><span class='greek-word'>αὔριον</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>sur</span><span class='french-word'>le</span><span class='french-word'>lendemain,</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>le</span><span class='french-word'>lendemain,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐξελθών,</span><span class='greek-word'>ἐκβαλὼν</span><span class='greek-word'>δύο</span></p><p class='inter-segond'><span class='french-word'>en_partant,</span><span class='french-word'>tirant</span><span class='french-word'>deux</span></p><p class='inter-darby'><span class='french-word'>s'en_allant,</span><span class='french-word'>il_tira</span><span class='french-word'>deux</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>δηνάρια</span><span class='greek-word'>ἔδωκε</span><span class='greek-word'>τῷ</span></p><p class='inter-segond'><span class='french-word'>deniers,</span><span class='french-word'>il_les_donna</span><span class='french-word'>à_le</span></p><p class='inter-darby'><span class='french-word'>deniers</span><span class='french-word'>et_les_donna</span><span class='french-word'>à_l'</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πανδοχεῖ</span><span class='greek-word'>καὶ</span><span class='greek-word'>εἶπεν</span><span class='greek-word'>αὐτῷ·</span></p><p class='inter-segond'><span class='french-word'>hôte,</span><span class='french-word'>et</span><span class='french-word'>dit</span><span class='french-word'>à_lui :</span></p><p class='inter-darby'><span class='french-word'>hôtelier,</span><span class='french-word'>et</span><span class='french-word'>lui_dit :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Ἐπιμελήθητι</span><span class='greek-word'>αὐτοῦ,</span><span class='greek-word'>καὶ</span></p><p class='inter-segond'><span class='french-word'>Prends_soin</span><span class='french-word'>de_lui,</span><span class='french-word'>et</span></p><p class='inter-darby'><span class='french-word'>« Prends_soin</span><span class='french-word'>de_lui ;</span><span class='french-word'>et</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὅτι</span><span class='greek-word'>ἂν</span><span class='greek-word'>προσδαπανήσῃς</span><span class='greek-word'>ἐγὼ</span></p><p class='inter-segond'><span class='french-word'>ce_que</span><span class='french-word'>conditionnel</span><span class='french-word'>tu_dépenseras_de_plus,</span><span class='french-word'>moi</span></p><p class='inter-darby'><span class='french-word'>ce_que</span><span class='french-word'>tu_dépenseras</span><span class='french-word'>de_plus,</span><span class='french-word'>moi,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐν</span><span class='greek-word'>τῷ</span><span class='greek-word'>ἐπανέρχεσθαί</span><span class='greek-word'>με</span></p><p class='inter-segond'><span class='french-word'>en</span><span class='french-word'>le</span><span class='french-word'>retourner</span><span class='french-word'>moi</span></p><p class='inter-darby'><span class='french-word'>à</span><span class='french-word'>mon</span><span class='french-word'>retour,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀποδώσω</span><span class='greek-word'>σοι.</span></p><p class='inter-segond'><span class='french-word'>je_te_rendrai</span><span class='french-word'>à_toi.</span></p><p class='inter-darby'><span class='french-word'>je_te_le_rendrai ».</span></p></div>"
+        "translations": {
+          "segond": "Le lendemain, il tira deux deniers, les donna à l'hôte, et dit : Aie soin de lui, et ce que tu dépenseras de plus, je te le rendrai à mon retour.",
+          "darby": "Et le lendemain, en partant, il tira deux deniers et les donna à l'hôtelier, et lui dit : Aie soin de lui ; et ce que tu dépenseras de plus, moi, à mon retour, je te le rendrai."
+        },
+        "interlinear": [
+          { "greek": "καὶ", "gloss": "Et" },
+          { "greek": "ἐπὶ", "gloss": "sur" },
+          { "greek": "τὴν", "gloss": "le" },
+          { "greek": "αὔριον", "gloss": "lendemain" },
+          { "greek": "ἐκβαλὼν", "gloss": "ayant_tiré_hors", "analyse": "Composé de *ek-* (hors de) et *ballo* (jeter/tirer). Le mouvement de l'extraction. Le Samaritain se dépouille matériellement de ses propres ressources pour l'autre." },
+          { "greek": "δύο", "gloss": "deux" },
+          { "greek": "δηνάρια", "gloss": "deniers" },
+          { "greek": "ἔδωκεν", "gloss": "donna" },
+          { "greek": "τῷ", "gloss": "à_l'" },
+          { "greek": "πανδοχεῖ", "gloss": "hôtelier" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "εἶπεν·", "gloss": "dit" },
+          { "greek": "Ἐπιμελήθητι", "gloss": "Prends_soin" },
+          { "greek": "αὐτοῦ,", "gloss": "de_lui" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ὅ", "gloss": "ce_que" },
+          { "greek": "τι", "gloss": "n'importe" },
+          { "greek": "ἂν", "gloss": "éventuellement" },
+          { "greek": "προσδαπανήσῃς", "gloss": "tu_dépenseras_en_plus", "analyse": "Composé de *pros-* (en plus, par surcroît) et *dapanao* (dépenser). La Grâce est toujours surabondante. Elle excède le calcul strict et la stricte nécessité." },
+          { "greek": "ἐγὼ", "gloss": "moi" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "τῷ", "gloss": "le" },
+          { "greek": "ἐπανέρχεσθαί", "gloss": "revenir", "analyse": "Composé de *epi-* (sur), *ana-* (vers le haut, à nouveau) et *erchomai* (venir). Ce triple composé désigne le retour divin (la Parousie). Le Samaritain s'inscrit dans un cycle temporel absolu : il garantit la prise en charge jusqu'à l'achèvement final de l'histoire." },
+          { "greek": "με", "gloss": "me" },
+          { "greek": "ἀποδώσω", "gloss": "je_rendrai" },
+          { "greek": "σοι.", "gloss": "à_toi" }
+        ]
       },
       {
         "verse_number": 36,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>τίς</span><span class='greek-word'>οὖν</span><span class='greek-word'>τούτων</span><span class='greek-word'>τῶν</span></p><p class='inter-segond'><span class='french-word'>Lequel</span><span class='french-word'>donc</span><span class='french-word'>de_ces</span><span class='french-word'>les</span></p><p class='inter-darby'><span class='french-word'>Lequel</span><span class='french-word'>donc</span><span class='french-word'>de_ces</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τριῶν</span><span class='greek-word'>δοκεῖ</span><span class='greek-word'>σοι</span><span class='greek-word'>πλησίον</span></p><p class='inter-segond'><span class='french-word'>trois</span><span class='french-word'>semble-t-il</span><span class='french-word'>à_toi</span><span class='french-word'>prochain</span></p><p class='inter-darby'><span class='french-word'>trois</span><span class='french-word'>te_semble</span><span class='french-word'>avoir_été_le_prochain</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>γεγονέναι</span><span class='greek-word'>τοῦ</span><span class='greek-word'>ἐμπεσόντος</span></p><p class='inter-segond'><span class='french-word'>avoir_été</span><span class='french-word'>de_celui</span><span class='french-word'>étant_tombé</span></p><p class='inter-darby'><span class='french-word'>de_celui</span><span class='french-word'>qui_était_tombé</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>εἰς</span><span class='greek-word'>τοὺς</span><span class='greek-word'>λῃστάς;</span></p><p class='inter-segond'><span class='french-word'>au_milieu_de</span><span class='french-word'>les</span><span class='french-word'>brigands ?</span></p><p class='inter-darby'><span class='french-word'>entre_les_mains_des</span><span class='french-word'>brigands ?</span></p></div>"
+        "translations": {
+          "segond": "Lequel de ces trois te semble avoir été le prochain de celui qui était tombé au milieu des brigands ?",
+          "darby": "Lequel de ces trois te semble avoir été le prochain de celui qui était tombé entre les voleurs ?"
+        },
+        "interlinear": [
+          { "greek": "Τίς", "gloss": "Qui" },
+          { "greek": "τούτων", "gloss": "de_ceux-ci" },
+          { "greek": "τῶν", "gloss": "des" },
+          { "greek": "τριῶν", "gloss": "trois" },
+          { "greek": "πλησίον", "gloss": "prochain/proche" },
+          { "greek": "δοκεῖ", "gloss": "semble" },
+          { "greek": "σοι", "gloss": "à_toi" },
+          { "greek": "γεγονέναι", "gloss": "être_devenu", "analyse": "Le verbe *ginomai* (naître, devenir, advenir) au parfait. Jésus renverse totalement la géométrie du légiste (v. 29). Le légiste demandait : 'Qui est l'objet (le prochain) vers qui je dois aller ?'. Jésus demande : 'Lequel est DEVENU le prochain ?'. Le prochain n'est pas un objet extérieur que l'on identifie, c'est un état d'être, une mutation ontologique (*gegonenai*) par laquelle le Sujet se fait la Présence aimante de l'Incréé pour l'autre." },
+          { "greek": "τοῦ", "gloss": "de_celui" },
+          { "greek": "ἐμπεσόντος", "gloss": "étant_tombé_dans" },
+          { "greek": "εἰς", "gloss": "dans" },
+          { "greek": "τοὺς", "gloss": "les" },
+          { "greek": "λῃστάς;", "gloss": "brigands" }
+        ]
       },
       {
-       "verse_number": 37,
-  "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ὁ</span><span class='greek-word'>δὲ</span><span class='greek-word'>εἶπεν·</span><span class='greek-word'>Ὁ</span><span class='greek-word'>ποιήσας</span></p><p class='inter-segond'><span class='french-word'>Il</span><span class='french-word'>mais</span><span class='french-word'>dit :</span><span class='french-word'>Celui</span><span class='french-word'>ayant_exercé</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>il_dit :</span><span class='french-word'>C'est_celui</span><span class='french-word'>qui_a_usé</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τὸ</span><span class='greek-word'>ἔλεος</span><span class='greek-word'>μετ’</span><span class='greek-word'>αὐτοῦ.</span></p><p class='inter-segond'><span class='french-word'>la</span><span class='french-word'>miséricorde</span><span class='french-word'>envers</span><span class='french-word'>lui.</span></p><p class='inter-darby'><span class='french-word'>de_miséricorde</span><span class='french-word'>envers</span><span class='french-word'>lui.</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>εἶπεν</span><span class='greek-word'>οὖν</span><span class='greek-word'>αὐτῷ</span><span class='greek-word'>ὁ</span></p><p class='inter-segond'><span class='french-word'>Dit</span><span class='french-word'>donc</span><span class='french-word'>à_lui</span><span class='french-word'>le</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>Jésus</span><span class='french-word'>lui</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Ἰησοῦς·</span><span class='greek-word'>Πορεύου</span><span class='greek-word'>καὶ</span><span class='greek-word'>σὺ</span></p><p class='inter-segond'><span class='french-word'>Jésus :</span><span class='french-word'>Va,</span><span class='french-word'>et</span><span class='french-word'>toi,</span></p><p class='inter-darby'><span class='french-word'>dit :</span><span class='french-word'>« Va,</span><span class='french-word'>et</span><span class='french-word'>toi,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ποιει</span><span class='greek-word'>ὁμοίως.</span></p><p class='inter-segond'><span class='french-word'>fais</span><span class='french-word'>de_même.</span></p><p class='inter-darby'><span class='french-word'>fais_de_même ».</span></p></div>"
-}  
+        "verse_number": 37,
+        "translations": {
+          "segond": "C'est celui qui a exercé la miséricorde envers lui, répondit le docteur de la loi. Et Jésus lui dit : Va, et toi, fais de même.",
+          "darby": "Et il dit : C'est celui qui a usé de miséricorde envers lui. Et Jésus lui dit : Va, et toi fais de même."
+        },
+        "interlinear": [
+          { "greek": "ὁ", "gloss": "Le" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "εἶπεν·", "gloss": "dit" },
+          { "greek": "Ὁ", "gloss": "Celui" },
+          { "greek": "ποιήσας", "gloss": "ayant_fait/pratiqué" },
+          { "greek": "τὸ", "gloss": "la" },
+          { "greek": "ἔλεος", "gloss": "miséricorde", "analyse": "Le légiste est incapable de prononcer le mot 'Samaritain' à cause de sa rigidité égotique et tribale. Il est contraint d'admettre la vérité sous forme d'action : c'est la manifestation de la miséricorde pure qui définit l'appartenance à l'Axe vertical, et non l'étiquette religieuse." },
+          { "greek": "μετ’", "gloss": "avec/envers" },
+          { "greek": "αὐτοῦ.", "gloss": "lui" },
+          { "greek": "εἶπεν", "gloss": "dit" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "αὐτῷ", "gloss": "à_lui" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "Ἰησοῦς·", "gloss": "Jésus" },
+          { "greek": "Πορεύου", "gloss": "Va/fais_route" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "σὺ", "gloss": "toi" },
+          { "greek": "ποίει", "gloss": "fais/crée" },
+          { "greek": "ὁμοίως.", "gloss": "pareillement" }
+        ]
+      }
     ],
-    "greek_only": "\n25 Καὶ ἰδοὺ νομικός τις ἀνέστη ἐκπειράζων αὐτὸν καὶ λέγων· Διδάσκαλε, τί ποιήσας ζωὴν αἰώνιον κληρονομήσω; \n26 ὁ δὲ εἶπε πρὸς αὐτόν· Ἐν τῷ νόμῳ τί γέγραπται; πῶς ἀναγινώσκεις; \n27 ὁ δὲ ἀποκριθεῖς εἶπεν· Ἀγαπήσεις Κύριον τὸν Θεόν σου ἐξ ὅλης τῆς καρδίας σου καὶ ἐξ ὅλης τῆς ψυχῆς σου καὶ ἐξ ὅλης τῆς ἰσχύος σου καὶ ἐξ ὅλης τῆς διανοίας σου, καὶ τὸν πλησίον σου ὡς σεαυτόν. \n28 εἶπε δὲ αὐτῷ· Ὀρθῶς ἀπεκρίθης· τοῦτο ποίει καὶ ζήσῃ. \n29 ὁ δὲ θέλων δικαιοῦν ἑαυτὸν εἶπε πρὸς τὸν Ἰησοῦν· Καὶ τίς ἐστί μου πλησίον; \n30 ὑπολαβὼν δὲ ὁ Ἰησοῦς εἶπεν· Ἄνθρωπος τις κατέβαινεν ἀπὸ Ἱερουσαλὴμ εἰς Ἱεριχὼ καὶ λῃσταῖς περιέπεσεν, οἳ καὶ ἐκδύσαντες αὐτὸν καὶ πληγὰς ἐπιθέντες ἀπῆλθον ἀφέντες ἡμιθανῆ τυγχάνοντα. \n31 κατὰ συγκυρίαν δὲ ἱερεύς τις κατέβαινεν ἐν τῇ ὁδῷ ἐκείνῃ, καὶ ἰδὼν αὐτὸν ἀντιπαρῆλθεν. \n32 ὁμοίως δὲ καὶ Λευΐτης γενόμενος κατὰ τὸν τόπον, ἐλθὼν καὶ ἰδὼν ἀντιπαρῆλθε. \n33 Σαμαρείτης δέ τις ὁδεύων ἦλθε κατ’ αὐτὸν καὶ ἰδὼν αὐτὸν ἐσπλαγχνίσθη, \n34 καὶ προσελθὼν κατέδησε τὰ τραύματα αὐτοῦ ἐπιχέων ἔλαιον καὶ οἶνον, ἐπιβιβάσας δὲ αὐτὸν ἐπὶ τὸ ἴδιον κτῆνος ἤγαγεν αὐτὸν εἰς πανδοχεῖον καὶ ἐπεμελήθη αὐτοῦ. \n35 καὶ ἐπὶ τὴν αὔριον ἐξελθών, ἐκβαλὼν δύο δηνάρια ἔδωκε τῷ πανδοχεῖ καὶ εἶπεν αὐτῷ· Ἐπιμελήθητι αὐτοῦ, καὶ ὅτι ἂν προσδαπανήσῃς ἐγὼ ἐν τῷ ἐπανέρχεσθαί με ἀποδώσω σοι. \n36 τίς οὖν τούτων τῶν τριῶν δοκεῖ σοι πλησίον γεγονέναι τοῦ ἐμπεσόντος εἰς τοὺς λῃστάς; \n37 ὁ δὲ εἶπεν· Ὁ ποιήσας τὸ ἔλεος μετ’ αὐτοῦ. εἶπεν οὖν αὐτῷ ὁ Ἰησοῦς· Πορεύου καὶ σὺ ποίει ὁμοίως.",
-    "french_only": "\n25 Et voici, un docteur de la loi se leva, et dit à Jésus, pour l'éprouver : Maître, que dois-je faire pour hériter la vie éternelle ? \n26 Jésus lui dit : Qu'est-il écrit dans la loi ? Qu'y lis-tu ? \n27 Il répondit : Tu aimeras le Seigneur, ton Dieu, de tout ton cœur, de toute ton âme, de toute ta force, et de toute ta pensée ; et ton prochain comme toi-même. \n28 Tu as bien répondu, lui dit Jésus ; fais cela, et tu vivras. \n29 Mais lui, voulant se justifier, dit à Jésus : Et qui est mon prochain ? \n30 Jésus reprit la parole, et dit : Un homme descendait de Jérusalem à Jéricho. Il tomba au milieu des brigands, qui le dépouillèrent, la chargèrent de coups, et s'enallèrent, le laissant à demi mort. \n31 Un sacrificateur, qui par hasard descendait par le même chemin, ayant vu cet homme, passa outre. \n32 Un Lévite, qui arriva aussi dans ce lieu, l'ayant vu, passa outre. \n33 Mais un Samaritain, qui voyageait, étant venu là, fut ému de compassion lorsqu'il le vit. \n34 Il s'approcha, et banda ses plaies, en y versant de l'huile et du vin ; puis il le mit sur sa propre monture, le conduisit à une hôtellerie, et prit soin de lui. \n35 Le lendemain, il tira deux deniers, les donna à l'hôte, et dit : Prends soin de lui, et ce que tu dépenseras de plus, je te le rendrai à mon retour. \n36 Lequel de ces trois te semble avoir été le prochain de celui qui était tombé au milieu des brigands ? \n37 C'est celui qui a exercé la miséricorde envers lui, répondit le docteur de la loi. Et Jésus lui dit : Va, et toi, fais de même.",
-    "french_darby": "\n25 Et voici, un docteur de la loi se leva pour l'éprouver, et dit : Maître, que ferai-je pour hériter de la vie éternelle ? \n26 Et il lui dit : Qu'est-il écrit dans la loi ? Comment lis-tu ? \n27 Et lui, répondant, dit : « Tu aimeras le Seigneur ton Dieu de tout ton cœur, et de toute ton âme, et de toute ta force, et de toute ta pensée ; et ton prochain comme toi-même ». \n28 Et il lui dit : Tu as bien répondu ; fais cela, et tu vivras. \n29 Mais lui, voulant se justifier lui-même, dit à Jésus : Et qui est mon prochain ? \n30 Et Jésus, répondant, dit : Un homme descendait de Jérusalem à Jéricho, et tomba entre les mains des brigands, qui aussi, l'ayant dépouillé et l'ayant chargé de coups, s'en allèrent, le laissant à demi mort. \n31 Or, par aventure, un sacrificateur descendait par ce chemin-là, et, l'ayant vu, passa outre de l'autre côté. \n32 De même aussi un Lévite, étant venu dans ce lieu-là, s'avança, et l'ayant vu, passa outre de l'autre côté. \n33 Mais un Samaritain, allant son chemin, vint là où il était, et, l'ayant vu, fut ému de compassion ; \n34 et s'approchant, banda ses plaies, y versant de l'huile et du vin ; et l'ayant mis sur sa propre bête, il l'amena dans une hôtellerie et prit soin de lui. \n35 Et le lendemain, s'en allant, il tira deux deniers et les donna à l'hôtelier, et lui dit : Prends soin de lui ; et ce que tu dépenseras de plus, moi, à mon retour, je te le rendrai. \n36 Lequel de ces trois te semble avoir été le prochain de celui qui était tombé entre les mains des brigands ? \n37 Et il dit : C'est celui qui a usé de miséricorde envers lui. Et Jésus lui dit : Va, et toi, fais de même.",
-    "personal_analysis": "Le cœur théologique de cette parabole réside dans le renversement opéré par Jésus. Le docteur de la loi demande 'Qui est mon prochain ?' dans une logique légaliste de délimitation des devoirs. Jésus, par l'exemple du Samaritain (un hérétique impur aux yeux des Juifs), répond en montrant comment on se fait prochain (*plesion gegononai*). Le prêtre et le Lévite incarnent une piété rituelle qui refuse de se salir ou de toucher un corps potentiellement mort, privilégiant le culte formel à la charité vivante. Le Samaritain est une figure christique : il assume le soin total de l'humanité blessée (l'huile et le vin symbolisant les sacrements), l'amène à l'hôtellerie (l'Église) et promet son retour. La foi n'est plus une spéculation, mais un acte de miséricorde active (*poiesas to eleos*)."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 31/32 - ἀντιπαρῆλθεν : Traduit par 'passa outre' (Segond) ou 'passa outre de l'autre côté' (Darby). Le génie de Darby est d'avoir tenté de rendre la complexité géométrique de *anti-para-erchomai*. Le prêtre et le Lévite ne font pas qu'ignorer, ils opèrent une manœuvre d'évitement active. Ils frôlent le drame (*para*) mais se barricadent immédiatement dans l'opposition (*anti*).\n• Verset 34 - πανδοχεῖον : 'Hôtellerie'. Le français perd la symbolique d'accueil inconditionnel du grec *pan-docheion* (le réceptacle de la totalité). \n• Verset 36 - γεγονέναι : 'Avoir été' (Segond/Darby). C'est le verbe *ginomai* (devenir/advenir). Traduire par le verbe 'être' aplatit le choc théologique du Christ. On ne 'naît' pas le prochain de quelqu'un, on le DEVIENT par un acte ontologique de kénose.\n\nAnalyse spirituelle :\nLa parabole du Bon Samaritain n'est pas une leçon de morale civique, mais une allégorie foudroyante sur la maladie du Monde duel et la thérapie de l'Incréé.\n\nLe récit s'ouvre sur un légiste qui cherche à 'hériter' la vie éternelle en posant une question de géomètre : 'Où s'arrête mon devoir d'amour ?' (Qui est mon prochain ?). Pour détruire cette rigidité, Jésus brosse la topographie d'une chute cosmique : l'homme qui 'descend' (*katabaino*) de Jérusalem vers Jéricho représente l'humanité arrachée au Centre et s'effondrant dans la matière, dépouillée et laissée 'à demi morte' (*hemithanes*) par les forces d'éclatement (les brigands).\n\nFace à cette détresse, la religion rituelle et intellectuelle du Monde duel (le Prêtre et le Lévite) se révèle mortifère. Soumise à la même gravité (*katabaino*), elle est obsédée par la pureté de surface et pratique l'évitement sanitaire (*anti-para-erchomai*). Elle refuse de se salir les mains, s'enfermant dans une pureté stérile qui est l'essence même de l'Ego.\n\nL'irruption de la Grâce prend les traits de l'hérétique absolu : le Samaritain. Il ne descend pas, il 'fait route' (*hodeuon*). Il est le Christ lui-même. Son action est une série de mouvements anti-égotiques : le frémissement viscéral (*splagchnizomai*), l'approche physique intime (*proserchomai*), l'effusion des fluides sacramentels, et surtout l'élévation de la victime (*epi-bibazo*). Il arrache l'homme à la rue de Jéricho pour le déposer dans le *Pan-docheion*, le lieu de l'accueil universel (l'Église spirituelle). \n\nJésus détruit la question du légiste. On ne trouve pas l'Incréé en classant les humains entre 'proches' et 'lointains'. On n'atteint l'Unité qu'en *devenant* (*ginomai*) soi-même l'espace de la miséricorde, laissant le Sujet intérieur agir à la place de l'Ego calculateur."
   },
- "apostle": {
-  "reference": "Éphésiens 4, 1-7",
-  "title": "L'Unité de l'Esprit et la Diversité des Dons",
-  "interlinear": [
-    {
-      "verse_number": 1,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Παρακαλῶ</span><span class='greek-word'>οὖν</span><span class='greek-word'>ὑμᾶς</span><span class='greek-word'>ἐγώ,</span></p><p class='inter-segond'><span class='french-word'>Je_vous_exhorte</span><span class='french-word'>donc</span><span class='french-word'>vous</span><span class='french-word'>moi,</span></p><p class='inter-darby'><span class='french-word'>Je_vous_exhorte</span><span class='french-word'>donc</span><span class='french-word'>vous,</span><span class='french-word'>moi,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὁ</span><span class='greek-word'>δέσμιος</span><span class='greek-word'>ἐν</span><span class='greek-word'>Κυρίῳ,</span></p><p class='inter-segond'><span class='french-word'>le</span><span class='french-word'>prisonnier</span><span class='french-word'>dans_le</span><span class='french-word'>Seigneur,</span></p><p class='inter-darby'><span class='french-word'>le</span><span class='french-word'>prisonnier</span><span class='french-word'>dans_le</span><span class='french-word'>Seigneur,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀξίως</span><span class='greek-word'>περιπατῆσαι</span><span class='greek-word'>τῆς</span><span class='greek-word'>κλήσεως</span></p><p class='inter-segond'><span class='french-word'>d'une_manière_digne</span><span class='french-word'>à_marcher</span><span class='french-word'>de_la</span><span class='french-word'>vocation</span></p><p class='inter-darby'><span class='french-word'>à_marcher_d'une_manière_digne</span><span class='french-word'>de_la</span><span class='french-word'>vocation</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἧς</span><span class='greek-word'>ἐκλήθητε,</span></p><p class='inter-segond'><span class='french-word'>à_laquelle</span><span class='french-word'>vous_avez_été_appelés,</span></p><p class='inter-darby'><span class='french-word'>à_laquelle</span><span class='french-word'>vous_avez_été_appelés,</span></p></div>"
-    },
-    {
-      "verse_number": 2,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>μετὰ</span><span class='greek-word'>πάσης</span><span class='greek-word'>ταπεινοφροσύνης</span></p><p class='inter-segond'><span class='french-word'>en</span><span class='french-word'>toute</span><span class='french-word'>humilité</span></p><p class='inter-darby'><span class='french-word'>avec</span><span class='french-word'>toute</span><span class='french-word'>humilité</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>πρᾳότητος,</span><span class='greek-word'>μετὰ</span><span class='greek-word'>μακροθυμίας,</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>douceur,</span><span class='french-word'>avec</span><span class='french-word'>patience,</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>douceur,</span><span class='french-word'>avec</span><span class='french-word'>longanimité,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀνεχόμενοι</span><span class='greek-word'>ἀλλήλων</span><span class='greek-word'>ἐν</span><span class='greek-word'>ἀγάπῃ,</span></p><p class='inter-segond'><span class='french-word'>vous_supportant</span><span class='french-word'>les_uns_les_autres</span><span class='french-word'>avec</span><span class='french-word'>charité,</span></p><p class='inter-darby'><span class='french-word'>vous_supportant</span><span class='french-word'>l'un_l'autre</span><span class='french-word'>dans</span><span class='french-word'>l'amour,</span></p></div>"
-    },
-    {
-      "verse_number": 3,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>σπουδάζοντες</span><span class='greek-word'>τηρεῖν</span><span class='greek-word'>τὴν</span></p><p class='inter-segond'><span class='french-word'>vous_efforçant</span><span class='french-word'>de_conserver</span><span class='french-word'>l'</span></p><p class='inter-darby'><span class='french-word'>vous_employant</span><span class='french-word'>à_garder</span><span class='french-word'>l'</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἑνότητα</span><span class='greek-word'>τοῦ</span><span class='greek-word'>Πνεύματος</span><span class='greek-word'>ἐν</span></p><p class='inter-segond'><span class='french-word'>unité</span><span class='french-word'>de_le</span><span class='french-word'>Esprit</span><span class='french-word'>par</span></p><p class='inter-darby'><span class='french-word'>unité</span><span class='french-word'>de_l'</span><span class='french-word'>Esprit</span><span class='french-word'>par</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τῷ</span><span class='greek-word'>συνδέσμῳ</span><span class='greek-word'>τῆς</span><span class='greek-word'>εἰρήνης.</span></p><p class='inter-segond'><span class='french-word'>le</span><span class='french-word'>lien</span><span class='french-word'>de_la</span><span class='french-word'>paix.</span></p><p class='inter-darby'><span class='french-word'>le</span><span class='french-word'>lien</span><span class='french-word'>de_la</span><span class='french-word'>paix.</span></p></div>"
-    },
-    {
-      "verse_number": 4,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἓν</span><span class='greek-word'>σῶμα</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἓν</span><span class='greek-word'>Πνεῦμα,</span></p><p class='inter-segond'><span class='french-word'>Il_y_a_un_seul</span><span class='french-word'>corps</span><span class='french-word'>et</span><span class='french-word'>un_seul</span><span class='french-word'>Esprit,</span></p><p class='inter-darby'><span class='french-word'>Il_y_a_un_seul</span><span class='french-word'>corps</span><span class='french-word'>et</span><span class='french-word'>un_seul</span><span class='french-word'>Esprit,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καθὼς</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἐκλήθητε</span><span class='greek-word'>ἐν</span></p><p class='inter-segond'><span class='french-word'>comme</span><span class='french-word'>aussi</span><span class='french-word'>vous_avez_été_appelés</span><span class='french-word'>à</span></p><p class='inter-darby'><span class='french-word'>comme</span><span class='french-word'>aussi</span><span class='french-word'>vous_avez_été_appelés</span><span class='french-word'>dans</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>μιᾷ</span><span class='greek-word'>ἐλπίδι</span><span class='greek-word'>τῆς</span><span class='greek-word'>κλήσεως</span><span class='greek-word'>ὑμῶν·</span></p><p class='inter-segond'><span class='french-word'>une_seule</span><span class='french-word'>espérance</span><span class='french-word'>par_votre</span><span class='french-word'>vocation ;</span></p><p class='inter-darby'><span class='french-word'>une_seule</span><span class='french-word'>espérance</span><span class='french-word'>de_votre</span><span class='french-word'>appel ;</span></p></div>"
-    },
-    {
-      "verse_number": 5,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>εἷς</span><span class='greek-word'>Κύριος,</span><span class='greek-word'>μία</span><span class='greek-word'>πίστις,</span></p><p class='inter-segond'><span class='french-word'>un_seul</span><span class='french-word'>Seigneur,</span><span class='french-word'>une_seule</span><span class='french-word'>foi,</span></p><p class='inter-darby'><span class='french-word'>un_seul</span><span class='french-word'>Seigneur,</span><span class='french-word'>une_seule</span><span class='french-word'>foi,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἓν</span><span class='greek-word'>βάπτισμα,</span></p><p class='inter-segond'><span class='french-word'>un_seul</span><span class='french-word'>baptême,</span></p><p class='inter-darby'><span class='french-word'>un_seul</span><span class='french-word'>baptême,</span></p></div>"
-    },
-    {
-      "verse_number": 6,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>εἷς</span><span class='greek-word'>Θεὸς</span><span class='greek-word'>καὶ</span><span class='greek-word'>Πατὴρ</span><span class='greek-word'>πάντων,</span></p><p class='inter-segond'><span class='french-word'>un_seul</span><span class='french-word'>Dieu</span><span class='french-word'>et</span><span class='french-word'>Père</span><span class='french-word'>de_tous,</span></p><p class='inter-darby'><span class='french-word'>un_seul</span><span class='french-word'>Dieu</span><span class='french-word'>et</span><span class='french-word'>Père</span><span class='french-word'>de_tous,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὁ</span><span class='greek-word'>ἐπὶ</span><span class='greek-word'>πάντων</span><span class='greek-word'>καὶ</span><span class='greek-word'>διὰ</span></p><p class='inter-segond'><span class='french-word'>qui_est</span><span class='french-word'>au-dessus_de</span><span class='french-word'>tous,</span><span class='french-word'>et</span><span class='french-word'>parmi</span></p><p class='inter-darby'><span class='french-word'>qui_est</span><span class='french-word'>au-dessus_de</span><span class='french-word'>tous,</span><span class='french-word'>et</span><span class='french-word'>partout</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πάντων</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἐν</span><span class='greek-word'>πᾶσιν.</span></p><p class='inter-segond'><span class='french-word'>tous</span><span class='french-word'>et</span><span class='french-word'>en</span><span class='french-word'>tous.</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>en</span><span class='french-word'>nous_tous.</span></p></div>"
-    },
-    {
-      "verse_number": 7,
-      "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Ἑκάστῳ</span><span class='greek-word'>δὲ</span><span class='greek-word'>ἡμῶν</span><span class='greek-word'>ἐδόθη</span></p><p class='inter-segond'><span class='french-word'>Mais_à_chacun</span><span class='french-word'>de</span><span class='french-word'>nous</span><span class='french-word'>la_grâce_a_été_donnée</span></p><p class='inter-darby'><span class='french-word'>Mais_à_chacun</span><span class='french-word'>de</span><span class='french-word'>nous</span><span class='french-word'>la_grâce_a_été_donnée</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἡ</span><span class='greek-word'>χάρις</span><span class='greek-word'>κατὰ</span><span class='greek-word'>τὸ</span><span class='greek-word'>μέτρον</span></p><p class='inter-segond'><span class='french-word'>la</span><span class='french-word'>grâce</span><span class='french-word'>selon</span><span class='french-word'>la</span><span class='french-word'>mesure</span></p><p class='inter-darby'><span class='french-word'>la</span><span class='french-word'>grâce</span><span class='french-word'>selon</span><span class='french-word'>la</span><span class='french-word'>mesure</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τῆς</span><span class='greek-word'>δωρεᾶς</span><span class='greek-word'>τοῦ</span><span class='greek-word'>Χριστοῦ.</span></p><p class='inter-segond'><span class='french-word'>du</span><span class='french-word'>don</span><span class='french-word'>de</span><span class='french-word'>Christ.</span></p><p class='inter-darby'><span class='french-word'>du</span><span class='french-word'>don</span><span class='french-word'>du</span><span class='french-word'>Christ.</span></p></div>"
-    }
-  ],
-  "greek_only": "\n1 Παρακαλῶ οὖν ὑμᾶς ἐγώ, ὁ δέσμιος ἐν Κυρίῳ, ἀξίως περιπατῆσαι τῆς κλήσεως ἧς ἐκλήθητε, \n2 μετὰ πάσης ταπεινοφροσύνης καὶ πρᾳότητος, μετὰ μακροθυμίας, ἀνεχόμενοι ἀλλήλων ἐν ἀγάπῃ, \n3 σπουδάζοντες τηρεῖν τὴν ἑνότητα τοῦ Πνεύματος ἐν τῷ συνδέσμῳ τῆς εἰρήνης. \n4 ἓν σῶμα καὶ ἓν Πνεῦμα, καθὼς καὶ ἐκλήθητε ἐν μιᾷ ἐλπίδι τῆς κλήσεως ὑμῶν· \n5 εἷς Κύριος, μία πίστις, ἓν βάπτισμα, \n6 εἷς Θεὸς καὶ Πατὴρ πάντων, ὁ ἐπὶ πάντων καὶ διὰ πάντων καὶ ἐν πᾶσιν. \n7 Ἑκάστῳ δὲ ἡμῶν ἐδόθη ἡ χάρις κατὰ τὸ μέτρον τῆς δωρεᾶς τοῦ Χριστοῦ.",
-  "french_only": "\n1 Je vous exhorte donc, moi, le prisonnier dans le Seigneur, à marcher d'une manière digne de la vocation qui vous a été adressée, \n2 en toute humilité et douceur, avec patience, vous supportant les uns les autres avec charité, \n3 vous efforçant de conserver l'unité de l'Esprit par le lien de la paix. \n4 Il y a un seul corps et un seul Esprit, comme aussi vous avez été appelés à une seule espérance par votre vocation ; \n5 il y a un seul Seigneur, une seule foi, un seul baptême, \n6 un seul Dieu et Père de tous, qui est au-dessus de tous, et parmi tous, et en tous. \n7 Mais à chacun de nous la grâce a été donnée selon la mesure du don de Christ.",
-  "french_darby": "\n1 Je vous exhorte donc, moi, le prisonnier dans le Seigneur, à marcher d'une manière digne de la vocation à laquelle vous avez été appelés, \n2 avec toute humilité et douceur, avec longanimité, vous supportant l'un l'autre dans l'amour, \n3 vous employant à garder l'unité de l'Esprit par le lien de la paix. \n4 Il y a un seul corps et un seul Esprit, comme aussi vous avez été appelés dans une seule espérance de votre appel ; \n5 un seul Seigneur, une seule foi, un seul baptême, \n6 un seul Dieu et Père de tous, qui est au-dessus de tous, et partout, et en nous tous. \n7 Mais à chacun de nous la grâce a été donnée selon la mesure du don du Christ.",
-  "personal_analysis": "Ce passage pose les fondements ecclésiologiques et organiques de l'unité chrétienne. Paul, écrivant depuis sa prison (le prisonnier dans le Seigneur), montre que la liberté chrétienne se réalise paradoxalement dans la soumission mutuelle et les vertus de douceur (praotes) et de patience (makrothumia). L'unité n'est pas une uniformité humaine à construire, mais un don divin (l'unité de l'Esprit) à préserver par le lien de la paix. La confession de foi des versets 5 et 6 dessine une structure heptadique (sept éléments d'unité) enracinée dans le mystère trinitaire. Enfin, le verset 7 introduit la dynamique des charismes : la grâce est distribuée de manière unique à chaque personne, non pour diviser, mais pour enrichir harmonieusement l'unique Corps du Christ."
+  "apostle": {
+    "reference": "Éphésiens 4, 1-7",
+    "title": "La Topographie de l'Unité : De la Kénose Mentale à la Matrice du Un",
+    "interlinear": [
+      {
+        "verse_number": 1,
+        "translations": {
+          "segond": "Je vous exhorte donc, moi, le prisonnier dans le Seigneur, à marcher d'une manière digne de la vocation qui vous a été adressée,",
+          "darby": "Je vous exhorte donc, moi, le prisonnier dans le Seigneur, à marcher d'une manière digne de l'appel dont vous avez été appelés,"
+        },
+        "interlinear": [
+          { "greek": "Παρακαλῶ", "gloss": "J'exhorte/J'appelle_auprès", "analyse": "Composé de *para-* (auprès de, à côté) et *kaleo* (appeler). L'exhortation n'est pas un ordre vertical imposé de l'extérieur avec condescendance. C'est l'invitation d'un Sujet éveillé qui se tient 'tout contre' (*para*) ses frères pour les ramener à l'Axe." },
+          { "greek": "οὖν", "gloss": "donc" },
+          { "greek": "ὑμᾶς", "gloss": "vous" },
+          { "greek": "ἐγὼ", "gloss": "moi" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "δέσμιος", "gloss": "prisonnier/lié", "analyse": "Du verbe *deo* (lier). Le Sujet éveillé n'est plus 'libre' au sens de l'autonomie égotique ou de l'anarchie mondaine. Il est 'lié' à l'Axe vertical de l'Incréé. Cette captivité spirituelle est paradoxalement l'état de libération absolue hors du chaos horizontal." },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "κυρίῳ", "gloss": "le_Seigneur" },
+          { "greek": "ἀξίως", "gloss": "dignement/avec_juste_poids", "analyse": "L'adverbe *axios* désigne originellement ce qui a un 'poids égal', ce qui fait contrepoids sur une balance. Marcher 'dignement', c'est aligner parfaitement son action horizontale pour qu'elle fasse exactement l'équilibre avec la fréquence de l'Incréé reçue." },
+          { "greek": "περιπατῆσαι", "gloss": "marcher", "analyse": "Composé de *peri-* (autour) et *pateo* (marcher). C'est l'action dans le monde duel (l'espace et le temps). L'enjeu n'est pas de fuir le monde, mais d'y marcher en étant tracté par la verticalité de l'Appel." },
+          { "greek": "τῆς", "gloss": "de_l'" },
+          { "greek": "κλήσεως", "gloss": "appel/vocation" },
+          { "greek": "ἧς", "gloss": "dont" },
+          { "greek": "ἐκλήθητε,", "gloss": "vous_fûtes_appelés" }
+        ]
+      },
+      {
+        "verse_number": 2,
+        "translations": {
+          "segond": "en toute humilité et douceur, avec patience, vous supportant les uns les autres avec charité,",
+          "darby": "avec toute humilité et douceur, avec longanimité, vous supportant l'un l'autre dans l'amour ;"
+        },
+        "interlinear": [
+          { "greek": "μετὰ", "gloss": "Avec" },
+          { "greek": "πάσης", "gloss": "toute" },
+          { "greek": "ταπεινοφροσύνης", "gloss": "humilité/abaissement_mental", "analyse": "Composé de *tapeinos* (bas) et *phren* (intellect/diaphragme). Ce n'est pas la modestie morale, qui est encore un masque de l'Ego. C'est le vidage de la machinerie mentale, le refus total de la supériorité vibratoire. L'intellect se fait vallée pour que l'Énergie puisse y couler sans résistance." },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "πραΰτητος,", "gloss": "douceur", "analyse": "La *prautes*. Elle définit l'état d'un être pacifié, dompté, qui ne génère plus aucune friction égotique dans le Monde duel. C'est la force tranquille de la non-réactivité." },
+          { "greek": "μετὰ", "gloss": "avec" },
+          { "greek": "μακροθυμίας,", "gloss": "patience/longanimité", "analyse": "Composé de *makros* (long/vaste) et *thymos* (passion/souffle). L'Ego a un souffle court, il réagit immédiatement au choc par la colère ou la panique. La *makrothymia* est la capacité de dilater l'espace intérieur pour absorber le choc sans se rompre." },
+          { "greek": "ἀνεχόμενοι", "gloss": "vous_supportant/vous_soutenant", "analyse": "Composé de *ana-* (vers le haut) et *echo* (tenir). Se supporter mutuellement n'est pas une résignation fataliste horizontale. C'est un acte de levage : tenir l'autre 'vers le haut' (*ana*), le soutenir dans l'Axe de l'Incréé malgré les défaillances de sa chair." },
+          { "greek": "ἀλλήλων", "gloss": "les_uns_les_autres" },
+          { "greek": "ἐν", "gloss": "dans/en" },
+          { "greek": "ἀγάπῃ,", "gloss": "amour" }
+        ]
+      },
+      {
+        "verse_number": 3,
+        "translations": {
+          "segond": "vous efforçant de conserver l'unité de l'esprit par le lien de la paix.",
+          "darby": "vous appliquant à garder l'unité de l'Esprit par le lien de la paix."
+        },
+        "interlinear": [
+          { "greek": "σπουδάζοντες", "gloss": "vous_efforçant/vous_hâtant", "analyse": "Du verbe *spoudazo* (se hâter, agir avec un zèle intense). La non-dualité n'est pas une oisiveté spirituelle. Elle exige une tension vibratoire maximale de la part du Sujet pour ne pas retomber dans l'inertie de la séparation." },
+          { "greek": "τηρεῖν", "gloss": "de_garder/conserver", "analyse": "Le verbe *tereo* (monter la garde, protéger précieusement). L'unité ne se crée pas (elle est donnée par l'Esprit), mais elle peut être perdue si l'Ego n'est pas maintenu à l'extérieur de la forteresse intérieure." },
+          { "greek": "τὴν", "gloss": "l'" },
+          { "greek": "ἑνότητα", "gloss": "unité", "analyse": "La racine *hen* (Un). Le but ultime de la voie paulinienne : la Non-Dualité pure. L'Esprit ne gère pas un rassemblement politique d'Egos séparés, il révèle la matrice unique et sans couture de l'Être." },
+          { "greek": "τοῦ", "gloss": "de_l'" },
+          { "greek": "πνεύματος", "gloss": "Esprit" },
+          { "greek": "ἐν", "gloss": "dans/par" },
+          { "greek": "τῷ", "gloss": "le" },
+          { "greek": "συνδέσμῳ", "gloss": "lien/jointure", "analyse": "Composé de *syn-* (ensemble) et *desmos* (lien/chaîne). Fait écho direct au *desmios* (prisonnier) du verset 1. La paix n'est pas l'absence de conflit, c'est la force centripète de l'Incréé qui lie indissolublement les fragments dans l'Unité." },
+          { "greek": "τῆς", "gloss": "de_la" },
+          { "greek": "εἰρήνης·", "gloss": "paix" }
+        ]
+      },
+      {
+        "verse_number": 4,
+        "translations": {
+          "segond": "Il y a un seul corps et un seul Esprit, comme aussi vous avez été appelés à une seule espérance par votre vocation ;",
+          "darby": "Il y a un seul corps et un seul Esprit, comme aussi vous avez été appelés pour une seule espérance de votre appel."
+        },
+        "interlinear": [
+          { "greek": "Ἓν", "gloss": "Un_seul", "analyse": "L'anaphore foudroyante de l'Un (*Hen*). C'est le battement de cœur du système métaphysique chrétien. Toute illusion de séparation doit s'effondrer devant la réalité du Un." },
+          { "greek": "σῶμα", "gloss": "corps" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἓν", "gloss": "un_seul" },
+          { "greek": "πνεῦμα,", "gloss": "Esprit" },
+          { "greek": "καθὼς", "gloss": "comme" },
+          { "greek": "καὶ", "gloss": "aussi" },
+          { "greek": "ἐκλήθητε", "gloss": "vous_avez_été_appelés" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "μιᾷ", "gloss": "une_seule" },
+          { "greek": "ἐλπίδι", "gloss": "espérance" },
+          { "greek": "τῆς", "gloss": "de_l'" },
+          { "greek": "κλήσεως", "gloss": "appel" },
+          { "greek": "ὑμῶν·", "gloss": "de_vous" }
+        ]
+      },
+      {
+        "verse_number": 5,
+        "translations": {
+          "segond": "il y a un seul Seigneur, une seule foi, un seul baptême,",
+          "darby": "un seul Seigneur, une seule foi, un seul baptême,"
+        },
+        "interlinear": [
+          { "greek": "εἷς", "gloss": "Un_seul", "analyse": "L'injonction mathématique de l'Incréé continue (4ème occurrence du Un). Devant la fragmentation infinie du Monde duel (la Légion), Paul oppose l'Unité implacable de la Vérité." },
+          { "greek": "κύριος,", "gloss": "Seigneur" },
+          { "greek": "μία", "gloss": "une_seule" },
+          { "greek": "πίστις,", "gloss": "foi", "analyse": "La *pistis* (l'adhésion, l'alignement). Puisqu'il n'y a qu'un seul Axe vertical (*Kyrios*), il ne peut y avoir qu'une seule modalité d'alignement. La foi n'est pas un catalogue de croyances diverses, c'est l'unique canal de réceptivité du Sujet." },
+          { "greek": "ἓν", "gloss": "un_seul" },
+          { "greek": "βάπτισμα,", "gloss": "baptême", "analyse": "Du verbe *baptizo* (plonger, immerger). Topographie de la kénose absolue. Il n'y a qu'une seule façon de naître à l'Incréé : la noyade de l'Ego, l'immersion totale qui engloutit l'identité de surface pour libérer le Sujet profond." }
+        ]
+      },
+      {
+        "verse_number": 6,
+        "translations": {
+          "segond": "un seul Dieu et Père de tous, qui est au-dessus de tous, et parmi tous, et en tous.",
+          "darby": "un seul Dieu et Père de tous, qui est au-dessus de tous, et par tous, et en nous tous."
+        },
+        "interlinear": [
+          { "greek": "εἷς", "gloss": "Un_seul", "analyse": "7ème et ultime occurrence du mot 'Un' dans cette strophe. Le sommet de la pyramide ontologique." },
+          { "greek": "θεὸς", "gloss": "Dieu" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "πατὴρ", "gloss": "Père" },
+          { "greek": "πάντων,", "gloss": "de_tous" },
+          { "greek": "ὁ", "gloss": "celui" },
+          { "greek": "ἐπὶ", "gloss": "sur/au-dessus_de", "analyse": "La topographie de la Transcendance. L'Incréé règne souverainement *au-dessus* des contingences vibratoires de la matière." },
+          { "greek": "πάντων", "gloss": "tous" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "διὰ", "gloss": "à_travers", "analyse": "La topographie de la Pénétration dynamique. L'Incréé n'est pas un concept distant : Il traverse, circule et irradie *à travers* toute l'horizontalité du réel." },
+          { "greek": "πάντων", "gloss": "tous" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἐν", "gloss": "dans/en", "analyse": "La topographie de l'Immanence intime. L'Incréé réside au cœur même du centre (*naos*) de chaque Sujet. Transcendance (*epi*), Omniprésence (*dia*) et Immanence (*en*) sont ici réunies dans une formule non-duelle fulgurante." },
+          { "greek": "πᾶσιν.", "gloss": "tous" }
+        ]
+      },
+      {
+        "verse_number": 7,
+        "translations": {
+          "segond": "Mais à chacun de nous la grâce a été donnée selon la mesure du don de Christ.",
+          "darby": "Mais à chacun de nous la grâce a été donnée selon la mesure du don du Christ."
+        },
+        "interlinear": [
+          { "greek": "Ἑνὶ", "gloss": "À_un_seul/À_chacun" },
+          { "greek": "δὲ", "gloss": "or/mais" },
+          { "greek": "ἑκάστῳ", "gloss": "chacun" },
+          { "greek": "ἡμῶν", "gloss": "de_nous" },
+          { "greek": "ἐδόθη", "gloss": "fut_donnée" },
+          { "greek": "ἡ", "gloss": "la" },
+          { "greek": "χάρις", "gloss": "grâce" },
+          { "greek": "κατὰ", "gloss": "selon/vers_le_bas", "analyse": "Le préfixe *kata-* marque la trajectoire de l'effusion. La Grâce descend de la Source pour épouser la forme de celui qui la reçoit." },
+          { "greek": "τὸ", "gloss": "la" },
+          { "greek": "μέτρον", "gloss": "mesure", "analyse": "Le *metron*. Paradoxe magnifique : l'Unité (les 7 'Un' précédents) ne produit pas l'uniformité. La Grâce pure se fragmente géométriquement pour s'adapter à l'architecture spirituelle unique de chaque Sujet. Chacun reçoit l'Énergie divine selon sa propre capacité d'accueil." },
+          { "greek": "τῆς", "gloss": "du" },
+          { "greek": "δωρεᾶς", "gloss": "don/gratuité" },
+          { "greek": "τοῦ", "gloss": "de_le" },
+          { "greek": "Χριστοῦ.", "gloss": "Christ" }
+        ]
+      }
+    ],
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 6 - διὰ πάντων : Segond traduit tristement par 'parmi tous', ce qui spatialise Dieu comme un simple élément posé au milieu des autres. Darby est plus précis avec 'par tous'. Mais le grec *dia* exprime un mouvement transperçant, une action 'à travers' le tout. L'Énergie divine traverse le cosmos, elle est le fluide vital qui irrigue l'intérieur de la réalité.\n• Verset 2 (partie 1) - ταπεινοφροσύνης : Souvent traduit par 'humilité'. L'étymologie grecque (*tapeinos* = bas, *phren* = le mental/l'intellect) désigne littéralement un 'mental abaissé'. L'Ego est gonflé de certitudes cérébrales (le bruit mental) ; l'abaissement de ce bruit est la condition sine qua non de la réceptivité métaphysique.\n\nAnalyse spirituelle :\nCette péricope offre l'architecture métaphysique de la Non-Dualité paulinienne. \n\nL'apôtre écrit depuis sa prison (*desmios*). Il montre que l'enfermement physique dans le Monde duel n'entrave en rien la liberté du Sujet éveillé, qui est lié à l'Axe de l'Incréé. Mais pour que cette Unité s'incarne dans la communauté humaine, elle exige une géométrie comportementale drastique : le Sujet doit abaisser son intellect (*tapeinophrosyne*), absorber le choc du temps (*makrothymia*), et exercer un mouvement de levage ascendant vers l'autre (*ana-echo*). Sans cette hygiène spatiale, l'Ego reprend instantanément ses droits et recrée la division.\n\nLes versets 4 à 6 déclenchent ensuite une scansion hypnotique du chiffre UN (prononcé 7 fois). Face à la Légion démoniaque (l'éclatement horizontal de l'Ego), Paul martèle la vérité du Royaume : un seul Corps, un seul Esprit, une seule Espérance, un seul Seigneur, une seule Foi, un seul Baptême, un seul Dieu. Le verset 6 en donne la cartographie absolue : Dieu est la Transcendance suprême (*Epi*, sur), la Présence traversante (*Dia*, à travers), et l'Immanence la plus intime (*En*, dans).\n\nCependant, le miracle de cette Non-Dualité culmine au verset 7 : cette Unité d'Essence n'écrase pas la multiplicité de l'existence. L'Incréé se verse 'sur mesure' (*kata to metron*) dans la coupe de chaque Sujet. Il n'y a qu'une seule Lumière, mais chaque âme en est un vitrail distinct, révélant la Beauté de l'Un par la symphonie de ses réfractions."
+  }
 }
-}  
