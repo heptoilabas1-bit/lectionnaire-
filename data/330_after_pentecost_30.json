@@ -1,82 +1,392 @@
 {
   "gospel": {
     "reference": "Luc 18, 18-27",
-    "title": "Le Jeune Notable Riche : L'Obstacle des Richesses",
+    "title": "Le Chef Riche : L'Illusion de la Vertu Cumulative et le Vide de la Kénose",
     "interlinear": [
       {
         "verse_number": 18,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Καὶ</span><span class='greek-word'>ἐπηρώτησέ</span><span class='greek-word'>τις</span><span class='greek-word'>αὐτὸν</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>interrogea</span><span class='french-word'>un</span><span class='french-word'>le</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>un</span><span class='french-word'>notable</span><span class='french-word'>l'interrogea,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἄρχων</span><span class='greek-word'>λέγων·</span><span class='greek-word'>Διδάσκαλε</span><span class='greek-word'>ἀγαθέ,</span></p><p class='inter-segond'><span class='french-word'>notable</span><span class='french-word'>disant :</span><span class='french-word'>Maître</span><span class='french-word'>bon,</span></p><p class='inter-darby'><span class='french-word'>disant :</span><span class='french-word'>« Bon</span><span class='french-word'>Maître,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τί</span><span class='greek-word'>ποιήσας</span><span class='greek-word'>ζωὴν</span><span class='greek-word'>αἰώνιον</span></p><p class='inter-segond'><span class='french-word'>que</span><span class='french-word'>ayant_fait</span><span class='french-word'>vie</span><span class='french-word'>éternelle</span></p><p class='inter-darby'><span class='french-word'>que</span><span class='french-word'>ferai-je</span><span class='french-word'>pour_hériter</span><span class='french-word'>de_la_vie</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>κληρονομήσω;</span></p><p class='inter-segond'><span class='french-word'>hériterai-je ?</span></p><p class='inter-darby'><span class='french-word'>éternelle ? »</span></p></div>"
+        "translations": {
+          "segond": "Un chef interrogea Jésus, et dit : Bon maître, que dois-je faire pour hériter la vie éternelle ?",
+          "darby": "Et un certain chef l'interrogea, disant : Bon maître, que faut-il que j'aie fait pour hériter de la vie éternelle ?"
+        },
+        "interlinear": [
+          { "greek": "Καὶ", "gloss": "Et" },
+          { "greek": "ἐπηρώτησέν", "gloss": "interrogea" },
+          { "greek": "τις", "gloss": "un_certain" },
+          { "greek": "αὐτὸν", "gloss": "lui" },
+          { "greek": "ἄρχων", "gloss": "chef/prince", "analyse": "Le mot *archon*. L'homme n'est pas seulement riche, il occupe le sommet de la hiérarchie du Monde duel. Il maîtrise le système horizontal (social, économique et religieux)." },
+          { "greek": "λέγων·", "gloss": "disant" },
+          { "greek": "Διδάσκαλε", "gloss": "Maître/Enseignant" },
+          { "greek": "ἀγαθέ,", "gloss": "bon", "analyse": "L'*Agathos* (le Bon/le Bien). Le chef utilise ce mot comme un simple compliment social, une flatterie éthique. L'Ego jauge les autres selon une échelle de valeurs horizontales (bon, moins bon, mauvais)." },
+          { "greek": "τί", "gloss": "quoi/que" },
+          { "greek": "ποιήσας", "gloss": "ayant_fait", "analyse": "Le verbe *poieo* (faire/fabriquer). La faille métaphysique de la question. L'Ego est convaincu que la vie éternelle est un salaire que l'on obtient par une 'action' mécanique, une fabrication (*poiesis*) de bonnes œuvres." },
+          { "greek": "ζωὴν", "gloss": "la_vie" },
+          { "greek": "αἰώνιον", "gloss": "éternelle", "analyse": "La *Zoe aionios*. La vie de l'Incréé, qui transcende le temps. L'absurdité du chef est de croire qu'il peut capturer l'Intemporel avec des méthodes temporelles." },
+          { "greek": "κληρονομήσω;", "gloss": "hériterai-je", "analyse": "Le verbe *kleronomeo*. L'Ego veut ajouter le Royaume divin à son patrimoine, comme un domaine supplémentaire à annexer." }
+        ]
       },
       {
         "verse_number": 19,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>εἶπε</span><span class='greek-word'>δὲ</span><span class='greek-word'>αὐτῷ</span><span class='greek-word'>ὁ</span><span class='greek-word'>Ἰησοῦς·</span></p><p class='inter-segond'><span class='french-word'>Dit</span><span class='french-word'>mais</span><span class='french-word'>à_lui</span><span class='french-word'>le</span><span class='french-word'>Jésus :</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>Jésus</span><span class='french-word'>lui</span><span class='french-word'>dit :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Τί</span><span class='greek-word'>με</span><span class='greek-word'>λέγεις</span><span class='greek-word'>ἀγαθόν;</span></p><p class='inter-segond'><span class='french-word'>Pourquoi</span><span class='french-word'>moi</span><span class='french-word'>dis-tu</span><span class='french-word'>bon ?</span></p><p class='inter-darby'><span class='french-word'>« Pourquoi</span><span class='french-word'>m'appelles-tu</span><span class='french-word'>bon ?</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>οὐδεὶς</span><span class='greek-word'>ἀγαθὸς</span><span class='greek-word'>εἰ</span><span class='greek-word'>μὴ</span><span class='greek-word'>εἷς</span></p><p class='inter-segond'><span class='french-word'>nul_n'est</span><span class='french-word'>bon</span><span class='french-word'>si</span><span class='french-word'>ce_n'est</span><span class='french-word'>un_seul,</span></p><p class='inter-darby'><span class='french-word'>Nul_n'est</span><span class='french-word'>bon,</span><span class='french-word'>sinon</span><span class='french-word'>un_seul,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὁ</span><span class='greek-word'>Θεός.</span></p><p class='inter-segond'><span class='french-word'>le</span><span class='french-word'>Dieu.</span></p><p class='inter-darby'><span class='french-word'>Dieu.</span></p></div>"
+        "translations": {
+          "segond": "Jésus lui répondit : Pourquoi m'appelles-tu bon ? Il n'y a de bon que Dieu seul.",
+          "darby": "Et Jésus lui dit : Pourquoi m'appelles-tu bon ? Nul n'est bon, sinon un seul, Dieu."
+        },
+        "interlinear": [
+          { "greek": "εἶπεν", "gloss": "Dit" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "αὐτῷ", "gloss": "à_lui" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "Ἰησοῦς·", "gloss": "Jésus" },
+          { "greek": "Τί", "gloss": "Pourquoi" },
+          { "greek": "με", "gloss": "me" },
+          { "greek": "λέγεις", "gloss": "dis-tu/appelles-tu" },
+          { "greek": "ἀγαθόν;", "gloss": "bon", "analyse": "Jésus fracasse immédiatement le système de valeurs de son interlocuteur. Il refuse d'être classé sur l'échelle morale de l'Ego." },
+          { "greek": "οὐδεὶς", "gloss": "nul/aucun" },
+          { "greek": "ἀγαθὸς", "gloss": "bon" },
+          { "greek": "εἰ", "gloss": "si" },
+          { "greek": "μὴ", "gloss": "non" },
+          { "greek": "εἷς", "gloss": "un_seul", "analyse": "L'affirmation absolue de la Non-Dualité : *Heis* (UN). Le Bien n'est pas un comportement éthique, c'est l'Incréé Lui-même. En dehors de l'Axe de l'Un, il n'y a que la fragmentation de la matière, qui ne peut jamais être 'bonne' en soi." },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "θεός.", "gloss": "Dieu" }
+        ]
       },
       {
         "verse_number": 20,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>τὰς</span><span class='greek-word'>ἐντολὰς</span><span class='greek-word'>οἶδας·</span></p><p class='inter-segond'><span class='french-word'>Les</span><span class='french-word'>commandements</span><span class='french-word'>tu_connais :</span></p><p class='inter-darby'><span class='french-word'>Tu_connais</span><span class='french-word'>les</span><span class='french-word'>commandements :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Μὴ</span><span class='greek-word'>μοιχεύσῃς,</span><span class='greek-word'>Μὴ</span><span class='greek-word'>φονεύσῃς,</span></p><p class='inter-segond'><span class='french-word'>Ne_commets_point</span><span class='french-word'>d'adultère,</span><span class='french-word'>Ne_tue_point,</span></p><p class='inter-darby'><span class='french-word'>« Ne_commets_pas_adultère ;</span><span class='french-word'>ne_tue_pas ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Μὴ</span><span class='greek-word'>κλέψῃς,</span><span class='greek-word'>Μὴ</span><span class='greek-word'>ψευδομαρτυρήσῃς,</span></p><p class='inter-segond'><span class='french-word'>Ne_dérobe_point,</span><span class='french-word'>Ne_dis_point_de_faux_témoignage,</span></p><p class='inter-darby'><span class='french-word'>ne_dérobe_pas ;</span><span class='french-word'>ne_dis_pas_de_faux_témoignage ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Τίμα</span><span class='greek-word'>τὸν</span><span class='greek-word'>πατέρα</span><span class='greek-word'>σου</span><span class='greek-word'>καὶ</span></p><p class='inter-segond'><span class='french-word'>Honore</span><span class='french-word'>ton</span><span class='french-word'>le</span><span class='french-word'>père</span><span class='french-word'>et</span></p><p class='inter-darby'><span class='french-word'>honore</span><span class='french-word'>ton</span><span class='french-word'>père</span><span class='french-word'>et</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τὴν</span><span class='greek-word'>μητέρα.</span></p><p class='inter-segond'><span class='french-word'>ta</span><span class='french-word'>la</span><span class='french-word'>mère.</span></p><p class='inter-darby'><span class='french-word'>ta</span><span class='french-word'>mère ».</span></p></div>"
+        "translations": {
+          "segond": "Tu connais les commandements : Tu ne commettras point d'adultère ; tu ne tueras point ; tu ne déroberas point ; tu ne diras point de faux témoignage ; honore ton père et ta mère.",
+          "darby": "Tu sais les commandements : Ne commets point adultère ; ne tue point ; ne vole point ; ne dis point de faux témoignage ; honore ton père et ta mère."
+        },
+        "interlinear": [
+          { "greek": "τὰς", "gloss": "Les" },
+          { "greek": "ἐντολὰς", "gloss": "commandements", "analyse": "Jésus descend volontairement sur le terrain de son interlocuteur : le terrain légal. Il énumère les barrières de base qui empêchent l'entropie sociétale totale." },
+          { "greek": "οἶδας·", "gloss": "tu_sais/connais" },
+          { "greek": "Μὴ", "gloss": "Ne...pas" },
+          { "greek": "μοιχεύσῃς,", "gloss": "commets_d'adultère" },
+          { "greek": "Μὴ", "gloss": "Ne...pas" },
+          { "greek": "φονεύσῃς,", "gloss": "tue" },
+          { "greek": "Μὴ", "gloss": "Ne...pas" },
+          { "greek": "κλέψῃς,", "gloss": "vole" },
+          { "greek": "Μὴ", "gloss": "Ne...pas" },
+          { "greek": "ψευδομαρτυρήσῃς,", "gloss": "porte_de_faux_témoignage" },
+          { "greek": "Τίμα", "gloss": "Honore" },
+          { "greek": "τὸν", "gloss": "le" },
+          { "greek": "πατέρα", "gloss": "père" },
+          { "greek": "σου", "gloss": "de_toi" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "τὴν", "gloss": "la" },
+          { "greek": "μητέρα.", "gloss": "mère" }
+        ]
       },
       {
         "verse_number": 21,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ὁ</span><span class='greek-word'>δὲ</span><span class='greek-word'>εἶπε·</span><span class='greek-word'>Ταῦτα</span><span class='greek-word'>πάντα</span></p><p class='inter-segond'><span class='french-word'>Il</span><span class='french-word'>mais</span><span class='french-word'>dit :</span><span class='french-word'>Celles-ci</span><span class='french-word'>toutes</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>il</span><span class='french-word'>dit :</span><span class='french-word'>« J'ai_gardé</span><span class='french-word'>toutes</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐφυλαξάμην</span><span class='greek-word'>ἐκ</span><span class='greek-word'>νεότητός</span><span class='greek-word'>μου.</span></p><p class='inter-segond'><span class='french-word'>j'ai_observées</span><span class='french-word'>dès</span><span class='french-word'>ma</span><span class='french-word'>jeunesse.</span></p><p class='inter-darby'><span class='french-word'>ces_choses</span><span class='french-word'>dès</span><span class='french-word'>ma</span><span class='french-word'>jeunesse ».</span></p></div>"
+        "translations": {
+          "segond": "J'ai, dit-il, observé toutes ces choses dès ma jeunesse.",
+          "darby": "Et il dit : J'ai gardé toutes ces choses dès ma jeunesse."
+        },
+        "interlinear": [
+          { "greek": "ὁ", "gloss": "Le/Il" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "εἶπεν·", "gloss": "dit" },
+          { "greek": "Ταῦτα", "gloss": "Ces_choses" },
+          { "greek": "πάντα", "gloss": "toutes" },
+          { "greek": "ἐφύλαξα", "gloss": "j'ai_gardées/observées", "analyse": "Le verbe *phylasso* (monter la garde, protéger comme une forteresse). L'Ego spirituel est un gardien obsédé par les limites de son enclos moral. Il a parfaitement protégé son 'territoire' éthique, mais cette forteresse est vide de l'Incréé." },
+          { "greek": "ἐκ", "gloss": "depuis" },
+          { "greek": "νεότητος.", "gloss": "la_jeunesse" }
+        ]
       },
       {
         "verse_number": 22,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἀκούσας</span><span class='greek-word'>δὲ</span><span class='greek-word'>ταῦτα</span><span class='greek-word'>ὁ</span></p><p class='inter-segond'><span class='french-word'>Ayant_entendu</span><span class='french-word'>mais</span><span class='french-word'>cela</span><span class='french-word'>le</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>Jésus,</span><span class='french-word'>ayant_entendu</span><span class='french-word'>cela,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Ἰησοῦς</span><span class='greek-word'>εἶπεν</span><span class='greek-word'>αὐτῷ·</span><span class='greek-word'>Ἔτι</span></p><p class='inter-segond'><span class='french-word'>Jésus</span><span class='french-word'>dit</span><span class='french-word'>à_lui :</span><span class='french-word'>Encore</span></p><p class='inter-darby'><span class='french-word'>lui</span><span class='french-word'>dit :</span><span class='french-word'>« Il_te</span><span class='french-word'>manque</span><span class='french-word'>encore</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἕν</span><span class='greek-word'>σοι</span><span class='greek-word'>λείπει·</span><span class='greek-word'>πάντα</span><span class='greek-word'>ὅσα</span></p><p class='inter-segond'><span class='french-word'>une_chose</span><span class='french-word'>te</span><span class='french-word'>manque :</span><span class='french-word'>tout</span><span class='french-word'>ce_que</span></p><p class='inter-darby'><span class='french-word'>une_chose :</span><span class='french-word'>vends</span><span class='french-word'>tout</span><span class='french-word'>ce_que</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἔχεις</span><span class='greek-word'>πώλησον</span><span class='greek-word'>καὶ</span><span class='greek-word'>διάδος</span></p><p class='inter-segond'><span class='french-word'>tu_as</span><span class='french-word'>vends-le</span><span class='french-word'>et</span><span class='french-word'>distribue-le</span></p><p class='inter-darby'><span class='french-word'>tu_as,</span><span class='french-word'>et</span><span class='french-word'>distribue-le</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πτωχοῖς,</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἕξεις</span><span class='greek-word'>θησαυρὸν</span></p><p class='inter-segond'><span class='french-word'>aux_pauvres,</span><span class='french-word'>et</span><span class='french-word'>tu_auras</span><span class='french-word'>un_trésor</span></p><p class='inter-darby'><span class='french-word'>aux</span><span class='french-word'>pauvres,</span><span class='french-word'>et</span><span class='french-word'>tu_auras</span><span class='french-word'>un_trésor</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐν</span><span class='greek-word'>οὐρανοῖς,</span><span class='greek-word'>καὶ</span><span class='greek-word'>δεῦρο</span></p><p class='inter-segond'><span class='french-word'>dans</span><span class='french-word'>les_cieux,</span><span class='french-word'>et</span><span class='french-word'>viens,</span></p><p class='inter-darby'><span class='french-word'>dans</span><span class='french-word'>les</span><span class='french-word'>cieux ;</span><span class='french-word'>et</span><span class='french-word'>viens,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀκολούθει</span><span class='greek-word'>μοι.</span></p><p class='inter-segond'><span class='french-word'>suis-moi.</span></p><p class='inter-darby'><span class='french-word'>suis-moi ».</span></p></div>"
+        "translations": {
+          "segond": "Jésus, ayant entendu cela, lui dit : Il te manque encore une chose ; vends tout ce que tu as, distribue-le aux pauvres, et tu auras un trésor dans les cieux. Puis, viens, et suis-moi.",
+          "darby": "Et Jésus, ayant entendu cela, lui dit : Une chose te manque encore : vends tout ce que tu as, et distribue-le aux pauvres, et tu auras un trésor dans les cieux ; et viens, suis-moi."
+        },
+        "interlinear": [
+          { "greek": "ἀκούσας", "gloss": "Ayant_entendu" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
+          { "greek": "εἶπεν", "gloss": "dit" },
+          { "greek": "αὐτῷ·", "gloss": "à_lui" },
+          { "greek": "Ἔτι", "gloss": "Encore" },
+          { "greek": "ἕν", "gloss": "un_seul/une_chose" },
+          { "greek": "σοι", "gloss": "à_toi" },
+          { "greek": "λείπει·", "gloss": "manque/fait_défaut", "analyse": "Le verbe *leipo* (être déficient, laisser un vide). Jésus pointe la faille métaphysique : malgré l'accumulation parfaite de richesses et de vertus morales, il reste un trou noir au centre de l'Ego. L'accumulation horizontale ne peut jamais combler ce vide." },
+          { "greek": "πάντα", "gloss": "tout" },
+          { "greek": "ὅσα", "gloss": "autant_que" },
+          { "greek": "ἔχεις", "gloss": "tu_as/tu_possèdes" },
+          { "greek": "πώλησον", "gloss": "vends/liquide", "analyse": "L'exigence de la *Kénose* (le vidage). Il ne s'agit pas d'un acte de charité pour avoir bonne conscience, mais d'une liquidation totale des ancrages géométriques qui lient l'Ego à la terre." },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "διάδος", "gloss": "distribue/donne_à_travers" },
+          { "greek": "πτωχοῖς,", "gloss": "aux_pauvres" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἕξεις", "gloss": "tu_auras" },
+          { "greek": "θησαυρὸν", "gloss": "un_trésor" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "τοῖς", "gloss": "les" },
+          { "greek": "οὐρανοῖς,", "gloss": "cieux" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "δεῦρο", "gloss": "viens_ici", "analyse": "L'appel de l'Axe. Après le vidage (*vends*), l'attraction centripète." },
+          { "greek": "ἀκολούθει", "gloss": "suis/fais_route_avec", "analyse": "Le verbe *akoloutheo*. C'est le mouvement le long de la voie verticale. Suivre le Christ, c'est aligner sa propre géométrie délestée sur l'Axe de l'Incréé." },
+          { "greek": "μοι.", "gloss": "moi" }
+        ]
       },
-      {
+    {
         "verse_number": 23,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ὁ</span><span class='greek-word'>δὲ</span><span class='greek-word'>ἀκούσας</span><span class='greek-word'>ταῦτα</span></p><p class='inter-segond'><span class='french-word'>Lui</span><span class='french-word'>mais</span><span class='french-word'>ayant_entendu</span><span class='french-word'>cela</span></p><p class='inter-darby'><span class='french-word'>Mais</span><span class='french-word'>lui,</span><span class='french-word'>ayant_entendu</span><span class='french-word'>cela,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>περίλυπος</span><span class='greek-word'>ἐγένετο·</span><span class='greek-word'>ἦν</span><span class='greek-word'>γὰρ</span></p><p class='inter-segond'><span class='french-word'>tout_triste</span><span class='french-word'>il_devint ;</span><span class='french-word'>il_était</span><span class='french-word'>car</span></p><p class='inter-darby'><span class='french-word'>devint</span><span class='french-word'>fort_triste,</span><span class='french-word'>car</span><span class='french-word'>il_était</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πλούσιος</span><span class='greek-word'>σφόδρα.</span></p><p class='inter-segond'><span class='french-word'>riche</span><span class='french-word'>très.</span></p><p class='inter-darby'><span class='french-word'>extrêmement</span><span class='french-word'>riche.</span></p></div>"
+        "translations": {
+          "segond": "Lorsqu'il entendit ces mots, il devint tout triste ; car il était très riche.",
+          "darby": "Mais lui, ayant entendu ces choses, devint fort triste, car il était extrêmement riche."
+        },
+        "interlinear": [
+          { "greek": "ὁ", "gloss": "Lui" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "ἀκούσας", "gloss": "ayant_entendu" },
+          { "greek": "ταῦτα", "gloss": "ces_choses" },
+          { "greek": "περίλυπος", "gloss": "entouré_de_tristesse/fort_triste", "analyse": "Le mot *peri-lypos*. Composé de *peri* (autour) et *lype* (chagrin/douleur). La tristesse n'est pas un simple sentiment, c'est un étouffement spatial. L'Ego se sent encerclé, pris au piège entre l'appel vertical de l'Incréé et la force de gravité de ses propres possessions horizontales." },
+          { "greek": "ἐγενήθη,", "gloss": "devint" },
+          { "greek": "ἦν", "gloss": "il_était" },
+          { "greek": "γὰρ", "gloss": "car" },
+          { "greek": "πλούσιος", "gloss": "riche" },
+          { "greek": "σφόδρα.", "gloss": "extrêmement", "analyse": "L'adverbe *sphodra* (excessivement, de manière dense). L'opacité maximale. Sa densité matérielle est telle qu'il ne peut générer l'élan ascendant nécessaire pour suivre l'Axe." }
+        ]
       },
       {
         "verse_number": 24,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἰδὼν</span><span class='greek-word'>δὲ</span><span class='greek-word'>αὐτὸν</span><span class='greek-word'>ὁ</span><span class='greek-word'>Ἰησοῦς</span></p><p class='inter-segond'><span class='french-word'>Ayant_vu</span><span class='french-word'>mais</span><span class='french-word'>lui</span><span class='french-word'>le</span><span class='french-word'>Jésus</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>Jésus,</span><span class='french-word'>le</span><span class='french-word'>voyant</span><span class='french-word'>devenu</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>περίλυπον</span><span class='greek-word'>γενόμενον</span><span class='greek-word'>εἶπε·</span></p><p class='inter-segond'><span class='french-word'>tout_triste</span><span class='french-word'>devenu</span><span class='french-word'>dit :</span></p><p class='inter-darby'><span class='french-word'>fort_triste,</span><span class='french-word'>dit :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Πῶς</span><span class='greek-word'>δυσκόλως</span><span class='greek-word'>οἱ</span><span class='greek-word'>τὰ</span></p><p class='inter-segond'><span class='french-word'>Qu'</span><span class='french-word'>avec_difficulté</span><span class='french-word'>ceux</span><span class='french-word'>les</span></p><p class='inter-darby'><span class='french-word'>« Combien</span><span class='french-word'>difficilement</span><span class='french-word'>ceux</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>χρήματα</span><span class='greek-word'>ἔχοντες</span><span class='greek-word'>εἰσελεύσονται</span></p><p class='inter-segond'><span class='french-word'>richesses</span><span class='french-word'>ayant</span><span class='french-word'>entreront</span></p><p class='inter-darby'><span class='french-word'>qui</span><span class='french-word'>ont</span><span class='french-word'>des</span><span class='french-word'>biens</span><span class='french-word'>entreront-ils</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>εἰς</span><span class='greek-word'>τὴν</span><span class='greek-word'>βασιλείαν</span><span class='greek-word'>τοῦ</span></p><p class='inter-segond'><span class='french-word'>dans</span><span class='french-word'>le</span><span class='french-word'>royaume</span><span class='french-word'>de_le</span></p><p class='inter-darby'><span class='french-word'>dans</span><span class='french-word'>le</span><span class='french-word'>royaume</span><span class='french-word'>de</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Θεοῦ.</span></p><p class='inter-segond'><span class='french-word'>Dieu.</span></p><p class='inter-darby'><span class='french-word'>Dieu !</span></p></div>"
+        "translations": {
+          "segond": "Jésus, voyant qu'il était devenu tout triste, dit : Qu'il est difficile à ceux qui ont des richesses d'entrer dans le royaume de Dieu !",
+          "darby": "Et Jésus, le voyant devenu fort triste, dit : Combien difficilement ceux qui ont des biens entreront-ils dans le royaume de Dieu !"
+        },
+        "interlinear": [
+          { "greek": "ἰδὼν", "gloss": "Ayant_vu" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "αὐτὸν", "gloss": "lui" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
+          { "greek": "εἶπεν·", "gloss": "dit" },
+          { "greek": "Πῶς", "gloss": "Comment/Combien" },
+          { "greek": "δυσκόλως", "gloss": "difficilement", "analyse": "L'adverbe *dyskolos*. Étymologiquement : ce qui a du mal à digérer, ce qui est bloqué. La richesse n'est pas un péché moral, c'est une congestion énergétique. L'Ego gorgé de matière est 'constipé' métaphysiquement ; il ne peut plus circuler." },
+          { "greek": "οἱ", "gloss": "ceux" },
+          { "greek": "τὰ", "gloss": "les" },
+          { "greek": "χρήματα", "gloss": "biens/richesses", "analyse": "Le mot *chremata* (ce dont on a l'usage, l'utilité, les affaires). Le Monde duel n'évalue les choses que par leur 'utilité' (*chreia*). Jésus dénonce cette hypnose utilitariste qui réduit la Vie à un amas d'objets à gérer." },
+          { "greek": "ἔχοντες", "gloss": "ayant" },
+          { "greek": "εἰς", "gloss": "dans" },
+          { "greek": "τὴν", "gloss": "le" },
+          { "greek": "βασιλείαν", "gloss": "royaume" },
+          { "greek": "τοῦ", "gloss": "de_le" },
+          { "greek": "θεοῦ", "gloss": "Dieu" },
+          { "greek": "εἰσελεύσονται.", "gloss": "entreront" }
+        ]
       },
       {
         "verse_number": 25,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>εὐκοπώτερον</span><span class='greek-word'>γάρ</span><span class='greek-word'>ἐστι</span></p><p class='inter-segond'><span class='french-word'>Plus_facile</span><span class='french-word'>car</span><span class='french-word'>il_est</span></p><p class='inter-darby'><span class='french-word'>Car</span><span class='french-word'>il_est_plus_facile</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>κάμηλον</span><span class='greek-word'>διὰ</span><span class='greek-word'>τρυμαλιᾶς</span></p><p class='inter-segond'><span class='french-word'>qu'un_chameau</span><span class='french-word'>par</span><span class='french-word'>le_trou</span></p><p class='inter-darby'><span class='french-word'>qu'un_chameau</span><span class='french-word'>entre</span><span class='french-word'>par</span><span class='french-word'>le_trou</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ῥαφίδος</span><span class='greek-word'>εἰσελθεῖν</span><span class='greek-word'>ἢ</span></p><p class='inter-segond'><span class='french-word'>d'une_aiguille</span><span class='french-word'>passe</span><span class='french-word'>que</span></p><p class='inter-darby'><span class='french-word'>d'une_aiguille,</span><span class='french-word'>qu'il_ne_l'est</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πλούσιον</span><span class='greek-word'>εἰς</span><span class='greek-word'>τὴν</span><span class='greek-word'>βασιλείαν</span></p><p class='inter-segond'><span class='french-word'>un_riche</span><span class='french-word'>dans</span><span class='french-word'>le</span><span class='french-word'>royaume</span></p><p class='inter-darby'><span class='french-word'>qu'un_riche</span><span class='french-word'>entre</span><span class='french-word'>dans</span><span class='french-word'>le</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τοῦ</span><span class='greek-word'>Θεοῦ</span><span class='greek-word'>εἰσελθεῖν.</span></p><p class='inter-segond'><span class='french-word'>de_le</span><span class='french-word'>Dieu</span><span class='french-word'>n'entre.</span></p><p class='inter-darby'><span class='french-word'>royaume</span><span class='french-word'>de</span><span class='french-word'>Dieu ».</span></p></div>"
+        "translations": {
+          "segond": "Car il est plus facile à un chameau de passer par le trou d'une aiguille qu'à un riche d'entrer dans le royaume de Dieu.",
+          "darby": "Car il est plus facile qu'un chameau entre par un trou d'aiguille, qu'un riche n'entre dans le royaume de Dieu."
+        },
+        "interlinear": [
+          { "greek": "εὐκοπώτερον", "gloss": "plus_facile", "analyse": "Composé de *eu* (bien) et *kopos* (le labeur/la peine). Ce qui demande moins d'effort entropique." },
+          { "greek": "γάρ", "gloss": "car" },
+          { "greek": "ἐστιν", "gloss": "il_est" },
+          { "greek": "κάμηλον", "gloss": "un_chameau", "analyse": "La bête de somme par excellence, l'animal massif conçu pour traverser les déserts arides du Monde duel. C'est l'image de l'Ego : boursouflé, lourd, adapté à la survie horizontale mais incapable de vol vertical." },
+          { "greek": "διὰ", "gloss": "à_travers" },
+          { "greek": "τρήματος", "gloss": "un_trou", "analyse": "Le point de compression absolu." },
+          { "greek": "βελόνης", "gloss": "d'une_aiguille", "analyse": "L'aiguille représente la *Porte Étroite*, la Singularité métaphysique. Le passage de la dualité à l'Unité exige une désintégration de toute densité. Rien de ce qui est lourd et composite ne peut franchir le chas de l'Incréé." },
+          { "greek": "εἰσελθεῖν", "gloss": "d'entrer" },
+          { "greek": "ἢ", "gloss": "que" },
+          { "greek": "πλούσιον", "gloss": "un_riche" },
+          { "greek": "εἰς", "gloss": "dans" },
+          { "greek": "τὴν", "gloss": "le" },
+          { "greek": "βασιλείαν", "gloss": "royaume" },
+          { "greek": "τοῦ", "gloss": "de_le" },
+          { "greek": "θεοῦ", "gloss": "Dieu" },
+          { "greek": "εἰσελθεῖν.", "gloss": "d'entrer" }
+        ]
       },
       {
         "verse_number": 26,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>εἶπον</span><span class='greek-word'>δὲ</span><span class='greek-word'>οἱ</span><span class='greek-word'>ἀκούσαντες·</span></p><p class='inter-segond'><span class='french-word'>Dirent</span><span class='french-word'>mais</span><span class='french-word'>ceux</span><span class='french-word'>ayant_entendu :</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>ceux</span><span class='french-word'>qui</span><span class='french-word'>l'entendaient</span><span class='french-word'>dirent :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Καὶ</span><span class='greek-word'>τίς</span><span class='greek-word'>δύναται</span><span class='greek-word'>σωθῆναι;</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>qui</span><span class='french-word'>peut</span><span class='french-word'>être_sauvé ?</span></p><p class='inter-darby'><span class='french-word'>« Et</span><span class='french-word'>qui</span><span class='french-word'>peut</span><span class='french-word'>être_sauvé ? »</span></p></div>"
+        "translations": {
+          "segond": "Ceux qui l'écoutaient dirent : Et qui peut être sauvé ?",
+          "darby": "Et ceux qui l'entendirent, dirent : Et qui peut être sauvé ?"
+        },
+        "interlinear": [
+          { "greek": "εἶπαν", "gloss": "Dirent" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "οἱ", "gloss": "les" },
+          { "greek": "ἀκούσαντες·", "gloss": "ayant_entendu" },
+          { "greek": "Καὶ", "gloss": "Et" },
+          { "greek": "τίς", "gloss": "qui" },
+          { "greek": "δύναται", "gloss": "peut/est_capable_de" },
+          { "greek": "σωθῆναι;", "gloss": "être_sauvé", "analyse": "Le verbe *sozo* (être rendu entier/intact). La question des témoins est l'aveu d'impuissance de l'humanité entière. Si l'homme le plus 'vertueux' et le plus puissant du système horizontal ne peut pas franchir la Porte par ses propres capacités (*dynamis*), alors la mécanique du salut est brisée." }
+        ]
       },
       {
         "verse_number": 27,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ὁ</span><span class='greek-word'>δὲ</span><span class='greek-word'>εἶπε·</span><span class='greek-word'>Τὰ</span><span class='greek-word'>ἀδύνατα</span></p><p class='inter-segond'><span class='french-word'>Lui</span><span class='french-word'>mais</span><span class='french-word'>dit :</span><span class='french-word'>Les_choses</span><span class='french-word'>impossibles</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>il</span><span class='french-word'>dit :</span><span class='french-word'>« Ce</span><span class='french-word'>qui</span><span class='french-word'>est</span><span class='french-word'>impossible</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>παρὰ</span><span class='greek-word'>ἀνθρώποις</span><span class='greek-word'>δυνατά</span><span class='greek-word'>ἐστι</span></p><p class='inter-segond'><span class='french-word'>auprès_des</span><span class='french-word'>hommes</span><span class='french-word'>possibles</span><span class='french-word'>sont</span></p><p class='inter-darby'><span class='french-word'>aux</span><span class='french-word'>hommes</span><span class='french-word'>est</span><span class='french-word'>possible</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>παρὰ</span><span class='greek-word'>τῷ</span><span class='greek-word'>Θεῷ.</span></p><p class='inter-segond'><span class='french-word'>auprès_de</span><span class='french-word'>le</span><span class='french-word'>Dieu.</span></p><p class='inter-darby'><span class='french-word'>à</span><span class='french-word'>Dieu ».</span></p></div>"
+        "translations": {
+          "segond": "Jésus répondit : Ce qui est impossible aux hommes est possible à Dieu.",
+          "darby": "Mais il dit : Les choses qui sont impossibles aux hommes sont possibles à Dieu."
+        },
+        "interlinear": [
+          { "greek": "ὁ", "gloss": "Le/Il" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "εἶπεν·", "gloss": "dit" },
+          { "greek": "Τὰ", "gloss": "Les_choses" },
+          { "greek": "ἀδύνατα", "gloss": "impossibles/sans_puissance", "analyse": "Le mot *a-dynata* (privé de *dynamis*). Le diagnostic implacable. L'Éveil n'est pas difficile pour l'Ego, il est structurellement *impossible*. Aucun effort musculaire, spirituel ou intellectuel du Monde duel ne peut générer l'Unité." },
+          { "greek": "παρὰ", "gloss": "auprès_de/pour" },
+          { "greek": "ἀνθρώποις", "gloss": "les_hommes" },
+          { "greek": "δυνατὰ", "gloss": "possibles/puissantes" },
+          { "greek": "παρὰ", "gloss": "auprès_de" },
+          { "greek": "τῷ", "gloss": "le" },
+          { "greek": "θεῷ", "gloss": "Dieu" },
+          { "greek": "ἐστιν.", "gloss": "sont", "analyse": "La bascule de la Grâce. Ce qui est une aporie géométrique pour la créature (passer le chameau dans l'aiguille) devient l'événement miraculeux de l'Axe. L'Incréé pulvérise le chameau (l'Ego) pour ne faire passer que la Lumière (le Sujet éveillé)." }
+        ]
       }
     ],
-    "greek_only": "\n18 Καὶ ἐπηρώτησέ τις αὐτὸν ἄρχων λέγων· Διδάσκαλε ἀγαθέ, τί ποιήσας ζωὴν αἰώνιον κληρονομήσω; \n19 εἶπε δὲ αὐτῷ ὁ Ἰησοῦς· Τί με λέγεις ἀγαθόν; οὐδεὶς ἀγαθὸς εἰ μὴ εἷς ὁ Θεός. \n20 τὰς ἐντολὰς οἶδας· Μὴ μοιχεύσῃς, Μὴ φονεύσῃς, Μὴ κλέψῃς, Μὴ ψευδομαρτυρήσῃς, Τίμα τὸν πατέρα σου καὶ τὴν μητέρα. \n21 ὁ δὲ εἶπε· Ταῦτα πάντα ἐφυλαξάμην ἐκ νεότητός μου. \n22 ἀκούσας δὲ ταῦτα ὁ Ἰησοῦς εἶπεν αὐτῷ· Ἔτι ἕν σοι λείπει· πάντα ὅσα ἔχεις πώλησον καὶ διάδος πτωχοῖς, καὶ ἕξεις θησαυρὸν ἐν οὐρανοῖς, καὶ δεῦρο ἀκολούθει μοι. \n23 ὁ δὲ ἀκούσας ταῦτα περίλυπος ἐγένετο· ἦν γὰρ πλούσιος σφόδρα. \n24 ἰδὼν δὲ αὐτὸν ὁ Ἰησοῦς περίλυπον γενόμενον εἶπε· Πῶς δυσκόλως οἱ τὰ χρήματα ἔχοντες εἰσελεύσονται εἰς τὴν βασιλείαν τοῦ Θεοῦ. \n25 εὐκοπώτερον γάρ ἐστι κάμηλον διὰ τρυμαλιᾶς ῥαφίδος εἰσελθεῖν ἢ πλούσιον εἰς τὴν βασιλείαν τοῦ Θεοῦ εἰσελθεῖν. \n26 εἶπον δὲ οἱ ἀκούσαντες· Καὶ τίς δύναται σωθῆναι; \n27 ὁ δὲ εἶπε· Τὰ ἀδύνατα παρὰ ἀνθρώποις δυνατά ἐστι παρὰ τῷ Θεῷ.",
-    "french_only": "\n18 Un chef interrogea Jésus, et dit : Bon maître, que dois-je faire pour hériter la vie éternelle ? \n19 Jésus lui répondit : Pourquoi m'appelles-tu bon ? Il n'y a de bon que Dieu seul. \n20 Tu connais les commandements : Tu ne commettras point d'adultère ; tu ne tueras point ; tu ne déroberas point ; tu ne diras point de faux témoignage ; honore ton père et ta mère. \n21 J'ai, dit-il, observé toutes ces choses dès ma jeunesse. \n22 Jésus, ayant entendu cela, lui dit : Il te manque encore une chose : vends tout ce que tu as, distribue-le aux pauvres, et tu auras un trésor dans les cieux. Puis, viens, et suis-moi. \n23 Lorsqu'il entendit ces paroles, il devint tout triste ; car il était très riche. \n24 Jésus, voyant qu'il était devenu tout triste, dit : Qu'il est difficile à ceux qui ont des richesses d'entrer dans le royaume de Dieu ! \n25 Car il est plus facile à un chameau de passer par le trou d'une aiguille qu'à un riche d'entrer dans le royaume de Dieu. \n26 Ceux qui l'écoutaient dirent : Et qui peut être sauvé ? \n27 Jésus répondit : Ce qui est impossible aux hommes est possible à Dieu.",
-    "french_darby": "\n18 Et un notable l'interrogea, disant : « Bon Maître, que ferai-je pour hériter de la vie éternelle ? » \n19 Et Jésus lui dit : « Pourquoi m'appelles-tu bon ? Nul n'est bon, sinon un seul, Dieu. \n20 Tu connais les commandements : Ne commets pas adultère ; ne tue pas ; ne dérobe pas ; ne dis pas de faux témoignage ; honore ton père et ta mère ». \n21 Et il dit : « J'ai gardé toutes ces choses dès ma jeunesse ». \n22 Et Jésus, ayant entendu cela, lui dit : « Il te manque encore une chose : vends tout ce que tu as, et distribue-le aux pauvres, et tu auras un trésor dans les cieux ; et viens, suis-moi ». \n23 Mais lui, ayant entendu cela, devint fort triste, car il était extrêmement riche. \n24 Et Jésus, le voyant devenu fort triste, dit : « Combien difficilement ceux qui ont des biens entreront-ils dans le royaume de Dieu ! \n25 Car il est plus facile qu'un chameau entre par le trou d'une aiguille, qu'il ne l'est qu'un riche entre dans le royaume de Dieu ». \n26 Et ceux qui l'entendaient dirent : « Et qui peut être sauvé ? » \n27 Et il dit : « Ce qui est impossible aux hommes est possible à Dieu ».",
-    "personal_analysis": "Le dialogue entre Jésus et le notable riche est une leçon sur la perfection spirituelle. L'homme a observé la Loi extérieurement, mais il reste attaché à ses 'possessions'. Le Christ, en demandant de tout vendre, ne propose pas une loi universelle, mais un remède spécifique à l'idolâtrie de cet homme. Le terme 'perilypos' (fort triste) souligne la déchirure intérieure : il désire le Royaume, mais son cœur est 'encrassé' par ses biens. L'image du chameau et du trou de l'aiguille montre que le salut n'est pas une conquête humaine par l'effort moral, mais un miracle de la grâce divine qui peut libérer l'homme de sa pesanteur matérielle."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 18 - ποιήσας / κληρονομήσω : 'Que dois-je faire pour hériter'. Une contradiction dans les termes mêmes que les traducteurs rendent fidèlement, mais dont il faut saisir l'ironie abyssale. Un héritage (*kleronomia*) ne se 'fabrique' pas (*poieo*), il se reçoit par droit de filiation. L'Ego veut arracher à Dieu un salaire à la sueur de ses bonnes actions, refusant d'admettre que le Royaume est une pure Grâce verticale.\n• Verset 24 - χρήματα : Souvent traduit par 'richesses'. Le mot grec est beaucoup plus trivial : c'est 'l'argent', 'les affaires', 'les choses dont on se sert'. L'Ego est pris au piège non pas par des trésors mythiques, mais par son obsession pour la gestion utilitaire du monde matériel.\n\nAnalyse spirituelle :\nCette péricope détruit définitivement le fantasme d'un 'christianisme moral' ou d'un salut par les mérites.\n\nLe chef riche se présente à Jésus bardé de certitudes. Il a respecté toute la Loi horizontale depuis sa jeunesse (v.21). Il est un Ego 'parfait' selon les standards du Monde duel. Mais il vient chercher auprès du 'Bon Maître' la technique ultime (*que dois-je faire ?*) pour valider sa collection de mérites et y ajouter la vie éternelle.\n\nLa réponse christique est une opération chirurgicale foudroyante. Jésus lui révèle que sa forteresse morale, aussi brillante soit-elle, est un tombeau (*il te manque une chose*). Pour atteindre l'Incréé, la vertu cumulative ne sert à rien ; il faut opérer la Kénose spatiale absolue (*vends tout*). L'Axe (le *viens et suis-moi*) exige un Sujet évidé, un vase vide. L'Ego du chef refuse ce saut dans le vide ; il devient 'encerclé de tristesse' (*perilypos*), paralysé par la gravité de ses propres accumulations.\n\nJésus livre alors la grande équation topographique du Chas de l'Aiguille (v.25). L'Éveil est une Singularité métaphysique. L'Ego (le chameau), gorgé de ses identifications, de ses croyances et de ses possessions, est trop boursouflé pour passer la porte de la Non-Dualité. La conclusion (v.27) est la clé de voûte de l'anthropologie paulinienne et lucanienne : le salut est ontologiquement impossible (*adynata*) à l'humain. Aucun Ego ne peut 'faire' son salut. Seul l'Incréé a la puissance (*dynata*) de foudroyer l'illusion du chameau pour faire naître l'Homme Nouveau à travers l'Aiguille du Royaume."
   },
-  "apostle": {
+ "apostle": {
     "reference": "Colossiens 3, 12-16",
-    "title": "Les Vertus de l'Homme Nouveau : L'Amour, Lien de la Perfection",
+    "title": "L'Habit de Lumière : Agape comme Force Gravitationnelle de la Non-Dualité",
     "interlinear": [
       {
         "verse_number": 12,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Ἐνδύσασθε</span><span class='greek-word'>οὖν,</span><span class='greek-word'>ὡς</span><span class='greek-word'>ἐκλεκτοὶ</span></p><p class='inter-segond'><span class='french-word'>Revêtez-vous</span><span class='french-word'>donc,</span><span class='french-word'>comme</span><span class='french-word'>des_élus</span></p><p class='inter-darby'><span class='french-word'>Revêtez-vous</span><span class='french-word'>donc,</span><span class='french-word'>comme</span><span class='french-word'>des_élus</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τοῦ</span><span class='greek-word'>Θεοῦ,</span><span class='greek-word'>ἅγιοι</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἠγαπημένοι,</span></p><p class='inter-segond'><span class='french-word'>de</span><span class='french-word'>Dieu,</span><span class='french-word'>saints</span><span class='french-word'>et</span><span class='french-word'>bien-aimés,</span></p><p class='inter-darby'><span class='french-word'>de</span><span class='french-word'>Dieu,</span><span class='french-word'>saints</span><span class='french-word'>et</span><span class='french-word'>bien-aimés,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>σπλάγχνα</span><span class='greek-word'>οἰκτιρμοῦ,</span><span class='greek-word'>χρηστότητα,</span></p><p class='inter-segond'><span class='french-word'>d'entrailles</span><span class='french-word'>de_miséricorde,</span><span class='french-word'>de_bonté,</span></p><p class='inter-darby'><span class='french-word'>d'entrailles</span><span class='french-word'>de_miséricorde,</span><span class='french-word'>de_bonté,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ταπεινοφροσύνην,</span><span class='greek-word'>πρᾳότητα,</span><span class='greek-word'>μακροθυμίαν,</span></p><p class='inter-segond'><span class='french-word'>d'humilité,</span><span class='french-word'>de_douceur,</span><span class='french-word'>de_patience,</span></p><p class='inter-darby'><span class='french-word'>d'humilité,</span><span class='french-word'>de_douceur,</span><span class='french-word'>de_longanimité,</span></p></div>"
+        "translations": {
+          "segond": "Ainsi donc, comme des élus de Dieu, saints et bien-aimés, revêtez-vous d'entrailles de miséricorde, de bonté, d'humilité, de douceur, de patience.",
+          "darby": "Revêtez-vous donc, comme des élus de Dieu, saints et bien-aimés, d'entrailles de miséricorde, de bonté, d'humilité, de douceur, de longanimité,"
+        },
+        "interlinear": [
+          { "greek": "Ἐνδύσασθε", "gloss": "Revêtez-vous", "analyse": "Le verbe *endyo* (plonger dans un vêtement). Faisant écho au verset 9 où le Sujet a 'arraché' (*apekdysamenoi*) la peau morte de l'Ego, il doit maintenant revêtir activement la fréquence vibratoire de l'Incréé. L'habit n'est pas un textile, c'est un champ énergétique." },
+          { "greek": "οὖν,", "gloss": "donc" },
+          { "greek": "ὡς", "gloss": "comme" },
+          { "greek": "ἐκλεκτοὶ", "gloss": "élus/choisis" },
+          { "greek": "τοῦ", "gloss": "de_le" },
+          { "greek": "θεοῦ,", "gloss": "Dieu" },
+          { "greek": "ἅγιοι", "gloss": "saints/séparés" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἠγαπημένοι,", "gloss": "bien-aimés" },
+          { "greek": "σπλάγχνα", "gloss": "entrailles/viscères", "analyse": "Les *splanchna*. L'Incréé ne demande pas un vernis intellectuel ou moral de surface. La miséricorde doit saturer le centre vital, le Hara, là où l'Ego loge habituellement ses pulsions de survie et ses peurs." },
+          { "greek": "οἰκτιρμοῦ,", "gloss": "de_miséricorde/de_compassion" },
+          { "greek": "χρηστότητα,", "gloss": "bonté/utilité" },
+          { "greek": "ταπεινοφροσύνην,", "gloss": "humilité", "analyse": "Le mot *tapeino-phrosyne* (l'intelligence de l'abaissement). Ce n'est pas un complexe d'infériorité psychologique. C'est la lucidité métaphysique absolue : le Sujet sait qu'il n'est rien par lui-même et que tout jaillit de l'Axe. C'est l'ancrage à la terre (*humus*)." },
+          { "greek": "πραΰτητα,", "gloss": "douceur/absence_de_friction" },
+          { "greek": "μακροθυμίαν,", "gloss": "patience/longanimité", "analyse": "Composé de *makros* (long/vaste) et *thymos* (souffle/réactivité). L'Ego est réactif, son souffle est court, il s'enflamme à la moindre friction du Monde duel. L'Éveillé possède un 'souffle long' : il dilate l'espace-temps pour absorber les chocs sans générer d'entropie." }
+        ]
       },
       {
         "verse_number": 13,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἀνεχόμενοι</span><span class='greek-word'>ἀλλήλων</span><span class='greek-word'>καὶ</span></p><p class='inter-segond'><span class='french-word'>vous_supportant</span><span class='french-word'>les_uns_les_autres</span><span class='french-word'>et</span></p><p class='inter-darby'><span class='french-word'>vous_supportant</span><span class='french-word'>l'un_l'autre</span><span class='french-word'>et</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>χαριζόμενοι</span><span class='greek-word'>ἑαυτοῖς</span><span class='greek-word'>ἐάν</span><span class='greek-word'>τις</span></p><p class='inter-segond'><span class='french-word'>vous_pardonnant</span><span class='french-word'>réciproquement,</span><span class='french-word'>si</span><span class='french-word'>quelqu'un</span></p><p class='inter-darby'><span class='french-word'>vous_pardonnant</span><span class='french-word'>les_uns_aux_autres,</span><span class='french-word'>si</span><span class='french-word'>quelqu'un</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πρός</span><span class='greek-word'>τινα</span><span class='greek-word'>ἔχῃ</span><span class='greek-word'>μομφήν·</span></p><p class='inter-segond'><span class='french-word'>contre</span><span class='french-word'>quelqu'un</span><span class='french-word'>a</span><span class='french-word'>un_sujet_de_plainte ;</span></p><p class='inter-darby'><span class='french-word'>a</span><span class='french-word'>un_sujet_de_plainte</span><span class='french-word'>contre</span><span class='french-word'>un_autre ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καθὼς</span><span class='greek-word'>καὶ</span><span class='greek-word'>ὁ</span><span class='greek-word'>Χριστὸς</span><span class='greek-word'>ἐχαρίσατο</span></p><p class='inter-segond'><span class='french-word'>comme</span><span class='french-word'>aussi</span><span class='french-word'>le</span><span class='french-word'>Christ</span><span class='french-word'>a_pardonné</span></p><p class='inter-darby'><span class='french-word'>comme</span><span class='french-word'>le</span><span class='french-word'>Christ</span><span class='french-word'>vous_a_pardonné,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὑμῖν</span><span class='greek-word'>οὕτω</span><span class='greek-word'>καὶ</span><span class='greek-word'>ὑμεῖς·</span></p><p class='inter-segond'><span class='french-word'>vous,</span><span class='french-word'>de_même</span><span class='french-word'>aussi</span><span class='french-word'>vous.</span></p><p class='inter-darby'><span class='french-word'>vous_aussi</span><span class='french-word'>faites_de_même.</span></p></div>"
+        "translations": {
+          "segond": "Supportez-vous les uns les autres, et, si l'un a sujet de se plaindre de l'autre, pardonnez-vous réciproquement. De même que Christ vous a pardonné, pardonnez-vous aussi.",
+          "darby": "vous supportant l'un l'autre et vous pardonnant les uns aux autres, si l'un a un sujet de plainte contre un autre ; comme le Christ vous a pardonné, vous aussi faites de même."
+        },
+        "interlinear": [
+          { "greek": "ἀνεχόμενοι", "gloss": "vous_supportant", "analyse": "Le verbe *an-echomai* (tenir vers le haut/maintenir ensemble). La fraternité spirituelle consiste à maintenir vibratoirement l'autre lorsqu'il menace de chuter dans la gravité de son Ego." },
+          { "greek": "ἀλλήλων", "gloss": "les_uns_les_autres" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "χαριζόμενοι", "gloss": "vous_pardonnant/faisant_grâce", "analyse": "Le verbe magistral : *charizomai*, dérivé de *Charis* (la Grâce). Le pardon n'est pas une absolution morale ou juridique. C'est l'action de faire circuler la Grâce. L'offense avait créé un blocage, un nœud d'entropie. Faire grâce, c'est dissoudre ce nœud par l'effusion de l'Énergie divine." },
+          { "greek": "ἑαυτοῖς,", "gloss": "à_vous-mêmes/réciproquement" },
+          { "greek": "ἐάν", "gloss": "si" },
+          { "greek": "τις", "gloss": "quelqu'un" },
+          { "greek": "πρός", "gloss": "contre" },
+          { "greek": "τινα", "gloss": "quelqu'un" },
+          { "greek": "ἔχῃ", "gloss": "a" },
+          { "greek": "μομφήν·", "gloss": "sujet_de_plainte/blâme" },
+          { "greek": "καθὼς", "gloss": "tout_comme" },
+          { "greek": "καὶ", "gloss": "aussi" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "κύριος", "gloss": "Seigneur" },
+          { "greek": "ἐχαρίσατο", "gloss": "a_fait_grâce" },
+          { "greek": "ὑμῖν,", "gloss": "à_vous" },
+          { "greek": "οὕτως", "gloss": "ainsi" },
+          { "greek": "καὶ", "gloss": "aussi" },
+          { "greek": "ὑμεῖς·", "gloss": "vous" }
+        ]
       },
       {
         "verse_number": 14,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἐπὶ</span><span class='greek-word'>πᾶσι</span><span class='greek-word'>δὲ</span><span class='greek-word'>τούτοις</span><span class='greek-word'>τὴν</span></p><p class='inter-segond'><span class='french-word'>Mais_par-dessus</span><span class='french-word'>toutes</span><span class='french-word'>mais</span><span class='french-word'>ces_choses</span><span class='french-word'>la</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>par-dessus</span><span class='french-word'>toutes</span><span class='french-word'>ces_choses,</span><span class='french-word'>revêtez</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀγάπην,</span><span class='greek-word'>ἥτις</span><span class='greek-word'>ἐστὶ</span><span class='greek-word'>σύνδεσμος</span></p><p class='inter-segond'><span class='french-word'>charité,</span><span class='french-word'>laquelle</span><span class='french-word'>est</span><span class='french-word'>le_lien</span></p><p class='inter-darby'><span class='french-word'>l'amour,</span><span class='french-word'>qui</span><span class='french-word'>est</span><span class='french-word'>le_lien</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τῆς</span><span class='greek-word'>τελειότητος.</span></p><p class='inter-segond'><span class='french-word'>de_la</span><span class='french-word'>perfection.</span></p><p class='inter-darby'><span class='french-word'>de_la</span><span class='french-word'>perfection.</span></p></div>"
+        "translations": {
+          "segond": "Mais par-dessus toutes ces choses revêtez-vous de la charité, qui est le lien de la perfection.",
+          "darby": "Et par-dessus toutes ces choses, revêtez-vous de l'amour, qui est le lien de la perfection."
+        },
+        "interlinear": [
+          { "greek": "ἐπὶ", "gloss": "Sur/Par-dessus" },
+          { "greek": "πᾶσιν", "gloss": "toutes" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "τούτοις", "gloss": "ces_choses" },
+          { "greek": "τὴν", "gloss": "la" },
+          { "greek": "ἀγάπην,", "gloss": "charité/amour", "analyse": "L'*Agape*. Elle ne figure pas dans la liste des 'vertus' du verset 12 ; elle est *au-dessus* (*epi*). Ce n'est ni un sentiment romantique, ni un élan humaniste. L'*Agape* est l'Essence même de Dieu (1 Jean 4:8), la Force suprême de cohésion de l'univers spirituel." },
+          { "greek": "ὅ", "gloss": "laquelle" },
+          { "greek": "ἐστιν", "gloss": "est" },
+          { "greek": "σύνδεσμος", "gloss": "lien/ligament", "analyse": "Le *syn-desmos* (ce qui lie ensemble). Paul utilise un terme d'anatomie architecturale. Si les éveillés sont les membres d'un même Corps, l'*Agape* est le système ligamenteux qui les connecte sans les fusionner, empêchant la dislocation du Tout." },
+          { "greek": "τῆς", "gloss": "de_la" },
+          { "greek": "τελειότητος.", "gloss": "perfection/complétion", "analyse": "La *teleiotes* (l'état d'achèvement, le but final *Telos*). La Non-Dualité absolue. Le Monde duel est fragmenté et inachevé ; l'*Agape* rassemble toutes les pièces du puzzle vibratoire pour reconstituer l'Unité parfaite de l'Origine." }
+        ]
       },
-      {
+    {
         "verse_number": 15,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ἡ</span><span class='greek-word'>εἰρήνη</span><span class='greek-word'>τοῦ</span><span class='greek-word'>Χριστοῦ</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>la</span><span class='french-word'>paix</span><span class='french-word'>de_le</span><span class='french-word'>Christ</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>que_la</span><span class='french-word'>paix</span><span class='french-word'>du</span><span class='french-word'>Christ,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>βραβευέτω</span><span class='greek-word'>ἐν</span><span class='greek-word'>ταῖς</span><span class='greek-word'>καρδίαις</span></p><p class='inter-segond'><span class='french-word'>qu'elle_règne</span><span class='french-word'>dans</span><span class='french-word'>vos</span><span class='french-word'>les_cœurs,</span></p><p class='inter-darby'><span class='french-word'>à_laquelle</span><span class='french-word'>vous_avez_été_appelés</span><span class='french-word'>en</span><span class='french-word'>un</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὑμῶν,</span><span class='greek-word'>εἰς</span><span class='greek-word'>ἣν</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἐκλήθητε</span></p><p class='inter-segond'><span class='french-word'>à_laquelle</span><span class='french-word'>aussi</span><span class='french-word'>vous_avez_été_appelés</span></p><p class='inter-darby'><span class='french-word'>seul_corps,</span><span class='french-word'>préside</span><span class='french-word'>dans</span><span class='french-word'>vos</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐν</span><span class='greek-word'>ἑνὶ</span><span class='greek-word'>σώματι·</span><span class='greek-word'>καὶ</span><span class='greek-word'>εὐχάριστοι</span></p><p class='inter-segond'><span class='french-word'>en</span><span class='french-word'>un_seul</span><span class='french-word'>corps ;</span><span class='french-word'>et</span><span class='french-word'>reconnaissants</span></p><p class='inter-darby'><span class='french-word'>cœurs ;</span><span class='french-word'>et</span><span class='french-word'>soyez</span><span class='french-word'>reconnaissants.</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>γίνεσθε.</span></p><p class='inter-segond'><span class='french-word'>soyez.</span></p><p class='inter-darby'><span></span></p></div>"
+        "translations": {
+          "segond": "Et que la paix de Christ, à laquelle vous avez été appelés pour former un seul corps, règne dans vos cœurs. Et soyez reconnaissants.",
+          "darby": "Et que la paix du Christ, à laquelle aussi vous avez été appelés en un seul corps, préside dans vos coeurs ; et soyez reconnaissants."
+        },
+        "interlinear": [
+          { "greek": "καὶ", "gloss": "Et" },
+          { "greek": "ἡ", "gloss": "la" },
+          { "greek": "εἰρήνη", "gloss": "paix", "analyse": "L'*eirene*. Non pas un état psychologique de calme, mais la fréquence de l'Unification. C'est l'absence absolue de division." },
+          { "greek": "τοῦ", "gloss": "du" },
+          { "greek": "Χριστοῦ", "gloss": "Christ" },
+          { "greek": "βραβευέτω", "gloss": "qu'elle_arbitre/qu'elle_règne", "analyse": "Le verbe *brabeuo*. Issu du vocabulaire des jeux athlétiques : 'agir comme un arbitre'. L'Ego est constamment assailli de pensées et de pulsions contradictoires. La Paix du Christ doit être installée comme le seul 'Juge arbitre' qui valide ou disqualifie les mouvements vibratoires au sein du Sujet." },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "ταῖς", "gloss": "les" },
+          { "greek": "καρδίαις", "gloss": "cœurs/centres", "analyse": "Le *Kardia*. Le centre de gravité ontologique de l'être, là où se prend la décision entre l'Axe vertical ou la dispersion horizontale." },
+          { "greek": "ὑμῶν,", "gloss": "de_vous" },
+          { "greek": "εἰς", "gloss": "vers/pour" },
+          { "greek": "ἣν", "gloss": "laquelle" },
+          { "greek": "καὶ", "gloss": "aussi" },
+          { "greek": "ἐκλήθητε", "gloss": "vous_avez_été_appelés" },
+          { "greek": "ἐν", "gloss": "en" },
+          { "greek": "ἑνὶ", "gloss": "un_seul" },
+          { "greek": "σώματι·", "gloss": "corps", "analyse": "La fin de la fragmentation individuelle. L'appel n'est pas une aventure d'Egos isolés cherchant leur propre éveil, mais la constitution d'un Organisme Unique (*Hen Soma*) vibrant sur la même fréquence." },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "εὐχάριστοι", "gloss": "eucharistiques/reconnaissants", "analyse": "Retour au concept d'Eucharistie. La boucle est fermée : l'énergie descend sous forme de Grâce et remonte sous forme de gratitude." },
+          { "greek": "γίνεσθε.", "gloss": "devenez/soyez" }
+        ]
       },
       {
         "verse_number": 16,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ὁ</span><span class='greek-word'>λόγος</span><span class='greek-word'>τοῦ</span><span class='greek-word'>Χριστοῦ</span></p><p class='inter-segond'><span class='french-word'>Que_la</span><span class='french-word'>parole</span><span class='french-word'>de_le</span><span class='french-word'>Christ</span></p><p class='inter-darby'><span class='french-word'>Que_la</span><span class='french-word'>parole</span><span class='french-word'>du</span><span class='french-word'>Christ</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐνοικείτω</span><span class='greek-word'>ἐν</span><span class='greek-word'>ὑμῖν</span><span class='greek-word'>πλουσίως,</span></p><p class='inter-segond'><span class='french-word'>habite</span><span class='french-word'>en</span><span class='french-word'>vous</span><span class='french-word'>richement ;</span></p><p class='inter-darby'><span class='french-word'>habite</span><span class='french-word'>en</span><span class='french-word'>vous</span><span class='french-word'>richement,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐν</span><span class='greek-word'>πάσῃ</span><span class='greek-word'>σοφίᾳ</span><span class='greek-word'>διδάσκοντες</span></p><p class='inter-segond'><span class='french-word'>en</span><span class='french-word'>toute</span><span class='french-word'>sagesse</span><span class='french-word'>instruisez</span></p><p class='inter-darby'><span class='french-word'>en</span><span class='french-word'>toute</span><span class='french-word'>sagesse</span><span class='french-word'>vous_enseignant</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>νουθετοῦντες</span><span class='greek-word'>ἑαυτοὺς</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>exhortez-vous</span><span class='french-word'>vous-mêmes</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>vous_avertissant</span><span class='french-word'>l'un_l'autre</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ψαλμοῖς</span><span class='greek-word'>ὕμνοις</span><span class='greek-word'>ᾠδαῖς</span></p><p class='inter-segond'><span class='french-word'>par_des_psaumes,</span><span class='french-word'>des_hymnes,</span><span class='french-word'>des_cantiques</span></p><p class='inter-darby'><span class='french-word'>par_des_psaumes,</span><span class='french-word'>des_hymnes,</span><span class='french-word'>des_cantiques</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πνευματικαῖς,</span><span class='greek-word'>ἐν</span><span class='greek-word'>τῇ</span><span class='greek-word'>χάριτι</span></p><p class='inter-segond'><span class='french-word'>spirituels,</span><span class='french-word'>sous_l'empire_de_la</span><span class='french-word'>grâce</span></p><p class='inter-darby'><span class='french-word'>spirituels,</span><span class='french-word'>chantant</span><span class='french-word'>de</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ᾄδοντες</span><span class='greek-word'>ἐν</span><span class='greek-word'>ταῖς</span><span class='greek-word'>καρδίαις</span></p><p class='inter-segond'><span class='french-word'>chantant</span><span class='french-word'>dans</span><span class='french-word'>vos</span><span class='french-word'>les_cœurs</span></p><p class='inter-darby'><span class='french-word'>votre_cœur</span><span class='french-word'>à</span><span class='french-word'>Dieu</span><span class='french-word'>dans</span><span class='french-word'>un_esprit_de</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὑμῶν</span><span class='greek-word'>τῷ</span><span class='greek-word'>Θεῷ.</span></p><p class='inter-segond'><span class='french-word'>à</span><span class='french-word'>Dieu.</span></p><p class='inter-darby'><span class='french-word'>reconnaissance.</span></p></div>"
+        "translations": {
+          "segond": "Que la parole de Christ habite parmi vous abondamment ; instruisez-vous et exhortez-vous les uns les autres en toute sagesse, par des psaumes, par des hymnes, par des cantiques spirituels, chantant à Dieu dans vos cœurs sous l'inspiration de la grâce.",
+          "darby": "Que la parole du Christ habite en vous richement, - en toute sagesse vous enseignant et vous exhortant l'un l'autre, par des psaumes, des hymnes, des cantiques spirituels, chantant de vos coeurs à Dieu dans un esprit de grâce."
+        },
+        "interlinear": [
+          { "greek": "ὁ", "gloss": "La" },
+          { "greek": "λόγος", "gloss": "Parole/Logos", "analyse": "Le *Logos*. Ce n'est pas le texte écrit de la Bible, c'est le principe structurant de l'univers, la vibration originelle de l'Incréé." },
+          { "greek": "τοῦ", "gloss": "du" },
+          { "greek": "Χριστοῦ", "gloss": "Christ" },
+          { "greek": "ἐνοικείτω", "gloss": "qu'elle_fasse_sa_demeure_à_l'intérieur", "analyse": "Le verbe *en-oikeo* (habiter dedans). Le Sujet devient la 'Maison' (*oikos*) du Logos. L'Incréé ne vient pas en visiteur, il prend possession de l'espace intérieur." },
+          { "greek": "ἐν", "gloss": "en/parmi" },
+          { "greek": "ὑμῖν", "gloss": "vous" },
+          { "greek": "πλουσίως,", "gloss": "richement/abondamment" },
+          { "greek": "ἐν", "gloss": "en/avec" },
+          { "greek": "πάσῃ", "gloss": "toute" },
+          { "greek": "σοφίᾳ", "gloss": "sagesse" },
+          { "greek": "διδάσκοντες", "gloss": "enseignant" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "νουθετοῦντες", "gloss": "avertissant/exhortant" },
+          { "greek": "ἑαυτούς,", "gloss": "vous-mêmes/les_uns_les_autres" },
+          { "greek": "ψαλμοῖς", "gloss": "par_des_psaumes" },
+          { "greek": "ὕμνοις", "gloss": "des_hymnes" },
+          { "greek": "ᾠδαῖς", "gloss": "des_odes/cantiques" },
+          { "greek": "πνευματικαῖς", "gloss": "spirituels/pneumatiques", "analyse": "La musique et la poésie sacrée ne sont pas des divertissements esthétiques pour l'Ego religieux. Elles sont la formulation structurée du Souffle (*Pneuma*). Le son ordonné est la plus haute expression vibratoire de la kénose." },
+          { "greek": "ἐν", "gloss": "dans/avec" },
+          { "greek": "τῇ", "gloss": "la" },
+          { "greek": "χάριτι", "gloss": "grâce" },
+          { "greek": "ᾄδοντες", "gloss": "chantant" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "ταῖς", "gloss": "les" },
+          { "greek": "καρδίαις", "gloss": "cœurs/centres" },
+          { "greek": "ὑμῶν", "gloss": "de_vous" },
+          { "greek": "τῷ", "gloss": "à_le" },
+          { "greek": "θεῷ·", "gloss": "Dieu" }
+        ]
       }
     ],
-    "greek_only": "\n12 Ἐνδύσασθε οὖν, ὡς ἐκλεκτοὶ τοῦ Θεοῦ, ἅγιοι καὶ ἠγαπημένοι, σπλάγχνα οἰκτιρμοῦ, χρηστότητα, ταπεινοφροσύνην, πρᾳότητα, μακροθυμίαν, \n13 ἀνεχόμενοι ἀλλήλων καὶ χαριζόμενοι ἑαυτοῖς ἐάν τις πρός τινα ἔχῃ μομφήν· καθὼς καὶ ὁ Χριστὸς ἐχαρίσατο ὑμῖν οὕτω καὶ ὑμεῖς· \n14 ἐπὶ πᾶσι δὲ τούτοις τὴν ἀγάπην, ἥτις ἐστὶ σύνδεσμος τῆς τελειότητος. \n15 καὶ ἡ εἰρήνη τοῦ Χριστοῦ βραβευέτω ἐν ταῖς καρδίαις ὑμῶν, εἰς ἣν καὶ ἐκλήθητε ἐν ἑνὶ σώματι· καὶ εὐχάριστοι γίνεσθε. \n16 ὁ λόγος τοῦ Χριστοῦ ἐνοικείτω ἐν ὑμῖν πλουσίως, ἐν πάσῃ σοφίᾳ διδάσκοντες καὶ νουθετοῦντες ἑαυτοὺς ψαλμοῖς ὕμνοις ᾠδαῖς πνευματικαῖς, ἐν τῇ χάριτι ᾄδοντες ἐν ταῖς καρδίαις ὑμῶν τῷ Θεῷ.",
-    "french_only": "\n12 Ainsi donc, comme des élus de Dieu, saints et bien-aimés, revêtez-vous d'entrailles de miséricorde, de bonté, d'humilité, de douceur, de patience. \n13 Supportez-vous les uns les autres, et, si l'un a sujet de se plaindre de l'autre, pardonnez-vous réciproquement. De même que Christ vous a pardonné, pardonnez-vous aussi. \n14 Mais par-dessus toutes ces choses revêtez-vous de la charité, qui est le lien de la perfection. \n15 Et que la paix de Christ, à laquelle vous avez été appelés pour former un seul corps, règne dans vos cœurs. Et soyez reconnaissants. \n16 Que la parole de Christ habite parmi vous abondamment ; instruisez-vous et exhortez-vous les uns les autres en toute sagesse, par des psaumes, par des hymnes, par des cantiques spirituels, chantant à Dieu dans vos cœurs sous l'inspiration de la grâce.",
-    "french_darby": "\n12 Revêtez-vous donc, comme des élus de Dieu, saints et bien-aimés, d'entrailles de miséricorde, de bonté, d'humilité, de douceur, de longanimité, \n13 vous supportant l'un l'autre et vous pardonnant les uns aux autres, si l'un a un sujet de plainte contre un autre ; comme le Christ vous a pardonné, vous aussi faites de même. \n14 Et par-dessus toutes ces choses, revêtez l'amour, qui est le lien de la perfection. \n15 Et que la paix du Christ, à laquelle aussi vous avez été appelés en un seul corps, préside dans vos cœurs ; et soyez reconnaissants. \n16 Que la parole du Christ habite en vous richement, en toute sagesse vous enseignant et vous avertissant l'un l'autre par des psaumes, des hymnes, des cantiques spirituels, chantant de votre cœur à Dieu dans un esprit de reconnaissance.",
-    "personal_analysis": "Saint Paul utilise l'image du vêtement pour décrire l'identité chrétienne. Ces vertus ne sont pas des efforts moraux isolés, mais l'expression de notre condition d'élus, saints et bien-aimés. L'amour (*agape*) est défini comme le 'syndesmos' (lien ou ceinture) qui maintient tout l'édifice des vertus en place. Le verset 15 utilise le verbe 'brabeueto' (règne/préside), qui désignait à l'origine l'arbitre dans les jeux athlétiques : la paix du Christ doit être l'arbitre de nos décisions intérieures. Enfin, la Parole du Christ n'est pas une simple lecture, elle doit 'habiter' (*enoikeito*) en nous, transformant la communauté en un chœur vivant qui chante la grâce de Dieu."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 15 - βραβευέτω : Segond traduit par 'règne' et Darby par 'préside'. Ces termes gomment la dimension sportive et dynamique du grec *brabeuo*, qui signifie 'agir comme arbitre'. La paix n'est pas un monarque lointain ; c'est un sifflet intérieur qui disqualifie instantanément les pensées égotiques dès qu'elles tentent d'entrer sur le terrain du *Kardia*.\n• Verset 16 - ἐνοικείτω : 'Habite parmi vous'. L'apôtre utilise le verbe *en-oikeo* (faire sa demeure à l'intérieur). Le Logos n'est pas une doctrine extérieure qu'on étudie, c'est une entité vivante qui colonise l'espace de l'Éveillé.\n\nAnalyse spirituelle :\nCette dernière partie de la péricope décrit la mécanique de maintien du Champ Unifié (l'Église en tant que Corps mystique, et non en tant qu'institution).\n\nAprès avoir revêtu l'*Agape* (le ligament cosmique) au verset 14, Paul révèle au verset 15 comment maintenir cette cohésion face aux assauts de l'entropie : il faut nommer un Arbitre intolérant, l'*Eirene* (la Paix du Christ). L'Éveillé doit soumettre toute impulsion de son centre de gravité (*Kardia*) à cet arbitre. Si une pensée génère de la friction, de l'angoisse ou de la séparation, la 'Paix-Arbitre' siffle la faute et rejette la pensée. C'est ainsi que se maintient la réalité de l'Unité (*Hen Soma*, un seul corps).\n\nLe verset 16 décrit l'apothéose de cette communauté unifiée. Une fois le cœur apaisé et délesté du bruit de fond de l'Ego, l'espace se libère pour laisser entrer le *Logos* (la fréquence de l'Incréé). Cette abondance (*plousios*) ne produit pas un discours moralisateur, mais un jaillissement vibratoire : psaumes, hymnes, odes pneumatiques.\n\nLe christianisme primitif, tel que le conçoit Paul ici, n'est pas une religion du Livre mort, mais une technologie de résonance. Les Éveillés s'enseignent et s'ajustent mutuellement non par des débats intellectuels, mais en entonnant ensemble la fréquence de la Grâce. Le chant est le moment physique où les souffles individuels se fondent pour former une seule onde dirigée verticalement vers la Source."
   }
 }
