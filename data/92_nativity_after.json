@@ -1,102 +1,582 @@
 {
   "gospel": {
     "reference": "Matthieu 2, 13-23",
-    "title": "La Fuite en Égypte et le Retour à Nazareth",
+    "title": "La Descente dans la Matrice et la Terreur de l'Ego : Le Logos face à Hérode",
     "interlinear": [
       {
         "verse_number": 13,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Ἀναχωρησάντων</span><span class='greek-word'>δὲ</span><span class='greek-word'>αὐτῶν</span></p><p class='inter-segond'><span class='french-word'>Étant_partis</span><span class='french-word'>mais</span><span class='french-word'>eux,</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>quand</span><span class='french-word'>ils_s'en_furent_allés,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἰδοὺ</span><span class='greek-word'>ἄγγελος</span><span class='greek-word'>Κυρίου</span><span class='greek-word'>φαίνεται</span></p><p class='inter-segond'><span class='french-word'>voici</span><span class='french-word'>un_ange</span><span class='french-word'>du_Seigneur</span><span class='french-word'>apparaît</span></p><p class='inter-darby'><span class='french-word'>voici,</span><span class='french-word'>un_ange</span><span class='french-word'>du_Seigneur</span><span class='french-word'>apparaît</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>κατ’</span><span class='greek-word'>ὄναρ</span><span class='greek-word'>τῷ</span><span class='greek-word'>Ἰωσὴφ</span><span class='greek-word'>λέγων·</span></p><p class='inter-segond'><span class='french-word'>en</span><span class='french-word'>songe</span><span class='french-word'>à</span><span class='french-word'>Joseph</span><span class='french-word'>disant :</span></p><p class='inter-darby'><span class='french-word'>en_songe</span><span class='french-word'>à</span><span class='french-word'>Joseph,</span><span class='french-word'>disant :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Ἐγερθεὶς</span><span class='greek-word'>παράλαβε</span><span class='greek-word'>τὸ</span><span class='greek-word'>παιδίον</span></p><p class='inter-segond'><span class='french-word'>Lève-toi,</span><span class='french-word'>prends</span><span class='french-word'>le</span><span class='french-word'>petit_enfant</span></p><p class='inter-darby'><span class='french-word'>« Lève-toi,</span><span class='french-word'>prends</span><span class='french-word'>le</span><span class='french-word'>petit_enfant</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>τὴν</span><span class='greek-word'>μητέρα</span><span class='greek-word'>αὐτοῦ</span><span class='greek-word'>καὶ</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>la</span><span class='french-word'>mère</span><span class='french-word'>sa</span><span class='french-word'>et</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>sa</span><span class='french-word'>mère,</span><span class='french-word'>et</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>φεῦγε</span><span class='greek-word'>εἰς</span><span class='greek-word'>Αἴγυπτον,</span><span class='greek-word'>καὶ</span></p><p class='inter-segond'><span class='french-word'>fuis</span><span class='french-word'>en</span><span class='french-word'>Égypte,</span><span class='french-word'>et</span></p><p class='inter-darby'><span class='french-word'>fuis</span><span class='french-word'>en</span><span class='french-word'>Égypte,</span><span class='french-word'>et</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἴσθι</span><span class='greek-word'>ἐκεῖ</span><span class='greek-word'>ἕως</span><span class='greek-word'>ἂν</span><span class='greek-word'>εἴπω</span></p><p class='inter-segond'><span class='french-word'>reste</span><span class='french-word'>là</span><span class='french-word'>jusqu'à</span><span class='french-word'>que</span><span class='french-word'>je_dise</span></p><p class='inter-darby'><span class='french-word'>demeure_là</span><span class='french-word'>jusqu'à_ce_que</span><span class='french-word'>je</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>σοι·</span><span class='greek-word'>μέλλει</span><span class='greek-word'>γὰρ</span><span class='greek-word'>Ἡρώδης</span></p><p class='inter-segond'><span class='french-word'>à_toi ;</span><span class='french-word'>va</span><span class='french-word'>car</span><span class='french-word'>Hérode</span></p><p class='inter-darby'><span class='french-word'>te_le_dise ;</span><span class='french-word'>car</span><span class='french-word'>Hérode</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ζητεῖν</span><span class='greek-word'>τὸ</span><span class='greek-word'>παιδίον</span><span class='greek-word'>τοῦ</span></p><p class='inter-segond'><span class='french-word'>chercher</span><span class='french-word'>le</span><span class='french-word'>enfant</span><span class='french-word'>le</span></p><p class='inter-darby'><span class='french-word'>cherchera</span><span class='french-word'>le</span><span class='french-word'>petit_enfant</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀπολέσαι</span><span class='greek-word'>αὐτό.</span></p><p class='inter-segond'><span class='french-word'>pour_faire_périr</span><span class='french-word'>le.</span></p><p class='inter-darby'><span class='french-word'>pour_le_faire_périr ».</span></p></div>"
+        "translations": {
+          "segond": "Lorsqu'ils furent partis, voici, un ange du Seigneur apparut en songe à Joseph, et dit : Lève-toi, prends le petit enfant et sa mère, fuis en Égypte, et restes-y jusqu'à ce que je te parle ; car Hérode cherchera le petit enfant pour le faire périr.",
+          "darby": "Or, quand ils se furent retirés, voici, un ange du Seigneur apparaît en songe à Joseph, disant : Lève-toi, prends le petit enfant et sa mère, et fuis en Égypte, et demeures-y jusqu'à ce que je te le dise ; car Hérode cherchera le petit enfant pour le faire périr."
+        },
+        "interlinear": [
+          { "greek": "Ἀναχωρησάντων", "gloss": "S'étant_retirés" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "αὐτῶν", "gloss": "eux", "analyse": "Le départ des Mages. L'hommage cosmique est terminé, la brutalité du Monde duel reprend ses droits." },
+          { "greek": "ἰδοὺ", "gloss": "voici" },
+          { "greek": "ἄγγελος", "gloss": "un_ange" },
+          { "greek": "κυρίου", "gloss": "du_Seigneur" },
+          { "greek": "φαίνεται", "gloss": "apparaît" },
+          { "greek": "κατ’", "gloss": "en/selon" },
+          { "greek": "ὄναρ", "gloss": "songe", "analyse": "Comme au chapitre 1, l'Incréé communique avec Joseph en contournant son intellect rationnel par l'état de sommeil profond." },
+          { "greek": "τῷ", "gloss": "à_le" },
+          { "greek": "Ἰωσὴφ", "gloss": "Joseph" },
+          { "greek": "λέγων·", "gloss": "disant" },
+          { "greek": "Ἐγερθεὶς", "gloss": "T'étant_levé/Ressuscité" },
+          { "greek": "παράλαβε", "gloss": "prends_auprès_de_toi" },
+          { "greek": "τὸ", "gloss": "le" },
+          { "greek": "παιδίον", "gloss": "petit_enfant" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "τὴν", "gloss": "la" },
+          { "greek": "μητέρα", "gloss": "mère" },
+          { "greek": "αὐτοῦ", "gloss": "de_lui" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "φεῦγε", "gloss": "fuis", "analyse": "L'injonction de repli. La Grâce ne joue pas aux héros contre l'entropie de la Matrice. Il y a un temps (*Kairos*) pour l'affrontement et un temps pour la préservation stratégique du Logos naissant." },
+          { "greek": "εἰς", "gloss": "vers/en" },
+          { "greek": "Αἴγυπτον,", "gloss": "Égypte", "analyse": "L'Égypte (*Aigyptos*). Dans la géographie spirituelle, c'est l'archétype de la Matrice, le lieu de la servitude, de l'opacité et de la matière dense. Le Christ doit y descendre pour assumer l'extrême limite de la chute humaine." },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἴσθι", "gloss": "sois/demeure" },
+          { "greek": "ἐκεῖ", "gloss": "là" },
+          { "greek": "ἕως", "gloss": "jusqu'à" },
+          { "greek": "ἂν", "gloss": "ce_que" },
+          { "greek": "εἴπω", "gloss": "je_dise" },
+          { "greek": "σοι·", "gloss": "à_toi" },
+          { "greek": "μέλλει", "gloss": "est_sur_le_point_de" },
+          { "greek": "γὰρ", "gloss": "car" },
+          { "greek": "Ἡρῴδης", "gloss": "Hérode", "analyse": "L'Ego absolu. Le roi horizontal, paranoïaque et obsédé par le maintien de son pouvoir. Il représente le système duel terrorisé par la fréquence de l'Unité." },
+          { "greek": "ζητεῖν", "gloss": "chercher" },
+          { "greek": "τὸ", "gloss": "le" },
+          { "greek": "παιδίον", "gloss": "petit_enfant" },
+          { "greek": "τοῦ", "gloss": "pour" },
+          { "greek": "ἀπολέσαι", "gloss": "le_détruire/le_perdre", "analyse": "Le verbe *apollymi* (désintégrer/ruiner). L'Ego ne cherche pas à comprendre la Non-Dualité, il veut l'anéantir car elle révèle son illusion." },
+          { "greek": "αὐτό.", "gloss": "lui" }
+        ]
       },
       {
         "verse_number": 14,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ὁ</span><span class='greek-word'>δὲ</span><span class='greek-word'>ἐγερθεὶς</span><span class='greek-word'>παρέλαβε</span></p><p class='inter-segond'><span class='french-word'>Lui</span><span class='french-word'>donc</span><span class='french-word'>s'étant_levé</span><span class='french-word'>prit</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>lui,</span><span class='french-word'>s'étant_levé,</span><span class='french-word'>prit</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τὸ</span><span class='greek-word'>παιδίον</span><span class='greek-word'>καὶ</span><span class='greek-word'>τὴν</span></p><p class='inter-segond'><span class='french-word'>le</span><span class='french-word'>petit_enfant</span><span class='french-word'>et</span><span class='french-word'>la</span></p><p class='inter-darby'><span class='french-word'>de_nuit</span><span class='french-word'>le</span><span class='french-word'>petit_enfant</span><span class='french-word'>et</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>μητέρα</span><span class='greek-word'>αὐτοῦ</span><span class='greek-word'>νυκτὸς</span><span class='greek-word'>καὶ</span></p><p class='inter-segond'><span class='french-word'>mère</span><span class='french-word'>sa</span><span class='french-word'>de_nuit</span><span class='french-word'>et</span></p><p class='inter-darby'><span class='french-word'>sa</span><span class='french-word'>mère,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀνεχώρησεν</span><span class='greek-word'>εἰς</span><span class='greek-word'>Αἴγυπτον,</span></p><p class='inter-segond'><span class='french-word'>se_retira</span><span class='french-word'>en</span><span class='french-word'>Égypte.</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>se_retira</span><span class='french-word'>en</span><span class='french-word'>Égypte.</span></p></div>"
+        "translations": {
+          "segond": "Joseph se leva, prit de nuit le petit enfant et sa mère, et se retira en Égypte.",
+          "darby": "Et lui, s'étant levé, prit le petit enfant et sa mère de nuit, et se retira en Égypte."
+        },
+        "interlinear": [
+          { "greek": "Ὁ", "gloss": "Lui" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "ἐγερθεὶς", "gloss": "s'étant_levé" },
+          { "greek": "παρέλαβεν", "gloss": "prit" },
+          { "greek": "τὸ", "gloss": "le" },
+          { "greek": "παιδίον", "gloss": "petit_enfant" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "τὴν", "gloss": "la" },
+          { "greek": "μητέρα", "gloss": "mère" },
+          { "greek": "αὐτοῦ", "gloss": "de_lui" },
+          { "greek": "νυκτὸς", "gloss": "de_nuit", "analyse": "La *Nyx*. L'Éveil de l'Incréé a lieu pendant que le monde duel est plongé dans l'obscurité totale. La nuit est le milieu de dissimulation nécessaire pour échapper à la vigilance mortifère de l'Empire." },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἀνεχώρησεν", "gloss": "se_retira" },
+          { "greek": "εἰς", "gloss": "en" },
+          { "greek": "Αἴγυπτον,", "gloss": "Égypte" }
+        ]
       },
       {
         "verse_number": 15,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ἦν</span><span class='greek-word'>ἐκεῖ</span><span class='greek-word'>ἕως</span><span class='greek-word'>τῆς</span></p><p class='inter-segond'><span class='french-word'>Il</span><span class='french-word'>était</span><span class='french-word'>là</span><span class='french-word'>jusqu'à</span><span class='french-word'>la</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>il</span><span class='french-word'>y</span><span class='french-word'>fut</span><span class='french-word'>jusqu'à</span><span class='french-word'>la</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τελευτῆς</span><span class='greek-word'>Ἡρώδου·</span><span class='greek-word'>ἵνα</span></p><p class='inter-segond'><span class='french-word'>mort</span><span class='french-word'>d'Hérode ;</span><span class='french-word'>afin_que</span></p><p class='inter-darby'><span class='french-word'>mort</span><span class='french-word'>d'Hérode,</span><span class='french-word'>afin_que</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πληρωθῇ</span><span class='greek-word'>τὸ</span><span class='greek-word'>ρηθὲν</span><span class='greek-word'>ὑπὸ</span></p><p class='inter-segond'><span class='french-word'>fût_accompli</span><span class='french-word'>ce_qui</span><span class='french-word'>avait_été_dit</span><span class='french-word'>par</span></p><p class='inter-darby'><span class='french-word'>fût_accompli</span><span class='french-word'>ce</span><span class='french-word'>que</span><span class='french-word'>le</span><span class='french-word'>Seigneur</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τοῦ</span><span class='greek-word'>Κυρίου</span><span class='greek-word'>διὰ</span><span class='greek-word'>τοῦ</span></p><p class='inter-segond'><span class='french-word'>le</span><span class='french-word'>Seigneur</span><span class='french-word'>par</span><span class='french-word'>le</span></p><p class='inter-darby'><span class='french-word'>a_dit</span><span class='french-word'>par</span><span class='french-word'>le</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>προφήτου</span><span class='greek-word'>λέγοντος·</span><span class='greek-word'>Ἐξ</span></p><p class='inter-segond'><span class='french-word'>prophète</span><span class='french-word'>disant :</span><span class='french-word'>De</span></p><p class='inter-darby'><span class='french-word'>prophète,</span><span class='french-word'>disant :</span><span class='french-word'>« J'ai_appelé</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Αἰγύπτου</span><span class='greek-word'>ἐκάλεσα</span><span class='greek-word'>τὸν</span></p><p class='inter-segond'><span class='french-word'>Égypte</span><span class='french-word'>j'ai_appelé</span><span class='french-word'>le</span></p><p class='inter-darby'><span class='french-word'>mon</span><span class='french-word'>fils</span><span class='french-word'>hors</span><span class='french-word'>d'Égypte ».</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>υἱόν</span><span class='greek-word'>μου.</span></p><p class='inter-segond'><span class='french-word'>fils</span><span class='french-word'>mon.</span></p><p class='inter-darby'><span></span></p></div>"
+        "translations": {
+          "segond": "Il y resta jusqu'à la mort d'Hérode, afin que s'accomplît ce que le Seigneur avait annoncé par le prophète : J'ai appelé mon fils hors d'Égypte.",
+          "darby": "Et il y demeura jusqu'à la mort d'Hérode, afin que fût accompli ce que le Seigneur a dit par le prophète, disant : 'J'ai appelé mon fils hors d'Égypte'."
+        },
+        "interlinear": [
+          { "greek": "καὶ", "gloss": "Et" },
+          { "greek": "ἦν", "gloss": "il_fut/était" },
+          { "greek": "ἐκεῖ", "gloss": "là" },
+          { "greek": "ἕως", "gloss": "jusqu'à" },
+          { "greek": "τῆς", "gloss": "la" },
+          { "greek": "τελευτῆς", "gloss": "fin/mort" },
+          { "greek": "Ἡρῴδου·", "gloss": "d'Hérode", "analyse": "La limite temporelle de l'Ego. Aussi puissant soit-il, le tyran horizontal finit toujours par être désintégré par l'entropie (*teleute*)." },
+          { "greek": "ἵνα", "gloss": "afin_que" },
+          { "greek": "πληρωθῇ", "gloss": "soit_accompli/rempli" },
+          { "greek": "τὸ", "gloss": "ce_qui" },
+          { "greek": "ῥηθὲν", "gloss": "a_été_dit" },
+          { "greek": "ὑπὸ", "gloss": "par" },
+          { "greek": "κυρίου", "gloss": "le_Seigneur" },
+          { "greek": "διὰ", "gloss": "à_travers" },
+          { "greek": "τοῦ", "gloss": "le" },
+          { "greek": "προφήτου", "gloss": "prophète" },
+          { "greek": "λέγοντος·", "gloss": "disant" },
+          { "greek": "Ἐξ", "gloss": "Hors_de" },
+          { "greek": "Αἰγύπτου", "gloss": "d'Égypte" },
+          { "greek": "ἐκάλεσα", "gloss": "j'ai_appelé", "analyse": "Le verbe *kaleo*. Le magnétisme de l'Axe. Dieu appelle toujours hors de la Matrice." },
+          { "greek": "τὸν", "gloss": "le" },
+          { "greek": "υἱόν", "gloss": "fils", "analyse": "Le Christ remplace l'ancien Israël. L'Exode historique d'un peuple géographique devient un Exode ontologique : c'est l'Homme Nouveau tout entier qui est arraché à l'emprise de l'Égypte mentale." },
+          { "greek": "μου.", "gloss": "de_moi" }
+        ]
       },
       {
         "verse_number": 16,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Τότε</span><span class='greek-word'>Ἡρώδης</span><span class='greek-word'>ἰδὼν</span><span class='greek-word'>ὅτι</span></p><p class='inter-segond'><span class='french-word'>Alors</span><span class='french-word'>Hérode,</span><span class='french-word'>voyant</span><span class='french-word'>qu'</span></p><p class='inter-darby'><span class='french-word'>Alors</span><span class='french-word'>Hérode,</span><span class='french-word'>voyant</span><span class='french-word'>qu'il</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐνεπαίχθη</span><span class='greek-word'>ὑπὸ</span><span class='greek-word'>τῶν</span></p><p class='inter-segond'><span class='french-word'>il_avait_été_joué</span><span class='french-word'>par</span><span class='french-word'>les</span></p><p class='inter-darby'><span class='french-word'>avait_été_joué</span><span class='french-word'>par</span><span class='french-word'>les</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>μάγων,</span><span class='greek-word'>ἐθυμώθη</span><span class='greek-word'>λίαν,</span></p><p class='inter-segond'><span class='french-word'>mages,</span><span class='french-word'>se_mit_en_colère</span><span class='french-word'>très,</span></p><p class='inter-darby'><span class='french-word'>mages,</span><span class='french-word'>fut</span><span class='french-word'>fort_en_colère ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ἀποστείλας</span><span class='greek-word'>ἀνεῖλε</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>ayant_envoyé</span><span class='french-word'>il_fit_tuer</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>il_envoya</span><span class='french-word'>tuer</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πάντας</span><span class='greek-word'>τοὺς</span><span class='greek-word'>παῖδας</span><span class='greek-word'>τοὺς</span></p><p class='inter-segond'><span class='french-word'>tous</span><span class='french-word'>les</span><span class='french-word'>enfants</span><span class='french-word'>les</span></p><p class='inter-darby'><span class='french-word'>tous</span><span class='french-word'>les</span><span class='french-word'>enfants</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐν</span><span class='greek-word'>Βηθλεὲμ</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἐν</span><span class='greek-word'>πᾶσι</span></p><p class='inter-segond'><span class='french-word'>dans</span><span class='french-word'>Bethléem</span><span class='french-word'>et</span><span class='french-word'>dans</span><span class='french-word'>tous</span></p><p class='inter-darby'><span class='french-word'>qui</span><span class='french-word'>étaient</span><span class='french-word'>dans</span><span class='french-word'>Bethléem</span><span class='french-word'>et</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τοῖς</span><span class='greek-word'>ὁρίοις</span><span class='greek-word'>αὐτῆς</span><span class='greek-word'>ἀπὸ</span></p><p class='inter-segond'><span class='french-word'>les</span><span class='french-word'>territoires</span><span class='french-word'>siens</span><span class='french-word'>de</span></p><p class='inter-darby'><span class='french-word'>dans</span><span class='french-word'>tout</span><span class='french-word'>son</span><span class='french-word'>territoire,</span><span class='french-word'>depuis</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>διετοῦς</span><span class='greek-word'>καὶ</span><span class='greek-word'>κατωτέρω,</span></p><p class='inter-segond'><span class='french-word'>deux_ans</span><span class='french-word'>et</span><span class='french-word'>au-dessous,</span></p><p class='inter-darby'><span class='french-word'>l'âge_de_deux_ans</span><span class='french-word'>et</span><span class='french-word'>au-dessous,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>κατὰ</span><span class='greek-word'>τὸν</span><span class='greek-word'>χρόνον</span><span class='greek-word'>ὃν</span></p><p class='inter-segond'><span class='french-word'>selon</span><span class='french-word'>le</span><span class='french-word'>temps</span><span class='french-word'>qu'</span></p><p class='inter-darby'><span class='french-word'>selon</span><span class='french-word'>le</span><span class='french-word'>temps</span><span class='french-word'>dont</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἠκρίβωσε</span><span class='greek-word'>παρὰ</span><span class='greek-word'>τῶν</span></p><p class='inter-segond'><span class='french-word'>il_s'était_enquis_exactement</span><span class='french-word'>auprès_des</span></p><p class='inter-darby'><span class='french-word'>il</span><span class='french-word'>s'était</span><span class='french-word'>exactement</span><span class='french-word'>enquis</span><span class='french-word'>auprès_des</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>μάγων.</span></p><p class='inter-segond'><span class='french-word'>mages.</span></p><p class='inter-darby'><span class='french-word'>mages.</span></p></div>"
+        "translations": {
+          "segond": "Alors Hérode, voyant qu'il avait été joué par les mages, se mit dans une grande colère, et il envoya tuer tous les enfants de deux ans et au-dessous qui étaient à Bethléhem et dans tout son territoire, selon la date dont il s'était soigneusement enquis auprès des mages.",
+          "darby": "Alors Hérode, voyant qu'il avait été joué par les mages, fut extrêmement furieux ; et il envoya tuer tous les enfants qui étaient dans Bethléhem et dans tous ses confins, depuis l'âge de deux ans et au-dessous, selon le temps qu'il s'était enquis exactement des mages."
+        },
+        "interlinear": [
+          { "greek": "Τότε", "gloss": "Alors" },
+          { "greek": "Ἡρῴδης", "gloss": "Hérode" },
+          { "greek": "ἰδὼν", "gloss": "ayant_vu" },
+          { "greek": "ὅτι", "gloss": "qu'" },
+          { "greek": "ἐνεπαίχθη", "gloss": "il_fut_joué/moqué" },
+          { "greek": "ὑπὸ", "gloss": "par" },
+          { "greek": "τῶν", "gloss": "les" },
+          { "greek": "μάγων", "gloss": "mages" },
+          { "greek": "ἐθυμώθη", "gloss": "fut_en_colère", "analyse": "Le verbe *thymoomai* (être enflammé par le *thymos*). Le feu de l'Ego frustré. C'est l'énergie la plus destructrice du système horizontal : la colère née de la perte de contrôle sur le Réel." },
+          { "greek": "λίαν,", "gloss": "extrêmement" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἀποστείλας", "gloss": "ayant_envoyé" },
+          { "greek": "ἀνεῖλεν", "gloss": "il_détruisit/supprima", "analyse": "Le verbe *anaireo*. L'annulation de la vie humaine. Hérode utilise la pure force mathématique et asymétrique pour écraser toute possibilité de verticalité." },
+          { "greek": "πάντας", "gloss": "tous" },
+          { "greek": "τοὺς", "gloss": "les" },
+          { "greek": "παῖδας", "gloss": "enfants" },
+          { "greek": "τοὺς", "gloss": "ceux" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "Βηθλεὲμ", "gloss": "Bethléhem" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "πᾶσι", "gloss": "tous" },
+          { "greek": "τοῖς", "gloss": "les" },
+          { "greek": "ὁρίοις", "gloss": "confins/frontières", "analyse": "Le *horion* (limite/frontière). L'Ego veut sceller géométriquement l'espace pour s'assurer qu'aucune fuite n'est possible. Mais le Logos a déjà franchi ces frontières de nuit." },
+          { "greek": "αὐτῆς", "gloss": "d'elle" },
+          { "greek": "ἀπὸ", "gloss": "depuis" },
+          { "greek": "διετοῦς", "gloss": "deux_ans" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "κατωτέρω,", "gloss": "au-dessous" },
+          { "greek": "κατὰ", "gloss": "selon" },
+          { "greek": "τὸν", "gloss": "le" },
+          { "greek": "χρόνον", "gloss": "temps" },
+          { "greek": "ὃν", "gloss": "lequel" },
+          { "greek": "ἠκρίβωσεν", "gloss": "il_s'enquit_exactement", "analyse": "La précision maniaque de la tyrannie. L'Empire utilise le *Chronos* (le calcul exact du temps temporel) comme une arme de destruction." },
+          { "greek": "παρὰ", "gloss": "auprès_de" },
+          { "greek": "τῶν", "gloss": "les" },
+          { "greek": "μάγων.", "gloss": "mages" }
+        ]
       },
       {
         "verse_number": 17,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>τότε</span><span class='greek-word'>ἐπληρώθη</span><span class='greek-word'>τὸ</span></p><p class='inter-segond'><span class='french-word'>Alors</span><span class='french-word'>fût_accompli</span><span class='french-word'>ce_qui</span></p><p class='inter-darby'><span class='french-word'>Alors</span><span class='french-word'>fut_accompli</span><span class='french-word'>ce</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ρηθὲν</span><span class='greek-word'>διὰ</span><span class='greek-word'>Ἰερεμίου</span></p><p class='inter-segond'><span class='french-word'>avait_été_dit</span><span class='french-word'>par</span><span class='french-word'>Jérémie</span></p><p class='inter-darby'><span class='french-word'>qui</span><span class='french-word'>avait_été_dit</span><span class='french-word'>par</span><span class='french-word'>Jérémie</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τοῦ</span><span class='greek-word'>προφήτου</span><span class='greek-word'>λέγοντος·</span></p><p class='inter-segond'><span class='french-word'>le</span><span class='french-word'>prophète</span><span class='french-word'>disant :</span></p><p class='inter-darby'><span class='french-word'>le</span><span class='french-word'>prophète,</span><span class='french-word'>disant :</span></p></div>"
+        "translations": {
+          "segond": "Alors s'accomplit ce qui avait été annoncé par Jérémie, le prophète :",
+          "darby": "Alors fut accompli ce qui a été dit par Jérémie le prophète, disant :"
+        },
+        "interlinear": [
+          { "greek": "τότε", "gloss": "Alors" },
+          { "greek": "ἐπληρώθη", "gloss": "fut_accompli/rempli" },
+          { "greek": "τὸ", "gloss": "ce_qui" },
+          { "greek": "ῥηθὲν", "gloss": "fut_dit" },
+          { "greek": "διὰ", "gloss": "à_travers" },
+          { "greek": "Ἰερεμίου", "gloss": "Jérémie" },
+          { "greek": "τοῦ", "gloss": "le" },
+          { "greek": "προφήτου", "gloss": "prophète" },
+          { "greek": "λέγοντος·", "gloss": "disant" }
+        ]
       },
       {
         "verse_number": 18,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Φωνὴ</span><span class='greek-word'>ἐν</span><span class='greek-word'>Ραμὰ</span><span class='greek-word'>ἠκούσθη,</span></p><p class='inter-segond'><span class='french-word'>Une_voix</span><span class='french-word'>dans</span><span class='french-word'>Rama</span><span class='french-word'>s'est_fait_entendre,</span></p><p class='inter-darby'><span class='french-word'>« Une_voix</span><span class='french-word'>a_été_entendue</span><span class='french-word'>en</span><span class='french-word'>Rama,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>κλαυθμὸς</span><span class='greek-word'>καὶ</span><span class='greek-word'>ὀδυρμὸς</span></p><p class='inter-segond'><span class='french-word'>des_pleurs</span><span class='french-word'>et</span><span class='french-word'>des_gémissements</span></p><p class='inter-darby'><span class='french-word'>des_pleurs</span><span class='french-word'>et</span><span class='french-word'>de_grands</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πολύς·</span><span class='greek-word'>Ραχὴλ</span><span class='greek-word'>κλαίουσα</span></p><p class='inter-segond'><span class='french-word'>grands ;</span><span class='french-word'>Rachel</span><span class='french-word'>pleurant</span></p><p class='inter-darby'><span class='french-word'>lamentations :</span><span class='french-word'>Rachel</span><span class='french-word'>pleurant</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τὰ</span><span class='greek-word'>τέκνα</span><span class='greek-word'>αὐτῆς,</span><span class='greek-word'>καὶ</span><span class='greek-word'>οὐκ</span></p><p class='inter-segond'><span class='french-word'>ses</span><span class='french-word'>enfants,</span><span class='french-word'>et</span><span class='french-word'>non</span></p><p class='inter-darby'><span class='french-word'>ses</span><span class='french-word'>enfants ;</span><span class='french-word'>et</span><span class='french-word'>elle</span><span class='french-word'>n'a</span><span class='french-word'>pas</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἤθελε</span><span class='greek-word'>παρακληθῆναι,</span><span class='greek-word'>ὅτι</span></p><p class='inter-segond'><span class='french-word'>elle_voulait</span><span class='french-word'>être_consolée,</span><span class='french-word'>car</span></p><p class='inter-darby'><span class='french-word'>voulu</span><span class='french-word'>être_consolée,</span><span class='french-word'>parce_qu'</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>οὐκ</span><span class='greek-word'>εἰσίν.</span></p><p class='inter-segond'><span class='french-word'>ils_ne_sont_plus.</span></p><p class='inter-darby'><span class='french-word'>ils</span><span class='french-word'>ne_sont_pas. »</span></p></div>"
+        "translations": {
+          "segond": "On a entendu des cris à Rama, des pleurs et de grandes lamentations : Rachel pleure ses enfants, et n'a pas voulu être consolée, parce qu'ils ne sont plus.",
+          "darby": "'Une voix a été entendue à Rama, des pleurs et de grandes lamentations : Rachel pleurant ses enfants ; et elle n'a pas voulu être consolée, parce qu'ils ne sont plus'."
+        },
+        "interlinear": [
+          { "greek": "Φωνὴ", "gloss": "Une_voix" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "Ῥαμὰ", "gloss": "Rama" },
+          { "greek": "ἠκούσθη,", "gloss": "fut_entendue" },
+          { "greek": "κλαυθμὸς", "gloss": "des_pleurs" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ὀδυρμὸς", "gloss": "une_lamentation/gémissement" },
+          { "greek": "πολύς·", "gloss": "grand/beaucoup" },
+          { "greek": "Ῥαχὴλ", "gloss": "Rachel" },
+          { "greek": "κλαίουσα", "gloss": "pleurant" },
+          { "greek": "τὰ", "gloss": "les" },
+          { "greek": "τέκνα", "gloss": "enfants" },
+          { "greek": "αὐτῆς,", "gloss": "d'elle" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "οὐκ", "gloss": "ne...pas" },
+          { "greek": "ἤθελεν", "gloss": "elle_voulait" },
+          { "greek": "παρακληθῆναι,", "gloss": "être_consolée", "analyse": "Le refus du *Parakletos* prématuré. La tragédie du Monde duel est irréparable sur le plan horizontal. Le deuil absolu de l'âme humaine face à l'entropie cruelle de la Matrice. Aucune philosophie ou psychologie humaine ne peut 'consoler' cette désintégration." },
+          { "greek": "ὅτι", "gloss": "parce_que" },
+          { "greek": "οὐκ", "gloss": "ne...pas" },
+          { "greek": "εἰσίν.", "gloss": "ils_sont", "analyse": "Le *ouk eisin* (ils ne sont pas/ne sont plus). La définition même de la mort dans le monde temporel : la perte radicale de l'Être." }
+        ]
       },
-      {
+ {
         "verse_number": 19,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Τελευτήσαντος</span><span class='greek-word'>δὲ</span><span class='greek-word'>τοῦ</span></p><p class='inter-segond'><span class='french-word'>Mort_étant</span><span class='french-word'>mais</span><span class='french-word'>le</span></p><p class='inter-darby'><span class='french-word'>Mais</span><span class='french-word'>Hérode</span><span class='french-word'>étant_mort,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Ἡρώδου</span><span class='greek-word'>ἰδοὺ</span><span class='greek-word'>ἄγγελος</span></p><p class='inter-segond'><span class='french-word'>Hérode,</span><span class='french-word'>voici</span><span class='french-word'>un_ange</span></p><p class='inter-darby'><span class='french-word'>voici,</span><span class='french-word'>un_ange</span><span class='french-word'>du_Seigneur</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Κυρίου</span><span class='greek-word'>κατ’</span><span class='greek-word'>ὄναρ</span><span class='greek-word'>φαίνεται</span></p><p class='inter-segond'><span class='french-word'>du_Seigneur</span><span class='french-word'>en</span><span class='french-word'>songe</span><span class='french-word'>apparaît</span></p><p class='inter-darby'><span class='french-word'>apparaît</span><span class='french-word'>en_songe</span><span class='french-word'>à</span><span class='french-word'>Joseph</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τῷ</span><span class='greek-word'>Ἰωσὴφ</span><span class='greek-word'>ἐν</span><span class='greek-word'>Αἰγύπτῳ</span></p><p class='inter-segond'><span class='french-word'>à</span><span class='french-word'>Joseph</span><span class='french-word'>en</span><span class='french-word'>Égypte,</span></p><p class='inter-darby'><span class='french-word'>en</span><span class='french-word'>Égypte,</span></p></div>"
+        "translations": {
+          "segond": "Quand Hérode fut mort, voici, un ange du Seigneur apparut en songe à Joseph, en Égypte,",
+          "darby": "Or, quand Hérode fut mort, voici, un ange du Seigneur apparaît en songe à Joseph en Égypte, disant :"
+        },
+        "interlinear": [
+          { "greek": "Τελευτήσαντος", "gloss": "Ayant_atteint_sa_fin/Étant_mort", "analyse": "Le verbe *teleutao*. Le moment d'achèvement de l'entropie. L'Ego dictatorial a cru maîtriser le temps, mais il est finalement rattrapé et dissous par lui. La tyrannie horizontale a une date de péremption inévitable." },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "τοῦ", "gloss": "le" },
+          { "greek": "Ἡρῴδου", "gloss": "Hérode" },
+          { "greek": "ἰδοὺ", "gloss": "voici" },
+          { "greek": "ἄγγελος", "gloss": "un_ange" },
+          { "greek": "κυρίου", "gloss": "du_Seigneur" },
+          { "greek": "φαίνεται", "gloss": "apparaît" },
+          { "greek": "κατ’", "gloss": "en/selon" },
+          { "greek": "ὄναρ", "gloss": "songe" },
+          { "greek": "τῷ", "gloss": "à_le" },
+          { "greek": "Ἰωσὴφ", "gloss": "Joseph" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "Αἰγύπτῳ", "gloss": "l'Égypte" }
+        ]
       },
       {
         "verse_number": 20,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>λέγων·</span><span class='greek-word'>Ἐγερθεὶς</span><span class='greek-word'>παράλαβε</span></p><p class='inter-segond'><span class='french-word'>disant :</span><span class='french-word'>Lève-toi,</span><span class='french-word'>prends</span></p><p class='inter-darby'><span class='french-word'>disant :</span><span class='french-word'>« Lève-toi,</span><span class='french-word'>prends</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τὸ</span><span class='greek-word'>παιδίον</span><span class='greek-word'>καὶ</span><span class='greek-word'>τὴν</span></p><p class='inter-segond'><span class='french-word'>le</span><span class='french-word'>petit_enfant</span><span class='french-word'>et</span><span class='french-word'>la</span></p><p class='inter-darby'><span class='french-word'>le</span><span class='french-word'>petit_enfant</span><span class='french-word'>et</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>μητέρα</span><span class='greek-word'>αὐτοῦ</span><span class='greek-word'>καὶ</span></p><p class='inter-segond'><span class='french-word'>mère</span><span class='french-word'>sa</span><span class='french-word'>et</span></p><p class='inter-darby'><span class='french-word'>sa</span><span class='french-word'>mère,</span><span class='french-word'>et</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πορεύου</span><span class='greek-word'>εἰς</span><span class='greek-word'>γῆν</span><span class='greek-word'>Ἰσραήλ·</span></p><p class='inter-segond'><span class='french-word'>va</span><span class='french-word'>en</span><span class='french-word'>terre</span><span class='french-word'>d'Israël ;</span></p><p class='inter-darby'><span class='french-word'>va</span><span class='french-word'>dans</span><span class='french-word'>la</span><span class='french-word'>terre</span><span class='french-word'>d'Israël ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τεθνήκασι</span><span class='greek-word'>γὰρ</span><span class='greek-word'>οἱ</span><span class='greek-word'>ζητοῦντες</span></p><p class='inter-segond'><span class='french-word'>ils_sont_morts</span><span class='french-word'>car</span><span class='french-word'>ceux</span><span class='french-word'>cherchant</span></p><p class='inter-darby'><span class='french-word'>car</span><span class='french-word'>ceux</span><span class='french-word'>qui</span><span class='french-word'>en_voulaient</span><span class='french-word'>à</span><span class='french-word'>la</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τὴν</span><span class='greek-word'>ψυχὴν</span><span class='greek-word'>τοῦ</span><span class='greek-word'>παιδίου.</span></p><p class='inter-segond'><span class='french-word'>la</span><span class='french-word'>vie</span><span class='french-word'>du</span><span class='french-word'>enfant.</span></p><p class='inter-darby'><span class='french-word'>vie</span><span class='french-word'>du</span><span class='french-word'>petit_enfant</span><span class='french-word'>sont</span><span class='french-word'>morts ».</span></p></div>"
+        "translations": {
+          "segond": "et dit : Lève-toi, prends le petit enfant et sa mère, et va dans le pays d'Israël, car ceux qui en voulaient à la vie du petit enfant sont morts.",
+          "darby": "Lève-toi, prends le petit enfant et sa mère, et va dans le pays d'Israël ; car ceux qui cherchaient la vie du petit enfant sont morts."
+        },
+        "interlinear": [
+          { "greek": "λέγων·", "gloss": "disant" },
+          { "greek": "Ἐγερθεὶς", "gloss": "T'étant_levé/Ressuscité" },
+          { "greek": "παράλαβε", "gloss": "prends_auprès_de_toi" },
+          { "greek": "τὸ", "gloss": "le" },
+          { "greek": "παιδίον", "gloss": "petit_enfant" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "τὴν", "gloss": "la" },
+          { "greek": "μητέρα", "gloss": "mère" },
+          { "greek": "αὐτοῦ", "gloss": "de_lui" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "πορεύου", "gloss": "fais_route/va" },
+          { "greek": "εἰς", "gloss": "vers/dans" },
+          { "greek": "γῆν", "gloss": "la_terre" },
+          { "greek": "Ἰσραήλ·", "gloss": "d'Israël" },
+          { "greek": "τεθνήκασιν", "gloss": "sont_morts" },
+          { "greek": "γὰρ", "gloss": "car" },
+          { "greek": "οἱ", "gloss": "ceux" },
+          { "greek": "ζητοῦντες", "gloss": "cherchant" },
+          { "greek": "τὴν", "gloss": "la" },
+          { "greek": "ψυχὴν", "gloss": "vie/âme", "analyse": "La *Psyche*. L'Ego d'Hérode ne cherchait pas seulement à tuer un corps physique, mais à éteindre le principe vital (*psyche*) qui portait l'anomalie vibratoire du Logos." },
+          { "greek": "τοῦ", "gloss": "du" },
+          { "greek": "παιδίου.", "gloss": "petit_enfant" }
+        ]
       },
       {
         "verse_number": 21,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ὁ</span><span class='greek-word'>δὲ</span><span class='greek-word'>ἐγερθεὶς</span><span class='greek-word'>παρέλαβε</span></p><p class='inter-segond'><span class='french-word'>Lui</span><span class='french-word'>donc</span><span class='french-word'>s'étant_levé</span><span class='french-word'>prit</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>lui,</span><span class='french-word'>s'étant_levé,</span><span class='french-word'>prit</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τὸ</span><span class='greek-word'>παιδίον</span><span class='greek-word'>καὶ</span><span class='greek-word'>τὴν</span></p><p class='inter-segond'><span class='french-word'>le</span><span class='french-word'>petit_enfant</span><span class='french-word'>et</span><span class='french-word'>la</span></p><p class='inter-darby'><span class='french-word'>le</span><span class='french-word'>petit_enfant</span><span class='french-word'>et</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>μητέρα</span><span class='greek-word'>αὐτοῦ</span><span class='greek-word'>καὶ</span><span class='greek-word'>εἰσῆλθεν</span></p><p class='inter-segond'><span class='french-word'>mère</span><span class='french-word'>sa</span><span class='french-word'>et</span><span class='french-word'>vint</span></p><p class='inter-darby'><span class='french-word'>sa</span><span class='french-word'>mère,</span><span class='french-word'>et</span><span class='french-word'>vint</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>εἰς</span><span class='greek-word'>γῆν</span><span class='greek-word'>Ἰσραήλ.</span></p><p class='inter-segond'><span class='french-word'>en</span><span class='french-word'>terre</span><span class='french-word'>d'Israël.</span></p><p class='inter-darby'><span class='french-word'>dans</span><span class='french-word'>la</span><span class='french-word'>terre</span><span class='french-word'>d'Israël.</span></p></div>"
+        "translations": {
+          "segond": "Joseph se leva, prit le petit enfant et sa mère, et alla dans le pays d'Israël.",
+          "darby": "Et lui, s'étant levé, prit le petit enfant et sa mère, et vint dans le pays d'Israël."
+        },
+        "interlinear": [
+          { "greek": "Ὁ", "gloss": "Lui" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "ἐγερθεὶς", "gloss": "s'étant_levé" },
+          { "greek": "παρέλαβεν", "gloss": "prit" },
+          { "greek": "τὸ", "gloss": "le" },
+          { "greek": "παιδίον", "gloss": "petit_enfant" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "τὴν", "gloss": "la" },
+          { "greek": "μητέρα", "gloss": "mère" },
+          { "greek": "αὐτοῦ", "gloss": "de_lui" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "εἰσῆλθεν", "gloss": "entra" },
+          { "greek": "εἰς", "gloss": "dans" },
+          { "greek": "γῆν", "gloss": "la_terre" },
+          { "greek": "Ἰσραήλ.", "gloss": "d'Israël", "analyse": "La boucle de l'Exode est achevée. Le nouveau Sujet est revenu de la Matrice (Égypte) pour réclamer le centre géographique de la promesse (Israël)." }
+        ]
       },
       {
         "verse_number": 22,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἀκούσας</span><span class='greek-word'>δὲ</span><span class='greek-word'>ὅτι</span><span class='greek-word'>Ἀρχέλαος</span></p><p class='inter-segond'><span class='french-word'>Ayant_appris</span><span class='french-word'>mais</span><span class='french-word'>qu'</span><span class='french-word'>Archélaüs</span></p><p class='inter-darby'><span class='french-word'>Mais</span><span class='french-word'>apprenant_qu'</span><span class='french-word'>Archélaüs</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>βασιλεύει</span><span class='greek-word'>τῆς</span><span class='greek-word'>Ἰουδαίας</span><span class='greek-word'>ἀντὶ</span></p><p class='inter-segond'><span class='french-word'>régnait</span><span class='french-word'>sur_la</span><span class='french-word'>Judée</span><span class='french-word'>à_la_place</span></p><p class='inter-darby'><span class='french-word'>régnait</span><span class='french-word'>sur</span><span class='french-word'>la</span><span class='french-word'>Judée</span><span class='french-word'>à_la_place</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τοῦ</span><span class='greek-word'>πατρὸς</span><span class='greek-word'>αὐτοῦ</span><span class='greek-word'>Ἡρώδου,</span></p><p class='inter-segond'><span class='french-word'>de_le</span><span class='french-word'>père</span><span class='french-word'>son</span><span class='french-word'>Hérode,</span></p><p class='inter-darby'><span class='french-word'>d'Hérode</span><span class='french-word'>son</span><span class='french-word'>père,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐφοβήθη</span><span class='greek-word'>ἐκεῖ</span><span class='greek-word'>ἀπελθεῖν·</span></p><p class='inter-segond'><span class='french-word'>il_craignit</span><span class='french-word'>là</span><span class='french-word'>d'aller ;</span></p><p class='inter-darby'><span class='french-word'>il_craignit</span><span class='french-word'>d'y_aller ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>χρηματισθεὶς</span><span class='greek-word'>δὲ</span><span class='greek-word'>κατ’</span><span class='greek-word'>ὄναρ</span></p><p class='inter-segond'><span class='french-word'>averti_divinement</span><span class='french-word'>mais</span><span class='french-word'>en</span><span class='french-word'>songe</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>ayant_été_averti_divinement</span><span class='french-word'>en</span><span class='french-word'>songe,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀνεχώρησεν</span><span class='greek-word'>εἰς</span><span class='greek-word'>τὰ</span><span class='greek-word'>μέρη</span></p><p class='inter-segond'><span class='french-word'>il_se_retira</span><span class='french-word'>dans</span><span class='french-word'>les</span><span class='french-word'>territoires</span></p><p class='inter-darby'><span class='french-word'>il</span><span class='french-word'>se_retira</span><span class='french-word'>dans</span><span class='french-word'>les</span><span class='french-word'>quartiers</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τῆς</span><span class='greek-word'>Γαλιλαίας,</span></p><p class='inter-segond'><span class='french-word'>de_la</span><span class='french-word'>Galilée,</span></p><p class='inter-darby'><span class='french-word'>de</span><span class='french-word'>la</span><span class='french-word'>Galilée,</span></p></div>"
+        "translations": {
+          "segond": "Mais, ayant appris qu'Archélaüs régnait sur la Judée à la place d'Hérode, son père, il craignit d'y aller ; et, divinement averti en songe, il se retira dans le territoire de la Galilée,",
+          "darby": "Mais, entendant qu'Archélaüs régnait sur la Judée à la place d'Hérode son père, il craignit d'y aller ; et, averti divinement en songe, il se retira dans les quartiers de la Galilée ;"
+        },
+        "interlinear": [
+          { "greek": "ἀκούσας", "gloss": "Ayant_entendu" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "ὅτι", "gloss": "qu'" },
+          { "greek": "Ἀρχέλαος", "gloss": "Archélaüs" },
+          { "greek": "βασιλεύει", "gloss": "règne" },
+          { "greek": "τῆς", "gloss": "sur_la" },
+          { "greek": "Ἰουδαίας", "gloss": "Judée" },
+          { "greek": "ἀντὶ", "gloss": "à_la_place_de" },
+          { "greek": "τοῦ", "gloss": "le" },
+          { "greek": "πατρὸς", "gloss": "père" },
+          { "greek": "αὐτοῦ", "gloss": "de_lui" },
+          { "greek": "Ἡρῴδου", "gloss": "Hérode", "analyse": "Le recyclage perpétuel du Monde duel. L'Ego meurt (Hérode), mais le système matriciel génère immédiatement un successeur (Archélaüs) pour maintenir l'architecture de la tyrannie." },
+          { "greek": "ἐφοβήθη", "gloss": "il_craignit/eut_peur" },
+          { "greek": "ἐκεῖ", "gloss": "là" },
+          { "greek": "ἀπελθεῖν·", "gloss": "d'aller" },
+          { "greek": "χρηματισθεὶς", "gloss": "ayant_été_divinement_averti", "analyse": "Le verbe *chrematizo* (recevoir un oracle/une directive divine). La communication verticale vient corriger la géographie horizontale." },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "κατ’", "gloss": "en" },
+          { "greek": "ὄναρ", "gloss": "songe" },
+          { "greek": "ἀνεχώρησεν", "gloss": "il_se_retira" },
+          { "greek": "εἰς", "gloss": "vers/dans" },
+          { "greek": "τὰ", "gloss": "les" },
+          { "greek": "μέρη", "gloss": "parties/quartiers" },
+          { "greek": "τῆς", "gloss": "de_la" },
+          { "greek": "Γαλιλαίας,", "gloss": "Galilée", "analyse": "La périphérie. Refusant l'épicentre du pouvoir duel (Jérusalem/la Judée), l'Incréé choisit de croître dans l'angle mort du système : la Galilée des nations." }
+        ]
       },
       {
         "verse_number": 23,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ἐλθὼν</span><span class='greek-word'>κατῴκησεν</span><span class='greek-word'>εἰς</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>étant_venu</span><span class='french-word'>il_habita</span><span class='french-word'>dans</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>vint</span><span class='french-word'>et</span><span class='french-word'>habita</span><span class='french-word'>dans</span><span class='french-word'>une</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πόλιν</span><span class='greek-word'>λεγομένην</span><span class='greek-word'>Ναζαρέτ,</span></p><p class='inter-segond'><span class='french-word'>une_ville</span><span class='french-word'>appelée</span><span class='french-word'>Nazareth,</span></p><p class='inter-darby'><span class='french-word'>ville</span><span class='french-word'>appelée</span><span class='french-word'>Nazareth,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὅπως</span><span class='greek-word'>πληρωθῇ</span><span class='greek-word'>τὸ</span></p><p class='inter-segond'><span class='french-word'>afin_que</span><span class='french-word'>fût_accompli</span><span class='french-word'>ce_qui</span></p><p class='inter-darby'><span class='french-word'>en_sorte_que</span><span class='french-word'>fût_accompli</span><span class='french-word'>ce</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ρηθὲν</span><span class='greek-word'>διὰ</span><span class='greek-word'>τῶν</span><span class='greek-word'>προφητῶν</span></p><p class='inter-segond'><span class='french-word'>avait_été_dit</span><span class='french-word'>par</span><span class='french-word'>les</span><span class='french-word'>prophètes :</span></p><p class='inter-darby'><span class='french-word'>qui</span><span class='french-word'>avait_été_dit</span><span class='french-word'>par</span><span class='french-word'>les</span><span class='french-word'>prophètes :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὅτι</span><span class='greek-word'>Ναζωραῖος</span><span class='greek-word'>κληθήσεται.</span></p><p class='inter-segond'><span class='french-word'>que</span><span class='french-word'>Nazaréen</span><span class='french-word'>il_sera_appelé.</span></p><p class='inter-darby'><span class='french-word'>« Il_sera</span><span class='french-word'>appelé</span><span class='french-word'>Nazaréen ».</span></p></div>"
+        "translations": {
+          "segond": "et vint demeurer dans une ville appelée Nazareth, afin que s'accomplît ce qui avait été annoncé par les prophètes : Il sera appelé Nazaréen.",
+          "darby": "et vint et demeura dans une ville appelée Nazareth ; de sorte que fût accompli ce qui a été dit par les prophètes : Il sera appelé Nazaréen."
+        },
+        "interlinear": [
+          { "greek": "καὶ", "gloss": "Et" },
+          { "greek": "ἐλθὼν", "gloss": "étant_venu" },
+          { "greek": "κατῴκησεν", "gloss": "il_habita/s'établit" },
+          { "greek": "εἰς", "gloss": "dans" },
+          { "greek": "πόλιν", "gloss": "une_ville" },
+          { "greek": "λεγομένην", "gloss": "étant_appelée" },
+          { "greek": "Ναζαρέτ·", "gloss": "Nazareth" },
+          { "greek": "ὅπως", "gloss": "de_sorte_que" },
+          { "greek": "πληρωθῇ", "gloss": "soit_accompli/rempli" },
+          { "greek": "τὸ", "gloss": "ce_qui" },
+          { "greek": "ῥηθὲν", "gloss": "a_été_dit" },
+          { "greek": "διὰ", "gloss": "à_travers" },
+          { "greek": "τῶν", "gloss": "les" },
+          { "greek": "προφητῶν", "gloss": "prophètes" },
+          { "greek": "ὅτι", "gloss": "que" },
+          { "greek": "Ναζωραῖος", "gloss": "Nazaréen", "analyse": "Le paradoxe final. Il n'y a pas de prophétie textuelle littérale disant 'Il sera appelé Nazaréen' dans l'Ancien Testament. Matthieu utilise un jeu de mots spirituel (soit sur *Netzer* = le rejeton/la branche d'Ésaïe 11:1, soit sur le vœu de Naziréat). Topographiquement, cela signifie que le Centre divin s'enracine là où la Matrice ne voit aucune valeur religieuse ou politique." },
+          { "greek": "κληθήσεται.", "gloss": "il_sera_appelé" }
+        ]
       }
     ],
-    "greek_only": "\n13 Ἀναχωρησάντων δὲ αὐτῶν ἰδοὺ ἄγγελος Κυρίου φαίνεται κατ’ ὄναρ τῷ Ἰωσὴφ λέγων· Ἐγερθεὶς παράλαβε τὸ παιδίον καὶ τὴν μητέρα αὐτοῦ καὶ φεῦγε εἰς Αἴγυπτον, καὶ ἴσθι ἐκεῖ ἕως ἂν εἴπω σοι· μέλλει γὰρ Ἡρώδης ζητεῖν τὸ παιδίον τοῦ ἀπολέσαι αὐτό. \n14 ὁ δὲ ἐγερθεὶς παρέλαβε τὸ παιδίον καὶ τὴν μητέρα αὐτοῦ νυκτὸς καὶ ἀνεχώρησεν εἰς Αἴγυπτον, \n15 καὶ ἦν ἐκεῖ ἕως τῆς τελευτῆς Ἡρώδου· ἵνα πληρωθῇ τὸ ρηθὲν ὑπὸ τοῦ Κυρίου διὰ τοῦ προφήτου λέγοντος· Ἐξ Αἰγύπτου ἐκάλεσα τὸν υἱόν μου. \n16 Τότε Ἡρώδης ἰδὼν ὅτι ἐνεπαίχθη ὑπὸ τῶν μάγων, ἐθυμώθη λίαν, καὶ ἀποστείλας ἀνεῖλε πάντας τοὺς παῖδας τοὺς ἐν Βηθλεὲμ καὶ ἐν πᾶσι τοῖς ὁρίοις αὐτῆς ἀπὸ διετοῦς καὶ κατωτέρω, κατὰ τὸν χρόνον ὃν ἠκρίβωσε παρὰ τῶν μάγων. \n17 τότε ἐπληρώθη τὸ ρηθὲν διὰ Ἰερεμίου τοῦ προφήτου λέγοντος· \n18 Φωνὴ ἐν Ραμὰ ἠκούσθη, κλαυθμὸς καὶ ὀδυρμὸς πολύς· Ραχὴλ κλαίουσα τὰ τέκνα αὐτῆς, καὶ οὐκ ἤθελε παρακληθῆναι, ὅτι οὐκ εἰσίν. \n19 Τελευτήσαντος δὲ τοῦ Ἡρώδου ἰδοὺ ἄγγελος Κυρίου κατ’ ὄναρ φαίνεται τῷ Ἰωσὴφ ἐν Αἰγύπτῳ \n20 λέγων· Ἐγερθεὶς παράλαβε τὸ παιδίον καὶ τὴν μητέρα αὐτοῦ καὶ πορεύου εἰς γῆν Ἰσραήλ· τεθνήκασι γὰρ οἱ ζητοῦντες τὴν ψυχὴν τοῦ παιδίου. \n21 ὁ δὲ ἐγερθεὶς παρέλαβε τὸ παιδίον καὶ τὴν μητέρα αὐτοῦ καὶ εἰσῆλθεν εἰς γῆν Ἰσραήλ. \n22 ἀκούσας δὲ ὅτι Ἀρχέλαος βασιλεύει τῆς Ἰουδαίας ἀντὶ τοῦ πατρὸς αὐτοῦ Ἡρώδου, ἐφοβήθη ἐκεῖ ἀπελθεῖν· χρηματισθεὶς δὲ κατ’ ὄναρ ἀνεχωρήσεν εἰς τὰ μέρη τῆς Γαλιλαίας, \n23 καὶ ἐλθὼν κατῴκησεν εἰς πόλιν λεγομένην Ναζαρέτ, ὅπως πληρωθῇ τὸ ρηθὲν διὰ τῶν προφητῶν ὅτι Ναζωραῖος κληθήσεται.",
-    "french_only": "\n13 Lorsqu'ils furent partis, voici, un ange du Seigneur apparut en songe à Joseph, et dit : Lève-toi, prends le petit enfant et sa mère, fuis en Égypte, et restes-y jusqu'à ce que je te parle ; car Hérode cherchera le petit enfant pour le faire périr. \n14 Joseph se leva, prit de nuit le petit enfant et sa mère, et se retira en Égypte. \n15 Il y resta jusqu'à la mort d'Hérode, afin que s'accomplît ce que le Seigneur avait annoncé par le prophète : J'ai appelé mon fils hors d'Égypte. \n16 Alors Hérode, voyant qu'il avait été joué par les mages, se mit dans une grande colère, et il envoya tuer tous les enfants de deux ans et au-dessous qui étaient à Bethléem et dans tout son territoire, selon la date dont il s'était soigneusement enquis auprès des mages. \n17 Alors s'accomplit ce qui avait été annoncé par Jérémie, le prophète : \n18 On a entendu des cris à Rama, des pleurs et de grandes lamentations : Rachel pleure ses enfants, et n'a pas voulu être consolée, parce qu'ils ne sont plus. \n19 Quand Hérode fut mort, voici, un ange du Seigneur apparut en songe à Joseph, en Égypte, \n20 et dit : Lève-toi, prends le petit enfant et sa mère, et va dans le pays d'Israël, car ceux qui en voulaient à la vie du petit enfant sont morts. \n21 Joseph se leva, prit le petit enfant et sa mère, et alla dans le pays d'Israël. \n22 Mais, ayant appris qu'Archélaüs régnait sur la Judée à la place d'Hérode, son père, il craignit d'y aller ; et, divinement averti en songe, il se retira dans le territoire de la Galilée, \n23 et vint demeurer dans une ville appelée Nazareth, afin que s'accomplît ce qui avait été annoncé par les prophètes : Il sera appelé Nazaréen.",
-    "french_darby": "\n13 Et quand ils s'en furent allés, voici, un ange du Seigneur apparaît en songe à Joseph, disant : « Lève-toi, prends le petit enfant et sa mère, et fuis en Égypte, et demeure-là jusqu'à ce que je te le dise ; car Hérode cherchera le petit enfant pour le faire périr ». \n14 Et lui, s'étant levé, prit de nuit le petit enfant et sa mère, et se retira en Égypte. \n15 Et il y fut jusqu'à la mort d'Hérode, afin que fût accompli ce que le Seigneur a dit par le prophète, disant : « J'ai appelé mon fils hors d'Égypte ». \n16 Alors Hérode, voyant qu'il avait été joué par les mages, fut fort en colère ; et il envoya tuer tous les enfants qui étaient dans Bethléem et dans tout son territoire, depuis l'âge de deux ans et au-dessous, selon le temps dont il s'était exactement enquis auprès des mages. \n17 Alors fut accompli ce qui avait été dit par Jérémie le prophète, disant : \n18 « Une voix a été entendue en Rama, des pleurs et de grands gémissements : Rachel pleurant ses enfants ; et elle n'a pas voulu être consolée, parce qu'ils ne sont pas ». \n19 Mais Hérode étant mort, voici, un ange du Seigneur apparaît en songe à Joseph en Égypte, \n20 disant : « Lève-toi, prends le petit enfant et sa mère, et va dans la terre d'Israël ; car ceux qui en voulaient à la vie du petit enfant sont morts ». \n21 Et lui, s'étant levé, prit le petit enfant et sa mère, et vint dans la terre d'Israël. \n22 Mais apprenant qu'Archélaüs régnait sur la Judée à la place d'Hérode son père, il craignit d'y aller ; et ayant été averti divinement en songe, il se retira dans les quartiers de la Galilée, \n23 et vint et habita dans une ville appelée Nazareth ; en sorte que fût accompli ce qui avait été dit par les prophètes : « Il sera appelé Nazaréen ».",
-    "personal_analysis": "L'évangéliste Matthieu construit ce récit comme une récapitulation de l'histoire d'Israël. Jésus est le 'Nouveau Moïse' qui doit descendre en Égypte pour être rappelé par Dieu. L'obéissance absolue de Joseph, le 'juste', est le fil conducteur : il agit immédiatement après chaque songe, protégeant le Trésor de l'Église. Le massacre des innocents souligne la violence du monde face à la Lumière, tandis que le choix final de Nazareth — ville méprisée — manifeste l'humilité de l'Incarnation. Le titre de 'Nazaréen' (v. 23) joue probablement sur le mot hébreu *Netser* (le rejeton, le germe), confirmant la lignée messianique de David dans la pauvreté et le secret."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 13/20 - ἀπολέσαι / τὴν ψυχὴν : Les traductions adoucissent souvent le choc en parlant de 'faire périr' ou d'en 'vouloir à la vie'. L'Ego héroïen cherche à détruire (*apollymi*) l'âme (*psyche*) de l'enfant. Ce n'est pas qu'un infanticide clinique, c'est une guerre spirituelle pour éteindre le principe vital de la Non-Dualité qui vient de s'incarner dans la Matrice.\n• Verset 22 - χρηματισθεὶς : Souvent traduit par 'divinement averti'. Le verbe *chrematizo* désigne l'émission d'un oracle ou d'une loi depuis le Centre spirituel. Face à la peur générée par la Matrice politique (Archélaüs), la seule boussole valable du Sujet est l'oracle vibratoire intérieur.\n\nAnalyse spirituelle :\nCette péricope (Matthieu 2, 13-23) est la brutale désillusion post-Nativité. À peine la Grâce s'est-elle incarnée que le *Kosmos* (le Monde duel) réagit avec la violence de l'Ego tyrannique incarné par Hérode.\n\nLa trajectoire du Logos (Jésus) est d'abord une Kénose géographique : Il doit fuir l'épicentre d'Israël pour s'enfoncer dans l'Égypte (v.13). L'Égypte est le symbole archétypal de l'enfermement horizontal, l'opposé absolu de la Terre Promise. Pour transmuter l'entropie humaine, l'Incréé doit d'abord y descendre totalement. C'est en allant au bout de la chute qu'Il pourra 'rappeler Son fils hors d'Égypte' (v.15), validant la sortie de la Matrice pour toute l'humanité.\n\nLe massacre des Innocents (v.16-18) dévoile la terreur structurelle de l'Ego (Hérode). Face à la liberté de la Grâce qu'il ne peut pas contrôler (les mages se sont moqués de lui), l'Ego répond par l'anéantissement de l'Autre (*anaireo*). Il est prêt à dévaster la création pour préserver sa propre suprématie. Les pleurs de Rachel (v.18) expriment la souffrance intolérable du monde duel soumis à cette entropie mortifère. Ce deuil absolu ne trouve aucune consolation philosophique : la seule réponse est la résurrection que cet Enfant apportera plus tard.\n\nÀ la mort d'Hérode (v.19), la mécanique de l'Ego se perpétue pourtant à travers son fils Archélaüs (v.22). Le système horizontal ne change jamais vraiment, il remplace simplement ses tyrans. C'est pourquoi, sur instruction du Souffle, la famille refuse de retourner au cœur du pouvoir (Jérusalem/Judée) et s'installe en Galilée, à Nazareth (v.23). Le Logos choisit l'angle mort de la Matrice. Il croîtra dans la marge, en tant que 'Nazaréen', un terme presque péjoratif pour le système religieux, prouvant que l'Axe vertical se fiche des honneurs géopolitiques : Il établit le Centre là où Il se trouve."
   },
-  "apostle": {
+    "apostle": {
     "reference": "Galates 1, 11-19",
-    "title": "L'Origine Divine de l'Évangile et la Parenté du Seigneur",
+    "title": "L'Apocalypse du Sujet : La Révélation du Fils au-delà de la Transmission Humaine",
     "interlinear": [
       {
         "verse_number": 11,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Γνωρίζω</span><span class='greek-word'>δὲ</span><span class='greek-word'>ὑμῖν,</span><span class='greek-word'>ἀδελφοί,</span></p><p class='inter-segond'><span class='french-word'>Je_fais_savoir</span><span class='french-word'>mais</span><span class='french-word'>à_vous,</span><span class='french-word'>frères,</span></p><p class='inter-darby'><span class='french-word'>Mais</span><span class='french-word'>je_vous_fais_savoir,</span><span class='french-word'>frères,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τὸ</span><span class='greek-word'>εὐαγγέλιον</span><span class='greek-word'>τὸ</span><span class='greek-word'>εὐαγγελισθὲν</span></p><p class='inter-segond'><span class='french-word'>le</span><span class='french-word'>Évangile</span><span class='french-word'>le</span><span class='french-word'>annoncé</span></p><p class='inter-darby'><span class='french-word'>que</span><span class='french-word'>l'évangile</span><span class='french-word'>qui</span><span class='french-word'>a_été_annoncé</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὑπ’</span><span class='greek-word'>ἐμοῦ</span><span class='greek-word'>ὅτι</span><span class='greek-word'>οὐκ</span><span class='greek-word'>ἔστιν</span></p><p class='inter-segond'><span class='french-word'>par</span><span class='french-word'>moi</span><span class='french-word'>que</span><span class='french-word'>pas</span><span class='french-word'>il_est</span></p><p class='inter-darby'><span class='french-word'>par</span><span class='french-word'>moi</span><span class='french-word'>n'est_pas</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>κατὰ</span><span class='greek-word'>ἄνθρωπον·</span></p><p class='inter-segond'><span class='french-word'>selon</span><span class='french-word'>l'homme ;</span></p><p class='inter-darby'><span class='french-word'>selon</span><span class='french-word'>l'homme.</span></p></div>"
+        "translations": {
+          "segond": "Je vous déclare, frères, que l'Évangile qui a été annoncé par moi n'est pas de l'homme,",
+          "darby": "Or je vous fais savoir, frères, quant à l'évangile qui a été annoncé par moi, qu'il n'est pas selon l'homme ;"
+        },
+        "interlinear": [
+          { "greek": "Γνωρίζω", "gloss": "Je_fais_connaître", "analyse": "Le verbe *gnorizo*. Paul ne transmet pas une information, il invite à une connaissance intérieure (Gnose)." },
+          { "greek": "γὰρ", "gloss": "car" },
+          { "greek": "ὑμῖν,", "gloss": "à_vous" },
+          { "greek": "ἀδελφοί,", "gloss": "frères" },
+          { "greek": "τὸ", "gloss": "le" },
+          { "greek": "εὐαγγέλιον", "gloss": "Évangile/Bonne_Nouvelle", "analyse": "L'*Eu-angelion*. La fréquence de la Lumière pure, le message de l'Unification." },
+          { "greek": "τὸ", "gloss": "qui" },
+          { "greek": "εὐαγγελισθὲν", "gloss": "a_été_annoncé" },
+          { "greek": "ὑπ’", "gloss": "par" },
+          { "greek": "ἐμοῦ", "gloss": "moi" },
+          { "greek": "ὅτι", "gloss": "que" },
+          { "greek": "οὐκ", "gloss": "ne...pas" },
+          { "greek": "ἔστιν", "gloss": "est" },
+          { "greek": "κατὰ", "gloss": "selon" },
+          { "greek": "ἄνθρωπον·", "gloss": "l'homme", "analyse": "La rupture radicale. Le Logos n'est pas une construction mentale humaine (l'Ego collectif ou les traditions de la Matrice)." }
+        ]
       },
       {
         "verse_number": 12,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>οὐδὲ</span><span class='greek-word'>γὰρ</span><span class='greek-word'>ἐγὼ</span><span class='greek-word'>παρὰ</span><span class='greek-word'>ἀνθρώπου</span></p><p class='inter-segond'><span class='french-word'>car_non_plus</span><span class='french-word'>car</span><span class='french-word'>moi</span><span class='french-word'>de_la_part_de</span><span class='french-word'>l'homme</span></p><p class='inter-darby'><span class='french-word'>Car</span><span class='french-word'>moi_non_plus,</span><span class='french-word'>je_ne_l'ai_pas</span><span class='french-word'>reçu</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>παρέλαβον</span><span class='greek-word'>αὐτό,</span><span class='greek-word'>οὔτε</span><span class='greek-word'>ἐδιδάχθην,</span></p><p class='inter-segond'><span class='french-word'>je_reçus</span><span class='french-word'>le,</span><span class='french-word'>ni</span><span class='french-word'>je_fus_instruit,</span></p><p class='inter-darby'><span class='french-word'>d'un_homme</span><span class='french-word'>ni_appris,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀλλὰ</span><span class='greek-word'>δι’</span><span class='greek-word'>ἀποκαλύψεως</span><span class='greek-word'>Ἰησοῦ</span></p><p class='inter-segond'><span class='french-word'>mais</span><span class='french-word'>par</span><span class='french-word'>révélation</span><span class='french-word'>de_Jésus</span></p><p class='inter-darby'><span class='french-word'>mais</span><span class='french-word'>par</span><span class='french-word'>la_révélation</span><span class='french-word'>de_Jésus</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Χριστοῦ.</span></p><p class='inter-segond'><span class='french-word'>Christ.</span></p><p class='inter-darby'><span class='french-word'>Christ.</span></p></div>"
+        "translations": {
+          "segond": "car je ne l'ai ni reçu ni appris d'aucun homme, mais je l'ai reçu par une révélation de Jésus-Christ.",
+          "darby": "car moi, je ne l'ai ni reçu ni appris d'un homme, mais par une révélation de Jésus Christ."
+        },
+        "interlinear": [
+          { "greek": "οὐδὲ", "gloss": "ni" },
+          { "greek": "γὰρ", "gloss": "car" },
+          { "greek": "ἐγὼ", "gloss": "moi" },
+          { "greek": "παρὰ", "gloss": "auprès_de/de" },
+          { "greek": "ἀνθρώπου", "gloss": "d'homme" },
+          { "greek": "παρέλαβον", "gloss": "je_l'ai_reçu", "analyse": "Le refus de la chaîne traditionnelle de transmission. Paul coupe court à toute généalogie humaine." },
+          { "greek": "αὐτὸ", "gloss": "celui-ci" },
+          { "greek": "οὔτε", "gloss": "ni" },
+          { "greek": "ἐδιδάχθην,", "gloss": "je_fus_enseigné" },
+          { "greek": "ἀλλὰ", "gloss": "mais" },
+          { "greek": "δι’", "gloss": "à_travers/par" },
+          { "greek": "ἀποκαλύψεως", "gloss": "révélation/dévoilement", "analyse": "L'*Apokalypsis*. Le 'dé-voilement'. L'Ego est un voile qui cache la Lumière. La révélation n'est pas l'ajout d'une connaissance, c'est l'arrachement du voile qui permet à la Réalité divine d'apparaître." },
+          { "greek": "Ἰησοῦ", "gloss": "de_Jésus" },
+          { "greek": "Χριστοῦ.", "gloss": "Christ" }
+        ]
       },
       {
         "verse_number": 13,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Ἠκούσατε</span><span class='greek-word'>γὰρ</span><span class='greek-word'>τὴν</span><span class='greek-word'>ἐμὴν</span></p><p class='inter-segond'><span class='french-word'>Vous_avez_entendu</span><span class='french-word'>car</span><span class='french-word'>ma</span><span class='french-word'>la</span></p><p class='inter-darby'><span class='french-word'>Car</span><span class='french-word'>vous_avez_ouï_dire</span><span class='french-word'>quelle_a_été</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀναστροφήν</span><span class='greek-word'>ποτε</span><span class='greek-word'>ἐν</span><span class='greek-word'>τῷ</span></p><p class='inter-segond'><span class='french-word'>conduite</span><span class='french-word'>autrefois</span><span class='french-word'>dans</span><span class='french-word'>le</span></p><p class='inter-darby'><span class='french-word'>ma_conduite</span><span class='french-word'>autrefois</span><span class='french-word'>dans</span><span class='french-word'>le</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Ἰουδαϊσμῷ,</span><span class='greek-word'>ὅτι</span><span class='greek-word'>καθ’</span><span class='greek-word'>ὑπερβολὴν</span></p><p class='inter-segond'><span class='french-word'>Judaïsme,</span><span class='french-word'>que</span><span class='french-word'>à</span><span class='french-word'>excès</span></p><p class='inter-darby'><span class='french-word'>judaïsme,</span><span class='french-word'>comment</span><span class='french-word'>je_persécutais</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐδίωκον</span><span class='greek-word'>τὴν</span><span class='greek-word'>ἐκκλησίαν</span><span class='greek-word'>τοῦ</span></p><p class='inter-segond'><span class='french-word'>je_persécutais</span><span class='french-word'>l'</span><span class='french-word'>Église</span><span class='french-word'>de_le</span></p><p class='inter-darby'><span class='french-word'>outre_mesure</span><span class='french-word'>l'assemblée</span><span class='french-word'>de</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Θεοῦ</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἐπόρθουν</span><span class='greek-word'>αὐτήν,</span></p><p class='inter-segond'><span class='french-word'>Dieu</span><span class='french-word'>et</span><span class='french-word'>je_ravageais</span><span class='french-word'>elle,</span></p><p class='inter-darby'><span class='french-word'>Dieu</span><span class='french-word'>et</span><span class='french-word'>je_la_dévastais,</span></p></div>"
+        "translations": {
+          "segond": "Vous avez su, en effet, quelle était autrefois ma conduite dans le judaïsme, comment je persécutais à outrance et dévastais l'Église de Dieu,",
+          "darby": "Car vous avez entendu quelle était autrefois ma conduite dans le judaïsme, comment je persécutais outre mesure l'assemblée de Dieu et la dévastais ;"
+        },
+        "interlinear": [
+          { "greek": "ἠκούσατε", "gloss": "Vous_avez_entendu" },
+          { "greek": "γὰρ", "gloss": "car" },
+          { "greek": "τὴν", "gloss": "la" },
+          { "greek": "ἐμὴν", "gloss": "ma" },
+          { "greek": "ἀναστροφὴν", "gloss": "conduite/mouvement", "analyse": "La trajectoire géométrique de Saul. Son activité était une 'dé-vastation' (le verbe *portheo* signifie détruire, raser comme on rase une cité)." },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "τῷ", "gloss": "le" },
+          { "greek": "Ἰουδαϊσμῷ,", "gloss": "judaïsme", "analyse": "La Matrice religieuse : le système d'identification par les rites et les lois humaines." },
+          { "greek": "ὅτι", "gloss": "que" },
+          { "greek": "καθ’", "gloss": "selon/en" },
+          { "greek": "ὑπερβολὴν", "gloss": "l'excès/la_démesure", "analyse": "L'*hyper-bolé* (le jet au-delà). L'Ego de Saul était dans la sur-activité, cherchant à valider son existence par la destruction de l'Autre." },
+          { "greek": "ἐδίωκον", "gloss": "je_persécutais" },
+          { "greek": "τὴν", "gloss": "l'" },
+          { "greek": "ἐκκλησίαν", "gloss": "Église/assemblée" },
+          { "greek": "τοῦ", "gloss": "de" },
+          { "greek": "θεοῦ", "gloss": "Dieu" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἐπόρθουν", "gloss": "je_la_dévastais/détruisais" },
+          { "greek": "αὐτήν.", "gloss": "elle" }
+        ]
       },
       {
         "verse_number": 14,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>προέκοπτον</span><span class='greek-word'>ἐν</span><span class='greek-word'>τῷ</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>je_progrès_faisais</span><span class='french-word'>dans</span><span class='french-word'>le</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>comment</span><span class='french-word'>j'étais_plus_avancé</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Ἰουδαϊσμῷ</span><span class='greek-word'>ὑπὲρ</span><span class='greek-word'>πολλοὺς</span></p><p class='inter-segond'><span class='french-word'>Judaïsme</span><span class='french-word'>au-dessus_de</span><span class='french-word'>beaucoup</span></p><p class='inter-darby'><span class='french-word'>dans_le_judaïsme</span><span class='french-word'>que</span><span class='french-word'>beaucoup_de_ceux</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>συνηλικιώτας</span><span class='greek-word'>ἐν</span><span class='greek-word'>τῷ</span><span class='greek-word'>γένει</span></p><p class='inter-segond'><span class='french-word'>de_mon_âge</span><span class='french-word'>dans</span><span class='french-word'>ma</span><span class='french-word'>la_nation,</span></p><p class='inter-darby'><span class='french-word'>de_mon_âge</span><span class='french-word'>dans</span><span class='french-word'>ma</span><span class='french-word'>nation,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>μου,</span><span class='greek-word'>περισσοτέρως</span><span class='greek-word'>ζηλωτὴς</span></p><p class='inter-segond'><span class='french-word'>étant_plus_abondamment</span><span class='french-word'>zélé</span></p><p class='inter-darby'><span class='french-word'>étant_le_plus_ardent</span><span class='french-word'>zélateur</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὑπάρχων</span><span class='greek-word'>τῶν</span><span class='greek-word'>πατρικῶν</span><span class='greek-word'>μου</span></p><p class='inter-segond'><span class='french-word'>pour_les</span><span class='french-word'>paternelles</span><span class='french-word'>mes</span></p><p class='inter-darby'><span class='french-word'>des</span><span class='french-word'>traditions</span><span class='french-word'>de_mes</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>παραδόσεων.</span></p><p class='inter-segond'><span class='french-word'>traditions.</span></p><p class='inter-darby'><span class='french-word'>pères.</span></p></div>"
+        "translations": {
+          "segond": "et comment j'étais plus avancé dans le judaïsme que beaucoup de ceux de mon âge et de ma nation, étant animé d'un zèle excessif pour les traditions de mes pères.",
+          "darby": "et que je faisais des progrès dans le judaïsme, plus que beaucoup de ceux de mon âge dans ma nation, étant infiniment plus zélé pour les traditions de mes pères."
+        },
+        "interlinear": [
+          { "greek": "καὶ", "gloss": "Et" },
+          { "greek": "προέκοπτον", "gloss": "je_faisais_des_progrès", "analyse": "Le *pro-kopto* : avancer dans la voie horizontale, le succès selon les critères du Monde." },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "τῷ", "gloss": "le" },
+          { "greek": "Ἰουδαϊσμῷ", "gloss": "judaïsme" },
+          { "greek": "ὑπὲρ", "gloss": "au-dessus_de" },
+          { "greek": "πολλοὺς", "gloss": "beaucoup" },
+          { "greek": "συλικιώτας", "gloss": "ceux_de_mon_âge" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "τῷ", "gloss": "la" },
+          { "greek": "γένει", "gloss": "nation/race/famille" },
+          { "greek": "μου,", "gloss": "de_moi" },
+          { "greek": "περισσοτέρως", "gloss": "plus_abondamment" },
+          { "greek": "ζηλωτὴς", "gloss": "zélé/fanatique", "analyse": "Le *zelotes*. L'Ego passionnel, celui qui est dévoré par la ferveur pour les formes mortes de la tradition." },
+          { "greek": "ὑπάρχων", "gloss": "étant" },
+          { "greek": "τῶν", "gloss": "des" },
+          { "greek": "πατρικῶν", "gloss": "patrimoniales/traditions_des_pères" },
+          { "greek": "μου", "gloss": "de_moi" },
+          { "greek": "παραδόσεων.", "gloss": "traditions/données_transmises", "analyse": "La *paradosis*. La chaîne mentale qui conditionne le Sujet dans le passé." }
+        ]
       },
       {
         "verse_number": 15,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ὅτε</span><span class='greek-word'>δὲ</span><span class='greek-word'>εὐδόκησεν</span><span class='greek-word'>ὁ</span></p><p class='inter-segond'><span class='french-word'>Quand</span><span class='french-word'>mais</span><span class='french-word'>il_plut</span><span class='french-word'>à_le</span></p><p class='inter-darby'><span class='french-word'>Mais</span><span class='french-word'>quand</span><span class='french-word'>il_plut</span><span class='french-word'>à</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Θεός,</span><span class='greek-word'>ὁ</span><span class='greek-word'>ἀφορίσας</span><span class='greek-word'>με</span><span class='greek-word'>ἐκ</span></p><p class='inter-segond'><span class='french-word'>Dieu,</span><span class='french-word'>qui_avait_mis_à_part</span><span class='french-word'>moi</span><span class='french-word'>dès</span></p><p class='inter-darby'><span class='french-word'>Dieu,</span><span class='french-word'>qui</span><span class='french-word'>m'avait_mis_à_part</span><span class='french-word'>dès</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>κοιλίας</span><span class='greek-word'>μητρός</span><span class='greek-word'>μου</span><span class='greek-word'>καὶ</span></p><p class='inter-segond'><span class='french-word'>le_ventre</span><span class='french-word'>de_mère</span><span class='french-word'>ma</span><span class='french-word'>et</span></p><p class='inter-darby'><span class='french-word'>le_ventre</span><span class='french-word'>de_ma</span><span class='french-word'>mère</span><span class='french-word'>et</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καλέσας</span><span class='greek-word'>διὰ</span><span class='greek-word'>τῆς</span><span class='greek-word'>χάριτος</span></p><p class='inter-segond'><span class='french-word'>m'a_appelé</span><span class='french-word'>par</span><span class='french-word'>la</span><span class='french-word'>grâce</span></p><p class='inter-darby'><span class='french-word'>qui_m'a</span><span class='french-word'>appelé</span><span class='french-word'>par</span><span class='french-word'>sa</span><span class='french-word'>grâce,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>αὐτοῦ,</span></p><p class='inter-segond'><span class='french-word'>sa,</span></p><p class='inter-darby'><span></span></p></div>"
+        "translations": {
+          "segond": "Mais, lorsqu'il plut à celui qui m'avait mis à part dès le sein de ma mère, et qui m'a appelé par sa grâce,",
+          "darby": "Mais quand il plut à Dieu, qui m'avait mis à part dès le sein de ma mère, et qui m'a appelé par sa grâce,"
+        },
+        "interlinear": [
+          { "greek": "Ὅτε", "gloss": "Quand/Lorsque" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "εὐδόκησεν", "gloss": "il_trouva_bon/il_prit_plaisir", "analyse": "L'*eudokia*. La volonté souveraine de l'Incréé. Ce n'est pas un choix rationnel de Paul, c'est l'irruption du bon plaisir divin." },
+          { "greek": "[ὁ] θεὸς", "gloss": "Dieu" },
+          { "greek": "ὁ", "gloss": "celui_qui" },
+          { "greek": "ἀφορίσας", "gloss": "ayant_mis_à_part", "analyse": "Le verbe *aphorizo*. La vocation est une 'délimitation' spatiale et énergétique : l'être est soustrait au tout-venant de l'entropie." },
+          { "greek": "με", "gloss": "moi" },
+          { "greek": "ἐκ", "gloss": "hors_de" },
+          { "greek": "κοιλίας", "gloss": "ventre/sein" },
+          { "greek": "μητρός", "gloss": "mère" },
+          { "greek": "μου", "gloss": "de_moi" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "καλέσας", "gloss": "ayant_appelé" },
+          { "greek": "διὰ", "gloss": "par" },
+          { "greek": "τῆς", "gloss": "la" },
+          { "greek": "χάριτος", "gloss": "grâce", "analyse": "La *Charis*. L'énergie pure qui ne dépend d'aucun mérite égotique." },
+          { "greek": "αὐτοῦ", "gloss": "de_lui" }
+        ]
       },
       {
         "verse_number": 16,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἀποκαλύψαι</span><span class='greek-word'>τὸν</span><span class='greek-word'>υἱὸν</span></p><p class='inter-segond'><span class='french-word'>de_révéler</span><span class='french-word'>le</span><span class='french-word'>Fils</span></p><p class='inter-darby'><span class='french-word'>de_révéler</span><span class='french-word'>son</span><span class='french-word'>Fils</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>αὐτοῦ</span><span class='greek-word'>ἐν</span><span class='greek-word'>ἐμοὶ</span><span class='greek-word'>ἵνα</span></p><p class='inter-segond'><span class='french-word'>sien</span><span class='french-word'>en</span><span class='french-word'>moi</span><span class='french-word'>afin_que</span></p><p class='inter-darby'><span class='french-word'>en</span><span class='french-word'>moi,</span><span class='french-word'>afin_que</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>εὐαγγελίζωμαι</span><span class='greek-word'>αὐτὸν</span><span class='greek-word'>ἐν</span></p><p class='inter-segond'><span class='french-word'>je_annonçasse</span><span class='french-word'>le</span><span class='french-word'>parmi</span></p><p class='inter-darby'><span class='french-word'>je_l'annonçasse</span><span class='french-word'>parmi</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τοῖς</span><span class='greek-word'>ἔθνεσιν,</span><span class='greek-word'>εὐθέως</span><span class='greek-word'>οὐ</span></p><p class='inter-segond'><span class='french-word'>les</span><span class='french-word'>nations,</span><span class='french-word'>aussitôt</span><span class='french-word'>non</span></p><p class='inter-darby'><span class='french-word'>les</span><span class='french-word'>nations,</span><span class='french-word'>aussitôt</span><span class='french-word'>je_ne</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>προσανεθέμην</span><span class='greek-word'>σαρκὶ</span><span class='greek-word'>καὶ</span></p><p class='inter-segond'><span class='french-word'>je_ne_consultai</span><span class='french-word'>la_chair</span><span class='french-word'>et</span></p><p class='inter-darby'><span class='french-word'>demandai_pas_conseil</span><span class='french-word'>à_la_chair</span><span class='french-word'>ni</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>αἵματι,</span></p><p class='inter-segond'><span class='french-word'>le_sang,</span></p><p class='inter-darby'><span class='french-word'>au_sang,</span></p></div>"
+        "translations": {
+          "segond": "de révéler en moi son Fils, afin que je l'annonçasse parmi les païens, aussitôt, je ne consultai ni la chair ni le sang,",
+          "darby": "de révéler son Fils en moi, afin que je l'annonçasse parmi les nations, aussitôt je ne pris pas conseil de la chair et du sang,"
+        },
+        "interlinear": [
+          { "greek": "ἀποκαλύψαι", "gloss": "de_révéler/dévoiler", "analyse": "Révéler *en* moi. La révélation n'est pas une vision extérieure, c'est l'éclosion du Christ au centre même de la conscience du Sujet." },
+          { "greek": "τὸν", "gloss": "le" },
+          { "greek": "υἱὸν", "gloss": "Fils" },
+          { "greek": "αὐτοῦ", "gloss": "de_lui" },
+          { "greek": "ἐν", "gloss": "en" },
+          { "greek": "ἐμοὶ", "gloss": "moi" },
+          { "greek": "ἵνα", "gloss": "afin_de" },
+          { "greek": "εὐαγγελίζωμαι", "gloss": "annoncer_la_bonne_nouvelle" },
+          { "greek": "αὐτὸν", "gloss": "lui" },
+          { "greek": "ἐν", "gloss": "parmi/dans" },
+          { "greek": "τοῖς", "gloss": "les" },
+          { "greek": "ἔθνεσιν,", "gloss": "nations/païens" },
+          { "greek": "εὐθέως", "gloss": "aussitôt", "analyse": "L'immédiateté de la conversion. La Grâce ne demande pas de réflexion." },
+          { "greek": "οὐ", "gloss": "ne...pas" },
+          { "greek": "προσανεθέμην", "gloss": "je_ne_pris_conseil", "analyse": "Le refus du consensus social. Paul ne vérifie pas son expérience auprès des 'autorités' humaines." },
+          { "greek": "σαρκὶ", "gloss": "chair" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "αἵματι,", "gloss": "sang", "analyse": "La 'chair et le sang' : l'humanité biologique et psychologique, le système de poids et mesures de la Matrice." }
+        ]
       },
       {
         "verse_number": 17,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>οὐδὲ</span><span class='greek-word'>ἀνῆλθον</span><span class='greek-word'>εἰς</span></p><p class='inter-segond'><span class='french-word'>et_non</span><span class='french-word'>je_montai</span><span class='french-word'>à</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>je_ne_montai_pas</span><span class='french-word'>à</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Ἱεροσόλυμα</span><span class='greek-word'>πρὸς</span><span class='greek-word'>τοὺς</span></p><p class='inter-segond'><span class='french-word'>Jérusalem</span><span class='french-word'>vers</span><span class='french-word'>les</span></p><p class='inter-darby'><span class='french-word'>Jérusalem</span><span class='french-word'>vers</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πρὸ</span><span class='greek-word'>ἐμοῦ</span><span class='greek-word'>ἀποστόλους,</span></p><p class='inter-segond'><span class='french-word'>avant</span><span class='french-word'>moi</span><span class='french-word'>apôtres,</span></p><p class='inter-darby'><span class='french-word'>ceux_qui_étaient</span><span class='french-word'>apôtres</span><span class='french-word'>avant_moi,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀλλὰ</span><span class='greek-word'>ἀπῆλθον</span><span class='greek-word'>εἰς</span></p><p class='inter-segond'><span class='french-word'>mais</span><span class='french-word'>je_partis</span><span class='french-word'>pour</span></p><p class='inter-darby'><span class='french-word'>mais</span><span class='french-word'>je_m'en_allai</span><span class='french-word'>en</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Ἀραβίαν,</span><span class='greek-word'>καὶ</span><span class='greek-word'>πάλιν</span></p><p class='inter-segond'><span class='french-word'>l'Arabie,</span><span class='french-word'>et</span><span class='french-word'>de_nouveau</span></p><p class='inter-darby'><span class='french-word'>Arabie,</span><span class='french-word'>et</span><span class='french-word'>je_retournai</span><span class='french-word'>de_nouveau</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὑπέστρεψα</span><span class='greek-word'>εἰς</span><span class='greek-word'>Δαμασκόν.</span></p><p class='inter-segond'><span class='french-word'>je_revins</span><span class='french-word'>à</span><span class='french-word'>Damas.</span></p><p class='inter-darby'><span class='french-word'>à</span><span class='french-word'>Damas.</span></p></div>"
+        "translations": {
+          "segond": "et je ne montai point à Jérusalem vers ceux qui furent apôtres avant moi, mais je partis pour l'Arabie, puis je revins encore à Damas.",
+          "darby": "et je ne montai pas à Jérusalem vers ceux qui étaient apôtres avant moi ; mais je m'en allai en Arabie, et je revins encore à Damas."
+        },
+        "interlinear": [
+          { "greek": "οὐδὲ", "gloss": "ni" },
+          { "greek": "ἀνῆλθον", "gloss": "je_ne_montai" },
+          { "greek": "εἰς", "gloss": "vers" },
+          { "greek": "Ἰεροσόλυμα", "gloss": "Jérusalem", "analyse": "Jérusalem est le centre de la Matrice religieuse, le siège de l'autorité établie." },
+          { "greek": "πρὸς", "gloss": "vers" },
+          { "greek": "τοὺς", "gloss": "ceux" },
+          { "greek": "πρὸ", "gloss": "avant" },
+          { "greek": "ἐμοῦ", "gloss": "moi" },
+          { "greek": "ἀποστόλους,", "gloss": "apôtres" },
+          { "greek": "ἀλλὰ", "gloss": "mais" },
+          { "greek": "ἀπῆλθον", "gloss": "je_partis/m'en_allai" },
+          { "greek": "εἰς", "gloss": "dans" },
+          { "greek": "Ἀραβίαν,", "gloss": "l'Arabie", "analyse": "Le désert. Paul s'isole du monde humain pour laisser l'Apocalypse se structurer dans son silence intérieur." },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "πάλιν", "gloss": "de_nouveau" },
+          { "greek": "ὑπέστρεψα", "gloss": "je_revins" },
+          { "greek": "εἰς", "gloss": "à" },
+          { "greek": "Δαμασκόν.", "gloss": "Damas" }
+        ]
       },
       {
         "verse_number": 18,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Ἔπειτα</span><span class='greek-word'>μετὰ</span><span class='greek-word'>τρία</span><span class='greek-word'>ἔτη</span></p><p class='inter-segond'><span class='french-word'>Ensuite,</span><span class='french-word'>après</span><span class='french-word'>trois</span><span class='french-word'>ans,</span></p><p class='inter-darby'><span class='french-word'>Puis,</span><span class='french-word'>trois_ans_après,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀνῆλθον</span><span class='greek-word'>εἰς</span><span class='greek-word'>Ἱεροσόλυμα</span></p><p class='inter-segond'><span class='french-word'>je_montai</span><span class='french-word'>à</span><span class='french-word'>Jérusalem</span></p><p class='inter-darby'><span class='french-word'>je_montai</span><span class='french-word'>à</span><span class='french-word'>Jérusalem</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἱστορῆσαι</span><span class='greek-word'>Πέτρον,</span><span class='greek-word'>καὶ</span></p><p class='inter-segond'><span class='french-word'>pour_faire_la_connaissance_de</span><span class='french-word'>Céphas,</span><span class='french-word'>et</span></p><p class='inter-darby'><span class='french-word'>pour_faire_la_connaissance_de</span><span class='french-word'>Pierre,</span><span class='french-word'>et</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐπέμεινα</span><span class='greek-word'>πρὸς</span><span class='greek-word'>αὐτὸν</span></p><p class='inter-segond'><span class='french-word'>je_demeurai</span><span class='french-word'>chez</span><span class='french-word'>lui</span></p><p class='inter-darby'><span class='french-word'>je_demeurai</span><span class='french-word'>chez</span><span class='french-word'>lui</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἡμέρας</span><span class='greek-word'>δεκαπέντε·</span></p><p class='inter-segond'><span class='french-word'>jours</span><span class='french-word'>quinze.</span></p><p class='inter-darby'><span class='french-word'>quinze</span><span class='french-word'>jours ;</span></p></div>"
+        "translations": {
+          "segond": "Trois ans plus tard, je montai à Jérusalem pour faire la connaissance de Céphas, et je demeurai quinze jours chez lui.",
+          "darby": "Puis, après trois ans, je montai à Jérusalem pour faire la connaissance de Céphas, et je demeurai chez lui quinze jours."
+        },
+        "interlinear": [
+          { "greek": "Ἔπειτα", "gloss": "Ensuite/Puis" },
+          { "greek": "μετὰ", "gloss": "après" },
+          { "greek": "ἔτη", "gloss": "des_années" },
+          { "greek": "τρία", "gloss": "trois" },
+          { "greek": "ἀνῆλθον", "gloss": "je_montai" },
+          { "greek": "εἰς", "gloss": "à" },
+          { "greek": "Ἰεροσόλυμα", "gloss": "Jérusalem" },
+          { "greek": "ἱστορῆσαι", "gloss": "pour_faire_la_connaissance/explorer", "analyse": "Le verbe *historeo* (explorer, voir pour comprendre). Paul ne monte pas pour se soumettre, mais pour confronter son expérience du Logos avec l'histoire des autres." },
+          { "greek": "Κηφᾶν,", "gloss": "Céphas" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἐπέμεινα", "gloss": "je_demeurai" },
+          { "greek": "πρὸς", "gloss": "avec" },
+          { "greek": "αὐτὸν", "gloss": "lui" },
+          { "greek": "ἡμέρας", "gloss": "des_jours" },
+          { "greek": "δεκαπέντε·", "gloss": "quinze" }
+        ]
       },
       {
         "verse_number": 19,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἕτερον</span><span class='greek-word'>δὲ</span><span class='greek-word'>τῶν</span></p><p class='inter-segond'><span class='french-word'>autre</span><span class='french-word'>mais</span><span class='french-word'>des</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>je_ne_vis</span><span class='french-word'>aucun_autre</span><span class='french-word'>des</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀποστόλων</span><span class='greek-word'>οὐκ</span><span class='greek-word'>εἶδον</span></p><p class='inter-segond'><span class='french-word'>apôtres</span><span class='french-word'>non</span><span class='french-word'>je_ne_vis,</span></p><p class='inter-darby'><span class='french-word'>apôtres,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>εἰ</span><span class='greek-word'>μὴ</span><span class='greek-word'>Ἰάκωβον</span><span class='greek-word'>τὸν</span></p><p class='inter-segond'><span class='french-word'>si</span><span class='french-word'>ce_n'est</span><span class='french-word'>Jacques,</span><span class='french-word'>le</span></p><p class='inter-darby'><span class='french-word'>sinon</span><span class='french-word'>Jacques</span><span class='french-word'>le</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀδελφὸν</span><span class='greek-word'>τοῦ</span><span class='greek-word'>Κυρίου.</span></p><p class='inter-segond'><span class='french-word'>frère</span><span class='french-word'>du</span><span class='french-word'>Seigneur.</span></p><p class='inter-darby'><span class='french-word'>frère</span><span class='french-word'>du</span><span class='french-word'>Seigneur.</span></p></div>"
-      }
-    ],
-    "greek_only": "\n11 Γνωρίζω δὲ ὑμῖν, ἀδελφοί, τὸ εὐαγγέλιον τὸ εὐαγγελισθὲν ὑπ’ ἐμοῦ ὅτι οὐκ ἔστιν κατὰ ἄνθρωπον· \n12 οὐδὲ γὰρ ἐγὼ παρὰ ἀνθρώπου παρέλαβον αὐτό, οὔτε ἐδιδάχθην, ἀλλὰ δι’ ἀποκαλύψεως Ἰησοῦ Χριστοῦ. \n13 Ἠκούσατε γὰρ τὴν ἐμὴν ἀναστροφήν ποτε ἐν τῷ Ἰουδαϊσμῷ, ὅτι καθ’ ὑπερβολὴν ἐδίωκον τὴν ἐκκλησίαν τοῦ Θεοῦ καὶ ἐπόρθουν αὐτήν, \n14 καὶ προέκοπτον ἐν τῷ Ἰουδαϊσμῷ ὑπὲρ πολλοὺς συνηλικιώτας ἐν τῷ γένει μου, περισσοτέρως ζηλωτὴς ὑπάρχων τῶν πατρικῶν μου παραδόσεων. \n15 ὅτε δὲ εὐδόκησεν ὁ Θεός, ὁ ἀφορίσας με ἐκ κοιλίας μητρός μου καὶ καλέσας διὰ τῆς χάριτος αὐτοῦ, \n16 ἀποκαλύψαι τὸν υἱὸν αὐτοῦ ἐν ἐμοὶ ἵνα εὐαγγελίζωμαι αὐτὸν ἐν τοῖς ἔθνεσιν, εὐθέως οὐ προσανεθέμην σαρκὶ καὶ αἵματι, \n17 οὐδὲ ἀνῆλθον εἰς Ἱεροσόλυμα πρὸς τοὺς πρὸ ἐμοῦ ἀποστόλους, ἀλλὰ ἀπῆλθον εἰς Ἀραβίαν, καὶ πάλιν ὑπέστρεψα εἰς Δαμασκόν. \n18 Ἔπειτα μετὰ τρία ἔτη ἀνῆλθον εἰς Ἱεροσόλυμα ἱστορῆσαι Πέτρον, καὶ ἐπέμεινα πρὸς αὐτὸν ἡμέρας δεκαπέντε· \n19 ἕτερον δὲ τῶν ἀποστόλων οὐκ εἶδον εἰ μὴ Ἰάκωβον τὸν ἀδελφὸν τοῦ Κυρίου.",
-    "french_only": "\n11 Je vous déclare, frères, que l'Évangile qui a été annoncé par moi n'est pas de l'homme ; \n12 car je ne l'ai ni reçu ni appris d'un homme, mais par une révélation de Jésus-Christ. \n13 Vous avez su, en effet, quelle était autrefois ma conduite dans le judaïsme, comment je persécutais à outrance l'Église de Dieu et j'y portais le ravage, \n14 et comment j'étais plus avancé dans le judaïsme que beaucoup de ceux de mon âge et de ma nation, étant animé d'un zèle excessif pour les traditions de mes pères. \n15 Mais, lorsqu'il plut à celui qui m'avait mis à part dès le ventre de ma mère, et qui m'a appelé par sa grâce, \n16 de révéler en moi son Fils, afin que je l'annonçasse parmi les païens, aussitôt, je ne consultai ni la chair ni le sang, \n17 et je ne montai point à Jérusalem vers ceux qui étaient apôtres avant moi, mais je partis pour l'Arabie. Puis je revins encore à Damas. \n18 Trois ans plus tard, je montai à Jérusalem pour faire la connaissance de Céphas, et je demeurai quinze jours chez lui. \n19 Mais je ne vis aucun autre des apôtres, si ce n'est Jacques, le frère du Seigneur.",
-    "french_darby": "\n11 Mais je vous fais savoir, frères, que l'évangile qui a été annoncé par moi n'est pas selon l'homme. \n12 Car moi non plus, je ne l'ai pas reçu d'un homme ni appris, mais par la révélation de Jésus Christ. \n13 Car vous avez ouï dire quelle a été ma conduite autrefois dans le judaïsme, comment je persécutais outre mesure l'assemblée de Dieu et je la dévastais, \n14 et comment j'étais plus avancé dans le judaïsme que beaucoup de ceux de mon âge dans ma nation, étant le plus ardent zélateur des traditions de mes pères. \n15 Mais quand il plut à Dieu, qui m'avait mis à part dès le ventre de ma mère et qui m'a appelé par sa grâce, \n16 de révéler son Fils en moi, afin que je l'annonçasse parmi les nations, aussitôt je ne demandai pas conseil à la chair ni au sang, \n17 et je ne montai pas à Jérusalem vers ceux qui étaient apôtres avant moi, mais je m'en allai en Arabie, et je retournai de nouveau à Damas. \n18 Puis, trois ans après, je montai à Jérusalem pour faire la connaissance de Pierre, et je demeurai chez lui quinze jours ; \n19 et je ne vis aucun autre des apôtres, sinon Jacques le frère du Seigneur.",
-    "personal_analysis": "Dans cette défense passionnée de son apostolat, saint Paul souligne le caractère surnaturel de sa conversion. Le passage des 'traditions des pères' à la 'révélation du Fils' est total. Liturgiquement, ce texte justifie la mémoire de Jacques, 'frère du Seigneur', célébrée ce dimanche. Paul mentionne Jacques comme un pilier de l'Église de Jérusalem, aux côtés de Céphas. Le terme 'frère' (adelphos) souligne la réalité humaine et charnelle de la famille du Christ, sanctifiée par l'Incarnation, tout en rappelant que le véritable lien avec le Seigneur est désormais celui de la foi et de la grâce."
+        "translations": {
+          "segond": "Mais je ne vis aucun autre des apôtres, si ce n'est Jacques, le frère du Seigneur.",
+          "darby": "mais je ne vis aucun autre des apôtres, si ce n'est Jacques, le frère du Seigneur."
+        },
+        "interlinear": [
+          { "greek": "ἕτερον", "gloss": "un_autre" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "τῶν", "gloss": "des" },
+          { "greek": "ἀποστόλων", "gloss": "apôtres" },
+          { "greek": "οὐκ", "gloss": "ne...pas" },
+          { "greek": "εἶδον", "gloss": "je_vis" },
+          { "greek": "εἰ", "gloss": "si_ce_n'est" },
+          { "greek": "μὴ", "gloss": "ne_pas" },
+          { "greek": "Ἰάκωβον", "gloss": "Jacques" },
+          { "greek": "τὸν", "gloss": "le" },
+          { "greek": "ἀδελφὸν", "gloss": "frère" },
+          { "greek": "τοῦ", "gloss": "du" },
+          { "greek": "κυρίου.", "gloss": "Seigneur" }
+        ]
+      },
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 11 - κατὰ ἄνθρωπον : Segond traduit par 'pas de l'homme'. Le grec est plus précis : *kata anthropon* signifie 'selon l'homme', c'est-à-dire conforme aux standards humains, aux normes de la Matrice sociale ou religieuse. L'Évangile n'est pas un produit de l'anthropologie, il est une irruption ontologique.\n• Verset 18 - ἱστορῆσαι : Segond traduit par 'faire la connaissance'. C'est une traduction affaiblie. Le verbe *historeo* (racine de 'histoire') signifie ici enquêter, explorer, s'informer par un examen rigoureux. Paul ne monte pas à Jérusalem pour se soumettre à une autorité, il monte pour 'examiner' le Céphas historique, pour confronter sa révélation intérieure avec la tradition extérieure. C'est une démarche d'éveil souverain, pas de disciple docile.\n\nAnalyse spirituelle :\nCe texte est le manifeste de l'Apocalypse intérieure. Paul ne raconte pas un changement de religion (passer du judaïsme au christianisme), il raconte la désintégration d'une structure égotique (le zélateur de la Loi) pour laisser place à une irruption directe du Logos (le Christ).\n\nLe point central est le verset 16 : 'révéler en moi son Fils'. La révélation n'est pas un savoir transmis par des livres ou des maîtres (la 'chair et le sang'), c'est une *Apocalypse* (dévoilement) : l'effacement du voile de l'Ego qui permet à l'Incréé de rayonner *à l'intérieur* de la conscience. Paul insiste sur son indépendance vis-à-vis de Jérusalem pour souligner que la Vérité ne peut être reçue par 'transmission horizontale'. Elle doit être vécue comme une naissance verticale.\n\nSon passé de persécuteur (v.13-14) est ici crucial : Paul était le sommet de la Matrice religieuse, le 'zélé' (*zelotes*) qui croyait défendre Dieu par la violence. Il était 'en avance' sur les autres, ce qui signifie qu'il était le plus enchaîné par les traditions. Sa conversion est la preuve que nul n'est trop enfermé dans la structure mentale de l'Ego pour être touché par la Grâce.\n\nL'exil en Arabie (v.17) est le temps nécessaire de l'intégration : après le choc de l'irruption lumineuse, le Sujet doit se retirer du bruit du monde (et même du bruit des autres apôtres) pour laisser cette nouvelle fréquence stabiliser sa propre structure. Paul ne 'devient' pas apôtre par un diplôme humain, il le devient par la reconnaissance absolue que son 'Moi' (Saul) a disparu au profit de la Présence du Fils en lui. La seule autorité reconnue est désormais celle de la Lumière dévoilée."
   }
 }
+    
+  
