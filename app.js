@@ -102,7 +102,8 @@ document.addEventListener('DOMContentLoaded', () => {
         const frenchFull = document.getElementById('french-full-text');
         const myNotes = document.getElementById('my-notes');
         const pdfButtonContainer = document.getElementById('pdf-button-container');
-        
+       const goingFurtherContainer = document.getElementById('going-further-container');
+        const goingFurtherList = document.getElementById('going-further-list'); 
         if(mainText) mainText.innerHTML = '<p style="text-align:center;"><em>Chargement...</em></p>';
 
         try {
@@ -176,7 +177,37 @@ document.addEventListener('DOMContentLoaded', () => {
             // Textes intégraux supplémentaires
             if(greekFull) greekFull.innerText = reading.greek_only || "";
             if(myNotes) myNotes.innerText = reading.personal_analysis || "Pas d'analyse disponible.";
+// --- GESTION DE LA SECTION "POUR ALLER PLUS LOIN" ---
+            if (goingFurtherContainer && goingFurtherList) {
+                goingFurtherList.innerHTML = ''; // On vide la liste précédente
+                
+                // On vérifie si le JSON contient le bloc going_further
+                if (data.going_further && data.going_further.length > 0) {
+                    data.going_further.forEach(item => {
+                        const li = document.createElement('li');
+                        li.style.marginBottom = "8px";
 
+                        // Définir l'icône selon le type
+                        let icon = "🔗"; 
+                        if (item.type === "video") icon = "🎥";
+                        else if (item.type === "podcast") icon = "🎧";
+                        else if (item.type === "article") icon = "📄";
+
+                        li.innerHTML = `
+                            ${icon} <strong>${item.source}</strong> : 
+                            <a href="${item.url}" target="_blank" rel="noopener noreferrer" style="color: #0056b3; text-decoration: none; font-weight: bold;">
+                                ${item.title}
+                            </a> 
+                            <em>(par ${item.author})</em>
+                        `;
+                        goingFurtherList.appendChild(li);
+                    });
+                    goingFurtherContainer.style.display = 'block'; // On affiche le bloc
+                } else {
+                    goingFurtherContainer.style.display = 'none'; // On cache le bloc s'il n'y a pas de lien
+                }
+            }
+            // --- FIN DE LA GESTION "POUR ALLER PLUS LOIN" ---
             // Gestion PDF
             if (pdfButtonContainer) {
                 if (reading.pdf_link && reading.pdf_link !== "") {
