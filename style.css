@@ -278,7 +278,14 @@ main {
 .mot-bleu { color: #3498db !important; border-bottom-color: #3498db !important; }
 .mot-vert { color: #2ecc71 !important; border-bottom-color: #2ecc71 !important; }
 .mot-rouge { color: #e74c3c !important; border-bottom-color: #e74c3c !important; }
-
+/* Nouvelle catégorie : Racine ou bout de mot encadré (injecté via le JSON) */
+.encadre {
+    border: 1px solid #555; /* Un cadre gris fin */
+    border-radius: 3px; 
+    padding: 0 2px; 
+    background-color: rgba(0, 0, 0, 0.03); 
+    display: inline-block; 
+}
 /* Responsive Mobile */
 @media (max-width: 768px) {
     header { flex-direction: column; text-align: center; }
