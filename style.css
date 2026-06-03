@@ -267,7 +267,10 @@ main {
 /* ------------------------------------------- */
 
 .mot-info { border-bottom: 2px dotted #e67e22; color: #d35400; cursor: help; }
-.mot-info:hover { background-color: #ffeaa7; color: #000; }
+.mot-info:hover {
+    background-color: #ffeaa7; /* Jaune pâle au survol */
+    cursor: pointer;
+}
 
 #bulle-info {
     display: none; position: fixed; bottom: 30px; left: 50%; transform: translateX(-50%);
