@@ -193,12 +193,14 @@ document.addEventListener('DOMContentLoaded', () => {
                         else if (item.type === "podcast") icon = "🎧";
                         else if (item.type === "article") icon = "📄";
 
+                        // On prépare le texte de l'auteur seulement s'il existe dans le JSON
+                        let authorText = item.author ? ` <em>(par ${item.author})</em>` : "";
+
                         li.innerHTML = `
                             ${icon} <strong>${item.source}</strong> : 
                             <a href="${item.url}" target="_blank" rel="noopener noreferrer" style="color: #0056b3; text-decoration: none; font-weight: bold;">
                                 ${item.title}
-                            </a> 
-                            <em>(par ${item.author})</em>
+                            </a>${authorText}
                         `;
                         goingFurtherList.appendChild(li);
                     });
