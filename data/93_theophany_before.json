@@ -1,70 +1,320 @@
 {
   "gospel": {
     "reference": "Marc 1, 1-8",
-    "title": "La Prédication de Jean le Baptiste : Préparer le Chemin du Seigneur",
+    "title": "Le Protocole du Désert : La Métanoïa et le Redressement de l'Axe",
     "interlinear": [
       {
         "verse_number": 1,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Ἀρχὴ</span><span class='greek-word'>τοῦ</span><span class='greek-word'>εὐαγγελίου</span><span class='greek-word'>Ἰησοῦ</span></p><p class='inter-segond'><span class='french-word'>Commencement</span><span class='french-word'>de_l'</span><span class='french-word'>évangile</span><span class='french-word'>de_Jésus</span></p><p class='inter-darby'><span class='french-word'>Commencement</span><span class='french-word'>de_l'</span><span class='french-word'>évangile</span><span class='french-word'>de_Jésus</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Χριστοῦ</span><span class='greek-word'>υἱοῦ</span><span class='greek-word'>Θεοῦ.</span></p><p class='inter-segond'><span class='french-word'>Christ,</span><span class='french-word'>Fils</span><span class='french-word'>de_Dieu.</span></p><p class='inter-darby'><span class='french-word'>Christ,</span><span class='french-word'>Fils</span><span class='french-word'>de_Dieu.</span></p></div>"
+        "translations": {
+          "segond": "Commencement de l'Évangile de Jésus-Christ, Fils de Dieu.",
+          "darby": "Commencement de l'évangile de Jésus Christ, Fils de Dieu ;"
+        },
+        "interlinear": [
+          { "greek": "Ἀρχὴ", "gloss": "Commencement/Principe", "analyse": "L'*Arche*. Ce n'est pas simplement un début chronologique, c'est le Principe générateur, le point zéro où l'Éternité fait irruption dans l'espace-temps duel." },
+          { "greek": "τοῦ", "gloss": "de_l'" },
+          { "greek": "εὐαγγελίου", "gloss": "Évangile/Bonne_Nouvelle", "analyse": "L'*Eu-angelion*. La fréquence de la Lumière pure, le code source de l'Unification." },
+          { "greek": "Ἰησοῦ", "gloss": "Jésus" },
+          { "greek": "Χριστοῦ", "gloss": "Christ" },
+          { "greek": "[υἱοῦ", "gloss": "Fils" },
+          { "greek": "θεοῦ].", "gloss": "de_Dieu" }
+        ]
       },
       {
         "verse_number": 2,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Ὡς</span><span class='greek-word'>γέγραπται</span><span class='greek-word'>ἐν</span><span class='greek-word'>τοῖς</span><span class='greek-word'>προφήταις·</span></p><p class='inter-segond'><span class='french-word'>Selon_qu'</span><span class='french-word'>il_est_écrit</span><span class='french-word'>dans</span><span class='french-word'>les</span><span class='french-word'>prophètes :</span></p><p class='inter-darby'><span class='french-word'>Comme</span><span class='french-word'>il_est_écrit</span><span class='french-word'>dans</span><span class='french-word'>Ésaïe</span><span class='french-word'>le_prophète :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Ἰδοὺ</span><span class='greek-word'>ἐγὼ</span><span class='greek-word'>ἀποστέλλω</span><span class='greek-word'>τὸν</span></p><p class='inter-segond'><span class='french-word'>Voici,</span><span class='french-word'>j'</span><span class='french-word'>envoie</span><span class='french-word'>mon</span></p><p class='inter-darby'><span class='french-word'>« Voici,</span><span class='french-word'>moi</span><span class='french-word'>j'envoie</span><span class='french-word'>mon</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἄγγελόν</span><span class='greek-word'>μου</span><span class='greek-word'>πρὸ</span><span class='greek-word'>προσώπου</span></p><p class='inter-segond'><span class='french-word'>le_messager</span><span class='french-word'>devant</span><span class='french-word'>ta_face,</span></p><p class='inter-darby'><span class='french-word'>messager</span><span class='french-word'>devant</span><span class='french-word'>ta_face,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>σου,</span><span class='greek-word'>ὃς</span><span class='greek-word'>κατασκευάσει</span><span class='greek-word'>τὴν</span></p><p class='inter-segond'><span class='french-word'>qui</span><span class='french-word'>préparera</span><span class='french-word'>ton</span></p><p class='inter-darby'><span class='french-word'>lequel</span><span class='french-word'>préparera</span><span class='french-word'>ton</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὁδόν</span><span class='greek-word'>σου.</span></p><p class='inter-segond'><span class='french-word'>chemin.</span></p><p class='inter-darby'><span class='french-word'>chemin ».</span></p></div>"
+        "translations": {
+          "segond": "Selon ce qui est écrit dans Esaïe, le prophète : Voici, j'envoie devant toi mon messager, Qui préparera ton chemin ;",
+          "darby": "selon qu'il est écrit dans le prophète Ésaïe : 'Voici, moi j'envoie mon messager devant ta face, lequel préparera ton chemin'."
+        },
+        "interlinear": [
+          { "greek": "Καθὼς", "gloss": "Comme/Selon" },
+          { "greek": "γέγραπται", "gloss": "il_a_été_écrit" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "τῷ", "gloss": "le" },
+          { "greek": "Ἠσαΐᾳ", "gloss": "Ésaïe" },
+          { "greek": "τῷ", "gloss": "le" },
+          { "greek": "προφήτῃ·", "gloss": "prophète" },
+          { "greek": "Ἰδοὺ", "gloss": "Voici" },
+          { "greek": "ἀποστέλλω", "gloss": "j'envoie" },
+          { "greek": "τὸν", "gloss": "le" },
+          { "greek": "ἄγγελόν", "gloss": "messager/ange", "analyse": "Le précurseur n'agit pas selon son propre Ego, il est un 'ange' (un émetteur pur), mandaté pour opérer une rectification topographique avant l'arrivée du Roi." },
+          { "greek": "μου", "gloss": "de_moi" },
+          { "greek": "πρὸ", "gloss": "devant" },
+          { "greek": "προσώπου", "gloss": "la_face" },
+          { "greek": "σου,", "gloss": "de_toi" },
+          { "greek": "ὃς", "gloss": "qui" },
+          { "greek": "κατασκευάσει", "gloss": "préparera/aménagera", "analyse": "Un travail d'ingénierie spirituelle. L'Incréé ne se pose pas sur un terrain chaotique ; il faut d'abord que le Sujet déblaie les gravats de l'Ego." },
+          { "greek": "τὴν", "gloss": "le" },
+          { "greek": "ὁδόν", "gloss": "chemin/la_voie" },
+          { "greek": "σου·", "gloss": "de_toi" }
+        ]
       },
       {
         "verse_number": 3,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>φωνὴ</span><span class='greek-word'>βοῶντος</span><span class='greek-word'>ἐν</span><span class='greek-word'>τῇ</span><span class='greek-word'>ἐρήμῳ·</span></p><p class='inter-segond'><span class='french-word'>Voix</span><span class='french-word'>de_celui_criant</span><span class='french-word'>dans</span><span class='french-word'>le</span><span class='french-word'>désert :</span></p><p class='inter-darby'><span class='french-word'>« Voix</span><span class='french-word'>de_celui_qui_crie</span><span class='french-word'>dans</span><span class='french-word'>le_désert :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Ἑτοιμάσατε</span><span class='greek-word'>τὴν</span><span class='greek-word'>ὁδὸν</span><span class='greek-word'>Κυρίου,</span></p><p class='inter-segond'><span class='french-word'>Préparez</span><span class='french-word'>le</span><span class='french-word'>chemin</span><span class='french-word'>du_Seigneur,</span></p><p class='inter-darby'><span class='french-word'>Préparez</span><span class='french-word'>le</span><span class='french-word'>chemin</span><span class='french-word'>du_Seigneur,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>εὐθείας</span><span class='greek-word'>ποιεῖτε</span><span class='greek-word'>τὰς</span></p><p class='inter-segond'><span class='french-word'>droits</span><span class='french-word'>rendez</span><span class='french-word'>ses</span></p><p class='inter-darby'><span class='french-word'>faites</span><span class='french-word'>droits</span><span class='french-word'>ses</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τρίβους</span><span class='greek-word'>αὐτοῦ.</span></p><p class='inter-segond'><span class='french-word'>sentiers.</span></p><p class='inter-darby'><span class='french-word'>sentiers ».</span></p></div>"
+        "translations": {
+          "segond": "C'est la voix de celui qui crie dans le désert : Préparez le chemin du Seigneur, Aplanissez ses sentiers.",
+          "darby": "'Voix de celui qui crie dans le désert : Préparez le chemin du Seigneur, faites droits ses sentiers'."
+        },
+        "interlinear": [
+          { "greek": "Φωνὴ", "gloss": "Une_voix", "analyse": "La *Phone*. Jean est défini comme une simple vibration sonore. Son Ego est tellement effacé qu'il n'est plus qu'un canal acoustique pour le *Logos* (le Verbe)." },
+          { "greek": "βοῶντος", "gloss": "hurlant/criant" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "τῇ", "gloss": "le" },
+          { "greek": "ἐρήμῳ·", "gloss": "désert", "analyse": "L'*Eremos*. L'espace vidé de toute interférence de la Matrice (le système de la ville, Jérusalem). La Révélation exige le vide absolu (*Kénose* spatiale) pour être captée." },
+          { "greek": "Ἑτοιμάσατε", "gloss": "Préparez" },
+          { "greek": "τὴν", "gloss": "le" },
+          { "greek": "ὁδὸν", "gloss": "chemin" },
+          { "greek": "κυρίου,", "gloss": "du_Seigneur" },
+          { "greek": "εὐθείας", "gloss": "droites", "analyse": "Le terme géométrique de la non-dualité. L'Ego évolue dans des chemins sinueux et circulaires (l'entropie karmique). L'Axe christique exige la Ligne Droite, la connexion la plus rapide vers le Centre." },
+          { "greek": "ποιεῖτε", "gloss": "faites/rendez" },
+          { "greek": "τὰς", "gloss": "les" },
+          { "greek": "τρίβους", "gloss": "sentiers" },
+          { "greek": "αὐτοῦ.", "gloss": "de_lui" }
+        ]
       },
       {
         "verse_number": 4,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἐγένετο</span><span class='greek-word'>Ἰωάννης</span><span class='greek-word'>βαπτίζων</span></p><p class='inter-segond'><span class='french-word'>parut</span><span class='french-word'>Jean</span><span class='french-word'>baptisant</span></p><p class='inter-darby'><span class='french-word'>Jean</span><span class='french-word'>vint,</span><span class='french-word'>baptisant</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐν</span><span class='greek-word'>τῇ</span><span class='greek-word'>ἐρήμῳ</span><span class='greek-word'>καὶ</span></p><p class='inter-segond'><span class='french-word'>dans</span><span class='french-word'>le</span><span class='french-word'>désert</span><span class='french-word'>et</span></p><p class='inter-darby'><span class='french-word'>dans</span><span class='french-word'>le</span><span class='french-word'>désert,</span><span class='french-word'>et</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>κηρύσσων</span><span class='greek-word'>βάπτισμα</span><span class='greek-word'>μετανοίας</span></p><p class='inter-segond'><span class='french-word'>prêchant</span><span class='french-word'>le_baptême</span><span class='french-word'>de_repentance</span></p><p class='inter-darby'><span class='french-word'>prêchant</span><span class='french-word'>le_baptême</span><span class='french-word'>de_la_repentance</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>εἰς</span><span class='greek-word'>ἄφεσιν</span><span class='greek-word'>ἁμαρτιῶν.</span></p><p class='inter-segond'><span class='french-word'>pour</span><span class='french-word'>la_rémission</span><span class='french-word'>des_péchés.</span></p><p class='inter-darby'><span class='french-word'>pour</span><span class='french-word'>la_rémission</span><span class='french-word'>des_péchés.</span></p></div>"
+        "translations": {
+          "segond": "Jean parut, baptisant dans le désert, et prêchant le baptême de repentance, pour la rémission des péchés.",
+          "darby": "Jean vint, baptisant dans le désert et prêchant le baptême de la repentance pour la rémission des péchés."
+        },
+        "interlinear": [
+          { "greek": "Ἐγένετο", "gloss": "Il_arriva/parut" },
+          { "greek": "Ἰωάννης", "gloss": "Jean" },
+          { "greek": "[ὁ]", "gloss": "celui" },
+          { "greek": "βαπτίζων", "gloss": "baptisant/immergeant" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "τῇ", "gloss": "le" },
+          { "greek": "ἐρήμῳ", "gloss": "désert" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "κηρύσσων", "gloss": "proclamant" },
+          { "greek": "βάπτισμα", "gloss": "un_baptême", "analyse": "L'immersion dans l'eau. Symboliquement, c'est la mort aux lois de la gravité terrestre. On plonge l'Ego dans le chaos originel pour désintégrer ses anciennes structures." },
+          { "greek": "μετανοίας", "gloss": "de_repentance/de_retournement", "analyse": "La *Meta-noia*. Bien au-delà du simple 'regret' moral. C'est le retournement complet (*meta*) de l'intellect (*nous*), un changement de paradigme, une mutation de la fréquence de conscience." },
+          { "greek": "εἰς", "gloss": "vers/pour" },
+          { "greek": "ἄφεσιν", "gloss": "la_rémission/relâchement", "analyse": "L'*Aphesis*. Le dénouement des chaînes karmiques. L'énergie vampirisée par les fautes est relâchée." },
+          { "greek": "ἁμαρτιῶν.", "gloss": "des_péchés", "analyse": "L'*Hamartia*. La cible ratée, le désaxement. La rémission des péchés est le réalignement balistique de l'Être vers son Centre." }
+        ]
       },
       {
         "verse_number": 5,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ἐξεπορεύετο</span><span class='greek-word'>πρὸς</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>allait</span><span class='french-word'>vers</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>tout</span><span class='french-word'>le</span><span class='french-word'>pays</span><span class='french-word'>de_la</span><span class='french-word'>Judée</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>αὐτὸν</span><span class='greek-word'>πᾶσα</span><span class='greek-word'>ἡ</span><span class='greek-word'>Ἰουδαία</span></p><p class='inter-segond'><span class='french-word'>lui</span><span class='french-word'>tout</span><span class='french-word'>le</span><span class='french-word'>pays_de_Judée</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>tous_ceux</span><span class='french-word'>de</span><span class='french-word'>Jérusalem</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>χώρα</span><span class='greek-word'>καὶ</span><span class='greek-word'>οἱ</span><span class='greek-word'>Ἱεροσολυμῖται</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>tous</span><span class='french-word'>les_habitants_de_Jérusalem ;</span></p><p class='inter-darby'><span class='french-word'>sortaient</span><span class='french-word'>vers</span><span class='french-word'>lui ;</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πάντες,</span><span class='greek-word'>καὶ</span><span class='greek-word'>ἐβαπτίζοντο</span></p><p class='inter-segond'><span class='french-word'>tous,</span><span class='french-word'>et</span><span class='french-word'>ils_se_faisaient_baptiser</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>ils_étaient</span><span class='french-word'>tous</span><span class='french-word'>baptisés</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὑπ’</span><span class='greek-word'>αὐτοῦ</span><span class='greek-word'>ἐν</span><span class='greek-word'>τῷ</span><span class='greek-word'>Ἰορδάνῃ</span></p><p class='inter-segond'><span class='french-word'>par</span><span class='french-word'>lui</span><span class='french-word'>dans</span><span class='french-word'>le</span><span class='french-word'>fleuve_du_Jourdain,</span></p><p class='inter-darby'><span class='french-word'>par</span><span class='french-word'>lui</span><span class='french-word'>dans</span><span class='french-word'>le</span><span class='french-word'>fleuve</span><span class='french-word'>du_Jourdain,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ποταμῷ</span><span class='greek-word'>ἐξομολογούμενοι</span><span class='greek-word'>τὰς</span></p><p class='inter-segond'><span class='french-word'>en_confessant</span><span class='french-word'>leurs</span></p><p class='inter-darby'><span class='french-word'>confessant</span><span class='french-word'>leurs</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἁμαρτίας</span><span class='greek-word'>αὐτῶν.</span></p><p class='inter-segond'><span class='french-word'>péchés.</span></p><p class='inter-darby'><span class='french-word'>péchés.</span></p></div>"
+        "translations": {
+          "segond": "Tout le pays de Judée et tous les habitants de Jérusalem se rendaient auprès de lui ; et, confessant leurs péchés, ils se faisaient baptiser par lui dans le fleuve du Jourdain.",
+          "darby": "Et tout le pays de Judée et tous ceux de Jérusalem sortaient vers lui ; et ils étaient tous baptisés par lui dans le fleuve du Jourdain, confessant leurs péchés."
+        },
+        "interlinear": [
+          { "greek": "Καὶ", "gloss": "Et" },
+          { "greek": "ἐξεπορεύετο", "gloss": "sortait", "analyse": "Le mouvement centrifuge (*ex-poreuomai*). Face à l'intensité de la fréquence émise dans le désert, la Matrice (Jérusalem/Judée) se vide. Les Sujets quittent l'illusion architecturale pour aller chercher la vérité dans le dénuement." },
+          { "greek": "πρὸς", "gloss": "vers" },
+          { "greek": "αὐτὸν", "gloss": "lui" },
+          { "greek": "πᾶσα", "gloss": "tout" },
+          { "greek": "ἡ", "gloss": "le" },
+          { "greek": "Ἰουδαία", "gloss": "Judée" },
+          { "greek": "χώρα", "gloss": "pays/région" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "οἱ", "gloss": "les" },
+          { "greek": "Ἱεροσολυμῖται", "gloss": "hiérosolymitains" },
+          { "greek": "πάντες,", "gloss": "tous" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἐβαπτίζοντο", "gloss": "ils_étaient_baptisés" },
+          { "greek": "ὑπ’", "gloss": "par" },
+          { "greek": "αὐτοῦ", "gloss": "lui" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "τῷ", "gloss": "le" },
+          { "greek": "Ἰορδάνῃ", "gloss": "Jourdain" },
+          { "greek": "ποταμῷ", "gloss": "fleuve" },
+          { "greek": "ἐξομολογούμενοι", "gloss": "confessant/reconnaissant", "analyse": "L'*ex-homo-logeo* (dire la même chose depuis soi). Dire la vérité totale sur sa propre opacité. L'aveu pulvérise les masques de l'Ego, préalable indispensable à l'effacement dans l'eau." },
+          { "greek": "τὰς", "gloss": "les" },
+          { "greek": "ἁμαρτίας", "gloss": "cibles_ratées" },
+          { "greek": "αὐτῶν.", "gloss": "d'eux" }
+        ]
       },
       {
         "verse_number": 6,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἦν</span><span class='greek-word'>δὲ</span><span class='greek-word'>Ἰωάννης</span><span class='greek-word'>ἐνδεδυμένος</span></p><p class='inter-segond'><span class='french-word'>était</span><span class='french-word'>mais</span><span class='french-word'>Jean</span><span class='french-word'>vêtu</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>Jean</span><span class='french-word'>était</span><span class='french-word'>vêtu</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τρίχας</span><span class='greek-word'>καμήλου</span><span class='greek-word'>καὶ</span></p><p class='inter-segond'><span class='french-word'>de_poils</span><span class='french-word'>de_chameau</span><span class='french-word'>et</span></p><p class='inter-darby'><span class='french-word'>de_poils</span><span class='french-word'>de_chameau,</span><span class='french-word'>et</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ζώνην</span><span class='greek-word'>δερματίνην</span><span class='greek-word'>περὶ</span></p><p class='inter-segond'><span class='french-word'>d'une_ceinture</span><span class='french-word'>de_cuir</span><span class='french-word'>autour</span></p><p class='inter-darby'><span class='french-word'>avait_une_ceinture</span><span class='french-word'>de_peau</span><span class='french-word'>autour_de</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τὴν</span><span class='greek-word'>ὀσφὺν</span><span class='greek-word'>αὐτοῦ,</span><span class='greek-word'>καὶ</span></p><p class='inter-segond'><span class='french-word'>de</span><span class='french-word'>ses_reins,</span><span class='french-word'>et</span></p><p class='inter-darby'><span class='french-word'>ses</span><span class='french-word'>reins ;</span><span class='french-word'>et</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐσθίων</span><span class='greek-word'>ἀκρίδας</span><span class='greek-word'>καὶ</span><span class='greek-word'>μέλι</span></p><p class='inter-segond'><span class='french-word'>il_se_nourrissait</span><span class='french-word'>de_sauterelles</span><span class='french-word'>et</span><span class='french-word'>de_miel</span></p><p class='inter-darby'><span class='french-word'>il_mangeait</span><span class='french-word'>des_sauterelles</span><span class='french-word'>et</span><span class='french-word'>du_miel</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἄγριον.</span></p><p class='inter-segond'><span class='french-word'>sauvage.</span></p><p class='inter-darby'><span class='french-word'>sauvage.</span></p></div>"
+        "translations": {
+          "segond": "Jean avait un vêtement de poils de chameau, et une ceinture de cuir autour des reins. Il se nourrissait de sauterelles et de miel sauvage.",
+          "darby": "Or Jean était vêtu de poil de chameau, et avait une ceinture de cuir autour de ses reins, et il mangeait des sauterelles et du miel sauvage."
+        },
+        "interlinear": [
+          { "greek": "καὶ", "gloss": "Et" },
+          { "greek": "ἦν", "gloss": "était" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "Ἰωάννης", "gloss": "Jean" },
+          { "greek": "ἐνδεδυμένος", "gloss": "vêtu" },
+          { "greek": "τρίχας", "gloss": "de_poils" },
+          { "greek": "καμήλου", "gloss": "de_chameau" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ζώνην", "gloss": "une_ceinture" },
+          { "greek": "δερματίνην", "gloss": "de_cuir" },
+          { "greek": "περὶ", "gloss": "autour_de" },
+          { "greek": "τὴν", "gloss": "les" },
+          { "greek": "ὀσφὺν", "gloss": "reins", "analyse": "L'équipement du prophète Élie. Jean renonce aux habits tissés de la civilisation (qui symbolisent le conditionnement social). Sa ceinture comprime ses reins (siège des passions) : c'est la maîtrise totale de la gravité instinctive." },
+          { "greek": "αὐτοῦ,", "gloss": "de_lui" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ἔσθων", "gloss": "mangeant" },
+          { "greek": "ἀκρίδας", "gloss": "des_sauterelles" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "μέλι", "gloss": "du_miel" },
+          { "greek": "ἄγριον.", "gloss": "sauvage", "analyse": "Le régime alimentaire anti-matrice. Jean refuse l'économie agraire et commerciale de l'homme déchu. Il puise son énergie directement dans ce que la nature originelle (*agrion*) donne librement." }
+        ]
       },
       {
         "verse_number": 7,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Καὶ</span><span class='greek-word'>ἐκήρυσσε</span><span class='greek-word'>λέγων·</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>il_prêchait</span><span class='french-word'>disant :</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>il_prêchait,</span><span class='french-word'>disant :</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Ἔρχεται</span><span class='greek-word'>ὁ</span><span class='greek-word'>ἰσχυρότερός</span></p><p class='inter-segond'><span class='french-word'>Il_vient</span><span class='french-word'>celui</span><span class='french-word'>plus_puissant</span></p><p class='inter-darby'><span class='french-word'>« Il_vient</span><span class='french-word'>après</span><span class='french-word'>moi</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>μου</span><span class='greek-word'>ὀπίσω</span><span class='greek-word'>μου,</span><span class='greek-word'>οὗ</span></p><p class='inter-segond'><span class='french-word'>que_moi</span><span class='french-word'>après</span><span class='french-word'>moi,</span><span class='french-word'>duquel</span></p><p class='inter-darby'><span class='french-word'>celui_qui_est_plus_puissant</span><span class='french-word'>que_moi,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>οὐκ</span><span class='greek-word'>εἰμὶ</span><span class='greek-word'>ἱκανὸς</span><span class='greek-word'>κύψας</span></p><p class='inter-segond'><span class='french-word'>pas</span><span class='french-word'>je_ne_suis</span><span class='french-word'>digne</span><span class='french-word'>en_me_courbant</span></p><p class='inter-darby'><span class='french-word'>duquel</span><span class='french-word'>je_ne_suis_pas</span><span class='french-word'>digne</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>λῦσαι</span><span class='greek-word'>τὸν</span><span class='greek-word'>ἱμάντα</span><span class='greek-word'>τῶν</span></p><p class='inter-segond'><span class='french-word'>de_délier</span><span class='french-word'>la</span><span class='french-word'>courroie</span><span class='french-word'>des</span></p><p class='inter-darby'><span class='french-word'>de_délier,</span><span class='french-word'>en_me_baissant,</span><span class='french-word'>la</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὑποδημάτων</span><span class='greek-word'>αὐτοῦ.</span></p><p class='inter-segond'><span class='french-word'>souliers</span><span class='french-word'>siens.</span></p><p class='inter-darby'><span class='french-word'>courroie</span><span class='french-word'>de_ses_sandales.</span></p></div>"
+        "translations": {
+          "segond": "Il prêchait, disant : Il vient après moi celui qui est plus puissant que moi, et je ne suis pas digne de délier, en me baissant, la courroie de ses souliers.",
+          "darby": "Et il prêchait, disant : Il vient après moi celui qui est plus puissant que moi, duquel je ne suis pas digne de délier, en me baissant, la courroie des sandales."
+        },
+        "interlinear": [
+          { "greek": "Καὶ", "gloss": "Et" },
+          { "greek": "ἐκήρυσσεν", "gloss": "il_proclamait" },
+          { "greek": "λέγων·", "gloss": "disant" },
+          { "greek": "Ἔρχεται", "gloss": "Il_vient" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "ἰσχυρότερός", "gloss": "plus_puissant/plus_fort", "analyse": "La Force absolue (*Ischys*). Jean possède la force de détruire l'Ego, mais seul le Christ possède l'Énergie anti-entropique pour ressusciter la matière." },
+          { "greek": "μου", "gloss": "que_moi" },
+          { "greek": "ὀπίσω", "gloss": "derrière/après" },
+          { "greek": "μου,", "gloss": "moi" },
+          { "greek": "οὗ", "gloss": "duquel" },
+          { "greek": "οὐκ", "gloss": "ne...pas" },
+          { "greek": "εἰμὶ", "gloss": "je_suis" },
+          { "greek": "ἱκανὸς", "gloss": "suffisant/digne" },
+          { "greek": "κύψας", "gloss": "m'étant_courbé", "analyse": "L'ultime Kénose. Le plus grand des prophètes courbe son être face à l'Incréé. La verticalité ne tolère aucune concurrence." },
+          { "greek": "λῦσαι", "gloss": "délier" },
+          { "greek": "τὸν", "gloss": "la" },
+          { "greek": "ἱμάντα", "gloss": "courroie" },
+          { "greek": "τῶν", "gloss": "des" },
+          { "greek": "ὑποδημάτων", "gloss": "sandales" },
+          { "greek": "αὐτοῦ.", "gloss": "de_lui" }
+        ]
       },
       {
         "verse_number": 8,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἐγὼ</span><span class='greek-word'>μὲν</span><span class='greek-word'>ἐβάπτισα</span><span class='greek-word'>ὑμᾶς</span></p><p class='inter-segond'><span class='french-word'>Moi</span><span class='french-word'>certes</span><span class='french-word'>j'ai_baptisé</span><span class='french-word'>vous</span></p><p class='inter-darby'><span class='french-word'>Moi,</span><span class='french-word'>je_vous_ai</span><span class='french-word'>baptisés</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐν</span><span class='greek-word'>ὕδατι,</span><span class='greek-word'>αὐτὸς</span><span class='greek-word'>δὲ</span></p><p class='inter-segond'><span class='french-word'>d'</span><span class='french-word'>eau ;</span><span class='french-word'>lui</span><span class='french-word'>mais</span></p><p class='inter-darby'><span class='french-word'>d'</span><span class='french-word'>eau ;</span><span class='french-word'>mais</span><span class='french-word'>lui</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>βαπτίσει</span><span class='greek-word'>ὑμᾶς</span><span class='greek-word'>ἐν</span></p><p class='inter-segond'><span class='french-word'>baptisera</span><span class='french-word'>vous</span><span class='french-word'>du</span></p><p class='inter-darby'><span class='french-word'>vous</span><span class='french-word'>baptisera</span><span class='french-word'>de_l'</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Πνεύματι</span><span class='greek-word'>Ἁγίῳ.</span></p><p class='inter-segond'><span class='french-word'>Esprit</span><span class='french-word'>Saint.</span></p><p class='inter-darby'><span class='french-word'>Esprit</span><span class='french-word'>Saint ».</span></p></div>"
+        "translations": {
+          "segond": "Moi, je vous ai baptisés d'eau ; lui, il vous baptisera du Saint-Esprit.",
+          "darby": "Moi, je vous ai baptisés d'eau ; mais lui vous baptisera de l'Esprit Saint."
+        },
+        "interlinear": [
+          { "greek": "ἐγὼ", "gloss": "Moi" },
+          { "greek": "ἐβάπτισα", "gloss": "j'ai_baptisé/immergé" },
+          { "greek": "ὑμᾶς", "gloss": "vous" },
+          { "greek": "ὕδατι,", "gloss": "dans_l'eau", "analyse": "L'eau nettoie le récipient (la *Metanoia*, le repentir). C'est la phase préparatoire, négative (retirer la boue de l'Ego)." },
+          { "greek": "αὐτὸς", "gloss": "lui" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "βαπτίσει", "gloss": "il_baptisera/immergera" },
+          { "greek": "ὑμᾶς", "gloss": "vous" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "πνεύματι", "gloss": "le_Souffle/l'Esprit", "analyse": "Le *Pneuma*. Le saut quantique. L'Incréé ne se contente pas de nettoyer la créature, Il la sature de Sa propre fréquence lumineuse (le feu et le souffle). L'eau vide le Sujet de la Matrice, l'Esprit le remplit de la Présence éternelle." },
+          { "greek": "ἁγίῳ.", "gloss": "Saint" }
+        ]
       }
     ],
-    "greek_only": "\n1 Ἀρχὴ τοῦ εὐαγγελίου Ἰησοῦ Χριστοῦ υἱοῦ Θεοῦ. \n2 Ὡς γέγραπται ἐν τοῖς προφήταις· Ἰδοὺ ἐγὼ ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου, ὃς κατασκευάσει τὴν ὁδόν σου· \n3 φωνὴ βοῶντος ἐν τῇ ἐρήμῳ· Ἑτοιμάσατε τὴν ὁδὸν Κυρίου, εὐθείας ποιεῖτε τὰς τρίβους αὐτοῦ, \n4 ἐγένετο Ἰωάννης βαπτίζων ἐν τῇ ἐρήμῳ καὶ κηρύσσων βάπτισμα μετανοίας εἰς ἄφεσιν ἁμαρτιῶν. \n5 καὶ ἐξεπορεύετο πρὸς αὐτὸν πᾶσα ἡ Ἰουδαία χώρα καὶ οἱ Ἱεροσολυμῖται πάντες, καὶ ἐβαπτίζοντο ὑπ’ αὐτοῦ ἐν τῷ Ἰορδάνῃ ποταμῷ ἐξομολογούμενοι τὰς ἁμαρτίας αὐτῶν. \n6 ἦν δὲ Ἰωάννης ἐνδεδυμένος τρίχας καμήλου καὶ ζώνην δερματίνην περὶ τὴν ὀσφὺν αὐτοῦ, καὶ ἐσθίων ἀκρίδας καὶ μέλι ἄγριον. \n7 Καὶ ἐκήρυσσε λέγων· Ἔρχεται ὁ ἰσχυρότερός μου ὀπίσω μου, οὗ οὐκ εἰμὶ ἱκανὸς κύψας λῦσαι τὸν ἱμάντα τῶν ὑποδημάτων αὐτοῦ· \n8 ἐγὼ μὲν ἐβάπτισα ὑμᾶς ἐν ὕδατι, αὐτὸς δὲ βαπτίσει ὑμᾶς ἐν Πνεύματι Ἁγίῳ.",
-    "french_only": "\n1 Commencement de l'Évangile de Jésus-Christ, Fils de Dieu. \n2 Selon qu'il est écrit dans les prophètes : Voici, j'envoie mon messager devant ta face, qui préparera ton chemin ; \n3 C'est la voix de celui qui crie dans le désert : Préparez le chemin du Seigneur, rendez droits ses sentiers. \n4 Jean parut, baptisant dans le désert, et prêchant le baptême de repentance, pour la rémission des péchés. \n5 Tout le pays de Judée et tous les habitants de Jérusalem se rendaient auprès de lui ; et, confessant leurs péchés, ils se faisaient baptiser par lui dans le fleuve du Jourdain. \n6 Jean avait un vêtement de poils de chameau, et une ceinture de cuir autour des reins. Il se nourrissait de sauterelles et de miel sauvage. \n7 Il prêchait, disant : Il vient après moi celui qui est plus puissant que moi, et je ne suis pas digne de délier, en me baissant, la courroie de ses souliers. \n8 Moi, je vous ai baptisés d'eau ; lui, il vous baptisera du Saint-Esprit.",
-    "french_darby": "\n1 Commencement de l'évangile de Jésus Christ, Fils de Dieu. \n2 Comme il est écrit dans Ésaïe le prophète : « Voici, moi j'envoie mon messager devant ta face, lequel préparera ton chemin. \n3 Voix de celui qui crie dans le désert : Préparez le chemin du Seigneur, faites droits ses sentiers ». \n4 Jean vint, baptisant dans le désert, et prêchant le baptême de la repentance pour la rémission des péchés. \n5 Et tout le pays de la Judée et tous ceux de Jérusalem sortaient vers lui ; et ils étaient tous baptisés par lui dans le fleuve du Jourdain, confessant leurs péchés. \n6 Et Jean était vêtu de poils de chameau, et avait une ceinture de peau autour de ses reins ; et il mangeait des sauterelles et du miel sauvage. \n7 Et il prêchait, disant : « Il vient après moi celui qui est plus puissant que moi, du quel je ne suis pas digne de délier, en me baissant, la courroie de ses sandales. \n8 Moi, je vous ai baptisés d'eau ; mais lui vous baptisera de l'Esprit Saint ».",
-    "personal_analysis": "Marc ouvre son évangile sans généalogie ni récit d'enfance, plongeant directement dans le 'Commencement' (*Archè*). Ce commencement est ancré dans la prophétie (fusion de Malachie et d'Isaïe), présentant Jean le Baptiste comme le héraut du Messie. La figure de Jean est ascétique, rappelant Élie, et son message est une urgence : le baptême d'eau est une préparation nécessaire par la repentance (*metanoia*), mais il pointe vers le baptême définitif dans l'Esprit Saint. Jean définit sa mission par son effacement devant le 'Plus Puissant' (*ischyroteros*), manifestant l'humilité radicale qui précède la gloire de la Théophanie."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 3 - εὐθείας (droites) : Le mot grec indique une géométrie parfaite, sans déviation. La spiritualité n'est pas un chemin de flânerie, c'est l'exigence d'une trajectoire balistique directe vers le Centre.\n• Verset 4 - μετανοίας (repentance) : Traduit presque partout par 'repentance' (teinté de culpabilité morale). La *Metanoia* grecque est bien plus puissante : c'est le basculement fondamental (*meta*) de l'intellect (*nous*), la réinitialisation de la conscience qui cesse de percevoir le monde à travers le prisme de la séparation.\n\nAnalyse spirituelle :\nCette ouverture de l'Évangile de Marc nous livre la procédure d'évacuation de la Matrice duel. Jean le Baptiste y opère comme la lame d'un scalpel métaphysique.\n\nTout d'abord, l'espace d'opération : le Désert (*Eremos*). L'Incréé ne vient pas s'ajouter comme une option confortable au milieu de nos constructions égotiques (Jérusalem/la ville). Il exige le Vide. Le Sujet qui désire la lumière doit d'abord sortir de l'économie psychique et matérielle du monde. Jean incarne physiquement cette sortie : sa robe de poil et son régime sauvage (v.6) démontrent un être déprogrammé, qui a cessé de 'consommer' le Monde pour survivre.\n\nSon rôle n'est pas d'attirer la lumière à lui, mais d'agir comme une simple *Phone* (une Voix). Il amène les hommes à 'redresser' ce qui est tordu (v.3), c'est-à-dire à cesser leurs errances karmiques par l'aveu de leur vérité (*exomologoumenoi*, v.5) et par l'immersion dans l'eau de la mort (la dissolution de l'Ego).\n\nCependant, le Baptiste lui-même connaît la limite de sa technologie spirituelle. Son baptême d'eau est une purge, un effacement. Mais il annonce (v.7-8) l'arrivée du *Plus Fort* (*Ischyroteros*). L'eau peut vider la coupe, mais seul le *Pneuma* (le Souffle/Feu du Christ) peut l'embraser. La préparation géométrique du Précurseur ouvre la voie à la Théophanie, l'irruption fracassante de l'Esprit Saint qui va définitivement ré-axer l'humanité."
   },
+ {
   "apostle": {
     "reference": "2 Timothée 4, 5-8",
-    "title": "Le Combat Achevé et l'Attente de la Couronne",
+    "title": "L'Ana-lysis et la Libation du Sujet : Le Maintien de l'Axe avant l'Épiphanie",
     "interlinear": [
       {
         "verse_number": 5,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>σὺ</span><span class='greek-word'>δὲ</span><span class='greek-word'>νῆφε</span><span class='greek-word'>ἐν</span><span class='greek-word'>πᾶσιν,</span></p><p class='inter-segond'><span class='french-word'>Toi</span><span class='french-word'>mais</span><span class='french-word'>sois_sobre</span><span class='french-word'>en</span><span class='french-word'>toutes_choses,</span></p><p class='inter-darby'><span class='french-word'>Mais</span><span class='french-word'>toi,</span><span class='french-word'>sois_sobre</span><span class='french-word'>en</span><span class='french-word'>tout,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>κακοπάθησον,</span><span class='greek-word'>ἔργον</span><span class='greek-word'>ποίησον</span></p><p class='inter-segond'><span class='french-word'>supporte_les_souffrances,</span><span class='french-word'>l'œuvre</span><span class='french-word'>fais</span></p><p class='inter-darby'><span class='french-word'>endure_les_afflictions,</span><span class='french-word'>fais</span><span class='french-word'>l'œuvre</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>εὐαγγελιστοῦ,</span><span class='greek-word'>τὴν</span><span class='greek-word'>διακονίαν</span></p><p class='inter-segond'><span class='french-word'>d'un_évangéliste,</span><span class='french-word'>ton</span><span class='french-word'>le_ministère</span></p><p class='inter-darby'><span class='french-word'>d'un_évangéliste,</span><span class='french-word'>accomplis_pleinement</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>σου</span><span class='greek-word'>πληροφόρησον.</span></p><p class='inter-segond'><span class='french-word'>remplis_bien.</span></p><p class='inter-darby'><span class='french-word'>ton</span><span class='french-word'>service.</span></p></div>"
+        "translations": {
+          "segond": "Mais toi, sois sobre en toutes choses, supporte les souffrances, fais l'oeuvre d'un évangéliste, remplis bien ton ministère.",
+          "darby": "Mais toi, sois sobre en toutes choses, endure les souffrances, fais l'oeuvre d'un évangéliste, accomplis pleinement ton service."
+        },
+        "interlinear": [
+          { "greek": "Σὺ", "gloss": "Toi" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "νῆφε", "gloss": "sois_sobre/vigilant", "analyse": "Le verbe *nepho*. Ce n'est pas une injonction diététique, c'est l'état de lucidité vibratoire absolue. L'Ego est perpétuellement ivre des illusions de la Matrice (peurs, désirs, pouvoir). Être 'sobre', c'est refuser l'hypnose du Monde duel." },
+          { "greek": "ἐν", "gloss": "en" },
+          { "greek": "πᾶσιν,", "gloss": "toutes_choses" },
+          { "greek": "κακοπάθησον,", "gloss": "endure_le_mal/souffre", "analyse": "La friction inévitable. Maintenir la Verticalité dans un monde horizontal provoque une résistance de la matière. La souffrance n'est pas une punition, c'est la preuve de l'impact de l'Axe sur la densité matricielle." },
+          { "greek": "ἔργον", "gloss": "l'œuvre" },
+          { "greek": "ποίησον", "gloss": "fais" },
+          { "greek": "εὐαγγελιστοῦ,", "gloss": "d'évangéliste" },
+          { "greek": "τὴν", "gloss": "le" },
+          { "greek": "διακονίαν", "gloss": "service/ministère" },
+          { "greek": "σου", "gloss": "de_toi" },
+          { "greek": "πληροφόρησον.", "gloss": "accomplis_pleinement", "analyse": "Le verbe *plerophoreo* (porter à la plénitude, remplir jusqu'au bord). Le *Pleroma* (la plénitude). Il s'agit de saturer son espace d'incarnation avec la fréquence de l'Incréé." }
+        ]
       },
       {
         "verse_number": 6,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἐγὼ</span><span class='greek-word'>γὰρ</span><span class='greek-word'>ἤδη</span><span class='greek-word'>σπένδομαι,</span></p><p class='inter-segond'><span class='french-word'>moi</span><span class='french-word'>car</span><span class='french-word'>déjà</span><span class='french-word'>je_sers_de_libation,</span></p><p class='inter-darby'><span class='french-word'>Car,</span><span class='french-word'>pour_moi,</span><span class='french-word'>je_sers_déjà</span><span class='french-word'>de_libation,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ὁ</span><span class='greek-word'>καιρὸς</span><span class='greek-word'>τῆς</span><span class='greek-word'>ἐμῆς</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>le</span><span class='french-word'>moment</span><span class='french-word'>de</span><span class='french-word'>mon</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>le</span><span class='french-word'>temps</span><span class='french-word'>de</span><span class='french-word'>mon</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀναλύσεως</span><span class='greek-word'>ἐφέστηκε.</span></p><p class='inter-segond'><span class='french-word'>départ</span><span class='french-word'>approche.</span></p><p class='inter-darby'><span class='french-word'>départ</span><span class='french-word'>est_arrivé.</span></p></div>"
+        "translations": {
+          "segond": "Car pour moi, je sers déjà de libation, et le moment de mon départ approche.",
+          "darby": "Car, pour moi, je sers déjà de libation, et le temps de mon départ est arrivé."
+        },
+        "interlinear": [
+          { "greek": "Ἐγὼ", "gloss": "Moi" },
+          { "greek": "γὰρ", "gloss": "car" },
+          { "greek": "ἤδη", "gloss": "déjà" },
+          { "greek": "σπένδομαι,", "gloss": "je_suis_répandu_en_libation", "analyse": "Le verbe magistral *spendo*. L'acte rituel de verser le vin ou l'huile sur l'autel. La Kénose ultime. Paul ne 'meurt' pas comme une victime passive de l'entropie, il se vide activement de sa propre substance pour se fondre dans la Source." },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "καιρὸς", "gloss": "moment_propice/Kairos", "analyse": "Le *Kairos*, pas le *Chronos*. La mort de Paul n'est pas une échéance calendaire, c'est le point d'intersection parfait où son cycle terrestre s'achève." },
+          { "greek": "τῆς", "gloss": "de_la" },
+          { "greek": "ἀναλύσεώς", "gloss": "départ/déliaison", "analyse": "Le mot vertigineux : *Ana-lysis*. Souvent traduit par 'départ'. Littéralement : l'action de délier (*lyo*) pour remonter (*ana*). C'est le terme marin pour détacher les amarres d'un navire. La mort du Sujet n'est que la rupture du cordon qui le retenait à la Matrice." },
+          { "greek": "μου", "gloss": "de_moi" },
+          { "greek": "ἐφέστηκεν.", "gloss": "est_imminent/s'est_tenu_près" }
+        ]
       },
       {
         "verse_number": 7,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>τὸν</span><span class='greek-word'>ἀγῶνα</span><span class='greek-word'>τὸν</span><span class='greek-word'>καλὸν</span></p><p class='inter-segond'><span class='french-word'>Le</span><span class='french-word'>combat</span><span class='french-word'>le</span><span class='french-word'>bon</span></p><p class='inter-darby'><span class='french-word'>J'ai</span><span class='french-word'>combattu</span><span class='french-word'>le</span><span class='french-word'>bon</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἠγώνισμαι,</span><span class='greek-word'>τὸν</span><span class='greek-word'>δρόμον</span></p><p class='inter-segond'><span class='french-word'>j'ai_combattu,</span><span class='french-word'>la</span><span class='french-word'>course</span></p><p class='inter-darby'><span class='french-word'>combat,</span><span class='french-word'>j'ai</span><span class='french-word'>achevé</span><span class='french-word'>la</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τετέλεκα,</span><span class='greek-word'>τὴν</span><span class='greek-word'>πίστιν</span></p><p class='inter-segond'><span class='french-word'>j'ai_achevée,</span><span class='french-word'>la</span><span class='french-word'>foi</span></p><p class='inter-darby'><span class='french-word'>course,</span><span class='french-word'>j'ai</span><span class='french-word'>gardé</span><span class='french-word'>la</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τετήρηκα·</span></p><p class='inter-segond'><span class='french-word'>j'ai_gardée.</span></p><p class='inter-darby'><span class='french-word'>foi :</span></p></div>"
+        "translations": {
+          "segond": "J'ai combattu le bon combat, j'ai achevé la course, j'ai gardé la foi.",
+          "darby": "J'ai combattu le bon combat, j'ai achevé la course, j'ai gardé la foi :"
+        },
+        "interlinear": [
+          { "greek": "τὸν", "gloss": "Le" },
+          { "greek": "καλὸν", "gloss": "beau/bon" },
+          { "greek": "ἀγῶνα", "gloss": "combat/agonie", "analyse": "L'*Agon* (qui a donné agonie). L'arène, la tension extrême. La vie spirituelle n'est pas une quiétude psychologique, c'est le maintien sous haute pression de la verticalité face à l'écrasement horizontal." },
+          { "greek": "ἠγώνισμαι,", "gloss": "j'ai_combattu" },
+          { "greek": "τὸν", "gloss": "la" },
+          { "greek": "δρόμον", "gloss": "course" },
+          { "greek": "τετέλεκα,", "gloss": "j'ai_achevée", "analyse": "Le parfait du verbe *teleo*. Pas simplement 'terminer', mais amener au *Telos* (le but métaphysique, la perfection)." },
+          { "greek": "τὴν", "gloss": "la" },
+          { "greek": "πίστιν", "gloss": "foi", "analyse": "La *Pistis*. L'alignement pur. Paul n'a pas gardé un système de dogmes intellectuels, il a préservé l'intégrité de la connexion avec l'Axe." },
+          { "greek": "τετήρηκα·", "gloss": "j'ai_gardée/préservée" }
+        ]
       },
       {
         "verse_number": 8,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>λοιπὸν</span><span class='greek-word'>ἀπόκειταί</span><span class='greek-word'>μοι</span><span class='greek-word'>ὁ</span></p><p class='inter-segond'><span class='french-word'>Désormais</span><span class='french-word'>est_réservée</span><span class='french-word'>à_moi</span><span class='french-word'>la</span></p><p class='inter-darby'><span class='french-word'>désormais</span><span class='french-word'>m'est</span><span class='french-word'>réservée</span><span class='french-word'>la</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τῆς</span><span class='greek-word'>δικαιοσύνης</span><span class='greek-word'>στέφανος,</span></p><p class='inter-segond'><span class='french-word'>de_la</span><span class='french-word'>justice</span><span class='french-word'>couronne,</span></p><p class='inter-darby'><span class='french-word'>couronne</span><span class='french-word'>de_justice,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὃν</span><span class='greek-word'>ἀποδώσει</span><span class='greek-word'>μοι</span><span class='greek-word'>ὁ</span></p><p class='inter-segond'><span class='french-word'>laquelle</span><span class='french-word'>donnera</span><span class='french-word'>à_moi</span><span class='french-word'>le</span></p><p class='inter-darby'><span class='french-word'>que</span><span class='french-word'>le</span><span class='french-word'>Seigneur,</span><span class='french-word'>juste</span><span class='french-word'>juge,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Κύριος</span><span class='greek-word'>ἐν</span><span class='greek-word'>ἐκείνῃ</span><span class='greek-word'>τῇ</span></p><p class='inter-segond'><span class='french-word'>Seigneur</span><span class='french-word'>en</span><span class='french-word'>ce</span><span class='french-word'>le</span></p><p class='inter-darby'><span class='french-word'>me</span><span class='french-word'>rendra</span><span class='french-word'>en</span><span class='french-word'>ce</span><span class='french-word'>jour-là,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἡμέρᾳ,</span><span class='greek-word'>ὁ</span><span class='greek-word'>δίκαιος</span><span class='greek-word'>κριτής,</span></p><p class='inter-segond'><span class='french-word'>jour,</span><span class='french-word'>le</span><span class='french-word'>juste</span><span class='french-word'>juge ;</span></p><p class='inter-darby'><span></span></p></div><div class='interlinear-verse'><p><span class='greek-word'>οὐ</span><span class='greek-word'>μόνον</span><span class='greek-word'>δὲ</span><span class='greek-word'>ἐμοὶ</span><span class='greek-word'>ἀλλὰ</span></p><p class='inter-segond'><span class='french-word'>non</span><span class='french-word'>seulement</span><span class='french-word'>mais</span><span class='french-word'>à_moi</span><span class='french-word'>mais</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>non_seulement</span><span class='french-word'>à_moi,</span><span class='french-word'>mais</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>πᾶσι</span><span class='greek-word'>τοῖς</span></p><p class='inter-segond'><span class='french-word'>aussi</span><span class='french-word'>à_tous</span><span class='french-word'>ceux</span></p><p class='inter-darby'><span class='french-word'>aussi</span><span class='french-word'>à_tous</span><span class='french-word'>ceux_qui</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἠγαπηκόσι</span><span class='greek-word'>τὴν</span><span class='greek-word'>ἐπιφάνειαν</span></p><p class='inter-segond'><span class='french-word'>ayant_aimé</span><span class='french-word'>son</span><span class='french-word'>avènement.</span></p><p class='inter-darby'><span class='french-word'>auront_aimé</span><span class='french-word'>son</span><span class='french-word'>apparition.</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>αὐτοῦ.</span></p><p class='inter-segond'><span></span></p><p class='inter-darby'><span></span></p></div>"
+        "translations": {
+          "segond": "Désormais la couronne de justice m'est réservée ; le Seigneur, le juste juge, me la donnera dans ce jour-là, et non seulement à moi, mais encore à tous ceux qui auront aimé son avènement.",
+          "darby": "désormais m'est réservée la couronne de justice, que le Seigneur juste juge me donnera dans ce jour-là, et non seulement à moi, mais aussi à tous ceux qui aiment son apparition."
+        },
+        "interlinear": [
+          { "greek": "λοιπὸν", "gloss": "Désormais/Il_reste_que" },
+          { "greek": "ἀπόκειταί", "gloss": "est_réservée/déposée" },
+          { "greek": "μοι", "gloss": "à_moi" },
+          { "greek": "ὁ", "gloss": "la" },
+          { "greek": "τῆς", "gloss": "de_la" },
+          { "greek": "δικαιοσύνης", "gloss": "justice/ajustement", "analyse": "La *Dikaiosyne*. Non pas une justice morale et punitive, mais l'Ajustement ontologique parfait. Le Sujet est enfin totalement réaligné avec sa nature divine." },
+          { "greek": "στέφανος,", "gloss": "couronne", "analyse": "Le *Stephanos*. Le symbole géométrique de la victoire : le cercle, la perfection sans début ni fin, la forme de la Non-Dualité." },
+          { "greek": "ὃν", "gloss": "laquelle" },
+          { "greek": "ἀποδώσει", "gloss": "rendra/donnera" },
+          { "greek": "μοι", "gloss": "à_moi" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "κύριος", "gloss": "Seigneur" },
+          { "greek": "ἐν", "gloss": "en" },
+          { "greek": "ἐκείνῃ", "gloss": "ce" },
+          { "greek": "τῇ", "gloss": "le" },
+          { "greek": "ἡμέρᾳ,", "gloss": "jour-là" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "δίκαιος", "gloss": "juste" },
+          { "greek": "κριτής,", "gloss": "juge" },
+          { "greek": "οὐ", "gloss": "non" },
+          { "greek": "μόνον", "gloss": "seulement" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "ἐμοὶ", "gloss": "à_moi" },
+          { "greek": "ἀλλὰ", "gloss": "mais" },
+          { "greek": "καὶ", "gloss": "aussi" },
+          { "greek": "πᾶσι", "gloss": "à_tous" },
+          { "greek": "τοῖς", "gloss": "ceux" },
+          { "greek": "ἠγαπηκόσι", "gloss": "ayant_aimé/désiré" },
+          { "greek": "τὴν", "gloss": "l'" },
+          { "greek": "ἐπιφάνειαν", "gloss": "apparition/épiphanie", "analyse": "L'*Epiphaneia*. La Théophanie. L'irruption foudroyante de la Lumière (le Phos) qui déchire le voile de la Matrice. Aimer cette apparition, c'est vibrer sur la fréquence de la Fin du Monde duel." },
+          { "greek": "αὐτοῦ.", "gloss": "de_lui" }
+        ]
       }
     ],
-    "greek_only": "\n5 σὺ δὲ νῆφε ἐν πᾶσι, κακοπάθησον, ἔργον ποίησον εὐαγγελιστοῦ, τὴν διακονίαν σου πληροφόρησον. \n6 ἐγὼ γὰρ ἤδη σπένδομαι, καὶ ὁ καιρὸς τῆς ἐμῆς ἀναλύσεως ἐφέστηκε. \n7 τὸν ἀγῶνα τὸν καλὸν ἠγώνισμαι, τὸν δρόμον τετέλεκα, τὴν πίστιν τετήρηκα· \n8 λοιπὸν ἀπόκειταί μοι ὁ τῆς δικαιοσύνης στέφανος, ὃν ἀποδώσει μοι ὁ Κύριος ἐν ἐκείνῃ τῇ ἡμέρᾳ, ὁ δίκαιος κριτής, οὐ μόνον δὲ ἐμοὶ ἀλλὰ καὶ πᾶσι τοῖς ἠγαπηκόσι τὴν ἐπιφάνειαν αὐτοῦ.",
-    "french_only": "\n5 Mais toi, sois sobre en toutes choses, supporte les souffrances, fais l'œuvre d'un évangéliste, remplis bien ton ministère. \n6 Car pour moi, je sers déjà de libation, et le moment de mon départ approche. \n7 J'ai combattu le bon combat, j'ai achevé la course, j'ai gardé la foi. \n8 Désormais la couronne de justice m'est réservée ; le Seigneur, le juste juge, me la donnera dans ce jour-là, et non seulement à moi, mais encore à tous ceux qui auront aimé son avènement.",
-    "french_darby": "\n5 Mais toi, sois sobre en tout, endure les afflictions, fais l'œuvre d'un évangéliste, accomplis pleinement ton service. \n6 Car, pour moi, je sers déjà de libation, et le temps de mon départ est arrivé ; \n7 j'ai combattu le bon combat, j'ai achevé la course, j'ai gardé la foi : \n8 désormais m'est réservée la couronne de justice, que le Seigneur, juste juge, me rendra en ce jour-là, et non seulement à moi, mais aussi à tous ceux qui auront aimé son apparition.",
-    "personal_analysis": "Ce passage est l'un des plus émouvants du corpus paulinien. Paul, sentant sa fin proche, utilise le langage liturgique du sacrifice : il est une 'libation' (*spendomai*), un vin versé sur l'autel. La vie chrétienne est résumée en trois images sportives et militaires : le combat, la course et la garde. Le verset 8 contient le mot clé 'Epiphaneian' (apparition/avènement), qui donne son nom à la fête que nous préparons. La couronne n'est pas le prix d'un mérite solitaire, mais le don fait à tous ceux qui 'aiment' la manifestation du Christ. En ce dimanche avant la Théophanie, l'Église nous invite à cet amour de l'Apparition de Dieu."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 6 - ἀναλύσεώς : Traduit uniformément par 'départ'. Ce choix gomme l'étymologie puissante de l'*ana-lysis* grecque. Le préfixe *ana* (vers le haut/à nouveau) et le nom *lysis* (la dissolution, la déliaison, la rupture d'une chaîne). Paul ne 'part' pas en voyage, il se détache des liens gravitationnels de la Matrice matérielle pour remonter à la Source.\n• Verset 8 - ἐπιφάνειαν : 'L'avènement' (Segond) ou 'l'apparition' (Darby). Le mot *Epiphaneia* désigne l'irradiation de la lumière pure sur ce qui était caché. C'est le terme même qui donne son nom à la fête de l'Épiphanie (la Théophanie), préparant ainsi l'auditeur à la manifestation du Verbe dans les eaux du Jourdain.\n\nAnalyse spirituelle :\nCette courte péricope est le testament métaphysique de l'Apôtre. Du fond d'une prison romaine, attendant son exécution, Paul livre le secret de la désintégration glorieuse de l'Ego.\n\nLe texte s'ouvre (v.5) sur l'injonction de 'sobriété' (*nepho*) adressée à Timothée. Dans le monde duel, tout est conçu pour intoxiquer la conscience (les ambitions, les peurs, le bruit social). La première étape de l'éveil est le refus de cette ivresse pour maintenir sa lucidité face aux 'souffrances' (la friction avec l'entropie de la Matrice).\n\nAux versets 6 et 7, Paul explique pourquoi la mort du corps n'est pas une tragédie, mais un triomphe structurel. Il utilise le verbe *spendo* (je sers de libation) : la mort n'est pas un vol subi par la nature, c'est l'ultime Kénose volontaire du Sujet éveillé qui se vide de sa propre substance pour se restituer à l'Incréé. Il a maintenu la tension (*Agon*, le combat) non pas pour amasser un mérite, mais pour garder la fréquence (*Pistis*, la foi) intacte d'un bout à l'autre de sa trajectoire (*Telos*).\n\nLe couronnement intervient au verset 8. La Couronne (*Stephanos*) n'est pas une médaille sportive récompensant une supériorité égotique ; c'est le symbole de la plénitude non-duelle, la forme géométrique du cercle fermé. La boucle de l'Incarnation est achevée. Et ce couronnement n'est pas réservé à une élite religieuse : il est la conséquence naturelle pour 'tous ceux qui auront aimé Son apparition'. L'Apôtre déplace ainsi l'attention de son propre sort vers la grande *Epiphaneia* cosmique. Aimer cette irruption lumineuse, c'est cesser de s'accrocher aux ombres de la caverne pour désirer activement que la Matrice soit transpercée par la Vérité de l'Axe."
   }
 }
