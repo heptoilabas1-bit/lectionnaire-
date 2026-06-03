@@ -1,75 +1,327 @@
 {
   "gospel": {
     "reference": "Matthieu 4, 12-17",
-    "title": "Le Commencement du Ministère en Galilée : La Lumière se lève",
+    "title": "La Lumière dans les Marges : Repli Stratégique et Irruption de la Basileia",
     "interlinear": [
       {
         "verse_number": 12,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Ἀκούσας</span><span class='greek-word'>δὲ</span><span class='greek-word'>ὅτι</span><span class='greek-word'>Ἰωάννης</span></p><p class='inter-segond'><span class='french-word'>Ayant_appris</span><span class='french-word'>mais</span><span class='french-word'>que</span><span class='french-word'>Jean</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>quand_il</span><span class='french-word'>eut_appris_que</span><span class='french-word'>Jean</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>παρεδόθη,</span><span class='greek-word'>ἀνεχώρησεν</span><span class='greek-word'>εἰς</span><span class='greek-word'>τὴν</span></p><p class='inter-segond'><span class='french-word'>avait_été_livré,</span><span class='french-word'>il_se_retira</span><span class='french-word'>en</span><span class='french-word'>la</span></p><p class='inter-darby'><span class='french-word'>avait_été_livré,</span><span class='french-word'>il_se_retira</span><span class='french-word'>en</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Γαλιλαίαν.</span></p><p class='inter-segond'><span class='french-word'>Galilée.</span></p><p class='inter-darby'><span class='french-word'>Galilée.</span></p></div>"
+        "translations": {
+          "segond": "Jésus, ayant appris que Jean avait été livré, se retira dans la Galilée.",
+          "darby": "Et ayant ouï dire que Jean avait été livré, il se retira en Galilée ;"
+        },
+        "interlinear": [
+          { "greek": "Ἀκούσας", "gloss": "Ayant_entendu" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "ὅτι", "gloss": "que" },
+          { "greek": "Ἰωάννης", "gloss": "Jean" },
+          { "greek": "παρεδόθη,", "gloss": "fut_livré/transmis", "analyse": "Le verbe *para-didomi*. La Matrice horizontale réagit toujours à la fréquence de l'Éveil par la tentative d'étouffement. La 'Voix' préparatoire du désert est enfermée par l'Ego despotique (Hérode Antipas)." },
+          { "greek": "ἀνεχώρησεν", "gloss": "il_se_retira/se_déplaça", "analyse": "Le verbe *ana-choreo* (se retirer, faire de l'espace). Le Logos ne mène pas une rébellion politique de front. Il est fluide. Face à la fermeture d'un espace vibratoire (la Judée), Il glisse stratégiquement vers un autre." },
+          { "greek": "εἰς", "gloss": "dans" },
+          { "greek": "τὴν", "gloss": "la" },
+          { "greek": "Γαλιλαίαν.", "gloss": "Galilée" }
+        ]
       },
       {
         "verse_number": 13,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>καταλιπὼν</span><span class='greek-word'>τὴν</span><span class='greek-word'>Ναζαρὲτ</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>ayant_quitté</span><span class='french-word'>la</span><span class='french-word'>Nazareth,</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>ayant_quitté</span><span class='french-word'>Nazareth,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐλθὼν</span><span class='greek-word'>κατῴκησεν</span><span class='greek-word'>εἰς</span><span class='greek-word'>Καπερναοὺμ</span></p><p class='inter-segond'><span class='french-word'>il_vint</span><span class='french-word'>demeurer</span><span class='french-word'>à</span><span class='french-word'>Capernaüm,</span></p><p class='inter-darby'><span class='french-word'>il_vint</span><span class='french-word'>habiter</span><span class='french-word'>à</span><span class='french-word'>Capernaüm,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τὴν</span><span class='greek-word'>παραθαλασσίαν</span><span class='greek-word'>ἐν</span><span class='greek-word'>ὁρίοις</span></p><p class='inter-segond'><span class='french-word'>située_au_bord_de_la_mer,</span><span class='french-word'>dans_les_contrées</span></p><p class='inter-darby'><span class='french-word'>qui_est_sur_la_mer,</span><span class='french-word'>dans_les_confins</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Ζαβουλὼν</span><span class='greek-word'>καὶ</span><span class='greek-word'>Νεφθαλείμ·</span></p><p class='inter-segond'><span class='french-word'>de_Zabulon</span><span class='french-word'>et</span><span class='french-word'>de_Nephthali,</span></p><p class='inter-darby'><span class='french-word'>de_Zabulon</span><span class='french-word'>et</span><span class='french-word'>de_Nephthali ;</span></p></div>"
+        "translations": {
+          "segond": "Il quitta Nazareth, et vint demeurer à Capernaüm, située près de la mer, dans les confins de Zabulon et de Nephthali,",
+          "darby": "et ayant quitté Nazareth, il vint et demeura à Capernaüm, qui est sur la mer, sur les confins de Zabulon et de Nephthali,"
+        },
+        "interlinear": [
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "καταλιπὼν", "gloss": "ayant_quitté/laissé_derrière" },
+          { "greek": "τὴν", "gloss": "la" },
+          { "greek": "Ναζαρὰ", "gloss": "Nazareth" },
+          { "greek": "ἐλθὼν", "gloss": "étant_venu" },
+          { "greek": "κατῴκησεν", "gloss": "il_habita/établit_sa_demeure" },
+          { "greek": "εἰς", "gloss": "dans" },
+          { "greek": "Καφαρναοὺμ", "gloss": "Capernaüm" },
+          { "greek": "τὴν", "gloss": "la" },
+          { "greek": "παραθαλασσίαν", "gloss": "près_de_la_mer", "analyse": "La topographie symbolique : au bord du lac, à la frontière entre la terre ferme (le monde structuré) et l'eau (les profondeurs chaotiques de l'inconscient)." },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "ὁρίοις", "gloss": "les_frontières/confins" },
+          { "greek": "Ζαβουλὼν", "gloss": "Zabulon" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "Νεφθαλείμ·", "gloss": "Nephthali" }
+        ]
       },
       {
         "verse_number": 14,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ἵνα</span><span class='greek-word'>πληρωθῇ</span><span class='greek-word'>τὸ</span><span class='greek-word'>ρηθὲν</span></p><p class='inter-segond'><span class='french-word'>afin_que</span><span class='french-word'>fût_accompli</span><span class='french-word'>ce_qui</span><span class='french-word'>avait_été_dit</span></p><p class='inter-darby'><span class='french-word'>afin_que</span><span class='french-word'>fût_accompli</span><span class='french-word'>ce</span><span class='french-word'>qui</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>διὰ</span><span class='greek-word'>Ἡσαΐου</span><span class='greek-word'>τοῦ</span><span class='greek-word'>προφήτου</span><span class='greek-word'>λέγοντος·</span></p><p class='inter-segond'><span class='french-word'>par</span><span class='french-word'>Ésaïe</span><span class='french-word'>le</span><span class='french-word'>prophète</span><span class='french-word'>disant :</span></p><p class='inter-darby'><span class='french-word'>avait_été_dit</span><span class='french-word'>par</span><span class='french-word'>Ésaïe</span><span class='french-word'>le_prophète,</span><span class='french-word'>disant :</span></p></div>"
+        "translations": {
+          "segond": "afin que s'accomplît ce qui avait été annoncé par Esaïe, le prophète :",
+          "darby": "afin que fût accompli ce qui a été dit par Ésaïe le prophète, disant :"
+        },
+        "interlinear": [
+          { "greek": "ἵνα", "gloss": "afin_que" },
+          { "greek": "πληρωθῇ", "gloss": "soit_accompli/rempli", "analyse": "Le *Pleroma*. La superposition du *Chronos* (le temps linéaire d'Ésaïe) par la densité du Présent. La prophétie n'est pas une simple prédiction, c'est un contenant vibratoire qui est enfin 'saturé' par la Présence." },
+          { "greek": "τὸ", "gloss": "ce_qui" },
+          { "greek": "ῥηθὲν", "gloss": "fut_dit" },
+          { "greek": "διὰ", "gloss": "à_travers" },
+          { "greek": "Ἠσαΐου", "gloss": "d'Ésaïe" },
+          { "greek": "τοῦ", "gloss": "le" },
+          { "greek": "προφήτου", "gloss": "prophète" },
+          { "greek": "λέγοντος·", "gloss": "disant" }
+        ]
       },
       {
         "verse_number": 15,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Γῆ</span><span class='greek-word'>Ζαβουλὼν</span><span class='greek-word'>καὶ</span><span class='greek-word'>γῆ</span><span class='greek-word'>Νεφθαλείμ,</span></p><p class='inter-segond'><span class='french-word'>Terre</span><span class='french-word'>de_Zabulon</span><span class='french-word'>et</span><span class='french-word'>terre</span><span class='french-word'>de_Nephthali,</span></p><p class='inter-darby'><span class='french-word'>« Terre</span><span class='french-word'>de_Zabulon</span><span class='french-word'>et</span><span class='french-word'>terre</span><span class='french-word'>de_Nephthali,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὁδὸν</span><span class='greek-word'>θαλάσσης,</span><span class='greek-word'>πέραν</span><span class='greek-word'>τοῦ</span></p><p class='inter-segond'><span class='french-word'>chemin</span><span class='french-word'>de_la_mer,</span><span class='french-word'>au-delà</span><span class='french-word'>du</span></p><p class='inter-darby'><span class='french-word'>le_chemin_de_la_mer,</span><span class='french-word'>au-delà</span><span class='french-word'>du</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Ἰορδάνου,</span><span class='greek-word'>Γαλιλαία</span><span class='greek-word'>τῶν</span><span class='greek-word'>ἐθνῶν,</span></p><p class='inter-segond'><span class='french-word'>Jourdain,</span><span class='french-word'>Galilée</span><span class='french-word'>des</span><span class='french-word'>gentils,</span></p><p class='inter-darby'><span class='french-word'>Jourdain,</span><span class='french-word'>Galilée</span><span class='french-word'>des_nations :</span></p></div>"
+        "translations": {
+          "segond": "Le peuple de Zabulon et de Nephthali, De la contrée voisine de la mer, du pays au delà du Jourdain, Et de la Galilée des Gentils,",
+          "darby": "Terre de Zabulon et terre de Nephthali, sur le chemin de la mer, au delà du Jourdain, Galilée des nations :"
+        },
+        "interlinear": [
+          { "greek": "Γῆ", "gloss": "Terre" },
+          { "greek": "Ζαβουλὼν", "gloss": "Zabulon" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "γῆ", "gloss": "terre" },
+          { "greek": "Νεφθαλείμ,", "gloss": "Nephthali" },
+          { "greek": "ὁδὸν", "gloss": "sur_le_chemin" },
+          { "greek": "θαλάσσης,", "gloss": "de_la_mer" },
+          { "greek": "πέραν", "gloss": "au-delà" },
+          { "greek": "τοῦ", "gloss": "du" },
+          { "greek": "Ἰορδάνου,", "gloss": "Jourdain" },
+          { "greek": "Γαλιλαία", "gloss": "Galilée" },
+          { "greek": "τῶν", "gloss": "des" },
+          { "greek": "ἐθνῶν,", "gloss": "nations/païens", "analyse": "L'apogée de l'anomalie. L'épicentre religieux (l'Ego puriste de Jérusalem) méprisait cette région hybride, jugée corrompue et impure. L'Incréé installe pourtant son QG précisément dans l'angle mort du système religieux, là où l'humanité est la plus fracturée." }
+        ]
       },
       {
         "verse_number": 16,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ὁ</span><span class='greek-word'>λαὸς</span><span class='greek-word'>ὁ</span><span class='greek-word'>καθήμενος</span><span class='greek-word'>ἐν</span><span class='greek-word'>σκότει</span></p><p class='inter-segond'><span class='french-word'>Le</span><span class='french-word'>peuple</span><span class='french-word'>le</span><span class='french-word'>assis</span><span class='french-word'>dans</span><span class='french-word'>les_ténèbres</span></p><p class='inter-darby'><span class='french-word'>Le</span><span class='french-word'>peuple</span><span class='french-word'>assis</span><span class='french-word'>dans</span><span class='french-word'>les_ténèbres</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>φῶς</span><span class='greek-word'>εἶδε</span><span class='greek-word'>μέγα,</span><span class='greek-word'>καὶ</span><span class='greek-word'>τοῖς</span></p><p class='inter-segond'><span class='french-word'>lumière</span><span class='french-word'>a_vue</span><span class='french-word'>une_grande,</span><span class='french-word'>et</span><span class='french-word'>sur_ceux</span></p><p class='inter-darby'><span class='french-word'>a_vu</span><span class='french-word'>une_grande</span><span class='french-word'>lumière ;</span><span class='french-word'>et</span><span class='french-word'>pour_ceux</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καθημένοις</span><span class='greek-word'>ἐν</span><span class='greek-word'>χώρᾳ</span><span class='greek-word'>καὶ</span><span class='greek-word'>σκιᾷ</span></p><p class='inter-segond'><span class='french-word'>assis</span><span class='french-word'>dans</span><span class='french-word'>la_contrée</span><span class='french-word'>et</span><span class='french-word'>l'ombre</span></p><p class='inter-darby'><span class='french-word'>qui_étaient_assis</span><span class='french-word'>dans_la_contrée</span><span class='french-word'>et</span><span class='french-word'>l'ombre</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>θανάτου</span><span class='greek-word'>φῶς</span><span class='greek-word'>ἀνέτειλεν</span><span class='greek-word'>αὐτοῖς.</span></p><p class='inter-segond'><span class='french-word'>de_la_mort</span><span class='french-word'>la_lumière</span><span class='french-word'>s'est_levée</span><span class='french-word'>sur_eux.</span></p><p class='inter-darby'><span class='french-word'>de_la_mort,</span><span class='french-word'>la_lumière</span><span class='french-word'>s'est_levée</span><span class='french-word'>sur_eux. »</span></p></div>"
+        "translations": {
+          "segond": "Ce peuple, assis dans les ténèbres, A vu une grande lumière ; Et sur ceux qui étaient assis dans la région et l'ombre de la mort, La lumière s'est levée.",
+          "darby": "Le peuple assis dans les ténèbres a vu une grande lumière ; et sur ceux qui sont assis dans la contrée et dans l'ombre de la mort, la lumière s'est levée."
+        },
+        "interlinear": [
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "λαὸς", "gloss": "peuple" },
+          { "greek": "ὁ", "gloss": "qui_est" },
+          { "greek": "καθήμενος", "gloss": "assis", "analyse": "La posture statique de l'entropie absolue. Le Sujet, écrasé par la Matrice, n'a même plus la force de marcher ou de chercher. Il est paralysé." },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "σκότει", "gloss": "les_ténèbres", "analyse": "L'obscurité ontologique. L'absence d'information divine et la perte du Centre." },
+          { "greek": "φῶς", "gloss": "lumière" },
+          { "greek": "εἶδεν", "gloss": "vit" },
+          { "greek": "μέγα,", "gloss": "grande", "analyse": "Le *Phos mega*. C'est l'onde de choc de la Théophanie qui se propage depuis le Jourdain." },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "τοῖς", "gloss": "sur_ceux" },
+          { "greek": "καθημένοις", "gloss": "étant_assis" },
+          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "χώρᾳ", "gloss": "la_région/contrée" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "σκιᾷ", "gloss": "l'ombre" },
+          { "greek": "θανάτου", "gloss": "de_la_mort", "analyse": "La géographie de la dualité : un monde dégradé où toute forme finit par se dissoudre. L'homme duel est littéralement 'dans l'ombre' de sa propre finitude." },
+          { "greek": "φῶς", "gloss": "lumière" },
+          { "greek": "ἀνέτειλεν", "gloss": "se_leva/jaillit", "analyse": "Le verbe *anatello* (se lever comme un astre, germer). La trajectoire foudroyante de bas en haut. La lumière ne s'allume pas progressivement ; elle transperce la nuit sans demander l'autorisation des ténèbres." },
+          { "greek": "αὐτοῖς.", "gloss": "pour_eux" }
+        ]
       },
       {
         "verse_number": 17,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Ἀπὸ</span><span class='greek-word'>τότε</span><span class='greek-word'>ἤρξατο</span><span class='greek-word'>ὁ</span><span class='greek-word'>Ἰησοῦς</span></p><p class='inter-segond'><span class='french-word'>Dès</span><span class='french-word'>lors</span><span class='french-word'>commença</span><span class='french-word'>le</span><span class='french-word'>Jésus</span></p><p class='inter-darby'><span class='french-word'>Dès</span><span class='french-word'>lors</span><span class='french-word'>Jésus</span><span class='french-word'>commença</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>κηρύσσων</span><span class='greek-word'>καὶ</span><span class='greek-word'>λέγειν·</span><span class='greek-word'>Μετανοεῖτε·</span></p><p class='inter-segond'><span class='french-word'>à_prêcher</span><span class='french-word'>et</span><span class='french-word'>à_dire :</span><span class='french-word'>Repentez-vous,</span></p><p class='inter-darby'><span class='french-word'>à_prêcher</span><span class='french-word'>et</span><span class='french-word'>à_dire :</span><span class='french-word'>« Repentez-vous,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἤγγικε</span><span class='greek-word'>γὰρ</span><span class='greek-word'>ἡ</span><span class='greek-word'>βασιλεία</span><span class='greek-word'>τῶν</span></p><p class='inter-segond'><span class='french-word'>car_est_proche</span><span class='french-word'>car</span><span class='french-word'>le</span><span class='french-word'>royaume</span><span class='french-word'>des</span></p><p class='inter-darby'><span class='french-word'>car</span><span class='french-word'>le</span><span class='french-word'>royaume</span><span class='french-word'>des</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>οὐρανῶν.</span></p><p class='inter-segond'><span class='french-word'>cieux.</span></p><p class='inter-darby'><span class='french-word'>cieux</span><span class='french-word'>est_proche ».</span></p></div>"
+        "translations": {
+          "segond": "Dès ce moment Jésus commença à prêcher, et à dire : Repentez-vous, car le royaume des cieux est proche.",
+          "darby": "Dès lors Jésus commença à prêcher et à dire : Repentez-vous, car le royaume des cieux s'est approché."
+        },
+        "interlinear": [
+          { "greek": "Ἀπὸ", "gloss": "Depuis" },
+          { "greek": "τότε", "gloss": "alors" },
+          { "greek": "ἤρξατο", "gloss": "commença" },
+          { "greek": "ὁ", "gloss": "le" },
+          { "greek": "Ἰησοῦς", "gloss": "Jésus" },
+          { "greek": "κηρύσσειν", "gloss": "à_prêcher/proclamer" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "λέγειν·", "gloss": "à_dire" },
+          { "greek": "Μετανοεῖτε,", "gloss": "Repentez-vous", "analyse": "La *Meta-noia*. Le retournement de l'intellect (*nous*). Ce n'est pas le regret moralisable d'avoir fait de mauvaises actions. C'est l'ordre métaphysique de changer de paradigme perceptif, de désactiver la logique de l'Ego séparé." },
+          { "greek": "ἤγγικεν", "gloss": "s'est_approché", "analyse": "Le parfait du verbe *engizo*. Le 'Royaume' n'est pas un événement repoussé dans le futur (*Chronos*). Il est spatialement arrivé au point de contact absolu avec notre dimension. Il est là, palpable, si la *Metanoia* est opérée." },
+          { "greek": "γὰρ", "gloss": "car" },
+          { "greek": "ἡ", "gloss": "le" },
+          { "greek": "βασιλεία", "gloss": "royaume", "analyse": "La *Basileia*. Le Champ Unifié, le domaine non-duel souverain de l'Incréé." },
+          { "greek": "τῶν", "gloss": "des" },
+          { "greek": "οὐρανῶν.", "gloss": "cieux" }
+        ]
       }
     ],
-    "greek_only": "\n12 Ἀκούσας δὲ ὅτι Ἰωάννης παρεδόθη, ἀνεχώρησεν εἰς τὴν Γαλιλαίαν. \n13 καὶ καταλιπὼν τὴν Ναζαρὲτ ἐλθὼν κατῴκησεν εἰς Καπερναοὺμ τὴν παραθαλασσίαν ἐν ὁρίοις Ζαβουλὼν καὶ Νεφθαλείμ· \n14 ἵνα πληρωθῇ τὸ ῥηθὲν διὰ Ἡσαΐου τοῦ προφήτου λέγοντος· \n15 Γῆ Ζαβουλὼν καὶ γῆ Νεφθαλείμ, ὁδὸν θαλάσσης, πέραν τοῦ Ἰορδάνου, Γαλιλαία τῶν ἐθνῶν, \n16 ὁ λαὸς ὁ καθήμενος ἐν σκότει φῶς εἶδε μέγα, καὶ τοῖς καθημένοις ἐν χώρᾳ καὶ σκιᾷ θανάτου φῶς ἀνέτειλεν αὐτοῖς. \n17 Ἀπὸ τότε ἤρξατο ὁ Ἰησοῦς κηρύσσειν καὶ λέγειν· Μετανοεῖτε· ἤγγικε γὰρ ἡ βασιλεία τῶν οὐρανῶν.",
-    "french_only": "\n12 Jésus, ayant appris que Jean avait été livré, se retira dans la Galilée. \n13 Il quitta Nazareth, et vint demeurer à Capernaüm, située au bord de la mer, dans les contrées de Zabulon et de Nephthali, \n14 afin que s'accomplît ce qui avait été annoncé par Ésaïe, le prophète : \n15 Terre de Zabulon et terre de Nephthali, Chemin de la mer, au-delà du Jourdain, Galilée des gentils ! \n16 Ce peuple, assis dans les ténèbres, a vu une grande lumière ; et sur ceux qui étaient assis dans la région et l'ombre de la mort la lumière s'est levée. \n17 Dès lors Jésus commença à prêcher, et à dire : Repentez-vous, car le royaume des cieux est proche.",
-    "french_darby": "\n12 Et quand il eut appris que Jean avait été livré, il se retira en Galilée. \n13 Et ayant quitté Nazareth, il vint habiter à Capernaüm, qui est sur la mer, dans les confins de Zabulon et de Nephthali, \n14 afin que fût accompli ce qui avait été dit par Ésaïe le prophète, disant : \n15 « Terre de Zabulon et terre de Nephthali, le chemin de la mer, au-delà du Jourdain, Galilée des nations : \n16 le peuple assis dans les ténèbres a vu une grande lumière ; et pour ceux qui étaient assis dans la contrée et l'ombre de la mort, la lumière s'est levée ». \n17 Dès lors Jésus commença à prêcher et à dire : « Repentez-vous, car le royaume des cieux est proche ».",
-    "personal_analysis": "Le texte de Matthieu marque la transition entre le ministère de Jean le Baptiste et celui de Jésus. La Galilée, terre de passage et de mélange ('Galilée des nations'), devient le foyer de la Lumière divine. L'évangéliste insiste sur la réalisation géographique des prophéties d'Isaïe. Le premier mot du Christ, 'Metanoeite' (Changez d'intelligence/Repentez-vous), n'est pas une simple condamnation morale, mais l'invitation à se retourner vers la Lumière qui vient de poindre. Le Royaume n'est plus seulement une promesse, il est 'proche' (*engike*), car il est présent en la personne du Christ."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 16 - ἀνέτειλεν : Traduit par 's'est levée' (Segond/Darby). Ce verbe (*anatello*) décrit littéralement l'aube cosmique (le lever d'un astre) ou la poussée végétale qui jaillit du sol. C'est la force irrésistible de l'Axe (le Haut) qui vient déchirer la croûte de l'ombre (le Bas).\n• Verset 17 - ἤγγικεν : Segond rend par 'est proche' et Darby par 's'est approché'. La tension du grec classique (au parfait) indique une action achevée dont les effets se font sentir dans le présent : 'il est arrivé à portée de main'. La *Basileia* n'est plus une promesse temporelle lointaine, elle est une superposition spatiale immédiate.\n\nAnalyse spirituelle :\nCette péricope s'articule comme la conséquence topographique directe de la Théophanie (le Baptême du Christ). \n\nLe texte s'ouvre sur un double mouvement (v.12). D'un côté, la Matrice duel tente de neutraliser l'onde de l'Éveil : Jean (le précurseur) est enfermé (*paredothe*) par le système despotique d'Hérode. De l'autre côté, le *Logos* réagit par la fluidité absolue : Il se retire (*anachoresen*) et quitte son centre d'origine (Nazareth). \n\nLa stratégie métaphysique du Christ est vertigineuse. Au lieu d'aller affronter le pouvoir frontalement à Jérusalem (l'épicentre de l'Ego religieux et politique), Il choisit de s'enraciner dans les marges absolues : Capernaüm, la 'Galilée des nations' (v.15). Dans l'imaginaire biblique, c'est la zone hybride, impure, méprisée. C'est précisément la loi de la Grâce : l'Incréé ne vient pas féliciter les structures morales qui se croient pures, Il vient briser la nuit là où l'humanité est la plus aliénée.\n\nLe verset 16 décrit la condition humaine sous l'empire de l'Ego : le peuple est 'assis' (*kathemenos*). C'est l'image de la paralysie, de l'entropie maximale. L'homme duel végète dans la 'région de l'ombre de la mort'. Et soudain, sans aucun mérite ou effort horizontal de la part de ces captifs, la Lumière (*Phos mega*) fait irruption. Elle vient les heurter verticalement.\n\nC'est à la lumière de cette fulgurance que prend sens l'injonction du verset 17 : 'Repentez-vous (*Metanoeite*), car le Royaume des cieux est à portée de main (*engiken*)'. Le Christ de l'Évangile ne prêche pas une morale comportementale. Il donne l'alerte d'une collision interdimensionnelle. Le Champ Unifié (*Basileia*) vient de s'encastrer dans l'espace-temps duel. La *Metanoia* (le retournement de la conscience) n'est donc pas le moyen pour 'gagner' le ciel dans le futur ; c'est le seul mécanisme cognitif qui permette au Sujet, ici et maintenant, de syntoniser sa fréquence avec ce Royaume qui est déjà là."
   },
-  "apostle": {
+ "apostle": {
     "reference": "Éphésiens 4, 7-13",
-    "title": "Les Dons du Christ pour l'Édification du Corps",
+    "title": "La Katabasis, l'Anabasis et l'Architecture du Pleroma",
     "interlinear": [
       {
         "verse_number": 7,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>Ἑνὶ</span><span class='greek-word'>δὲ</span><span class='greek-word'>ἑκάστῳ</span><span class='greek-word'>ἡμῶν</span><span class='greek-word'>ἐδόθη</span></p><p class='inter-segond'><span class='french-word'>Mais_à_chacun</span><span class='french-word'>mais</span><span class='french-word'>un</span><span class='french-word'>de_nous</span><span class='french-word'>a_été_donnée</span></p><p class='inter-darby'><span class='french-word'>Mais_à_chacun</span><span class='french-word'>de</span><span class='french-word'>nous</span><span class='french-word'>la</span><span class='french-word'>grâce</span><span class='french-word'>a_été_donnée</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἡ</span><span class='greek-word'>χάρις</span><span class='greek-word'>κατὰ</span><span class='greek-word'>τὸ</span><span class='greek-word'>μέτρον</span></p><p class='inter-segond'><span class='french-word'>la</span><span class='french-word'>grâce</span><span class='french-word'>selon</span><span class='french-word'>la</span><span class='french-word'>mesure</span></p><p class='inter-darby'><span class='french-word'>selon</span><span class='french-word'>la</span><span class='french-word'>mesure</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τῆς</span><span class='greek-word'>δωρεᾶς</span><span class='greek-word'>τοῦ</span><span class='greek-word'>Χριστοῦ.</span></p><p class='inter-segond'><span class='french-word'>de_le</span><span class='french-word'>don</span><span class='french-word'>de_le</span><span class='french-word'>Christ.</span></p><p class='inter-darby'><span class='french-word'>du</span><span class='french-word'>don</span><span class='french-word'>du</span><span class='french-word'>Christ.</span></p></div>"
+        "translations": {
+          "segond": "Mais à chacun de nous la grâce a été donnée selon la mesure du don de Christ.",
+          "darby": "Mais à chacun de nous la grâce a été donnée selon la mesure du don de Christ."
+        },
+        "interlinear": [
+          { "greek": "Ἑνὶ", "gloss": "À_un" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "ἑκάστῳ", "gloss": "chacun" },
+          { "greek": "ἡμῶν", "gloss": "de_nous" },
+          { "greek": "ἐδόθη", "gloss": "fut_donnée" },
+          { "greek": "ἡ", "gloss": "la" },
+          { "greek": "χάρις", "gloss": "grâce", "analyse": "La *Charis*. L'énergie pure de l'Incréé. Elle ne s'obtient pas par l'effort horizontal de l'Ego, elle est 'donnée' comme une onde qui frappe le Sujet." },
+          { "greek": "κατὰ", "gloss": "selon" },
+          { "greek": "τὸ", "gloss": "la" },
+          { "greek": "μέτρον", "gloss": "mesure", "analyse": "Le *Metron*. L'Énergie divine est infinie, mais elle est distribuée de manière fractale, adaptée à la capacité topologique et vibratoire de chaque Sujet dans la Matrice." },
+          { "greek": "τῆς", "gloss": "du" },
+          { "greek": "δωρεᾶς", "gloss": "don" },
+          { "greek": "τοῦ", "gloss": "du" },
+          { "greek": "Χριστοῦ.", "gloss": "Christ" }
+        ]
       },
       {
         "verse_number": 8,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>διὸ</span><span class='greek-word'>λέγει·</span><span class='greek-word'>Ἀναβὰς</span><span class='greek-word'>εἰς</span></p><p class='inter-segond'><span class='french-word'>C'est_pourquoi</span><span class='french-word'>il_est_dit :</span><span class='french-word'>Étant_monté</span><span class='french-word'>en</span></p><p class='inter-darby'><span class='french-word'>C'est_pourquoi</span><span class='french-word'>il_dit :</span><span class='french-word'>« Étant_monté</span><span class='french-word'>en</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὕψος</span><span class='greek-word'>ᾐχμαλώτευσεν</span><span class='greek-word'>αἰχμαλωσίαν</span></p><p class='inter-segond'><span class='french-word'>haut</span><span class='french-word'>il_a_emmené_captive</span><span class='french-word'>la_captivité,</span></p><p class='inter-darby'><span class='french-word'>haut,</span><span class='french-word'>il_a_emmené_captive</span><span class='french-word'>la_captivité</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>ἔδωκε</span><span class='greek-word'>δόματα</span><span class='greek-word'>τοῖς</span></p><p class='inter-segond'><span class='french-word'>et</span><span class='french-word'>il_a_fait</span><span class='french-word'>des_dons</span><span class='french-word'>aux</span></p><p class='inter-darby'><span class='french-word'>et</span><span class='french-word'>a_donné</span><span class='french-word'>des_dons</span><span class='french-word'>aux</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀνθρώποις.</span></p><p class='inter-segond'><span class='french-word'>hommes.</span></p><p class='inter-darby'><span class='french-word'>hommes ».</span></p></div>"
+        "translations": {
+          "segond": "C'est pourquoi il est dit : Étant monté en haut, il a emmené des captifs, Et il a fait des dons aux hommes.",
+          "darby": "C'est pourquoi il dit : 'Étant monté en haut, il a emmené captive la captivité, et a donné des dons aux hommes'."
+        },
+        "interlinear": [
+          { "greek": "διὸ", "gloss": "C'est_pourquoi" },
+          { "greek": "λέγει·", "gloss": "il_dit" },
+          { "greek": "Ἀναβὰς", "gloss": "Étant_monté", "analyse": "L'*Anabasis* (l'ascension, la marche vers le haut). Le mouvement de ré-érection de l'Axe qui arrache la création à la gravité terrestre." },
+          { "greek": "εἰς", "gloss": "vers" },
+          { "greek": "ὕψος", "gloss": "la_hauteur" },
+          { "greek": "ᾐχμαλώτευσεν", "gloss": "il_a_capturé" },
+          { "greek": "αἰχμαλωσίαν,", "gloss": "la_captivité", "analyse": "Le paradoxe cosmique absolu : capturer la captivité. Le Logos ne capture pas des humains ; Il fait prisonnier le principe même de l'entropie et de la tyrannie (la Matrice/la Mort) qui tenait l'humanité en esclavage." },
+          { "greek": "ἔδωκεν", "gloss": "il_a_donné" },
+          { "greek": "δόματα", "gloss": "des_dons" },
+          { "greek": "τοῖς", "gloss": "aux" },
+          { "greek": "ἀνθρώποις.", "gloss": "hommes" }
+        ]
       },
       {
         "verse_number": 9,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>τὸ</span><span class='greek-word'>δὲ</span><span class='greek-word'>Ἀνέβη</span><span class='greek-word'>τί</span><span class='greek-word'>ἐστιν</span></p><p class='inter-segond'><span class='french-word'>Or,</span><span class='french-word'>que</span><span class='french-word'>signifie :</span><span class='french-word'>Il_est_monté,</span></p><p class='inter-darby'><span class='french-word'>Or,</span><span class='french-word'>que</span><span class='french-word'>signifie :</span><span class='french-word'>« Il_est_monté »,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>εἰ</span><span class='greek-word'>μὴ</span><span class='greek-word'>ὅτι</span><span class='greek-word'>καὶ</span><span class='greek-word'>κατέβη</span></p><p class='inter-segond'><span class='french-word'>si_ce_n'est</span><span class='french-word'>qu'</span><span class='french-word'>il_est_aussi</span><span class='french-word'>descendu</span></p><p class='inter-darby'><span class='french-word'>sinon</span><span class='french-word'>qu'</span><span class='french-word'>il_est_aussi</span><span class='french-word'>descendu</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>εἰς</span><span class='greek-word'>τὰ</span><span class='greek-word'>κατώτερα</span><span class='greek-word'>μέρη</span><span class='greek-word'>τῆς</span></p><p class='inter-segond'><span class='french-word'>dans</span><span class='french-word'>les</span><span class='french-word'>régions_inférieures</span><span class='french-word'>de_la</span></p><p class='inter-darby'><span class='french-word'>dans</span><span class='french-word'>les</span><span class='french-word'>parties_inférieures</span><span class='french-word'>de_la</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>γῆς;</span></p><p class='inter-segond'><span class='french-word'>terre ?</span></p><p class='inter-darby'><span class='french-word'>terre ?</span></p></div>"
+        "translations": {
+          "segond": "Or, que signifie : Il est monté, sinon qu'il est aussi descendu dans les régions inférieures de la terre ?",
+          "darby": "(Or, qu'il soit monté, qu'est-ce, sinon qu'il est aussi descendu dans les parties inférieures de la terre ?"
+        },
+        "interlinear": [
+          { "greek": "Τὸ", "gloss": "Le_[mot]" },
+          { "greek": "δὲ", "gloss": "or" },
+          { "greek": "Ἀνέβη", "gloss": "Il_est_monté" },
+          { "greek": "τί", "gloss": "que" },
+          { "greek": "ἐστιν", "gloss": "est-ce" },
+          { "greek": "εἰ", "gloss": "si" },
+          { "greek": "μὴ", "gloss": "ce_n'est" },
+          { "greek": "ὅτι", "gloss": "qu'" },
+          { "greek": "καὶ", "gloss": "aussi" },
+          { "greek": "κατέβη", "gloss": "il_est_descendu", "analyse": "La *Katabasis* (la Kénose, la descente). Le Logos ne règne pas depuis une transcendance lointaine. Il doit chuter délibérément dans le point le plus dense de l'illusion pour la faire exploser de l'intérieur." },
+          { "greek": "εἰς", "gloss": "dans" },
+          { "greek": "τὰ", "gloss": "les" },
+          { "greek": "κατώτερα", "gloss": "plus_basses" },
+          { "greek": "μέρη", "gloss": "parties/régions" },
+          { "greek": "τῆς", "gloss": "de_la" },
+          { "greek": "γῆς;", "gloss": "terre", "analyse": "L'entropie maximale (l'Hadès, la mort, l'inconscient collectif). L'Éveil ne consiste pas à fuir la matière, mais à y injecter la Lumière de l'Axe jusqu'en son fond." }
+        ]
       },
       {
         "verse_number": 10,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>ὁ</span><span class='greek-word'>καταβὰς</span><span class='greek-word'>αὐτός</span><span class='greek-word'>ἐστι</span><span class='greek-word'>καὶ</span></p><p class='inter-segond'><span class='french-word'>Celui</span><span class='french-word'>descendu</span><span class='french-word'>c'est</span><span class='french-word'>celui-là_même</span><span class='french-word'>qui</span></p><p class='inter-darby'><span class='french-word'>Celui</span><span class='french-word'>qui_est_descendu</span><span class='french-word'>est</span><span class='french-word'>le_même_que</span><span class='french-word'>celui</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ὁ</span><span class='greek-word'>ἀναβὰς</span><span class='greek-word'>ὑπεράνω</span><span class='greek-word'>πάντων</span></p><p class='inter-segond'><span class='french-word'>est</span><span class='french-word'>monté</span><span class='french-word'>au-dessus</span><span class='french-word'>de_tous</span></p><p class='inter-darby'><span class='french-word'>qui_est_aussi</span><span class='french-word'>monté</span><span class='french-word'>au-dessus</span><span class='french-word'>de_tous</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τῶν</span><span class='greek-word'>οὐρανῶν,</span><span class='greek-word'>ἵνα</span><span class='greek-word'>πληρώσῃ</span></p><p class='inter-segond'><span class='french-word'>les</span><span class='french-word'>cieux,</span><span class='french-word'>afin_de</span><span class='french-word'>remplir</span></p><p class='inter-darby'><span class='french-word'>les</span><span class='french-word'>cieux,</span><span class='french-word'>afin_qu'il</span><span class='french-word'>remplît</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τὰ</span><span class='greek-word'>πάντα.</span></p><p class='inter-segond'><span class='french-word'>toutes_choses.</span></p><p class='inter-darby'><span class='french-word'>toutes_choses.</span></p></div>"
+        "translations": {
+          "segond": "Celui qui est descendu, c'est le même qui est monté au-dessus de tous les cieux, afin de remplir toutes choses.",
+          "darby": "Celui qui est descendu est le même que celui qui est aussi monté au-dessus de tous les cieux, afin qu'il remplît toutes choses ;)"
+        },
+        "interlinear": [
+          { "greek": "ὁ", "gloss": "Celui_qui" },
+          { "greek": "καταβὰς", "gloss": "étant_descendu" },
+          { "greek": "αὐτός", "gloss": "lui-même" },
+          { "greek": "ἐστιν", "gloss": "est" },
+          { "greek": "καὶ", "gloss": "aussi" },
+          { "greek": "ὁ", "gloss": "celui_qui" },
+          { "greek": "ἀναβὰς", "gloss": "étant_monté" },
+          { "greek": "ὑπεράνω", "gloss": "au-dessus" },
+          { "greek": "πάντων", "gloss": "de_tous" },
+          { "greek": "τῶν", "gloss": "les" },
+          { "greek": "οὐρανῶν,", "gloss": "cieux" },
+          { "greek": "ἵνα", "gloss": "afin_de" },
+          { "greek": "πληρώσῃ", "gloss": "remplir/saturer", "analyse": "Le verbe *pleroo* (d'où vient *Pleroma*). Le but du Christ cosmique n'est pas de juger la création de l'extérieur, mais d'effectuer un balayage vibratoire total (du fond de la terre jusqu'au-dessus des cieux) pour 'saturer' chaque point de l'espace de sa Présence non-duelle." },
+          { "greek": "τὰ", "gloss": "les" },
+          { "greek": "πάντα.", "gloss": "toutes_choses" }
+        ]
       },
       {
         "verse_number": 11,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>καὶ</span><span class='greek-word'>αὐτὸς</span><span class='greek-word'>ἔδωκε</span><span class='greek-word'>τοὺς</span><span class='greek-word'>μὲν</span></p><p class='inter-segond'><span class='french-word'>Et</span><span class='french-word'>il</span><span class='french-word'>a_donné</span><span class='french-word'>les_uns</span><span class='french-word'>certes</span></p><p class='inter-darby'><span class='french-word'>Et</span><span class='french-word'>lui,</span><span class='french-word'>il_a_donné</span><span class='french-word'>les_uns</span><span class='french-word'>comme</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἀποστόλους,</span><span class='greek-word'>τοὺς</span><span class='greek-word'>δὲ</span><span class='greek-word'>προφήτας,</span></p><p class='inter-segond'><span class='french-word'>comme_apôtres,</span><span class='french-word'>les_autres</span><span class='french-word'>comme_prophètes,</span></p><p class='inter-darby'><span class='french-word'>apôtres,</span><span class='french-word'>les_autres</span><span class='french-word'>comme_prophètes,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τοὺς</span><span class='greek-word'>δὲ</span><span class='greek-word'>εὐαγγελιστάς,</span><span class='greek-word'>τοὺς</span></p><p class='inter-segond'><span class='french-word'>les_autres</span><span class='french-word'>comme_évangélistes,</span><span class='french-word'>les</span></p><p class='inter-darby'><span class='french-word'>les_autres</span><span class='french-word'>comme_évangélistes,</span><span class='french-word'>les</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>δὲ</span><span class='greek-word'>ποιμένας</span><span class='greek-word'>καὶ</span><span class='greek-word'>διδασκάλους,</span></p><p class='inter-segond'><span class='french-word'>autres</span><span class='french-word'>comme_pasteurs</span><span class='french-word'>et</span><span class='french-word'>docteurs,</span></p><p class='inter-darby'><span class='french-word'>autres</span><span class='french-word'>comme_pasteurs</span><span class='french-word'>et</span><span class='french-word'>docteurs ;</span></p></div>"
+        "translations": {
+          "segond": "Et il a donné les uns comme apôtres, les autres comme prophètes, les autres comme évangélistes, les autres comme pasteurs et docteurs,",
+          "darby": "et lui, a donné les uns comme apôtres, les autres comme prophètes, les autres comme évangélistes, les autres comme pasteurs et docteurs ;"
+        },
+        "interlinear": [
+          { "greek": "Καὶ", "gloss": "Et" },
+          { "greek": "αὐτὸς", "gloss": "lui-même" },
+          { "greek": "ἔδωκεν", "gloss": "donna" },
+          { "greek": "τοὺς", "gloss": "les" },
+          { "greek": "μὲν", "gloss": "uns" },
+          { "greek": "ἀποστόλους,", "gloss": "apôtres" },
+          { "greek": "τοὺς", "gloss": "les" },
+          { "greek": "δὲ", "gloss": "autres" },
+          { "greek": "προφήτας,", "gloss": "prophètes" },
+          { "greek": "τοὺς", "gloss": "les" },
+          { "greek": "δὲ", "gloss": "autres" },
+          { "greek": "εὐαγγελιστάς,", "gloss": "évangélistes" },
+          { "greek": "τοὺς", "gloss": "les" },
+          { "greek": "δὲ", "gloss": "autres" },
+          { "greek": "ποιμένας", "gloss": "pasteurs/bergers" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "διδασκάλους,", "gloss": "docteurs/enseignants", "analyse": "Il ne s'agit pas d'une bureaucratie religieuse ou de titres hiérarchiques, mais de différentes fréquences opérationnelles. Ces fonctions sont les 'fractales' de la kénose christique réparties dans le Corps pour poursuivre le travail de saturation." }
+        ]
       },
       {
         "verse_number": 12,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>πρὸς</span><span class='greek-word'>τὸν</span><span class='greek-word'>καταρτισμὸν</span><span class='greek-word'>τῶν</span></p><p class='inter-segond'><span class='french-word'>pour</span><span class='french-word'>le</span><span class='french-word'>perfectionnement</span><span class='french-word'>des</span></p><p class='inter-darby'><span class='french-word'>en_vue_du</span><span class='french-word'>perfectionnement</span><span class='french-word'>des</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἁγίων</span><span class='greek-word'>εἰς</span><span class='greek-word'>ἔργον</span><span class='greek-word'>διακονίας,</span></p><p class='inter-segond'><span class='french-word'>saints</span><span class='french-word'>pour</span><span class='french-word'>l'œuvre</span><span class='french-word'>du_ministère,</span></p><p class='inter-darby'><span class='french-word'>saints,</span><span class='french-word'>pour</span><span class='french-word'>l'œuvre</span><span class='french-word'>du_service,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>εἰς</span><span class='greek-word'>οἰκοδομὴν</span><span class='greek-word'>τοῦ</span><span class='greek-word'>σώματος</span></p><p class='inter-segond'><span class='french-word'>pour</span><span class='french-word'>l'édification</span><span class='french-word'>du</span><span class='french-word'>corps</span></p><p class='inter-darby'><span class='french-word'>pour</span><span class='french-word'>l'édification</span><span class='french-word'>du</span><span class='french-word'>corps</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τοῦ</span><span class='greek-word'>Χριστοῦ,</span></p><p class='inter-segond'><span class='french-word'>de_le</span><span class='french-word'>Christ,</span></p><p class='inter-darby'><span class='french-word'>du</span><span class='french-word'>Christ ;</span></p></div>"
+        "translations": {
+          "segond": "pour le perfectionnement des saints en vue de l'oeuvre du ministère et de l'édification du corps de Christ,",
+          "darby": "en vue du perfectionnement des saints, pour l'oeuvre du service, pour l'édification du corps de Christ ;"
+        },
+        "interlinear": [
+          { "greek": "πρὸς", "gloss": "vers/pour" },
+          { "greek": "τὸν", "gloss": "le" },
+          { "greek": "καταρτισμὸν", "gloss": "perfectionnement/ajustement", "analyse": "Le terme magistral *katartismos*. Dans le grec médical, c'est l'action de 'réduire une fracture' ou de remboîter un membre luxé. Le but des ministères est de réaligner géométriquement les sujets disloqués par l'Ego." },
+          { "greek": "τῶν", "gloss": "des" },
+          { "greek": "ἁγίων", "gloss": "saints" },
+          { "greek": "εἰς", "gloss": "vers" },
+          { "greek": "ἔργον", "gloss": "l'œuvre" },
+          { "greek": "διακονίας,", "gloss": "de_service/ministère" },
+          { "greek": "εἰς", "gloss": "vers" },
+          { "greek": "οἰκοδομὴν", "gloss": "l'édification/la_construction", "analyse": "L'*oikodome* (architecture de la maison). La restructuration spirituelle de l'être humain." },
+          { "greek": "τοῦ", "gloss": "du" },
+          { "greek": "σώματος", "gloss": "corps", "analyse": "Le *Soma*. Le Christ cosmique n'est pas un concept, c'est un Organisme vivant dont nous sommes les cellules, une fois l'Ego désactivé." },
+          { "greek": "τοῦ", "gloss": "du" },
+          { "greek": "Χριστοῦ,", "gloss": "Christ" }
+        ]
       },
       {
         "verse_number": 13,
-        "html_content": "<div class='interlinear-verse'><p><span class='greek-word'>μέχρι</span><span class='greek-word'>καταντήσωμεν</span><span class='greek-word'>οἱ</span></p><p class='inter-segond'><span class='french-word'>jusqu'à_ce_que</span><span class='french-word'>nous_soions_parvenus</span><span class='french-word'>les</span></p><p class='inter-darby'><span class='french-word'>jusqu'à_ce_que</span><span class='french-word'>nous_parvenions</span><span class='french-word'>tous</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πάντες</span><span class='greek-word'>εἰς</span><span class='greek-word'>τὴν</span><span class='greek-word'>ἑνότητα</span></p><p class='inter-segond'><span class='french-word'>tous</span><span class='french-word'>à</span><span class='french-word'>la</span><span class='french-word'>unité</span></p><p class='inter-darby'><span class='french-word'>à</span><span class='french-word'>l'unité</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>τῆς</span><span class='greek-word'>πίστεως</span><span class='greek-word'>καὶ</span><span class='greek-word'>τῆς</span></p><p class='inter-segond'><span class='french-word'>de_la</span><span class='french-word'>foi</span><span class='french-word'>et</span><span class='french-word'>de_la</span></p><p class='inter-darby'><span class='french-word'>de_la</span><span class='french-word'>foi</span><span class='french-word'>et</span><span class='french-word'>de_la</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>ἐπιγνώσεως</span><span class='greek-word'>τοῦ</span><span class='greek-word'>υἱοῦ</span><span class='greek-word'>τοῦ</span></p><p class='inter-segond'><span class='french-word'>connaissance</span><span class='french-word'>du</span><span class='french-word'>Fils</span><span class='french-word'>de_le</span></p><p class='inter-darby'><span class='french-word'>connaissance</span><span class='french-word'>du</span><span class='french-word'>Fils</span><span class='french-word'>de</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>Θεοῦ,</span><span class='greek-word'>εἰς</span><span class='greek-word'>ἄνδρα</span><span class='greek-word'>τέλειον,</span></p><p class='inter-segond'><span class='french-word'>Dieu,</span><span class='french-word'>à_l'état_d'</span><span class='french-word'>homme</span><span class='french-word'>fait,</span></p><p class='inter-darby'><span class='french-word'>Dieu,</span><span class='french-word'>à_l'état_d'</span><span class='french-word'>homme</span><span class='french-word'>fait,</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>εἰς</span><span class='greek-word'>μέτρον</span><span class='greek-word'>ἡλικίας</span><span class='greek-word'>τοῦ</span></p><p class='inter-segond'><span class='french-word'>à</span><span class='french-word'>la_mesure</span><span class='french-word'>de_la_stature</span><span class='french-word'>de_la</span></p><p class='inter-darby'><span class='french-word'>à</span><span class='french-word'>la_mesure</span><span class='french-word'>de_la_stature</span><span class='french-word'>de_la</span></p></div><div class='interlinear-verse'><p><span class='greek-word'>πληρώματος</span><span class='greek-word'>τοῦ</span><span class='greek-word'>Χριστοῦ.</span></p><p class='inter-segond'><span class='french-word'>plénitude</span><span class='french-word'>de_le</span><span class='french-word'>Christ.</span></p><p class='inter-darby'><span class='french-word'>plénitude</span><span class='french-word'>du</span><span class='french-word'>Christ.</span></p></div>"
+        "translations": {
+          "segond": "jusqu'à ce que nous soyons tous parvenus à l'unité de la foi et de la connaissance du Fils de Dieu, à l'état d'homme fait, à la mesure de la stature parfaite de Christ,",
+          "darby": "jusqu'à ce que nous parvenions tous à l'unité de la foi et de la connaissance du Fils de Dieu, à l'état d'un homme fait, à la mesure de la stature de la plénitude du Christ :"
+        },
+        "interlinear": [
+          { "greek": "μέχρι", "gloss": "jusqu'à_ce_que" },
+          { "greek": "καταντήσωμεν", "gloss": "nous_parvenions" },
+          { "greek": "οἱ", "gloss": "les" },
+          { "greek": "πάντες", "gloss": "tous" },
+          { "greek": "εἰς", "gloss": "vers/à" },
+          { "greek": "τὴν", "gloss": "l'" },
+          { "greek": "ἑνότητα", "gloss": "unité", "analyse": "L'*Henotes*. Le concept philosophique de la Non-Dualité. L'annulation absolue de la séparation (sujet/objet, moi/le monde, moi/Dieu)." },
+          { "greek": "τῆς", "gloss": "de_la" },
+          { "greek": "πίστεως", "gloss": "foi" },
+          { "greek": "καὶ", "gloss": "et" },
+          { "greek": "τῆς", "gloss": "de_la" },
+          { "greek": "ἐπιγνώσεως", "gloss": "connaissance_exacte", "analyse": "L'*epi-gnosis*. Non pas un savoir intellectuel ou théologique, mais la fusion par l'expérience directe du Réel." },
+          { "greek": "τοῦ", "gloss": "du" },
+          { "greek": "υἱοῦ", "gloss": "Fils" },
+          { "greek": "τοῦ", "gloss": "de" },
+          { "greek": "θεοῦ,", "gloss": "Dieu" },
+          { "greek": "εἰς", "gloss": "vers" },
+          { "greek": "ἄνδρα", "gloss": "un_homme" },
+          { "greek": "τέλειον,", "gloss": "parfait/achevé", "analyse": "L'*Aner teleios*. Le stade de maturité ontologique où le Sujet atteint son *Telos* (son but métaphysique). Il n'y a plus des milliards d'individus fragmentés, mais un seul 'Homme Parfait' collectif." },
+          { "greek": "εἰς", "gloss": "vers" },
+          { "greek": "μέτρον", "gloss": "la_mesure" },
+          { "greek": "ἡλικίας", "gloss": "de_la_stature/l'âge" },
+          { "greek": "τοῦ", "gloss": "du" },
+          { "greek": "πληρώματος", "gloss": "plénitude", "analyse": "Le *Pleroma*. L'effacement définitif de l'Ego dans la saturation totale de l'Esprit." },
+          { "greek": "τοῦ", "gloss": "du" },
+          { "greek": "Χριστοῦ,", "gloss": "Christ" }
+        ]
       }
     ],
-    "greek_only": "\n7 Ἑνὶ δὲ ἑκάστῳ ἡμῶν ἐδόθη ἡ χάρις κατὰ τὸ μέτρον τῆς δωρεᾶς τοῦ Χριστοῦ. \n8 διὸ λέγει· Ἀναβὰς εἰς ὕψος ᾐχμαλώτευσεν αἰχμαλωσίαν καὶ ἔδωκε δόματα τοῖς ἀνθρώποις. \n9 τὸ δὲ Ἀνέβη τί ἐστιν εἰ μὴ ὅτι καὶ κατέβη πρῶτον εἰς τὰ κατώτερα μέρη τῆς γῆς; \n10 ὁ καταβὰς αὐτός ἐστι καὶ ὁ ἀναβὰς ὑπεράνω πάντων τῶν οὐρανῶν, ἵνα πληρώσῃ τὰ πάντα. \n11 καὶ αὐτὸς ἔδωκε τοὺς μὲν ἀποστόλους, τοὺς δὲ προφήτας, τοὺς δὲ εὐαγγελιστάς, τοὺς δὲ ποιμένας καὶ διδασκάλους, \n12 πρὸς τὸν καταρτισμὸν τῶν ἁγίων εἰς ἔργον διακονίας, εἰς οἰκοδομὴν τοῦ σώματος τοῦ Χριστοῦ, \n13 μέχρι καταντήσωμεν οἱ πάντες εἰς τὴν ἑνότητα τῆς πίστεως καὶ τῆς ἐπιγνώσεως τοῦ υἱοῦ τοῦ Θεοῦ, εἰς ἄνδρα τέλειον, εἰς μέτρον ἡλικίας τοῦ πληρώματος τοῦ Χριστοῦ·",
-    "french_only": "\n7 Mais à chacun de nous la grâce a été donnée selon la mesure du don de Christ. \n8 C'est pourquoi il est dit : Étant monté en haut, il a emmené captive la captivité, Et il a fait des dons aux hommes. \n9 Or, que signifie : Il est monté, sinon qu'il est aussi descendu dans les régions inférieures de la terre ? \n10 Celui qui est descendu, c'est le même qui est monté au-dessus de tous les cieux, afin de remplir toutes choses. \n11 Et il a donné les uns comme apôtres, les autres comme prophètes, les autres comme évangélistes, les autres comme pasteurs et docteurs, \n12 pour le perfectionnement des saints en vue de l'œuvre du ministère et de l'édification du corps de Christ, \n13 jusqu'à ce que nous soyons tous parvenus à l'unité de la foi et de la connaissance du Fils de Dieu, à l'état d'homme fait, à la mesure de la stature parfaite de Christ.",
-    "french_darby": "\n7 Mais à chacun de nous la grâce a été donnée selon la mesure du don du Christ. \n8 C'est pourquoi il dit : « Étant monté en haut, il a emmené captive la captivité et a donné des dons aux hommes ». \n9 Or, que signifie : « Il est monté », sinon qu'il est aussi descendu dans les parties inférieures de la terre ? \n10 Celui qui est descendu est le même que celui qui est aussi monté au-dessus de tous les cieux, afin qu'il remplît toutes choses. \n11 Et lui, il a donné les uns comme apôtres, les autres comme prophètes, les autres comme évangélistes, les autres comme pasteurs et docteurs ; \n12 en vue du perfectionnement des saints, pour l'œuvre du service, pour l'édification du corps du Christ, \n13 jusqu'à ce que nous parvenions tous à l'unité de la foi et de la connaissance du Fils de Dieu, à l'état d'homme fait, à la mesure de la stature de la plénitude du Christ.",
-    "personal_analysis": "Saint Paul utilise une image de victoire royale : le Christ, tel un conquérant, distribue les 'butins' de sa victoire (la Résurrection) sous forme de dons spirituels (*charismata*). Cette diversité de ministères (apôtres, prophètes, etc.) n'a qu'un seul but : l'unité organique de l'Église. Le terme 'katartismon' (v. 12) évoque l'ajustement des membres d'un corps ou des pierres d'un édifice. Le but ultime est la croissance vers l'état d'homme fait (*andra teleion*), c'est-à-dire la pleine maturité spirituelle où le fidèle reflète la stature parfaite du Christ."
+    "personal_analysis": "Notes sur les choix des traducteurs :\n\n• Verset 8 - ᾐχμαλώτευσεν αἰχμαλωσίαν : Darby traduit littéralement par 'il a emmené captive la captivité'. Segond, moins audacieux, traduit par 'il a emmené des captifs'. La version de Darby reflète mieux le choc sémantique et métaphysique grec : ce ne sont pas des otages que le Christ capture, c'est la Prison elle-même. Il prend en otage la tyrannie entropique de la Matrice.\n• Verset 12 - καταρτισμὸν : 'Perfectionnement' (Segond/Darby) est une traduction morale. Le *katartismos* vient de la sphère médicale et navale : c'est ré-emboîter un os démis ou réparer les mailles déchirées d'un filet. L'Église n'est pas une école de perfection morale, c'est l'hôpital métaphysique où la géométrie brisée de l'être humain est réalignée.\n\nAnalyse spirituelle :\nCette péricope d'Éphésiens 4 (lue pour le dimanche qui prolonge la Théophanie) explique la mécanique vibratoire de l'Incarnation. La Théophanie (l'apparition de Dieu) n'est pas un événement localisé dans le Jourdain, c'est un balayage cosmique (*Anabasis/Katabasis*).\n\nPaul révèle (v.9-10) que pour que l'univers entier soit 'rempli' (*Pleroma*), le Verbe devait opérer un mouvement absolu. Il ne s'est pas contenté de siéger 'au-dessus des cieux', il est délibérément descendu au point géométrique et psychologique le plus bas de la Matrice ('les régions inférieures de la terre'). C'est en descendant à la racine du chaos (la Kénose) qu'il a pu inverser la gravité et 'capturer la captivité' (v.8), brisant la loi d'entropie qui maintenait l'homme duel dans l'illusion.\n\nCependant, ce balayage a laissé une empreinte fractale dans la trame humaine (v.11-12) : les charismes (apôtres, prophètes, etc.). Ces fonctions n'ont aucune finalité hiérarchique. Elles sont les 'attelles' vibratoires nécessaires au *katartismos* (le remboîtement des os de la conscience humaine disloquée). Leur unique mission est l'architecture (*oikodome*) de l'Organisme christique.\n\nLe verset 13 donne l'horizon eschatologique final : la fin de la multiplicité. L'évolution spirituelle ne consiste pas à devenir un 'meilleur individu', mais à disparaître en tant qu'individu séparé pour atteindre l'*Henotes* (l'Unité, la Non-Dualité totale). L'aboutissement du cosmos n'est pas une foule d'humains sauvés, mais la constitution d'un seul *Aner teleios* (l'Homme Parfait), dont la fréquence et la stature correspondent exactement au *Pleroma* (la Plénitude saturante) du Christ."
   }
 }
- 
