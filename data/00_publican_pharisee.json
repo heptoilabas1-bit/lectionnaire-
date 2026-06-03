@@ -109,7 +109,10 @@
       { "greek": "λέγων·", "gloss": "en_disant" },
       { "greek": "Ὁ", "gloss": "—" },
       { "greek": "θεός,", "gloss": "Dieu" },
-      { "greek": "<span class='encadre'>ἱλάσ</span>θητί", "gloss": "sois_apaisé", "analyse": "Du verbe *hilaskomai* (dont la racine 'hilas' est ici encadrée), lié au propitiatoire (le lieu de la présence de Dieu dans le Temple). Ce n'est pas une simple demande d'effacement de dette, mais un cri sacrificiel : \"Purifie-moi par ta grâce\", \"rends-moi propice\". C'est la racine théologique directe de la Prière de Jésus (\"Seigneur Jésus-Christ, aie pitié de moi, pécheur\")." },
+     { 
+  "greek": "<span class='encadre mot-info' data-analyse='Analyse de la racine HILAS : Le propitiatoire, le lieu de la rencontre entre le divin et l humain.'>ἱλάσ</span><span class='mot-info' data-analyse='Analyse de la terminaison -THETI : Forme impérative aoriste passive, marquant l urgence et la réception d une action divine.'>θητί</span>", 
+  "gloss": "sois_apaisé" 
+},
       { "greek": "μοι", "gloss": "envers_moi" },
       { "greek": "τῷ", "gloss": "le" },
       { "greek": "ἁμαρτωλῷ.", "gloss": "pécheur" }
