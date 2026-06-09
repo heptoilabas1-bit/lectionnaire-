@@ -382,7 +382,11 @@
           { "greek": "κόσμος", "gloss": "monde" },
           { "greek": "ἐπὶ", "gloss": "sur" },
           { "greek": "ἐρημίαις", "gloss": "les_déserts" },
-          { "greek": "πλανώμενοι", "gloss": "errants" },
+          { 
+  "greek": "<span class='encadre mot-info' data-analyse='Racine PLAN- : l errance, la multitude chaotique du monde qui s oppose à l Un.'>πλαν</span><span class='mot-info' data-analyse='Forme passive : être mené dans l erreur par le monde.'>ώμενοι</span>", 
+  "gloss": "errants", 
+  "analyse": "L état des saints dans le monde : ils sont le mouvement de la vérité au milieu de l errance multiple du monde." 
+},
           { "greek": "καὶ", "gloss": "et" },
           { "greek": "ὄρεσιν", "gloss": "les_montagnes" },
           { "greek": "καὶ", "gloss": "et" },
@@ -459,7 +463,11 @@
           { "greek": "εὐπερίστατον", "gloss": "enveloppant_aisément" },
           { "greek": "ἁμαρτίαν,", "gloss": "péché" },
           { "greek": "δι’", "gloss": "par_la" },
-          { "greek": "ὑπομονῆς", "gloss": "persévérance/patience" },
+          { 
+  "greek": "<span class='encadre mot-info' data-analyse='Racine HYPO (sous) + MONOS (seul). Se tenir sous la solitude : la persévérance. '>ὑπο</span><span class='mot-info' data-analyse='Terminaison -MONIS : le fait de demeurer. La stabilité de l être.'>μονῆς</span>", 
+  "gloss": "patience", 
+  "analyse": "La patience chrétienne n est pas une attente passive, mais l acte de se maintenir sous le poids de sa propre solitude pour devenir capable d accueillir la Nuée." 
+},
           { "greek": "τρέχωμεν", "gloss": "courons" },
           { "greek": "τὸν", "gloss": "la" },
           { "greek": "προκείμενον", "gloss": "ouverte/proposée" },
