@@ -13,7 +13,11 @@
           { "greek": "Πᾶς", "gloss": "Tout_homme" },
           { "greek": "οὖν", "gloss": "donc" },
           { "greek": "ὅστις", "gloss": "qui" },
-          { "greek": "ὁμολογήσει", "gloss": "confessera", "analyse": "Étymologiquement formé de *homou* (ensemble) et *logos* (parole), signifiant 'dire la même parole', entrer en résonance. Confesser le Christ n'est pas un savoir intellectuel 'en plein' (Arbre de la Connaissance) ; c'est l'acte existentiel par lequel l'individu s'arrache au mimétisme de la foule pour s'affirmer comme Sujet libre, aligné sur le Logos incréé du Royaume UN." },
+         { 
+  "greek": "<span class='encadre mot-info' data-analyse='Racine HOMO : Un, unité. L expression d une unité inclusive.'>ὁμο</span><span class='mot-info' data-analyse='De LOGOS : dire, parole. Confesser, c est parler d une seule voix devant la multitude.'>λογήσει</span>", 
+  "gloss": "confessera", 
+  "analyse": "Homologeo : la définition cataphatique (positive) du témoignage. Ce n est pas une simple déclaration morale. Confesser le Christ, c est unifier sa propre parole (Logos) avec la Sienne pour ne faire qu Un (Homo) devant le monde." 
+},
           { "greek": "ἐν", "gloss": "en" },
           { "greek": "ἐμοὶ", "gloss": "moi" },
           { "greek": "ἔmπροσθεν", "gloss": "devant" },
