@@ -497,10 +497,17 @@
           { "greek": "καὶ", "gloss": "Et" },
           { "greek": "ὤφθησαν", "gloss": "apparurent" },
           { "greek": "αὐτοῖς", "gloss": "à_eux" },
-          { "greek": "διαμεριζόμεναι", "gloss": "étant_divisées/partagées" },
+          { 
+  "greek": "<span class='encadre mot-info' data-analyse='Préfixe DIA : marque la distinction, le partage. Racine MERIZO : séparer/partager.'>δια</span><span class='mot-info' data-analyse='Terminaison en -OMENAI : participe moyen. L activité se déploie par elle-même.'>μεριζόμεναι</span>", 
+  "gloss": "qui_se_partageaient", 
+  "analyse": "Le partage pentecostal : une distinction sans division. Comme l Agneau, le feu est rompu mais demeure Un." 
+},
           { "greek": "γλῶσσαι", "gloss": "langues" },
           { "greek": "ὡσεὶ", "gloss": "comme" },
-          { "greek": "πυρός,", "gloss": "de_feu" },
+          { 
+  "greek": "<span class='mot-info' data-analyse='Racine PYR : le Feu incréé. Provient de l essence divine.'>πυρός</span>", 
+  "gloss": "de_feu" 
+},
           { "greek": "ἐκάθισέν", "gloss": "elle_se_posa" },
           { "greek": "τε", "gloss": "et" },
           { "greek": "ἐφ’", "gloss": "sur" },
