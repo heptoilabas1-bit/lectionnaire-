@@ -16,7 +16,7 @@
           { "greek": "ἄνθρωπον", "gloss": "un_homme" },
           { "greek": "τυφλὸν", "gloss": "aveugle" },
           { "greek": "ἐκ", "gloss": "depuis" },
-          { "greek": "γενετῆς.", "gloss": "la_naissance" }
+          { "greek": "<span class='encadre mot-info' data-analyse='La racine ΓΕΝ : L engendrement, la naissance. Dans le Monde duel, la naissance est d abord subie comme une fatalité charnelle, un enfermement biologique aveugle.'>γεν</span><span class='mot-info' data-analyse='Terminaison indiquant l origine (depuis la naissance).'>ετῆς.</span>", "gloss": "la_naissance" }
         ]
       },
       {
@@ -43,7 +43,7 @@
           { "greek": "αὐτοῦ,", "gloss": "de_lui" },
           { "greek": "ἵνα", "gloss": "afin_qu'" },
           { "greek": "τυφλὸς", "gloss": "aveugle" },
-          { "greek": "γεννηθῇ;", "gloss": "il_soit_né" }
+          { "greek": "<span class='encadre mot-info' data-analyse='La racine ΓΕΝ : L engendrement. Les disciples relient la naissance à une causalité karmique ou morale (la faute).'>γεν</span><span class='mot-info' data-analyse='Subjonctif aoriste passif.'>νηθῇ;</span>", "gloss": "il_soit_né" }
         ]
       },
       {
@@ -471,7 +471,7 @@
           { "greek": "ὅτου", "gloss": "que" },
           { "greek": "ἐφώνησαν", "gloss": "ils_aient_appelé" },
           { "greek": "τοὺς", "gloss": "les" },
-          { "greek": "γονεῖς", "gloss": "parents" },
+          { "greek": "<span class='encadre mot-info' data-analyse='La racine ΓΟΝ (dérivée de ΓΕΝ) : Les géniteurs. Ils représentent la filiation purement biologique.'>γον</span><span class='mot-info' data-analyse='Accusatif pluriel.'>εῖς</span>", "gloss": "parents" },
           { "greek": "αὐτοῦ", "gloss": "de_lui" }
         ]
       },
@@ -496,7 +496,7 @@
           { "greek": "λέγετε", "gloss": "vous_dites" },
           { "greek": "ὅτι", "gloss": "que" },
           { "greek": "τυφλὸς", "gloss": "aveugle" },
-          { "greek": "ἐγεννήθη;", "gloss": "il_est_né" },
+          { "greek": "<span class='mot-info' data-analyse='Augment temporel.'>ἐ</span><span class='encadre mot-info' data-analyse='La racine ΓΕΝ : L engendrement.'>γεν</span><span class='mot-info' data-analyse='Aoriste passif : l action brute d être né.'>νήθη</span>", "gloss": "il_est_né" },
           { "greek": "πῶς", "gloss": "comment" },
           { "greek": "οὖν", "gloss": "donc" },
           { "greek": "βλέπει", "gloss": "il_voit" },
@@ -527,7 +527,7 @@
           { "greek": "καὶ", "gloss": "et" },
           { "greek": "ὅτι", "gloss": "que" },
           { "greek": "τυφλὸς", "gloss": "aveugle" },
-          { "greek": "ἐγεννήθη·" , "gloss": "il_est_né" }
+          { "greek": "<span class='mot-info' data-analyse='Augment temporel.'>ἐ</span><span class='encadre mot-info' data-analyse='La racine ΓΕΝ : L engendrement.'>γεν</span><span class='mot-info' data-analyse='Aoriste passif : l action brute d être né.'>νήθη</span>", "gloss": "il_est_né" }
         ]
       },
       {
@@ -840,7 +840,7 @@
           { "greek": "τις", "gloss": "quelqu'un" },
           { "greek": "ὀφθαλμοὺς", "gloss": "les_yeux" },
           { "greek": "τυφλοῦ", "gloss": "d'un_aveugle" },
-          { "greek": "γεγεννημένου.", "gloss": "né" }
+          { "greek": "<span class='encadre mot-info' data-analyse='La racine ΓΕΝ : L engendrement. Dans le Monde duel, la naissance est subie comme une fatalité charnelle.'>γεγεν</span><span class='mot-info' data-analyse='Participe parfait passif (au génitif). Indique un état figé depuis l origine.'>νημένου.</span>", "gloss": "né/engendré" },
         ]
       },
       {
