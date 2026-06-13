@@ -18,7 +18,7 @@
           { "greek": "λέγων·", "gloss": "disant" },
           { "greek": "Ἀνθρώπου", "gloss": "D'un_homme" },
           { "greek": "τινὸς", "gloss": "certain" },
-          { "greek": "πλουσίου", "gloss": "riche" },
+          { "greek": "**πλ**ουσίου", "gloss": "riche", "analyse": "La racine **πλ-** (qui exprime la plénitude, l'abondance). Dans le 'Monde duel', la richesse matérielle (*ploutos*) est une tentative désespérée de remplir le vide existentiel par l'accumulation d'Avoir. L'Ego tente de se créer un 'plein' artificiel pour mimer la véritable Plénitude divine (*Pleroma*)." },
           { "greek": "εὐφόρησεν", "gloss": "porta_abondamment/produisit_bien", "analyse": "Composé de *eu* (bien/bon) et *phoreo* (porter/produire). L'Ego perçoit l'abondance matérielle comme une validation de sa propre existence. Mais cette surabondance de la terre (l'horizontalité pure) va devenir le piège vibratoire dans lequel le Sujet va s'enfermer, confondant la fertilité de la matière avec la Plénitude de l'Être." },
           { "greek": "ἡ", "gloss": "la" },
           { "greek": "χώρα.", "gloss": "terre/domaine" }
@@ -32,8 +32,8 @@
         },
         "interlinear": [
           { "greek": "καὶ", "gloss": "Et" },
-          { "greek": "διελογίζετο", "gloss": "il_raisonnait/dialoguait", "analyse": "Composé de *dia-* (à travers, séparation) et *logizomai* (calculer, raisonner). C'est le bruit de fond absolu de l'Ego : le dialogue intérieur stérile. Coupé de l'Axe de l'Incréé, l'homme ne prie pas, il converse avec lui-même dans un circuit fermé (*en heauto*), calculant la préservation de son petit domaine. Le mental est fragmenté (*dia*)." },
-          { "greek": "ἐν", "gloss": "dans" },
+          { "greek": "διε**λογ**ίζετο", "gloss": "il_raisonnait/calculait", "analyse": "La racine **λογ-** (Logos / Verbe). Ici, le divin *Logos* est dégradé en *dia-logismos* : une pensée calculante et clivée (*dia*). L'homme riche ne contemple pas, il gère, il fragmente, il spécule. C'est l'intelligence de l'Ego emprisonnée dans la Matrice matérielle." },
+          { "greek": "**ἐν**", "gloss": "en/dans", "analyse": "La préposition **ἐν** (en/dans). Couplée à 'lui-même' (*heauto*), elle révèle l'enfermement autarcique absolu. L'homme riche ne prie pas Dieu (Axe vertical) et n'appelle pas son prochain (communion horizontale) : il tourne en boucle à l'intérieur de sa propre psyché. C'est un pur monologue de l'Ego." },
           { "greek": "ἑαυτῷ", "gloss": "lui-même" },
           { "greek": "λέγων·", "gloss": "disant" },
           { "greek": "Τί", "gloss": "Que" },
@@ -42,7 +42,7 @@
           { "greek": "οὐκ", "gloss": "ne...pas" },
           { "greek": "ἔχω", "gloss": "j'ai" },
           { "greek": "ποῦ", "gloss": "où" },
-          { "greek": "συνάξω", "gloss": "je_rassemblerai/amasserai", "analyse": "Composé de *syn-* (ensemble) et *ago* (conduire). L'Ego singe ici le mouvement d'unification du Christ (qui rassemble les dispersés). Mais l'Ego ne rassemble que de la matière morte (des fruits) pour les stocker, créant une force centripète d'accaparement qui l'isole au lieu de l'unifier." },
+         { "greek": "**συν**άξω", "gloss": "je_rassemblerai", "analyse": "Le préfixe **συν-** (*syn-*, signifiant 'avec/ensemble'). L'Ego cherche frénétiquement à 'rassembler' (*syn-ago*) ses biens matériels. Il tente de créer une unité autarcique autour de son Avoir pour se rassurer face à l'angoisse de la mort. La véritable *Synaxe* (l'Église) rassemble les Sujets ; la fausse synaxe de l'Ego amasse des objets pour l'isoler." },
           { "greek": "τοὺς", "gloss": "les" },
           { "greek": "καρπούς", "gloss": "fruits/récoltes" },
           { "greek": "μου;", "gloss": "de_moi" }
@@ -67,7 +67,7 @@
           { "greek": "μείζονας", "gloss": "plus_grands" },
           { "greek": "οἰκοδομήσω,", "gloss": "je_bâtirai" },
           { "greek": "καὶ", "gloss": "et" },
-          { "greek": "συνάξω", "gloss": "je_rassemblerai" },
+         { "greek": "**συν**άξω", "gloss": "je_rassemblerai", "analyse": "Le préfixe **συν-** (*syn-*, signifiant 'avec/ensemble'). L'Ego cherche frénétiquement à 'rassembler' (*syn-ago*) ses biens matériels. Il tente de créer une unité autarcique autour de son Avoir pour se rassurer face à l'angoisse de la mort. La véritable *Synaxe* (l'Église) rassemble les Sujets ; la fausse synaxe de l'Ego amasse des objets pour l'isoler." },
           { "greek": "ἐκεῖ", "gloss": "là" },
           { "greek": "πάντα", "gloss": "tous" },
           { "greek": "τὸν", "gloss": "le" },
@@ -86,13 +86,13 @@
         },
         "interlinear": [
           { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐρῶ", "gloss": "je_dirai" },
+          { "greek": "**ἐρῶ**", "gloss": "je_dirai", "analyse": "Le futur du verbe dire. L'Ego se projette avec arrogance dans un temps (*Chronos*) qu'il croit maîtriser. Dire 'je ferai' ou 'je dirai' demain, c'est oublier sa condition d'usufruitier pour s'ériger en maître absolu du Temps, usurpant ainsi la souveraineté de l'Incréé." },
           { "greek": "τῇ", "gloss": "à_l'" },
-          { "greek": "ψυχῇ", "gloss": "âme/vie" },
+          { "greek": "**ψυχῇ**", "gloss": "âme", "analyse": "Le riche adresse un discours à sa propre âme (*psychè*), mais il lui parle comme à un estomac ('mange, bois, fais la fête'). C'est l'abaissement ultime du Sujet spirituel : l'âme, souffle d'origine divine, est ravalée au rang de simple tube digestif, réduite à la satisfaction des pulsions biologiques mondaines." },
           { "greek": "μου·", "gloss": "de_moi" },
-          { "greek": "Ψυχή,", "gloss": "Âme", "analyse": "Le paroxysme de la folie égotique. L'Ego se dédouble et s'adresse à sa propre *psyche* comme s'il en était le maître souverain. Il confond l'étincelle vitale (qui appartient à l'Incréé) avec un tube digestif psychologique qu'il doit nourrir de matières mortes." },
+          { "greek": "**Ψυχή**,", "gloss": "Âme", "analyse": "L'Ego réifie son âme, il en fait une chose avec laquelle il converse. Il croit pouvoir la 'reposer' (*anapauou*) avec de la matière périssable. Il ignore tragiquement que seul l'Esprit Saint peut combler le creux matriciel de la *psychè*." },
           { "greek": "ἔχεις", "gloss": "tu_as" },
-          { "greek": "πολλὰ", "gloss": "beaucoup_de" },
+          { "greek": "**πολ**λὰ", "gloss": "beaucoup/nombreux", "analyse": "La racine indo-européenne **πολ- / πλ-** (qui rejoint l'idée de plénitude et d'accumulation). 'Beaucoup de biens pour beaucoup d'années'. C'est l'illusion quantitative. L'Ego croit que l'addition de biens matériels finis pourra générer de l'infini, confondant la quantité d'Avoir avec l'éternité de l'Être." },
           { "greek": "ἀγαθὰ", "gloss": "biens" },
           { "greek": "κείμενα", "gloss": "posés/gisants" },
           { "greek": "εἰς", "gloss": "pour" },
@@ -121,7 +121,7 @@
           { "greek": "τῇ", "gloss": "la" },
           { "greek": "νυκτὶ", "gloss": "nuit", "analyse": "La nuit (*nyx*) représente l'obscurcissement total de la conscience. C'est le moment de l'entropie maximale, là où les illusions solaires de l'Ego s'effondrent." },
           { "greek": "τὴν", "gloss": "l'" },
-          { "greek": "ψυχήν", "gloss": "âme/vie" },
+          { "greek": "**ψυχήν**", "gloss": "âme/vie", "analyse": "À l'accusatif, subissant l'action. L'irruption divine foudroie l'illusion de l'Ego. 'On te redemande ton âme'. Le verbe (*apaiteo*) est un terme juridique de recouvrement de dette. L'homme riche découvre brutalement qu'il n'était pas le propriétaire de son 'Être', mais un simple locataire temporaire. L'Axe vertical vient stopper net la projection de l'Ego." },
           { "greek": "σου", "gloss": "de_toi" },
           { "greek": "ἀπαιτοῦσιν", "gloss": "ils_redemandent/exigent", "analyse": "Composé de *apo-* (mouvement d'éloignement/arrachement) et *aiteo* (demander). L'Ego croyait posséder sa vie. Or, la vie ne lui est que prêtée. Le verbe est au pluriel impersonnel : les lois cosmiques de la mortalité viennent arracher (*apo*) l'énergie vitale au parasite égotique qui voulait la retenir." },
           { "greek": "ἀπὸ", "gloss": "de/loin_de" },
@@ -148,7 +148,7 @@
           { "greek": "μὴ", "gloss": "ne...pas" },
           { "greek": "εἰς", "gloss": "en/vers", "analyse": "La préposition spatiale *eis* (mouvement directionnel vers). La vraie richesse n'est pas un stock, c'est une trajectoire." },
           { "greek": "θεὸν", "gloss": "Dieu" },
-          { "greek": "πλουτῶν.", "gloss": "étant_riche", "analyse": "L'antithèse foudroyante. Le Christ ne condamne pas la richesse en soi, il condamne sa géométrie. Être riche 'vers' (*eis*) Dieu, c'est vivre dans le flux de la Grâce, dans le don permanent et la kénose. C'est l'effusion verticale qui s'oppose à la rétention horizontale." }
+          { "greek": "**πλ**ουτῶν", "gloss": "s'enrichissant/étant_riche", "analyse": "Le retour de la racine **πλ-** (la plénitude/richesse) pour conclure le texte. Le Christ révèle qu'il existe un faux 'plein' (amasser pour soi dans la Matrice) et un vrai 'plein' (être riche en Dieu). S'enrichir vers Dieu (*eis theon*) exige la *Kénose* : se vider de son Avoir égoïste pour devenir un creux capable d'accueillir le jaillissement de la Lumière incréée." }
         ]
       }
     ],
