@@ -60,7 +60,7 @@
           { "greek": "ἥμαρτεν", "gloss": "n'a_péché" },
           { "greek": "οὔτε", "gloss": "ni" },
           { "greek": "οἱ", "gloss": "les" },
-          { "greek": "γονεῖς", "gloss": "parents" },
+         { "greek": "<span class='encadre mot-info' data-analyse='La racine ΓΟΝ (dérivée de ΓΕΝ) : Les géniteurs. Face à la pression des pharisiens, la filiation biologique montre ses limites. Enfermés dans la peur du Monde duel, les parents assument la naissance biologique de leur fils mais l abandonnent lors de sa naissance spirituelle.'>γον</span><span class='mot-info' data-analyse='Nominatif pluriel.'>εῖς</span>", "gloss": "parents" },
           { "greek": "αὐτοῦ,", "gloss": "de_lui" },
           { "greek": "ἀλλ’", "gloss": "mais" },
           { "greek": "ἵνα", "gloss": "afin_que" },
@@ -110,9 +110,9 @@
           { "greek": "ἐν", "gloss": "dans" },
           { "greek": "τῷ", "gloss": "le" },
           { "greek": "κόσμῳ", "gloss": "monde" },
-          { "greek": "ῶ,", "gloss": "je_suis" },
-          { "greek": "φῶς", "gloss": "lumière" },
-          { "greek": "εἰμι", "gloss": "je_suis" },
+          { "greek": "<span class='mot-info' data-analyse='Le verbe Être au subjonctif. La fréquence pure de la Présence divine, non soumise au Temps.'>ὦ</span>", "gloss": "je_suis" },
+          { "greek": "φῶς", "gloss": "Lumière" },
+          { "greek": "<span class='mot-info' data-analyse='Le verbe Être à l indicatif. Le Christ s identifie formellement au JE SUIS du buisson ardent.'>εἰμι</span>", "gloss": "je_suis" },
           { "greek": "τοῦ", "gloss": "du" },
           { "greek": "κόσμου.", "gloss": "monde" }
         ]
@@ -224,8 +224,7 @@
           { "greek": "ἐκεῖνος", "gloss": "Lui" },
           { "greek": "ἔλεγεν", "gloss": "disait" },
           { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "Ἐγώ", "gloss": "Moi" },
-          { "greek": "εἰμι.", "gloss": "je_suis" }
+          { "greek": "<span class='mot-info' data-analyse='Le Sujet restauré. L homme guéri prononce exactement les mêmes mots que le Christ. Par l action de la Lumière, il cesse d être un objet passif et aveugle pour devenir un Sujet libre, théophore.'>Ἐγώ εἰμι</span>", "gloss": "C_est_moi/Je_Suis", "analyse": "La réplique exacte du Nom divin. L'homme est recréé à l'image et à la ressemblance." }
         ]
       },
       {
@@ -513,7 +512,7 @@
           { "greek": "ἀπεκρίθησαν", "gloss": "Répondirent" },
           { "greek": "οὖν", "gloss": "donc" },
           { "greek": "οἱ", "gloss": "les" },
-          { "greek": "γονεῖς", "gloss": "parents" },
+          { "greek": "<span class='encadre mot-info' data-analyse='La racine ΓΟΝ (dérivée de ΓΕΝ) : Les géniteurs. Face à la pression des pharisiens, la filiation biologique montre ses limites. Enfermés dans la peur du Monde duel, les parents assument la naissance biologique de leur fils mais l abandonnent lors de sa naissance spirituelle.'>γον</span><span class='mot-info' data-analyse='Nominatif pluriel.'>εῖς</span>", "gloss": "parents" },
           { "greek": "αὐτοῦ", "gloss": "de_lui" },
           { "greek": "καὶ", "gloss": "et" },
           { "greek": "εἶπαν·", "gloss": "dirent" },
@@ -521,9 +520,7 @@
           { "greek": "ὅτι", "gloss": "que" },
           { "greek": "οὗτός", "gloss": "celui-ci" },
           { "greek": "ἐστιν", "gloss": "est" },
-          { "greek": "ὁ", "gloss": "le" },
-          { "greek": "υἱὸς", "gloss": "fils" },
-          { "greek": "ἡμῶν", "gloss": "de_nous" },
+         { "greek": "<span class='mot-info' data-analyse=' L aliénation biologique : les parents reconnaissent l objet biologique issu de leur chair (notre fils), mais abandonnent le Sujet spirituel face à l hostilité de la Matrice sociale.'>ὁ υἱὸς ἡμῶν</span>", "gloss": "notre_fils" },
           { "greek": "καὶ", "gloss": "et" },
           { "greek": "ὅτι", "gloss": "que" },
           { "greek": "τυφλὸς", "gloss": "aveugle" },
@@ -572,7 +569,7 @@
           { "greek": "ταῦτα", "gloss": "Ces_choses" },
           { "greek": "εἶπαν", "gloss": "dirent" },
           { "greek": "οἱ", "gloss": "les" },
-          { "greek": "γονεῖς", "gloss": "parents" },
+          { "greek": "<span class='encadre mot-info' data-analyse='La racine ΓΟΝ (dérivée de ΓΕΝ) : Les géniteurs. Face à la pression des pharisiens, la filiation biologique montre ses limites. Enfermés dans la peur du Monde duel, les parents assument la naissance biologique de leur fils mais l abandonnent lors de sa naissance spirituelle.'>γον</span><span class='mot-info' data-analyse='Nominatif pluriel.'>εῖς</span>", "gloss": "parents" },
           { "greek": "αὐτοῦ", "gloss": "de_lui" },
           { "greek": "ὅτι", "gloss": "parce_qu'" },
           { "greek": "ἐφοβοῦντο", "gloss": "ils_craignaient", "analyse": "La peur (phobos) est le ciment de l'aliénation. Les parents préfèrent leur sécurité dans le système clos ('la synagogue') à la liberté du Sujet. Ils acceptent d'être des objets du système plutôt que des témoins de la Lumière." },
@@ -854,8 +851,8 @@
           { "greek": "μὴ", "gloss": "ne...pas" },
           { "greek": "ἦν", "gloss": "il_était" },
           { "greek": "οὗτος", "gloss": "cet_homme" },
-          { "greek": "ἐκ", "gloss": "de_la_part_de" },
-          { "greek": "θεοῦ,", "gloss": "Dieu" },
+          { "greek": "<span class='encadre mot-info' data-analyse='La préposition EK (Hors de / L Origine). L aveugle donne une leçon de théologie : la véritable naissance biologique (GEN) est transcendée. Le véritable Engendrement provient de l Incréé.'>ἐκ</span>", "gloss": "de" },
+          { "greek": "θεοῦ", "gloss": "Dieu" },
           { "greek": "οὐκ", "gloss": "ne_pourrait_rien" },
           { "greek": "ἠδύνατο", "gloss": "il_pouvait" },
           { "greek": "ποιεῖν", "gloss": "faire" },
@@ -883,7 +880,7 @@
           { "greek": "διδάσκεις", "gloss": "tu_enseignes" },
           { "greek": "ἡμᾶς;", "gloss": "nous" },
           { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἐξέβαλον", "gloss": "ils_mirent/chassèrent_dehors", "analyse": "L'expulsion (*exebalon*) est l'acte final de l'Ego pharisien. Incapables de réfuter la vérité du Sujet guéri, ils le bannissent. Le 'Sujet' chrétien est, par définition, celui qui est chassé du Monde duel : il n'y a plus de place pour lui dans leurs synagogues (systèmes fermés)." },
+          { "greek": "<span class='encadre mot-info' data-analyse='Le préfixe EK/EX : Hors de. Le mouvement d extraction spatiale et spirituelle. Il est arraché à la matrice de la synagogue.'>ἐξ</span><span class='mot-info' data-analyse='Du verbe ballo (jeter). Expulsion violente. C est précisément cette exclusion du Monde duel qui permet la rencontre verticale avec le Christ au verset 35.'>έβαλον</span>", "gloss": "ils_le_jetèrent_dehors" },
           { "greek": "αὐτὸν", "gloss": "lui" },
           { "greek": "ἔξω.", "gloss": "dehors" }
         ]
@@ -899,7 +896,7 @@
           { "greek": "ὁ", "gloss": "le" },
           { "greek": "Ἰησοῦς", "gloss": "Jésus" },
           { "greek": "ὅτι", "gloss": "que" },
-          { "greek": "ἐξέβαλον", "gloss": "ils_avaient_chassé" },
+         { "greek": "<span class='encadre mot-info' data-analyse='Le préfixe EK/EX : Hors de. Le mouvement d extraction spatiale et spirituelle. Il est arraché à la matrice de la synagogue.'>ἐξ</span><span class='mot-info' data-analyse='Du verbe ballo (jeter). Expulsion violente. C est précisément cette exclusion du Monde duel qui permet la rencontre verticale avec le Christ au verset 35.'>έβαλον</span>", "gloss": "ils_le_jetèrent_dehors" },
           { "greek": "αὐτὸν", "gloss": "lui" },
           { "greek": "ἔξω,", "gloss": "dehors" },
           { "greek": "καὶ", "gloss": "et" },
@@ -951,12 +948,7 @@
           { "greek": "ἑώρακας", "gloss": "tu_l'as_vu" },
           { "greek": "αὐτὸν", "gloss": "lui" },
           { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ὁ", "gloss": "celui" },
-          { "greek": "λαλῶν", "gloss": "parlant" },
-          { "greek": "μετὰ", "gloss": "avec" },
-          { "greek": "σοῦ", "gloss": "toi" },
-          { "greek": "ἐκεῖνός", "gloss": "c'est_lui" },
-          { "greek": "ἐστιν.", "gloss": "il_est" }
+          { "greek": "<span class='mot-info' data-analyse='Souligné par le P. Pascal. L ultime Révélation théophanique. Le Christ unit l ouïe (celui qui parle) et la vision visuelle (tu l as vu). C est le sommet de la péricope : le Logos s offre au Sujet recréé.'>ὁ λαλῶν μετὰ σοῦ ἐκεῖνός ἐστιν.</span>", "gloss": "celui_parlant_avec_toi_c_est_lui", "analyse": "Une seule bulle interactive pour embrasser cette révélation totale. La communication du 'Monde UN' s'accomplit." },
         ]
       },
       {
