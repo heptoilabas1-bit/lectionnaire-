@@ -464,13 +464,13 @@
           { "greek": "σε", "gloss": "te" },
           { "greek": "Ἰησοῦς", "gloss": "Jésus" },
           { "greek": "Χριστός·", "gloss": "Christ" },
-          { "greek": "ἀνάστηθι", "gloss": "lève-toi" },
+          { "greek": "**ἀνά**στηθι", "gloss": "lève-toi", "analyse": "Le préfixe **ἀνά** (*ana*, vers le haut) couplé au verbe *histemi* (se tenir debout). C'est la racine même du mot Résurrection (*Anastasis*). Dans l'Apôtre comme dans l'Évangile, ce verbe scelle la victoire sur la mort et la paralysie[cite: 2]. Pierre prolonge l'injonction pascale du Christ : l'Axe vertical vient foudroyer la passivité horizontale de la maladie pour forger un Sujet libre." },
           { "greek": "καὶ", "gloss": "et" },
           { "greek": "στρῶσον", "gloss": "fais_le_lit" },
           { "greek": "σεαυτῷ.", "gloss": "pour_toi-même" },
           { "greek": "καὶ", "gloss": "et" },
           { "greek": "εὐθέως", "gloss": "aussitôt" },
-          { "greek": "ἀνέστη.", "gloss": "il_se_leva" }
+         { "greek": "**ἀν**έστη", "gloss": "il_se_leva", "analyse": "La réalisation immédiate du commandement par Énée. La force de l'Esprit n'admet aucun délai. Le Sujet, jadis cloué au grabat et défini par sa passivité, s'arrache à la gravité du 'Monde duel' par ce mouvement ascendant (**ἀν-**). Il devient instantanément le témoin actif de la puissance du Ressuscité." }
         ]
       },
       {
@@ -591,7 +591,7 @@
           "darby": "Et Pierre, s'étant levé, s'en alla avec eux. Quand il fut arrivé, ils le menèrent dans la chambre haute ; et toutes les veuves se présentèrent à lui en pleurant, et en montrant les tuniques et les vêtements que Dorcas faisait pendant qu'elle était avec elles."
         },
         "interlinear": [
-          { "greek": "ἀναστὰς", "gloss": "S'étant_levé" },
+          { "greek": "**Ἀνα**στὰς", "gloss": "s'étant_levé", "analyse": "Ici, c'est Pierre qui se lève pour suivre les émissaires. L'Apôtre n'est pas un fonctionnaire sédentaire de la Matrice religieuse ; il est perpétuellement mis en mouvement par cette même énergie d'ascension (**Ἀνα-**). Celui qui a été redressé par le Christ transmet à son tour cette force cinétique pour aller libérer l'autre." },
           { "greek": "δὲ", "gloss": "or" },
           { "greek": "Πέτρος", "gloss": "Pierre" },
           { "greek": "συνῆλθεν", "gloss": "alla_avec" },
@@ -673,7 +673,7 @@
           { "greek": "δὲ", "gloss": "or" },
           { "greek": "αὐτῇ", "gloss": "à_elle" },
           { "greek": "χεῖρα", "gloss": "la_main" },
-          { "greek": "ἀνέστησεν", "gloss": "il_leva" },
+         { "greek": "**ἀνέ**στησεν", "gloss": "il_la_fit_lever/la_releva", "analyse": "Pierre lui donne la main et la fait lever[cite: 2]. Ce verbe d'action transitive révèle la synergie du Salut. L'Église (le Corps mystique) est cette main tendue qui transmet physiquement l'Énergie verticale de l'**Ἀνά**στασις pour ramener les âmes tombées dans le sommeil mortifère du monde à la station debout du Royaume." },
           { "greek": "αὐτήν,", "gloss": "elle" },
           { "greek": "φωνήσας", "gloss": "ayant_appelé" },
           { "greek": "δὲ", "gloss": "or" },
