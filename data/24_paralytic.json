@@ -58,7 +58,7 @@
           { "greek": "ἐν", "gloss": "Dans" },
           { "greek": "ταύταις", "gloss": "ceux-ci" },
           { "greek": "κατέκειτο", "gloss": "était_couchée" },
-          { "greek": "πλῆθος", "gloss": "une_multitude" },
+         { "greek": "πλῆθος", "gloss": "une_foule", "analyse": "Le *plethos*. La masse aveugle et grégaire. Dans la structure du Monde duel, l'homme n'est pas un Sujet : il est un Objet fondu dans un collectif indifférencié, totalement passif et défini par son attente impuissante[cite: 2]. Cette foule qui 'gît' horizontalement s'oppose radicalement à l'Homme unique que le Christ va cibler." },
           { "greek": "τῶν", "gloss": "des" },
           { "greek": "ἀσθενούντων,", "gloss": "malades/infirmes" },
           { "greek": "τυφλῶν,", "gloss": "aveugles" },
@@ -117,7 +117,7 @@
           { "greek": "ἦν", "gloss": "Était" },
           { "greek": "δέ", "gloss": "or" },
           { "greek": "τις", "gloss": "un_certain" },
-          { "greek": "ἄνθρωπος", "gloss": "homme" },
+          { "greek": "ἄνθρωπός", "gloss": "un_homme", "analyse": "L'*anthropos*. Face à la masse informe du verset 3, le Christ isole un individu spécifique pour le sortir de l'anonymat de la masse[cite: 2]. Il le constitue instantanément en Sujet libre en initiant une relation directe avec lui[cite: 2]. La guérison commence par cette extraction spirituelle hors de la matrice collective." },
           { "greek": "ἐκεῖ", "gloss": "là" },
           { "greek": "τριάκοντα", "gloss": "trente" },
           { "greek": "ὀκτὼ", "gloss": "huit" },
@@ -203,12 +203,12 @@
           { "greek": "ὁ", "gloss": "le" },
           { "greek": "Ἰησοῦς·", "gloss": "Jésus" },
           { "greek": "Ἔγειρε", "gloss": "Lève-toi/Éveille-toi", "analyse": "C'est le verbe de la résurrection (*egeiro*). Le Christ ne guérit pas le paralytique en l'aidant à entrer dans le système compétitif de la piscine (Monde duel). Il pulvérise le système. Il l'appelle directement à la restauration ontologique du Royaume UN : se redresser, retrouver la verticalité du Sujet libre." },
-          { "greek": "ἆρον", "gloss": "prends/soulève" },
+          { "greek": "ἆρον", "gloss": "prends/soulève", "analyse": "L'impératif du verbe *airo* (soulever, porter), martelé tout au long de la péricope. Il marque la transformation ontologique absolue : l'homme ne subit plus son grabat, il le porte[cite: 2]. Le lit, qui était l'instrument et le symbole de sa paralysie (ce qui l'empêchait d'être un Sujet), devient l'accessoire de sa mobilité[cite: 2]. C'est l'injonction pascale par excellence : dominer la pesanteur matérielle." },
           { "greek": "τὸν", "gloss": "le" },
           { "greek": "κράβαττόν", "gloss": "grabât/petit_lit", "analyse": "Le lit (krabatos) symbolisait son aliénation, sa dépendance, l'objet qui le portait. En lui ordonnant de le porter, le Christ inverse le rapport de force. L'homme n'est plus l'esclave des conditions de sa chute ; il devient maître de son histoire." },
           { "greek": "σου", "gloss": "de_toi" },
           { "greek": "καὶ", "gloss": "et" },
-          { "greek": "περιπάτει.", "gloss": "marche" }
+          { "greek": "περιπάτει", "gloss": "marche", "analyse": "L'injonction de la mise en mouvement continu. Le verbe souligne la permanence de l'action retrouvée[cite: 2]. L'homme guéri n'est plus défini par la fatalité de ce qu'il subit (la paralysie de l'Ego), mais par ce qu'il devient : un marcheur debout, actif et libre." }
         ]
       },
       {
@@ -230,7 +230,7 @@
           { "greek": "κράβαττον", "gloss": "grabât" },
           { "greek": "αὐτοῦ", "gloss": "de_lui" },
           { "greek": "καὶ", "gloss": "et" },
-          { "greek": "περιεπάτει.", "gloss": "il_marchait" },
+          { "greek": "περιπάτει", "gloss": "marche", "analyse": "L'injonction de la mise en mouvement continu. Le verbe souligne la permanence de l'action retrouvée[cite: 2]. L'homme guéri n'est plus défini par la fatalité de ce qu'il subit (la paralysie de l'Ego), mais par ce qu'il devient : un marcheur debout, actif et libre." }
           { "greek": "Ἦν", "gloss": "C'était" },
           { "greek": "δὲ", "gloss": "or" },
           { "greek": "σάββατον", "gloss": "sabbat" },
@@ -376,7 +376,7 @@
           "darby": "L'homme s'en alla, et annonça aux Juifs que c'était Jésus qui l'avait guéri."
         },
         "interlinear": [
-          { "greek": "ἀπῆλθεν", "gloss": "S'en_alla" },
+          { "greek": "ἀπῆλθεν", "gloss": "il_s'en_alla", "analyse": "Le verbe *aperchomai* (partir, s'éloigner). L'homme, jadis cloué au sol depuis trente-huit ans, est désormais mobile et assume sa liberté[cite: 2]. Son départ n'est pas une fuite, c'est l'acte final de l'éveil du Sujet : il devient capable de rendre compte de son expérience publiquement, quitte à provoquer les autorités[cite: 2]. Il est passé du stade de la plainte ('je n'ai pas') à la position du confesseur ('je marche et je témoigne')." },
           { "greek": "ὁ", "gloss": "l'" },
           { "greek": "ἄνθρωπος", "gloss": "homme" },
           { "greek": "καὶ", "gloss": "et" },
