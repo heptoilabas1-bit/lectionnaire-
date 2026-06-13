@@ -429,13 +429,13 @@
           { "greek": "Ἓν", "gloss": "Un_seul", "analyse": "L'anaphore foudroyante de l'Un (*Hen*). C'est le battement de cœur du système métaphysique chrétien. Toute illusion de séparation doit s'effondrer devant la réalité du Un." },
           { "greek": "σῶμα", "gloss": "corps" },
           { "greek": "καὶ", "gloss": "et" },
-          { "greek": "ἓν", "gloss": "un_seul" },
+          { "greek": "**ἓν**", "gloss": "un_seul", "analyse": "Le pronom neutre *Hen*. Saint Paul dresse ici une véritable 'litanie de l'Un' qui structure la réalité spirituelle (Un seul Corps, Un seul Esprit, Un seul Baptême)[cite: 3]. Le but suprême de l'ascèse chrétienne est de passer du 'deux' (la division, la dualité du monde déchu) au 'un' (l'unité en Christ)[cite: 3]. Ce 'Un' guérit la fracture de l'humanité, là où le prêtre et le lévite de l'Évangile avaient choisi la rupture en passant 'à l'opposé'." },
           { "greek": "πνεῦμα,", "gloss": "Esprit" },
           { "greek": "καθὼς", "gloss": "comme" },
           { "greek": "καὶ", "gloss": "aussi" },
           { "greek": "ἐκλήθητε", "gloss": "vous_avez_été_appelés" },
-          { "greek": "ἐν", "gloss": "dans" },
-          { "greek": "μιᾷ", "gloss": "une_seule" },
+          { "greek": "**ἓν**", "gloss": "un_seul", "analyse": "Le pronom neutre *Hen*. Saint Paul dresse ici une véritable 'litanie de l'Un' qui structure la réalité spirituelle (Un seul Corps, Un seul Esprit, Un seul Baptême)[cite: 3]. Le but suprême de l'ascèse chrétienne est de passer du 'deux' (la division, la dualité du monde déchu) au 'un' (l'unité en Christ)[cite: 3]. Ce 'Un' guérit la fracture de l'humanité, là où le prêtre et le lévite de l'Évangile avaient choisi la rupture en passant 'à l'opposé'." },
+          { "greek": "**μία**", "gloss": "une_seule", "analyse": "Le pronom féminin *Mia*. Cette unité de la foi s'oppose frontalement au mauvais *Diá* (l'esprit de division, le dia-bolos) et aux *dialogismoi* (les pensées calculantes) du légiste dans l'Évangile[cite: 3]. La foi n'est pas une simple adhésion à un dogme qui exclurait les autres ; c'est l'unique fréquence de la Grâce sur laquelle l'âme 'entière' (*holos*) doit se caler pour cesser de diviser le monde en deux (les purs et les impurs, le prochain et l'étranger)." },
           { "greek": "ἐλπίδι", "gloss": "espérance" },
           { "greek": "τῆς", "gloss": "de_l'" },
           { "greek": "κλήσεως", "gloss": "appel" },
@@ -451,9 +451,9 @@
         "interlinear": [
           { "greek": "εἷς", "gloss": "Un_seul", "analyse": "L'injonction mathématique de l'Incréé continue (4ème occurrence du Un). Devant la fragmentation infinie du Monde duel (la Légion), Paul oppose l'Unité implacable de la Vérité." },
           { "greek": "κύριος,", "gloss": "Seigneur" },
-          { "greek": "μία", "gloss": "une_seule" },
+          { "greek": "**μία**", "gloss": "une_seule", "analyse": "Le pronom féminin *Mia*. Cette unité de la foi s'oppose frontalement au mauvais *Diá* (l'esprit de division, le dia-bolos) et aux *dialogismoi* (les pensées calculantes) du légiste dans l'Évangile[cite: 3]. La foi n'est pas une simple adhésion à un dogme qui exclurait les autres ; c'est l'unique fréquence de la Grâce sur laquelle l'âme 'entière' (*holos*) doit se caler pour cesser de diviser le monde en deux (les purs et les impurs, le prochain et l'étranger)." },
           { "greek": "πίστις,", "gloss": "foi", "analyse": "La *pistis* (l'adhésion, l'alignement). Puisqu'il n'y a qu'un seul Axe vertical (*Kyrios*), il ne peut y avoir qu'une seule modalité d'alignement. La foi n'est pas un catalogue de croyances diverses, c'est l'unique canal de réceptivité du Sujet." },
-          { "greek": "ἓν", "gloss": "un_seul" },
+         { "greek": "**ἓν**", "gloss": "un_seul", "analyse": "Le pronom neutre *Hen*. Saint Paul dresse ici une véritable 'litanie de l'Un' qui structure la réalité spirituelle (Un seul Corps, Un seul Esprit, Un seul Baptême)[cite: 3]. Le but suprême de l'ascèse chrétienne est de passer du 'deux' (la division, la dualité du monde déchu) au 'un' (l'unité en Christ)[cite: 3]. Ce 'Un' guérit la fracture de l'humanité, là où le prêtre et le lévite de l'Évangile avaient choisi la rupture en passant 'à l'opposé'." },
           { "greek": "βάπτισμα,", "gloss": "baptême", "analyse": "Du verbe *baptizo* (plonger, immerger). Topographie de la kénose absolue. Il n'y a qu'une seule façon de naître à l'Incréé : la noyade de l'Ego, l'immersion totale qui engloutit l'identité de surface pour libérer le Sujet profond." }
         ]
       },
